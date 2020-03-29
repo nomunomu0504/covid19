@@ -38,13 +38,23 @@
         <div
           v-if="this.$i18n.locales.length > 1"
           class="SideNavigation-Language"
-        >
-        </div>
+        />
       </nav>
 
       <footer class="SideNavigation-Footer">
-        {{ $t('※このサイトは福井高専の学生が開設したものです') }}<br/>
+        {{ $t('※このサイトは福井高専の学生が開設したものです') }}<br />
         <div class="SideNavigation-Social">
+          <a
+            href="https://line.me/R/ti/p/%40281kfpfz"
+            target="_blank"
+            rel="noopener noreferrer"
+            class="SideNavigation-SocialLink"
+          >
+            <picture>
+              <source srcset="/line.webp" type="image/webp" />
+              <img src="/line.png" alt="LINE" />
+            </picture>
+          </a>
           <a
             href="https://twitter.com/nomunomu0504"
             target="_blank"
@@ -79,7 +89,6 @@
             </picture>
           </a>
         </div>
-        
       </footer>
     </div>
   </div>
@@ -137,7 +146,8 @@ export default Vue.extend({
         {
           icon: 'mdi-account-multiple',
           title: this.$t('福井県民の皆様へ'),
-          link: 'https://www.pref.fukui.lg.jp/doc/kenkou/kansensyo-yobousessyu/corona.html#'
+          link:
+            'https://www.pref.fukui.lg.jp/doc/kenkou/kansensyo-yobousessyu/corona.html#'
         },
         {
           icon: 'ParentIcon',
@@ -147,21 +157,28 @@ export default Vue.extend({
         {
           icon: 'mdi-domain',
           title: this.$t('企業・はたらく皆様へ'),
-          link: 'https://www.pref.fukui.lg.jp/doc/kenkou/kansensyo-yobousessyu/corona.html#kigyou',
+          link:
+            'https://www.pref.fukui.lg.jp/doc/kenkou/kansensyo-yobousessyu/corona.html#kigyou'
         },
         {
           icon: 'mdi-domain',
           title: this.$t('医療機関の皆様へ'),
-          link: 'https://www.pref.fukui.lg.jp/doc/kenkou/kansensyo-yobousessyu/corona.html#iryou',
+          link:
+            'https://www.pref.fukui.lg.jp/doc/kenkou/kansensyo-yobousessyu/corona.html#iryou',
           divider: true
         },
         {
-          title: this.$t('新型コロナウイルス感染拡大防止に係る施設利用について'),
-          link: 'https://www.pref.fukui.lg.jp/doc/013710/sports-shisetsu-covid19/sports-shisetsu-covid19.html',
+          title: this.$t(
+            '新型コロナウイルス感染拡大防止に係る施設利用について'
+          ),
+          link:
+            'https://www.pref.fukui.lg.jp/doc/013710/sports-shisetsu-covid19/sports-shisetsu-covid19.html'
         },
         {
-          title: this.$t('新型コロナウイルス感染拡大防止に伴うイベントの中止・延期について'),
-          link: 'https://www.city.fukui.lg.jp/fukusi/iryou/kensen/p021724.html',
+          title: this.$t(
+            '新型コロナウイルス感染拡大防止に伴うイベントの中止・延期について'
+          ),
+          link: 'https://www.city.fukui.lg.jp/fukusi/iryou/kensen/p021724.html'
         },
         {
           title: this.$t('新型コロナウイルスにおける各種相談窓口はこちら'),
