@@ -1,0 +1,37 @@
+name: 福井県のデータをGitHubへPush
+
+on:
+  repository_dispatch:
+  push:
+
+jobs:
+  build:
+    runs-on: ubuntu-18.04
+    steps:
+      - name: Gitを設定
+        run: |
+          git config --global user.name github-actions
+          git config --global user.email actions@github.com
+
+      - name: リポジトリをチェックアウト
+        uses: actions/checkout@v2
+
+      - name: Dockerイメージをビルド
+        run: docker-compose build fetch_fukui_data
+
+      - name: data/*.jsonを作成
+        run: docker-compose run fetch_fukui_data
+
+      - name: ブランチを作成
+        env:
+          TZ: JST-9
+        run: git checkout -b update_fukui_data/$(date "+%Y%m%d_%Hh%Mm%Ss")
+
+      - name: コミット
+        run: |
+          git add .
+          git commit -m "[Auto] 福井県のデータを更新"
+
+      - name: プッシュ
+        # if: github.event_name == 'repository_dispatch'
+        run: git push -u origin $(git symbolic-ref --short HEAD)
