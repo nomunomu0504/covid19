@@ -1,0 +1,15 @@
+{
+  "name": "covid19_fukui_data_getters",
+  "version": "0.0.1",
+  "main": "json_getter.js",
+  "private": true,
+  "scripts": {
+    "fetch": "node json_getter.js"
+  },
+  "dependencies": {
+    "axios": "^0.19.2",
+    "cheerio": "^1.0.0-rc.3",
+    "iconv-lite": "^0.5.1",
+    "node-fetch": "^2.6.0"
+  }
+}
