@@ -23,15 +23,30 @@ jobs:
         run: docker-compose run fetch_fukui_data
 
       - name: ブランチを作成
+        id: branch
         env:
           TZ: JST-9
-        run: git checkout -b update_fukui_data/$(date "+%Y%m%d_%Hh%Mm%Ss")
+        run: |
+          BRANCH_NAME="update_fukui_data/$(date "+%Y%m%d_%Hh%Mm%Ss")"
+          git checkout -b $BRANCH_NAME
+          echo "##[set-output name=name]$BRANCH_NAME"
 
       - name: コミット
         run: |
           git add .
-          git commit -m "[Auto] 福井県のデータを更新"
+          git commit -m "[Auto] データを更新"
 
       - name: プッシュ
-        # if: github.event_name == 'repository_dispatch'
-        run: git push -u origin $(git symbolic-ref --short HEAD)
+        run: git push -u origin ${{ steps.branch.outputs.name }}
+
+      - name: Pull request を作成
+        uses: actions/github-script@0.9.0
+        with:
+          script: |
+            github.pulls.create({
+              owner: context.payload.repository.owner.login,
+              repo: context.payload.repository.name,
+              title: '[Auto]データ更新 ${{ steps.branch.outputs.name }}',
+              head: '${{ steps.branch.outputs.name }}',
+              base: context.payload.repository.default_branch,
+            })
