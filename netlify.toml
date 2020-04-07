@@ -14,4 +14,4 @@
   command = "if [ $(ls -1 data/*.json 2>/dev/null | wc -l) == 0 ]; then pushd covid19_fukui && yarn fetch && popd; fi && yarn generate:dev"
 
 [context.deploy-preview]
-  command = "if [ $(ls -1 data/*.json 2>/dev/null | wc -l) == 0 ]; then pushd covid19_fukui && yarn fetch && popd; fi && yarn generate:deploy"
+  command = "if [ $(ls -1 data/*.json 2>/dev/null | wc -l) == 0 ]; then pushd covid19_fukui && yarn fetch && popd; fi && yarn generate:dev"
