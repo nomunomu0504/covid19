@@ -1,20 +1,20 @@
 {
     "items": [
         {
+            "date": "2020/04/08",
+            "text": "福井県内で66例目~72例目となる新型コロナウイルス感染者が確認されました。詳細は<a targer=\"_black\" href=\"https://www.pref.fukui.lg.jp/doc/kenkou/kansensyo-yobousessyu/corona_d/fil/200408.pdf\">こちら</a>からご確認いただけます"
+        },
+        {
             "date": "2020/04/07",
-            "text": "福井県内で60例目~65例目となる新型コロナウイルス感染者が確認されました。詳細は<a targer=\"_black\" href=\"https://www.pref.fukui.lg.jp/doc/kenkou/kansensyo-yobousessyu/corona_d/fil/200407.pdf\">こちら</a>からご確認いただけ60"
+            "text": "県知事から「緊急事態宣言の発令にあたって」が掲載されました。詳細は<a targer=\"_black\" href=\"https://www.pref.fukui.lg.jp/doc/kenkou/kansensyo-yobousessyu/corona_d/fil/200407-2.pdf\">こちら</a>からご確認いただけます"
+        },
+        {
+            "date": "2020/04/07",
+            "text": "福井県内で60例目~65例目となる新型コロナウイルス感染者が確認されました。詳細は<a targer=\"_black\" href=\"https://www.pref.fukui.lg.jp/doc/kenkou/kansensyo-yobousessyu/corona_d/fil/200407.pdf\">こちら</a>からご確認いただけます"
         },
         {
             "date": "2020/04/06",
             "text": "福井県内で54例目~59例目となる新型コロナウイルス感染者が確認されました。詳細は<a targer=\"_black\" href=\"https://www.pref.fukui.lg.jp/doc/kenkou/kansensyo-yobousessyu/corona_d/fil/200406-2.pdf\">こちら</a>からご確認いただけます"
-        },
-        {
-            "date": "2020/04/05",
-            "text": "福井県内で47例目~53例目となる新型コロナウイルス感染者が確認されました。詳細は<a targer=\"_black\" href=\"https://www.pref.fukui.lg.jp/doc/kenkou/kansensyo-yobousessyu/corona_d/fil/200405-1.pdf\">こちら</a>からご確認いただけます"
-        },
-        {
-            "date": "2020/04/04",
-            "text": "福井県内で43例目~46例目となる新型コロナウイルス感染者が確認されました。詳細は<a targer=\"_black\" href=\"https://www.pref.fukui.lg.jp/doc/kenkou/kansensyo-yobousessyu/corona_d/fil/200404.pdf\">こちら</a>からご確認いただけます"
         }
     ]
 }
