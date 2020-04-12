@@ -1,15 +1,13 @@
 <template>
   <v-col cols="12" md="6" class="DataCard">
-    <time-stacked-bar-chart
+    <time-bar-chart
       :title="$t('検査実施人数')"
       :title-id="'number-of-inspection-persons'"
       :chart-id="'number-of-inspection-persons'"
-      :chart-data="inspectionsGraph"
-      :date="InspectionPersons.date"
+      :chart-data="inspectionPersonsGraph"
+      :date="inspectionPersonsDate"
       :unit="$t('人')"
-      :items="inspectionsItems"
-      :labels="inspectionsLabels"
-      :data-labels="inspectionsItems"
+      :url="'https://www.pref.fukui.lg.jp/doc/toukei-jouhou/covid-19.html'"
     >
       <template v-slot:description>
         <ul>
@@ -18,32 +16,26 @@
           </li>
         </ul>
       </template>
-    </time-stacked-bar-chart>
+    </time-bar-chart>
   </v-col>
 </template>
 
 <script>
-import TimeStackedBarChart from '@/components/TimeStackedBarChart.vue'
 import InspectionPersons from '@/data/inspection_persons.json'
+import formatGraph from '@/utils/formatGraph'
+import TimeBarChart from '@/components/TimeBarChart.vue'
 
 export default {
   components: {
-    TimeStackedBarChart
+    TimeBarChart
   },
   data() {
-    // 検査実施週別状況
-    const inspectionsGraph = [
-      InspectionPersons.data['県内']
-    ]
-    const inspectionsItems = [
-      this.$t('県内')
-    ]
-    const inspectionsLabels = InspectionPersons.labels
+    // 検査実施人数グラフ
+    const inspectionPersonsGraph = formatGraph(InspectionPersons.data)
+    const inspectionPersonsDate = InspectionPersons.date
     const data = {
-      InspectionPersons,
-      inspectionsGraph,
-      inspectionsItems,
-      inspectionsLabels
+      inspectionPersonsDate,
+      inspectionPersonsGraph
     }
     return data
   }

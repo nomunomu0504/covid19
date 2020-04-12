@@ -12,6 +12,8 @@
     "csvtojson": "^2.0.10",
     "iconv-lite": "^0.5.1",
     "linq": "^3.2.2",
-    "node-fetch": "^2.6.0"
+    "moment-timezone": "^0.5.28",
+    "node-fetch": "^2.6.0",
+    "xml2js": "^0.4.23"
   }
 }

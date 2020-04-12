@@ -1,6 +1,26 @@
 {
     "newsItems": [
         {
+            "date": "2020/04/09",
+            "url": "https://www.pref.fukui.lg.jp/doc/kenkou/kansensyo-yobousessyu/corona_d/fil/200409.pdf",
+            "text": "福井県内で73例目~77例目となる新型コロナウイルス感染者が確認されました。"
+        },
+        {
+            "date": "2020/04/08",
+            "url": "https://www.pref.fukui.lg.jp/doc/kenkou/kansensyo-yobousessyu/corona_d/fil/200408.pdf",
+            "text": "福井県内で66例目~72例目となる新型コロナウイルス感染者が確認されました。"
+        },
+        {
+            "date": "2020/04/07",
+            "url": "https://www.pref.fukui.lg.jp/doc/kenkou/kansensyo-yobousessyu/corona_d/fil/200407-2.pdf",
+            "text": "県知事から「緊急事態宣言の発令にあたって」が掲載されました。"
+        },
+        {
+            "date": "2020/04/07",
+            "url": "https://www.pref.fukui.lg.jp/doc/kenkou/kansensyo-yobousessyu/corona_d/fil/200407.pdf",
+            "text": "福井県内で60例目~65例目となる新型コロナウイルス感染者が確認されました。"
+        },
+        {
             "date": "2020/04/06",
             "url": "https://www.pref.fukui.lg.jp/doc/kenkou/kansensyo-yobousessyu/corona_d/fil/200406-2.pdf",
             "text": "福井県内で54例目~59例目となる新型コロナウイルス感染者が確認されました。"

@@ -1,0 +1,5 @@
+labels:
+  - auto_merge
+
+merge_type: merge # マージモード (optional): merge, squash, rebase デフォルト: merge
+delete_branch: '' # マージ後にブランチを削除するかどうか (optional): delete または 空欄

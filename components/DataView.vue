@@ -197,7 +197,7 @@ export default Vue.extend({
     },
     graphEmbedValue(): string {
       const graphEmbedValue =
-        '<iframe width="560" height="315" src="' +
+        '<iframe style="width: 100%; height="600px;" src="' +
         this.permalink(true, true) +
         '" frameborder="0"></iframe>'
       return graphEmbedValue
@@ -257,8 +257,8 @@ export default Vue.extend({
         'https://twitter.com/intent/tweet?text=' +
         this.title +
         ' / ' +
-        this.$t('福井県') +
-        this.$t('新型コロナウイルス感染症') +
+        this.$t('福井県公認') + ' ' +
+        this.$t('新型コロナウイルス感染症') + ' ' +
         this.$t('対策サイト') +
         '&url=' +
         this.permalink(true) +

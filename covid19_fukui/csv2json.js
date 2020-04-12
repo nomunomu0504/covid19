@@ -10,6 +10,7 @@ const axios = require('axios')
 const csv2json = require('csvtojson')
 const Enumerable = require('linq')
 const iconv = require('iconv-lite')
+const cheerio = require('cheerio')
 
 /**
  * Shift-JISフラグ
@@ -20,7 +21,10 @@ const ISSHIFTJIS = false
 /**
  * 病床数
  */
-const HospitalBedNum = 84
+if (isNaN(parseInt(process.env.HOSPITAL_BEDS))) {
+  throw new RangeError('env HOSPITAL_BEDS is NaN')
+}
+const HospitalBedNum = process.env.HOSPITAL_BEDS
 
 /**
  * オープンデータ取得先
@@ -55,6 +59,11 @@ const newsURL =
   'https://script.googleusercontent.com/macros/echo?user_content_key=PYdskn-DTyGWV-opQBIPMai2hf_fFAN4QEmRbzTslY_Wk87YfJO9j9H3ity-FUaFPy1pksmbx2n_xtdxmYsKNAQ8OsCGB2Tbm5_BxDlH2jW0nuo2oDemN9CCS2h10ox_1xSncGQajx_ryfhECjZEnIEfRmCr39HTGQrTUSiWR0O7CYjXcSKXdkQgDZghk6tW42sA2IpyDGOwsQ9LRFT_DlHTmz_2mixm&lib=MA39SnUYxoNd8lbNHqVdiBtdTRtZCTy75'
 
 /**
+ * 福井新聞RSS取得先
+ */
+const fukuiShimbunURL = 'https://www.fukuishimbun.co.jp/list/feed/rss'
+
+/**
  * jsonファイルの階層
  */
 const dir = '../data/'
@@ -66,6 +75,7 @@ const files = {
   breakingNews: 'breaking_news.json', // 速報
   fukuiNews: 'fukui_news.json', // 県内のお知らせ
   japanNews: 'japan_news.json', // 国内のお知らせ
+  fukuiShimbun: 'fukuishimbun.json', // 福井新聞のニュース
   contacts: 'contacts.json', // コールセンター相談件数
   hospitalBeds: 'hospital_beds.json', // 感染症病床使用率
   inspectionPersons: 'inspection_persons.json', // 検査実施人数
@@ -176,12 +186,15 @@ function hospitalBeds(json, jsonObject) {
 }
 
 function inspectionPersons(json, jsonObject) {
-  jsonObject.data = { 県内: [] }
-  jsonObject.labels = []
+  jsonObject.data = []
   Enumerable.from(json).forEach(row => {
-    const date = new Date(row['実施_年月日'])
-    jsonObject.data.県内.push(parseInt(row['検査実施_件数']))
-    jsonObject.labels.push(`${date.getMonth() + 1}/${date.getDate()}`)
+    const date = new Date(`${row['実施_年月日']}T00:00:00+09:00`)
+    const testCount = parseInt(row['検査実施_件数'])
+    const dataItem = {
+      '日付': date.toISOString(),
+      '小計': testCount
+    }
+    jsonObject.data.push(dataItem)
   })
 }
 
@@ -324,3 +337,66 @@ const dateFormat = {
 }
 
 main()
+
+const main2 = () => {
+
+  const isCovidArticle = async (article) => {
+    try {
+      const res = await axios.get(article.link)
+      const $ = cheerio.load(res.data)
+      const context = $('div.article-body > p').text()
+      return context.includes('コロナ') || context.includes('感染')
+    } catch(e) {
+      console.error(e)
+    }
+    return false
+  }
+
+  const getFukuiShimbun = () => {
+    const moment = require('moment-timezone')
+    const xml2js = require('xml2js')
+    moment.tz.setDefault('Asia/Tokyo')
+
+    return new Promise(async (resolve, reject) => {
+      try {
+        const res = await axios.get(fukuiShimbunURL)
+        const xml = res.data
+        const json = {
+          timestamp: moment().unix(),
+          info: null
+        }
+        xml2js.parseString(xml, (_, xmlres) => {
+          json.info = xmlres.rss.channel[0].item.map(i => {
+            return {
+              title: i.title[0],
+              link: i.link[0],
+              published_at: moment(i.pubDate[0]).format('YYYY/MM/DD HH:mm')
+            }
+          })
+        })
+        resolve(json)
+      } catch (error) {
+        reject(error)
+      }
+    })
+  }
+
+  async function asyncFilter(array, asyncCallback) {
+    const bits = await Promise.all(array.map(asyncCallback));
+    return array.filter((_, i) => bits[i]);
+  }
+
+  const storeFukuiShimbun = async () => {
+    try {
+      const json = await getFukuiShimbun()
+      json.info = await asyncFilter(json.info, el => isCovidArticle(el))
+      writeFile(json, files.fukuiShimbun)
+    } catch (error) {
+      console.error(error)
+    }
+  }
+
+  storeFukuiShimbun()
+}
+
+main2()

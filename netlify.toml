@@ -1,4 +1,11 @@
 [[redirects]]
+  from = "/api/v1/rss/fukuishimbun"
+  to = "https://covid19-273411.appspot.com/api/v1/rss/fukuishimbun"
+  status = 200
+  force = true
+  headers = {X-From = "Netlify"}
+
+[[redirects]]
   from = "/*"
   to = "/404.html"
   status = 404

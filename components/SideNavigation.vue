@@ -16,8 +16,8 @@
             :alt="$t('福井県')"
           />
           <div class="SideNavigation-HeaderText">
-            {{ $t('新型コロナウイルス感染症') }}<br />{{
-              $t('福井県版 対策サイト')
+            {{ $t('福井県公認 新型コロナウイルス') }}<br />{{
+              $t('対策サイト')
             }}
           </div>
         </nuxt-link>
@@ -47,10 +47,10 @@
       </nav>
 
       <footer class="SideNavigation-Footer">
-        {{ $t('※このサイトは福井高専卒のエンジニアが開設したものです') }}<br />
+        {{ $t('※このサイトは福井高専卒のエンジニアが開設したものです') }}<br /><br />
         <div class="SideNavigation-Social">
           <a
-            href="https://twitter.com/fukui_kohou"
+            href="https://twitter.com/covid19_fukui"
             target="_blank"
             rel="noopener"
             class="SideNavigation-SocialLink"
@@ -60,8 +60,8 @@
               <img src="/twitter.png" alt="Twitter" />
             </picture>
           </a>
-          <!-- <a
-            href="https://www.facebook.com/hiroki.nomura.504"
+          <a
+            href="https://www.facebook.com/StopCovid19Fukui/"
             target="_blank"
             rel="noopener"
             class="SideNavigation-SocialLink"
@@ -70,7 +70,7 @@
               <source srcset="/facebook.webp" type="image/webp" />
               <img src="/facebook.png" alt="Facebook" />
             </picture>
-          </a> -->
+          </a>
           <a
             href="https://github.com/nomunomu0504/covid19"
             target="_blank"
@@ -143,6 +143,11 @@ export default Vue.extend({
           title: this.$t('新型コロナウイルス感染症が心配な方はこちら'),
           link: this.localePath('/flow'),
           divider: true
+        },
+        {
+          icon: 'mdi-information',
+          title: this.$t('福井新聞社の速報（RSS）'),
+          link: this.localePath('/rss-news')
         },
         {
           icon: 'mdi-information',

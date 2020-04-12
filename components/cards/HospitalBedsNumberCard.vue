@@ -9,15 +9,8 @@
       :labels="HospitalBeds.labels"
       :unit="$t('％')"
       :info="'病床使用率'"
-    >
-      <template v-slot:description>
-        <ul>
-          <li>
-            {{ $t('（注）同一の対象者について複数の検体を調査する場合あり') }}
-          </li>
-        </ul>
-      </template>
-    </circle-chart>
+      :description="'ここは未使用'"
+    />
   </v-col>
 </template>
 

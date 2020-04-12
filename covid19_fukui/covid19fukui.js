@@ -452,11 +452,62 @@ const getYoutubeVideolist = async function(apiKey, userName) {
     })
 }
 
+const getFukuiShimbun = () => {
+  const axios = require('axios')
+  const moment = require('moment-timezone')
+  const xml2js = require('xml2js')
+  moment.tz.setDefault("Asia/Tokyo");
+
+  return new Promise(async (resolve, reject) => {
+    try {
+      const res = await axios.get('https://www.fukuishimbun.co.jp/list/feed/rss')
+      const xml = res.data
+      const json = {
+        timestamp: moment().unix(),
+        info: null
+      }
+      xml2js.parseString(xml, (_, xmlres) => {
+        json.info = xmlres.rss.channel[0].item
+        .map((i) => {
+            return {
+              title: i.title[0],
+              link: i.link[0],
+              published_at: moment(i.pubDate[0]).format('YYYY/MM/DD HH:mm')
+            }
+          })
+      })
+      resolve(json)
+    } catch (error) {
+      reject(error)
+    }
+  })
+}
+
+const storeFukuiShimbun = async () => {
+  try {
+    const info = await getFukuiShimbun()
+    const fs = require('fs')
+    fs.writeFile(
+      'fukuishimbun.json',
+      JSON.stringify(info, null, '    '),
+      function(err) {
+        if (err) {
+          console.log(err)
+        }
+    }
+  )
+  } catch (error) {
+    console.log(error)
+  }
+}
+
+
 const main = async function() {
   // const data = await getCovid19DataJSON(1000 * 60)
   const temp = await getCovid19InspectionDataJSON(0)
   const inspectionData = await getCovid19DataJSON(0)
   console.log(inspectionData)
+  await storeFukuiShimbun()
 }
 
 if (require.main === module) {

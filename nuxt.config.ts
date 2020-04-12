@@ -13,7 +13,7 @@ const config: Configuration = {
     htmlAttrs: {
       prefix: 'og: http://ogp.me/ns#'
     },
-    titleTemplate: '%s | 福井県 新型コロナウイルス感染症対策サイト',
+    titleTemplate: '%s | 福井県公認 新型コロナウイルス感染症対策サイト',
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
@@ -121,7 +121,8 @@ const config: Configuration = {
     ['vue-scrollto/nuxt', { duration: 1000, offset: -72 }],
     '@nuxtjs/sitemap',
     '@nuxtjs/proxy',
-    ['@nuxtjs/moment', ['ja']]
+    ['@nuxtjs/moment', ['ja']],
+    '@nuxtjs/axios'
   ],
   /*
    ** vuetify module configuration
@@ -157,7 +158,7 @@ const config: Configuration = {
     // hardSource: process.env.NODE_ENV === 'development'
   },
   manifest: {
-    name: '福井県 新型コロナウイルス感染症対策サイト',
+    name: '福井県公認 新型コロナウイルス感染症対策サイト',
     theme_color: '#00a040',
     background_color: '#ffffff',
     display: 'standalone',
@@ -171,18 +172,11 @@ const config: Configuration = {
       const locales = ['ja']
       const pages = [
         '/cards/details-of-confirmed-cases',
-        // '/cards/details-of-tested-cases',
-        '/cards/number-of-confirmed-cases',
-        '/cards/attributes-of-confirmed-cases',
-        // '/cards/number-of-tested',
+        '/cards/hospital-beds-number-card',
         '/cards/number-of-inspection-persons',
-        '/cards/hospital-beds-number-card'
-        // '/cards/number-of-reports-to-covid19-telephone-advisory-center',
-        // '/cards/number-of-reports-to-covid19-consultation-desk',
-        // '/cards/predicted-number-of-toei-subway-passengers',
-        // '/cards/agency',
-        // '/cards/shinjuku-visitors',
-        // '/cards/chiyoda-visitors'
+        '/cards/pcr-inspection-reports-number-card',
+        '/cards/attributes-of-confirmed-cases',
+        '/cards/number-of-inspection-persons'
       ]
 
       const routes: string[] = []
@@ -210,9 +204,16 @@ const config: Configuration = {
   sitemap: {
     path: '/sitemap.xml',
     hostname: 'https://covid19-fukui.com/',
-    // generate: true,
+    generate: true,
     exclude: ['/contacts', '/parent', '/worker'],
-    routes: []
+    routes: [
+      '/cards/details-of-confirmed-cases',
+      '/cards/hospital-beds-number-card',
+      '/cards/number-of-confirmed-cases',
+      '/cards/pcr-inspection-reports-number-card',
+      '/cards/attributes-of-confirmed-cases',
+      '/cards/number-of-inspection-persons',
+    ]
   },
   proxy: {
     '/pref': {
@@ -221,10 +222,10 @@ const config: Configuration = {
         '^/pref': '/'
       }
     },
-    '/fukuishimbun': {
-      target: 'https://www.fukuishimbun.co.jp',
+    '/api': {
+      target: 'https://covid19-273411.appspot.com',
       pathRewrite: {
-        '^/fukuishimbun': '/'
+        '^/api': '/api'
       }
     }
   }
