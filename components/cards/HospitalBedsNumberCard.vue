@@ -8,7 +8,7 @@
       :date="HospitalBeds.date"
       :labels="HospitalBeds.labels"
       :unit="$t('％')"
-      :info="'病床使用率'"
+      :info="$t('病床使用率')"
       :description="'ここは未使用'"
     />
   </v-col>
@@ -34,4 +34,3 @@ export default {
   }
 }
 </script>
- 
