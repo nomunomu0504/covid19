@@ -36,9 +36,9 @@ const openDataSource = [
       'https://www.pref.fukui.lg.jp/doc/toukei-jouhou/covid-19_d/fil/covid19_call_center.csv'
   },
   {
-    name: 'confirm_negative',
+    name: 'discharge',
     url:
-      'https://www.pref.fukui.lg.jp/doc/toukei-jouhou/covid-19_d/fil/covid19_confirm_negative.csv'
+      'https://www.pref.fukui.lg.jp/doc/toukei-jouhou/covid-19_d/fil/covid19_discharge.csv'
   },
   {
     name: 'patients',
@@ -144,6 +144,12 @@ const main = async () => {
   writeFile(patientsSummaryJson, files.patientsSummary)
 }
 
+/**
+ * オープンデータのCSVを取得します
+ * `ISSHIFTJIS`が`true`ならばShift-JISをUTF-8に変換します
+ * @param {String} URL 取得先URL
+ * @returns 取得したデータ
+ */
 async function getCSV(URL) {
   if (ISSHIFTJIS) {
     const data = (await axios.get(URL, { responseType: 'arraybuffer' })).data
@@ -153,13 +159,48 @@ async function getCSV(URL) {
   return data
 }
 
+/**
+ * JSONオブジェクトを書き出します
+ * `dir`ディレクトリ以下に引数のファイル名で出力します
+ * @param {Object} json 書き出すJSONオブジェクト
+ * @param {String} fileName 書き出すファイル名
+ */
 function writeFile(json, fileName) {
   const filePath = path.join(dir, fileName)
-  fs.writeFile(filePath, JSON.stringify(json, null, '    '), err => {
-    if (err) console.error(err)
+  fs.readFile(filePath, 'UTF-8', (err, data) => {
+    if (err) throw err
+    const oldJSON = JSON.parse(data)
+    if (isUpdateJSON(oldJSON, json)) {
+      fs.writeFile(filePath, JSON.stringify(json, null, '    '), err => {
+        if (err) throw err
+      })
+    }
   })
 }
 
+/**
+ * 2つのJSONオブジェクトに差があるか調べます
+ * `date`要素を除いた上で実行します
+ * @param {Object} oldJSON 変更元のJSONオブジェクト
+ * @param {Object} newJSON 変更先のJSONオブジェクト
+ * @returns 差があるか
+ */
+function isUpdateJSON(oldJSON, newJSON) {
+  // newJSONはシャローコピーなのでディープコピーを作成
+  const newJSONClone = JSON.parse(JSON.stringify(newJSON))
+  // 各jsonからdateを除去
+  delete oldJSON.date
+  delete newJSONClone.date
+  const oldJSONStr = JSON.stringify(oldJSON)
+  const newJSONCloneStr = JSON.stringify(newJSONClone)
+  return oldJSONStr !== newJSONCloneStr
+}
+
+/**
+ * コールセンターの相談件数をJSONにします
+ * @param {Object} json 元の情報があるJSONオブジェクト
+ * @param {Object} jsonObject 書き出すJSONオブジェクト
+ */
 function contacts(json, jsonObject) {
   jsonObject.data = Enumerable.from(json)
     .select(x => {
@@ -173,6 +214,12 @@ function contacts(json, jsonObject) {
     .toArray()
 }
 
+/**
+ * 病床数をJSONにします
+ * 全体のベッド数は環境変数`HOSPITAL_BEDS`から取得します
+ * @param {Object} json 元の情報があるJSONオブジェクト
+ * @param {Object} jsonObject 書き出すJSONオブジェクト
+ */
 function hospitalBeds(json, jsonObject) {
   const patient = Enumerable.from(json)
   const hospitalized = x =>
@@ -185,31 +232,37 @@ function hospitalBeds(json, jsonObject) {
   jsonObject.labels = ['現在患者数', '空き病床数(推定)']
 }
 
+/**
+ * 日毎の検査実施件数をJSONにします
+ * @param {Object} json 元の情報があるJSONオブジェクト
+ * @param {Object} jsonObject 書き出すJSONオブジェクト
+ */
 function inspectionPersons(json, jsonObject) {
   jsonObject.data = []
   Enumerable.from(json).forEach(row => {
-    const date = new Date(`${row['実施_年月日']}T00:00:00+09:00`)
+    const date = new Date(`${row['実施_年月日']}`)
+    const formattedDate = dateFormat.format(date, 'yyyy-MM-dd')
     const testCount = parseInt(row['検査実施_件数'])
     const dataItem = {
-      '日付': date.toISOString(),
-      '小計': testCount
+      日付: `${formattedDate}T00:00:00.000+09:00`,
+      小計: testCount
     }
     jsonObject.data.push(dataItem)
   })
 }
 
+/**
+ * 陽性患者の属性をJSONにします
+ * @param {Object} json 元の情報があるJSONオブジェクト
+ * @param {Object} jsonObject 書き出すJSONオブジェクト
+ */
 function inspectionSummary(json, jsonObject) {
   const patient = Enumerable.from(json)
   const hospitalized = x =>
-    x.患者_状態 !== '死亡' && parseInt(x.患者_退院済フラグ) === 0
+    x.患者_状態 !== '死亡' && parseInt(x.患者_退院済フラグ) !== 1
   const mildOrModerate = x =>
-    (x.患者_状態 === '軽症' ||
-      x.患者_状態 === '中等症' ||
-      x.患者_状態 === '') &&
-    parseInt(x.患者_退院済フラグ) === 0
-  const severeOrSerious = x =>
-    (x.患者_状態 === '重症' || x.患者_状態 === '重篤') &&
-    parseInt(x.患者_退院済フラグ) === 0
+    x.患者_状態 === '軽症' || x.患者_状態 === '中等症' || x.患者_状態 === ''
+  const severeOrSerious = x => x.患者_状態 === '重症' || x.患者_状態 === '重篤'
   const dead = x => x.患者_状態 === '死亡'
   const discharge = x =>
     parseInt(x.患者_退院済フラグ) === 1 && x.患者_状態 !== '死亡'
@@ -224,11 +277,17 @@ function inspectionSummary(json, jsonObject) {
           children: [
             {
               attr: '軽症・中等症',
-              value: patient.where(mildOrModerate).count()
+              value: patient
+                .where(hospitalized)
+                .where(mildOrModerate)
+                .count()
             },
             {
               attr: '重症',
-              value: patient.where(severeOrSerious).count()
+              value: patient
+                .where(hospitalized)
+                .where(severeOrSerious)
+                .count()
             }
           ]
         },
@@ -253,6 +312,11 @@ function inspectionSummary(json, jsonObject) {
   ]
 }
 
+/**
+ * 陽性者の状態をJSONにします
+ * @param {Object} json 元の情報があるJSONオブジェクト
+ * @param {Object} jsonObject 書き出すJSONオブジェクト
+ */
 function patients(json, jsonObject) {
   jsonObject.data = []
   Enumerable.from(json).forEach(row => {
@@ -282,6 +346,11 @@ function patients(json, jsonObject) {
   })
 }
 
+/**
+ * 日毎の患者数をJSONにします
+ * @param {Object} json 元の情報があるJSONオブジェクト
+ * @param {Object} jsonObject 書き出すJSONオブジェクト
+ */
 function patientsSummary(json, jsonObject) {
   jsonObject.data = []
   // 最初の日
@@ -339,14 +408,13 @@ const dateFormat = {
 main()
 
 const main2 = () => {
-
-  const isCovidArticle = async (article) => {
+  const isCovidArticle = async article => {
     try {
       const res = await axios.get(article.link)
       const $ = cheerio.load(res.data)
       const context = $('div.article-body > p').text()
       return context.includes('コロナ') || context.includes('感染')
-    } catch(e) {
+    } catch (e) {
       console.error(e)
     }
     return false
@@ -382,8 +450,8 @@ const main2 = () => {
   }
 
   async function asyncFilter(array, asyncCallback) {
-    const bits = await Promise.all(array.map(asyncCallback));
-    return array.filter((_, i) => bits[i]);
+    const bits = await Promise.all(array.map(asyncCallback))
+    return array.filter((_, i) => bits[i])
   }
 
   const storeFukuiShimbun = async () => {

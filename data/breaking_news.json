@@ -1,16 +1,16 @@
 {
     "items": [
         {
+            "date": "2020/04/13",
+            "text": "福井県内で89例目~92例目となる新型コロナウイルス感染者が確認されました。詳細は<a targer=\"_black\" href=\"https://www.pref.fukui.lg.jp/doc/kenkou/kansensyo-yobousessyu/corona_d/fil/200413.pdf\">こちら</a>からご確認いただけます"
+        },
+        {
             "date": "2020/04/12",
             "text": "福井県内で87例目~88例目となる新型コロナウイルス感染者が確認されました。詳細は<a targer=\"_black\" href=\"https://www.pref.fukui.lg.jp/doc/kenkou/kansensyo-yobousessyu/corona_d/fil/200412.pdf\">こちら</a>からご確認いただけます"
         },
         {
             "date": "2020/04/11",
             "text": "福井県内で83例目~86例目となる新型コロナウイルス感染者が確認されました。詳細は<a targer=\"_black\" href=\"https://www.pref.fukui.lg.jp/doc/kenkou/kansensyo-yobousessyu/corona_d/fil/200411.pdf\">こちら</a>からご確認いただけます"
-        },
-        {
-            "date": "2020/04/10",
-            "text": "福井県内で78例目~82例目となる新型コロナウイルス感染者が確認されました。詳細は<a targer=\"_black\" href=\"https://www.pref.fukui.lg.jp/doc/kenkou/kansensyo-yobousessyu/corona_d/fil/200410.pdf\">こちら</a>からご確認いただけます"
         }
     ]
 }

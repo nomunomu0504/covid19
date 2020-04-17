@@ -19,6 +19,11 @@ const config: Configuration = {
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
       { hid: 'og:type', property: 'og:type', content: 'website' },
       {
+        hid: 'keywords',
+        property: 'keywords',
+        content: '福井県, コロナウイルス, 対策サイト, 福井高専, covid19, コロナ, 対策, 公認サイト, 公式, 動向, 陽性患者数, 陽性患者, お問い合わせ件数, 問い合わせ'
+      },
+      {
         hid: 'og:url',
         property: 'og:url',
         content: 'https://covid19-fukui.com/'

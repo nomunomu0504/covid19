@@ -1,22 +1,67 @@
 <template>
   <div class="BreakingNews">
-    <h2 class="BreakingNews-heading breaking">
-      <v-icon size="24" class="BreakingNews-heading-icon">
-        mdi-information
-      </v-icon>
-      {{ $t('速報') }}
-      <a class="BreakingNews-heading-link" :href="this.localePath('/news')">{{
-        $t('過去のお知らせはこちら')
-      }}</a>
-    </h2>
+    <v-row>
+      <v-col cols="auto" style="padding-top:0;padding-bottom:0">
+        <h2 class="BreakingNews-heading breaking">
+          <v-icon size="24" class="BreakingNews-heading-icon">
+            mdi-information
+          </v-icon>
+          {{ $t('速報') }}
+          <a class="BreakingNews-heading-link" :href="this.localePath('/news')">
+            {{ $t('過去のお知らせはこちら') }}
+          </a>
+        </h2>
+      </v-col>
+      <v-spacer />
+      <v-col cols="auto" style="padding-top:0;padding-bottom:0">
+        <v-btn
+          depressed
+          bottom
+          color="#ffe200"
+          href="https://www.pref.fukui.lg.jp/doc/kenkou/covid19_chiji.html"
+          target="_blank"
+        >
+          <v-icon left small>
+            mdi-bullhorn
+          </v-icon>
+          <span style="font-weight: bold">{{
+            $t('福井県緊急事態宣言について')
+          }}</span>
+          <v-icon right small>
+            mdi-open-in-new
+          </v-icon>
+        </v-btn>
+      </v-col>
+    </v-row>
     <ul class="BreakingNews-list">
-      <h3 class="breaking-content" />
-      <li v-for="(item, i) in items" :key="i" class="BreakingNews-list-item">
-        <time
-          class="BreakingNews-list-item-anchor-time px-2"
-          v-html="item.date"
-        />
-        <p class="BreakingNews-list-item-anchor-link" v-html="item.text" />
+      <li
+        v-for="(item, i) in items.slice(0, 3)"
+        :key="i"
+        class="BreakingNews-list-item"
+      >
+        <a
+          ref="noopener"
+          class="BreakingNews-list-item-anchor"
+          :href="item.url"
+          target="_blank"
+        >
+          <time
+            class="BreakingNews-list-item-anchor-time px-2"
+            :datetime="formattedDate(item.date)"
+          >
+            {{ item.date }}
+          </time>
+          <span class="BreakingNews-list-item-anchor-link">
+            {{ item.text }}
+            <v-icon
+              v-if="!isInternalLink(item.url)"
+              class="BreakingNews-item-ExternalLinkIcon"
+              size="12"
+            >
+              mdi-open-in-new
+            </v-icon>
+          </span>
+        </a>
       </li>
     </ul>
   </div>

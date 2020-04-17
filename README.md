@@ -12,9 +12,9 @@
 
 - nomu_development
 
-デフォルトブランチです。複数人が作業を行っているため、ファイルがコンフリクトする可能性があります。そのため `必ず` Slackやissueを使ってコンタクトを取り合いながら進めてください。このブランチに取り込まれた内容は自動的に [https://develop-covid19-fukui.netlify.com/](https://develop-covid19-fukui.netlify.com/) に反映されます。（反映までに2,3分程かかる可能性があります。packageを変更した場合はinstall処理も走るため数分かかることがあります。お待ちください）
+デフォルトブランチです。複数人が作業を行っているため、ファイルがコンフリクトする可能性があります。そのため `必ず` Slackやissueを使ってコンタクトを取り合いながら進めてください。このブランチに取り込まれた内容は自動的に [https://nomu-development.covid19-fukui.com/](https://nomu-development.covid19-fukui.com/) に反映されます。（反映までに2,3分程かかる可能性があります。packageを変更した場合はinstall処理も走るため数分かかることがあります。お待ちください）
 
-本番ブランチ（nomu_production）に実装したい機能等が完成した場合、直接 `nomu_production` にPRを発行せずに、このブランチ（nomu_development）へPRを発行し動作確認を行ってください。PRが発行されると、追加された機能が[https://deploy-preview-{PR番号}--develop-covid19-fukui.netlify.com](https://deploy-preview-{PR番号}--develop-covid19-fukui.netlify.com)に **`production`として** 展開されます。ローカルで動いてもサーバー上で動かない可能性があります。このブランチへのマージは、オーナー以外のコラボレーターの方が行う可能性もあります。
+本番ブランチ（nomu_production）に実装したい機能等が完成した場合、直接 `nomu_production` にPRを発行せずに、このブランチ（nomu_development）へPRを発行し動作確認を行ってください。PRが発行されると、追加された機能が`https://deploy-preview-{PR番号}--covid19-fukui.netlify.com`に **`production`として** 展開されます。ローカルで動いてもサーバー上で動かない可能性があります。このブランチへのマージは、オーナー以外のコラボレーターの方が行う可能性もあります。
 
 - nomu_production
 
