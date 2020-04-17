@@ -27,7 +27,7 @@ export default {
       iso: 'en-US',
       file: 'en.json',
       description: 'English'
-    } /*,
+    },
     {
       code: 'zh-cn',
       name: '简体中文',
@@ -49,21 +49,33 @@ export default {
       file: 'ko.json',
       description: 'Korean'
     },
-    // #1126, #872 (comment)
-    // ポルトガル語は訳が揃っていないため非表示
-    // {
-    //   code: 'pt-BR',
-    //   name: 'Portuguese',
-    //   iso: 'pt-BR',
-    //   file: 'pt_BR.json',
-    //   description: 'Portuguese'
-    // },
+    {
+      code: 'pt-BR',
+      name: 'Portuguese',
+      iso: 'pt-BR',
+      file: 'pt_BR.json',
+      description: 'Portuguese'
+    },
     {
       code: 'ja-basic',
       name: 'やさしい にほんご',
       iso: 'ja-JP',
       file: 'ja-Hira.json',
       description: 'Easy Japanese'
-    } */
+    },
+    {
+      code: 'th',
+      name: 'ภาษาไทย',
+      iso: 'th',
+      file: 'th.json',
+      description: 'Thai'
+    },
+    {
+      code: 'vi',
+      name: 'Tiếng Việt',
+      iso: 'vi',
+      file: 'vi.json',
+      description: 'Vietnamese'
+    }
   ]
 }
