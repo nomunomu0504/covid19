@@ -27,6 +27,14 @@
     <hospital-beds-number-card
       v-else-if="this.$route.params.card == 'hospital-beds-number-card'"
     />
+
+    <each-sex-age-number-positive-card
+      v-else-if="this.$route.params.card == 'each-sex-age-number-positive'"
+    />
+
+    <information-number-card
+      v-else-if="this.$route.params.card == 'information-number-card'"
+    />
   </div>
 </template>
 
@@ -39,6 +47,9 @@ import InspectionsSummary from '@/data/inspection_summary.json'
 import HospitalBeds from '@/data/hospital_beds.json'
 // 陽性患者数
 import PatientsSummary from '@/data/patients_summary.json'
+// お問合わせ件数
+import Contacts from '@/data/contacts.json'
+
 // import MetroData from '@/data/metro.json'
 // import agencyData from '@/data/agency.json'
 // import ShinjukuData from '@/data/13104_daily_visitors.json'
@@ -56,6 +67,12 @@ import HospitalBedsNumberCard from '@/components/cards/HospitalBedsNumberCard.vu
 // import ShinjukuVisitorsCard from '@/components/cards/ShinjukuVisitorsCard.vue'
 // import ChiyodaVisitorsCard from '@/components/cards/ChiyodaVisitorsCard.vue'
 
+// コールセンターお問合せ件数
+import InformationNumberCard from '@/components/cards/InformationNumberCard.vue'
+
+// 男女年代別の陽性患者数
+import EachSexAgeNumberPositiveCard from '@/components/cards/EachSexAgeNumberPositiveCard.vue'
+
 export default {
   components: {
     ConfirmedCasesDetailsCard,
@@ -65,6 +82,8 @@ export default {
     // TestedNumberCard,
     InspectionPersonsNumberCard,
     HospitalBedsNumberCard,
+    InformationNumberCard,
+    EachSexAgeNumberPositiveCard,
     // ConsultationDeskReportsNumberCard,
     // MetroCard,
     // AgencyCard,
@@ -121,6 +140,16 @@ export default {
       case 'hospital-beds-number-card':
         title = this.$t('感染症病床使用率')
         updatedAt = HospitalBeds.date
+        break
+
+      case 'information-number-card':
+        title = this.$t('コールセンターお問合せ件数')
+        updatedAt = Contacts.date
+        break
+      
+      case 'each-sex-age-number-positive':
+        title = this.$t('年代別の陽性患者数')
+        updatedAt = PatientsSummary.date
         break
     }
 

@@ -229,7 +229,6 @@ const options: ThisTypedComponentOptionsWithRecordProps<
           displayColors: false,
           callbacks: {
             label(tooltipItem: any) {
-              console.log(chartData)
               return `${
                 chartData[tooltipItem.index].transition
               } 人 (総病床数: ${chartData[1].cumulative} 人)`

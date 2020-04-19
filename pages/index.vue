@@ -30,10 +30,12 @@
       <!-- <youtube-card /> -->
       <confirmed-cases-number-card />
       <confirmed-cases-details-card />
-      <confirmed-cases-attributes-card />
+      <each-sex-age-number-positive-card />
       <inspection-persons-number-card />
+      <confirmed-cases-attributes-card />
       <information-number-card />
       <hospital-beds-number-card />
+      
     </v-row>
   </div>
 </template>
@@ -80,6 +82,9 @@ import Contacts from '@/data/contacts.json'
 // コールセンターお問合せ件数
 import InformationNumberCard from '@/components/cards/InformationNumberCard.vue'
 
+// 男女年代別の陽性患者数
+import EachSexAgeNumberPositiveCard from '@/components/cards/EachSexAgeNumberPositiveCard.vue'
+
 // import TestedCasesDetailsCard from '@/components/cards/TestedCasesDetailsCard.vue'
 
 // import TestedNumberCard from '@/components/cards/TestedNumberCard.vue'
@@ -103,7 +108,8 @@ export default Vue.extend({
     // TestedCasesDetailsCard,
     ConfirmedCasesAttributesCard,
     HospitalBedsNumberCard,
-    InformationNumberCard
+    InformationNumberCard,
+    EachSexAgeNumberPositiveCard
     // YoutubeCard,
     // TestedNumberCard,
     // ConsultationDeskReportsNumberCard,

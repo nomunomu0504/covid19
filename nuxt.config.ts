@@ -181,7 +181,8 @@ const config: Configuration = {
         '/cards/number-of-inspection-persons',
         '/cards/pcr-inspection-reports-number-card',
         '/cards/attributes-of-confirmed-cases',
-        '/cards/number-of-inspection-persons'
+        '/cards/number-of-inspection-persons',
+        '/cards/each-sex-age-number-positive'
       ]
 
       const routes: string[] = []
@@ -218,6 +219,7 @@ const config: Configuration = {
       '/cards/pcr-inspection-reports-number-card',
       '/cards/attributes-of-confirmed-cases',
       '/cards/number-of-inspection-persons',
+      '/cards/each-sex-age-number-positive'
     ]
   },
   proxy: {
