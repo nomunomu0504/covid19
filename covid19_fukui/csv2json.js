@@ -198,10 +198,6 @@ function isUpdateJSON(oldJSON, newJSON) {
     delete oldJSON.date
   if("date" in newJSON)
     delete newJSONClone.date
-    if("timestamp" in oldJSON)
-    delete oldJSON.timestamp
-    if("timestamp" in newJSON)
-    delete newJSONClone.timestamp
   const oldJSONStr = JSON.stringify(oldJSON)
   const newJSONCloneStr = JSON.stringify(newJSONClone)
   return oldJSONStr !== newJSONCloneStr
@@ -417,64 +413,3 @@ const dateFormat = {
 }
 
 main()
-
-const main2 = () => {
-  const isCovidArticle = async article => {
-    try {
-      const res = await axios.get(article.link)
-      const $ = cheerio.load(res.data)
-      const context = $('div.article-body > p').text()
-      return context.includes('コロナ') || context.includes('感染')
-    } catch(e) {
-      throw e
-    }
-  }
-
-  const getFukuiShimbun = async () => {
-    const moment = require('moment-timezone')
-    const xml2js = require('xml2js')
-    moment.tz.setDefault('Asia/Tokyo')
-
-    try {
-      const res = await axios.get(fukuiShimbunURL)
-      const xml = res.data
-      const json = {
-        timestamp: moment().unix(),
-        info: null
-      }
-      await xml2js.parseString(xml, (_, xmlres) => {
-        json.info = xmlres.rss.channel[0].item.map(i => {
-          return {
-            title: i.title[0],
-            link: i.link[0],
-            published_at: moment(i.pubDate[0]).format('YYYY/MM/DD HH:mm')
-          }
-        })
-      })
-      return json
-    } catch(e) {
-      throw e
-    }
-  }
-
-  async function asyncFilter(array, asyncCallback) {
-    const bits = await Promise.all(array.map(asyncCallback))
-    return array.filter((_, i) => bits[i])
-  }
-
-  const storeFukuiShimbun = async () => {
-    try {
-      const json = await getFukuiShimbun()
-      json.info = await asyncFilter(json.info, el => isCovidArticle(el))
-      // console.log(json)
-      writeFile(json, files.fukuiShimbun)
-    } catch (error) {
-      console.error(error)
-      process.exit(1)
-    }
-  }
-
-  storeFukuiShimbun()
-}
-
-main2()
