@@ -79,10 +79,19 @@ jobs:
           docker-compose build fetch_fukui_data
 
       - name: data/*.jsonを作成
-        run: docker-compose run fetch_fukui_data
+        id: genjson
+        run: |
+          docker-compose run fetch_fukui_data
+
+          if [ -z "$(git status --porcelain)" ]; then
+            echo "##[set-output name=changed;]false"
+          else
+            echo "##[set-output name=changed;]true"
+          fi
 
       - name: ブランチを作成
         id: branch
+        if: steps.genjson.outputs.changed == 'true'
         env:
           TZ: JST-9
           BRANCH_NAME: ${{ steps.metadatas.outputs.head-branch }}
@@ -90,6 +99,7 @@ jobs:
           git switch -c $BRANCH_NAME
 
       - name: コミット
+        if: steps.genjson.outputs.changed == 'true'
         run: |
           git add .
           git commit -m "[Auto] データを更新 ${{ steps.metadatas.outputs.current-date }}"
@@ -97,6 +107,7 @@ jobs:
       - name: 重複しているPRを削除
         uses: actions/github-script@0.9.0
         id: closed-pulls
+        if: steps.genjson.outputs.changed == 'true'
         with:
           script: |
             const owner = '${{ steps.metadatas.outputs.owner }}'
@@ -125,10 +136,12 @@ jobs:
             core.setOutput('number-with-branch', JSON.stringify(closedPulls))
 
       - name: プッシュ
+        if: steps.genjson.outputs.changed == 'true'
         run: git push -fu origin '${{ steps.metadatas.outputs.head-branch }}'
 
       - name: Pull request を作成
         uses: actions/github-script@0.9.0
+        if: steps.genjson.outputs.changed == 'true'
         with:
           closed-pulls: ${{ steps.closed-pulls.outputs.number-with-branch }}
           alt-base-branches: ${{ steps.metadatas.outputs.alt-base-branches }}

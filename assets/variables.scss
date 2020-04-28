@@ -1,9 +1,15 @@
 // ==================
 // color
-$green-1: #008830;
-$green-2: #00b849;
-$green-3: #00d154;
-$green-4: #00eb5e;
+// <<< Fukui
+$green-1: #0054c6;
+$green-2: #1a79ff;
+$green-3: #66a6ff;
+$green-4: #99c3ff;
+// <<< Tokyo
+// $green-1: #008830;
+// $green-2: #00b849;
+// $green-3: #00d154;
+// $green-4: #00eb5e;
 $gray-1: #333;
 $gray-2: #4d4d4d;
 $gray-3: #707070;
@@ -28,7 +34,7 @@ $tiny: 320;
 // z-index
 $z-index-map: (
   opened-side-navigation: 101,
-  sp-navigation: 100,
+  sp-navigation: 10000,
 );
 
 @function z-index-of($key) {

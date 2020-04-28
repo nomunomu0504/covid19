@@ -2,7 +2,7 @@
 
 <!-- ![](https://github.com/tokyo-metropolitan-gov/covid19/workflows/production%20deploy/badge.svg) -->
 
-[![福井県公認 新型コロナウイルス感染症対策サイト](/static/new_ogp.png)](https://covid19-fukui.com/)
+[![福井県公認 新型コロナウイルス感染症対策サイト](/static/official_ogp.png)](https://covid19-fukui.com/)
 
 ## Slackチャンネルへの参加
 このサイトを運営・改善していくためのSlackを開設しています。継続的に改善に参加していただける方は[こちらから登録](https://join.slack.com/t/nomunomu0504/shared_invite/zt-d6ad54zo-VqgGZR2qRtIjIKP04reI0Q)してご参加ください。リポジトリのコラボレーターに招待します。

@@ -5,7 +5,7 @@
       :title-id="'each-sex-age-number-positive'"
       :chart-id="'each-sex-age-number-positive'"
       :chart-data="patientsGraph"
-      :date="patientsSummaryDate"
+      :date="updatedAt"
       :labels="graphLabels"
       :unit="$t('人')"
       :url="'https://www.pref.fukui.lg.jp/doc/toukei-jouhou/covid-19.html'"
@@ -16,6 +16,7 @@
 <script>
 import Patients from '@/data/patients.json'
 import formatGraph from '@/utils/formatGraph'
+import { getCommonStyleDateString } from '@/utils/formatDate'
 import HorizontalBarChart from '@/components/HorizontalBarChart.vue'
 
 export default {
@@ -37,15 +38,12 @@ export default {
       this.$t("10代未満")
     ]
 
-    // 陽性患者の詳細
-    const patientsGraph = Patients.data
-    const patientsSummaryDate = new Date(Patients.date).toLocaleString()
-    const data = {
+    return {
+      updatedAt: getCommonStyleDateString(Patients.date),
       graphLabels,
-      patientsSummaryDate,
-      patientsGraph
+      // 陽性患者の詳細
+      patientsGraph: Patients.data
     }
-    return data
   }
 }
 </script>

@@ -5,7 +5,7 @@
       :title-id="'hospital-beds-number-card'"
       :chart-id="'hospital-beds-number-card'"
       :chart-data="hospitalBedsGraph"
-      :date="HospitalBeds.date"
+      :date="updatedAt"
       :labels="HospitalBeds.labels"
       :unit="$t('％')"
       :info="$t('病床使用率')"
@@ -18,19 +18,23 @@
 import CircleChart from '@/components/CircleChart.vue'
 import HospitalBeds from '@/data/hospital_beds.json'
 import formatVariableGraph from '@/utils/formatVariableGraph.ts'
+import { getCommonStyleDateString } from '@/utils/formatDate'
 
 export default {
   components: {
     CircleChart
   },
   data() {
-    // 検査実施週別状況
-    const hospitalBedsGraph = formatVariableGraph(HospitalBeds.data)
-    const data = {
+    return {
       HospitalBeds,
-      hospitalBedsGraph
+      // 検査実施週別状況
+      hospitalBedsGraph: formatVariableGraph(HospitalBeds.data)
     }
-    return data
+  },
+  computed: {
+    updatedAt() {
+      return getCommonStyleDateString(this.HospitalBeds.date)
+    }
   }
 }
 </script>

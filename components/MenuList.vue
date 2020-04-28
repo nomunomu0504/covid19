@@ -35,6 +35,7 @@
 import { Vue, Prop, Component } from 'vue-property-decorator'
 import CovidIcon from '@/static/covid.svg'
 import ParentIcon from '@/static/parent.svg'
+import SurgicalMaskIcon from '@/static/surgical_mask.svg'
 
 type menuItem = {
   icon?: string
@@ -44,7 +45,7 @@ type menuItem = {
 }
 
 @Component({
-  components: { CovidIcon, ParentIcon }
+  components: { CovidIcon, ParentIcon, SurgicalMaskIcon }
 })
 export default class MenuList extends Vue {
   @Prop({ required: true }) items!: menuItem[]

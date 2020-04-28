@@ -6,7 +6,7 @@
       </page-header>
       <div class="UpdatedAt">
         <span>{{ $t('最終更新') }} </span>
-        <time :datetime="updatedAt">{{ InspectionPersons.date }}</time>
+        <time :datetime="lastUpdatedAtISO">{{ lastUpdatedAt }}</time>
       </div>
       <div v-if="!['ja', 'ja-basic'].includes($i18n.locale)" class="Annotation">
         <span>{{ $t('注釈') }} </span>
@@ -17,6 +17,23 @@
     <!-- <fukui-news class="mb-4" />
     <whats-new class="mb-4" :items="newsItems" /> -->
     <whats-new-japan class="mb-4" :items="japanItems" />
+    <div class="BreakingNews">
+      <ul class="BreakingNews-list">
+        <li class="BreakingNews-list-item BreakingNews-list-item-anchor">
+          <h4>
+            <v-icon size="20" class="BreakingNews-heading-icon">
+              mdi-information
+            </v-icon>
+            誤ったDMCA申請につきまして
+          </h4>
+          <span class="BreakingNews-list-item-anchor-link">
+            丹南ケーブルテレビ株式会社が運営する<a href="https://covid19-fukui.bosai-signal.jp/">新型コロナ対策サイト</a>についてDMCA申請を行っていましたが<br />
+            誤ったDMCA申請であったため、現在、取下げ申請を行っております。<br />
+            関係者の方々には、大変なご迷惑をおかけいたしました。お詫び申し上げます。
+          </span>
+        </li>
+      </ul>
+    </div>
     <static-info
       class="mb-4"
       :url="localePath('/flow')"
@@ -35,7 +52,6 @@
       <confirmed-cases-attributes-card />
       <information-number-card />
       <hospital-beds-number-card />
-      
     </v-row>
   </div>
 </template>
@@ -69,12 +85,14 @@ import HospitalBedsNumberCard from '@/components/cards/HospitalBedsNumberCard.vu
 
 // 検査実施人数
 import InspectionPersons from '@/data/inspection_persons.json'
-// 陽性患者の属性
+// 検査陽性者の状況
 import InspectionsSummary from '@/data/inspection_summary.json'
 // 感染症病床使用率
 import HospitalBeds from '@/data/hospital_beds.json'
 // 陽性患者数
 import PatientsSummary from '@/data/patients_summary.json'
+//  陽性患者の属性, 年代別の陽性患者数
+import Patients from '@/data/patients.json'
 
 // お問い合わせ件数
 import Contacts from '@/data/contacts.json'
@@ -91,7 +109,7 @@ import EachSexAgeNumberPositiveCard from '@/components/cards/EachSexAgeNumberPos
 // import ConsultationDeskReportsNumberCard from '@/components/cards/ConsultationDeskReportsNumberCard.vue'
 // import MetroCard from '@/components/cards/MetroCard.vue'
 // import AgencyCard from '@/components/cards/AgencyCard.vue'
-import { convertDatetimeToISO8601Format } from '@/utils/formatDate'
+import { convertDatetimeToISO8601Format, getCommonStyleDateString } from '@/utils/formatDate'
 
 export default Vue.extend({
   components: {
@@ -117,13 +135,8 @@ export default Vue.extend({
     // AgencyCard
   },
   data() {
-    const data = {
+    return {
       method: 'default',
-      InspectionPersons,
-      InspectionsSummary,
-      HospitalBeds,
-      PatientsSummary,
-      Contacts,
       headerItem: {
         icon: 'mdi-chart-timeline-variant',
         title: this.$t('福井県内の最新感染動向')
@@ -132,12 +145,26 @@ export default Vue.extend({
       japanItems: JapanNews.japanItems,
       BreakingItems: BreakingNewsData.items
     }
-    return data
   },
 
   computed: {
-    updatedAt() {
-      return convertDatetimeToISO8601Format(InspectionPersons.date)
+    lastUpdatedAt(): string {
+      const dates = [
+        PatientsSummary.date,
+        InspectionsSummary.date,
+        Patients.date,
+        InspectionPersons.date,
+        Contacts.date,
+        HospitalBeds.date
+      ]
+      // 辞書順でソート
+      dates.sort().reverse()
+
+      return getCommonStyleDateString(dates[0])
+    },
+    lastUpdatedAtISO() {
+      // this as any -> https://github.com/vuejs/vue/issues/8721
+      return convertDatetimeToISO8601Format((this as any).lastUpdatedAt)
     }
   },
   head(): MetaInfo {
@@ -158,7 +185,7 @@ export default Vue.extend({
                 "mainEntityOfPage": "https://covid19-fukui.com/",
                 "headline": "福井県内の最新感染動向 | 福井県公認 新型コロナウイルス感染症対策サイト",
                 "description": "当サイトは新型コロナウイルス感染症 (COVID-19) に関する最新情報を提供するために、福井高専卒のエンジニアが開設したものです",
-                "image": "https://covid19-fukui.com/new_ogp.png",  
+                "image": "https://covid19-fukui.com/official_ogp.png",  
                 "author": {
                   "@type": "Person",
                   "name": "野村弘樹（福井高専卒）"

@@ -5,7 +5,7 @@
       :title-id="'information-number-card'"
       :chart-id="'information-number-card'"
       :chart-data="contactsGraph"
-      :date="Contacts.date"
+      :date="updatedAt"
       :unit="'件'"
     />
   </v-col>
@@ -15,20 +15,23 @@
 import TimeBarChart from '@/components/TimeBarChart.vue'
 import Contacts from '@/data/contacts.json'
 import formatGraph from '@/utils/formatGraph'
+import { getCommonStyleDateString } from '@/utils/formatDate'
 
 export default {
   components: {
     TimeBarChart
   },
   data() {
-    // 検査実施週別状況
-    const contactsGraph = formatGraph(Contacts.data)
-
-    const data = {
+    return {
       Contacts,
-      contactsGraph,
+      // 検査実施週別状況
+      contactsGraph: formatGraph(Contacts.data),
     }
-    return data
+  },
+  computed: {
+    updatedAt() {
+      return getCommonStyleDateString(this.Contacts.date)
+    }
   }
 }
 </script>

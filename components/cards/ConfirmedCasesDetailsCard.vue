@@ -3,7 +3,7 @@
     <confirmed-cases-card
       :title="$t('検査陽性者の状況')"
       :title-id="'details-of-confirmed-cases'"
-      :date="InspectionsSummary.date"
+      :date="updatedAt"
     >
       <confirmed-cases-table
         :aria-label="$t('検査陽性者の状況')"
@@ -18,6 +18,7 @@ import InspectionsSummary from '@/data/inspection_summary.json'
 import formatConfirmedCases from '@/utils/formatConfirmedCases'
 import ConfirmedCasesCard from '@/components/ConfirmedCasesCard.vue'
 import ConfirmedCasesTable from '@/components/ConfirmedCasesTable.vue'
+import { getCommonStyleDateString } from '@/utils/formatDate'
 
 export default {
   components: {
@@ -25,14 +26,16 @@ export default {
     ConfirmedCasesTable
   },
   data() {
-    // 検査陽性者の状況
-    const confirmedCases = formatConfirmedCases(InspectionsSummary)
-
-    const data = {
+    return {
       InspectionsSummary,
-      confirmedCases
+      // 検査陽性者の状況
+      confirmedCases: formatConfirmedCases(InspectionsSummary)
     }
-    return data
+  },
+  computed: {
+    updatedAt() {
+      return getCommonStyleDateString(this.InspectionsSummary.date)
+    }
   }
 }
 </script>

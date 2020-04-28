@@ -35,6 +35,10 @@
     <information-number-card
       v-else-if="this.$route.params.card == 'information-number-card'"
     />
+
+    <mask-inventory-card
+      v-else-if="this.$route.params.card == 'mask-inventory-card'"
+    />
   </div>
 </template>
 
@@ -73,6 +77,9 @@ import InformationNumberCard from '@/components/cards/InformationNumberCard.vue'
 // 男女年代別の陽性患者数
 import EachSexAgeNumberPositiveCard from '@/components/cards/EachSexAgeNumberPositiveCard.vue'
 
+// マスクの在庫状況
+import MaskInventoryCard from '@/components/cards/MaskInventoryCard.vue'
+
 export default {
   components: {
     ConfirmedCasesDetailsCard,
@@ -84,6 +91,7 @@ export default {
     HospitalBedsNumberCard,
     InformationNumberCard,
     EachSexAgeNumberPositiveCard,
+    MaskInventoryCard,
     // ConsultationDeskReportsNumberCard,
     // MetroCard,
     // AgencyCard,
@@ -150,6 +158,11 @@ export default {
       case 'each-sex-age-number-positive':
         title = this.$t('年代別の陽性患者数')
         updatedAt = PatientsSummary.date
+        break
+
+      case 'mask-inventory-card':
+        title = this.$t('マスクの在庫状況')
+        updatedAt = '2020-04-21T00:00:00+09:00'
         break
     }
 

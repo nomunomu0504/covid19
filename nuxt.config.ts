@@ -73,7 +73,7 @@ const config: Configuration = {
   /*
    ** Customize the progress-bar color
    */
-  loading: { color: '#fff' },
+  loading: { color: '#0054c6' },
   /*
    ** Global CSS
    */
@@ -127,7 +127,8 @@ const config: Configuration = {
     '@nuxtjs/sitemap',
     '@nuxtjs/proxy',
     ['@nuxtjs/moment', ['ja']],
-    '@nuxtjs/axios'
+    '@nuxtjs/axios',
+    ['nuxt-leaflet', { /* module options */ }]
   ],
   /*
    ** vuetify module configuration
@@ -155,7 +156,7 @@ const config: Configuration = {
             './node_modules/vue-spinner/src/ScaleLoader.vue'
           ],
           whitelist: ['html', 'body', 'nuxt-progress', 'DataCard'],
-          whitelistPatterns: [/(col|row)/]
+          whitelistPatterns: [/(col|row)/, /leaflet/, /marker/]
         })
       ]
     }
@@ -164,7 +165,7 @@ const config: Configuration = {
   },
   manifest: {
     name: '福井県公認 新型コロナウイルス感染症対策サイト',
-    theme_color: '#00a040',
+    theme_color: '#0054c6',
     background_color: '#ffffff',
     display: 'standalone',
     Scope: '/',

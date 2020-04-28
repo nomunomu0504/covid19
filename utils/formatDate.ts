@@ -17,3 +17,12 @@ export const convertDatetimeToISO8601Format = (dateString: string): string => {
 export const convertDateToISO8601Format = (dateString: string): string => {
   return dayjs(dateString).format('YYYY-MM-DD')
 }
+
+/**
+ * Get common style date string for display
+ *
+ * @param dateString - Parsable string by Date
+ */
+
+export const getCommonStyleDateString = (dateString: string) =>
+  new Date(dateString).toLocaleString()

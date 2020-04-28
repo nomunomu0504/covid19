@@ -5,7 +5,7 @@
       :title-id="'number-of-inspection-persons'"
       :chart-id="'number-of-inspection-persons'"
       :chart-data="inspectionPersonsGraph"
-      :date="inspectionPersonsDate"
+      :date="updatedAt"
       :unit="$t('人')"
       :url="'https://www.pref.fukui.lg.jp/doc/toukei-jouhou/covid-19.html'"
     >
@@ -24,20 +24,18 @@
 import InspectionPersons from '@/data/inspection_persons.json'
 import formatGraph from '@/utils/formatGraph'
 import TimeBarChart from '@/components/TimeBarChart.vue'
+import { getCommonStyleDateString } from '@/utils/formatDate'
 
 export default {
   components: {
     TimeBarChart
   },
   data() {
-    // 検査実施人数グラフ
-    const inspectionPersonsGraph = formatGraph(InspectionPersons.data)
-    const inspectionPersonsDate = InspectionPersons.date
-    const data = {
-      inspectionPersonsDate,
-      inspectionPersonsGraph
+    return {
+      updatedAt: getCommonStyleDateString(InspectionPersons.date),
+      // 検査実施人数グラフ
+      inspectionPersonsGraph: formatGraph(InspectionPersons.data)
     }
-    return data
   }
 }
 </script>

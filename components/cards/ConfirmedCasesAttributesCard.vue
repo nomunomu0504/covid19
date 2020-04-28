@@ -5,7 +5,7 @@
       :title-id="'attributes-of-confirmed-cases'"
       :chart-data="patientsTable"
       :chart-option="{}"
-      :date="Patients.date"
+      :date="updatedAt"
       :info="sumInfoOfPatients"
       :url="
         'https://www.pref.fukui.lg.jp/doc/kenkou/kansensyo-yobousessyu/corona.html'
@@ -18,6 +18,7 @@
 import Patients from '@/data/patients.json'
 import formatTable from '@/utils/formatTable'
 import DataTable from '@/components/DataTable.vue'
+import { getCommonStyleDateString } from '@/utils/formatDate'
 
 export default {
   components: {
@@ -65,16 +66,9 @@ export default {
     }
     return data
   },
-  methods: {
-    getTranslatedWording(value) {
-      if (value === '-' || value === '‐' || value == null) {
-        // 翻訳しようとしている文字列が以下のいずれかだった場合、翻訳しない
-        // - 全角のハイフン
-        // - 半角のハイフン
-        // - null
-        return value
-      }
-      return this.$t(value)
+  computed: {
+    updatedAt() {
+      return getCommonStyleDateString(this.Patients.date)
     }
   }
 }
