@@ -3,7 +3,7 @@
     <!--<Tweet id="1253910475223363585"></Tweet>-->
     <template v-if="tweetList.length === 0">
       <div class="justify-center">
-        <div>関連するツイートはありません</div>
+        <div>{{ $t('関連するツイートはありません') }}</div>
       </div>
     </template>
     <template v-else>

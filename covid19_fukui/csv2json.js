@@ -364,8 +364,8 @@ function patientsSummary(json, jsonObject) {
   jsonObject.data = []
   // 最初の日
   const initDay = new Date('2020-02-16')
-  const today = new Date()
-  const diffDay = parseInt((today - initDay) / (1000 * 60 * 60 * 24)) // 日の差分
+  const latestDay = new Date((json.slice(-1)[0]).公表_年月日)
+  const diffDay = parseInt((latestDay - initDay) / (1000 * 60 * 60 * 24)) // 日の差分
   for (let i = 0; i <= diffDay; i++) {
     const targetDay = new Date(initDay.toDateString())
     targetDay.setDate(targetDay.getDate() + i)

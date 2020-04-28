@@ -1,6 +1,11 @@
 {
-    "timestamp": 1588064718,
+    "timestamp": 1588079106,
     "info": [
+        {
+            "title": "石川県内の新型コロナ感染者249人に",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1077244",
+            "published_at": "2020/04/28 21:58"
+        },
         {
             "title": "石川県内の新型コロナ感染者245人に",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1077097",
@@ -35,16 +40,6 @@
             "title": "休校延長で福井県独自の在宅授業開始",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1076955",
             "published_at": "2020/04/28 13:52"
-        },
-        {
-            "title": "福井県の休業協力金申請30日から",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1076942",
-            "published_at": "2020/04/28 13:39"
-        },
-        {
-            "title": "福井県知事、休校延長は「当面の間」",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1076934",
-            "published_at": "2020/04/28 13:18"
         }
     ]
 }
