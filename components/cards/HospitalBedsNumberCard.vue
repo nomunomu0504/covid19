@@ -6,7 +6,7 @@
       :chart-id="'hospital-beds-number-card'"
       :chart-data="hospitalBedsGraph"
       :date="updatedAt"
-      :labels="HospitalBeds.labels"
+      :labels="i18nHospitalLabel"
       :unit="$t('％')"
       :info="$t('病床使用率')"
       :description="'ここは未使用'"
@@ -25,8 +25,13 @@ export default {
     CircleChart
   },
   data() {
+    const i18nHospitalLabel = [
+      this.$t('現在患者数'),
+      this.$t('空き病床数(推定)')
+    ]
     return {
       HospitalBeds,
+      i18nHospitalLabel,
       // 検査実施週別状況
       hospitalBedsGraph: formatVariableGraph(HospitalBeds.data)
     }
