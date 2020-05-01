@@ -15,7 +15,7 @@
   "日別": "Daily",
   "週別": "Weekly",
   "別タブで開く": "Open in a new tab",
-  "{ date } 更新": "{-Date} Update",
+  "{date} 更新": "{date} Update",
   "{title}のグラフをシェア": "Share graph of {title}",
   "閉じる": "close",
   "埋め込み用コード": "Embed code",
