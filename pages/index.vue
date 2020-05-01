@@ -12,28 +12,20 @@
         <span>{{ $t('注釈') }} </span>
       </div>
     </div>
+    <static-info
+      class="mb-4"
+      :url="localePath('/mask')"
+      target="_blank"
+      :text="
+        $t('ゲンキーで販売されている県あっせんマスクについての情報はこちらからご確認いただけます')
+      "
+      :btn-text="$t('マスク情報へ')"
+    />
     <breaking-news class="mb-4" :items="newsItems" />
     <fukui-paper-news class="mb-4" />
     <!-- <fukui-news class="mb-4" />
     <whats-new class="mb-4" :items="newsItems" /> -->
     <whats-new-japan class="mb-4" :items="japanItems" />
-    <div class="BreakingNews">
-      <ul class="BreakingNews-list">
-        <li class="BreakingNews-list-item BreakingNews-list-item-anchor">
-          <h4>
-            <v-icon size="20" class="BreakingNews-heading-icon">
-              mdi-information
-            </v-icon>
-            誤ったDMCA申請につきまして
-          </h4>
-          <span class="BreakingNews-list-item-anchor-link">
-            丹南ケーブルテレビ株式会社が運営する<a href="https://covid19-fukui.bosai-signal.jp/">新型コロナ対策サイト</a>についてDMCA申請を行っていましたが<br />
-            誤ったDMCA申請であったため、現在、取下げ申請を行っております。<br />
-            関係者の方々には、大変なご迷惑をおかけいたしました。お詫び申し上げます。
-          </span>
-        </li>
-      </ul>
-    </div>
     <static-info
       class="mb-4"
       :url="localePath('/flow')"

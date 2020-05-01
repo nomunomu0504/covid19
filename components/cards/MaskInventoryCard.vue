@@ -90,8 +90,7 @@
                         + '&button_hashtag='
                         + hashTags[0]
                         + '&hashtags='
-                        + hashTags.join(',')
-                        + ',' + genky.店舗名
+                        + hashTags.concat(genky.店舗名).slice(1).join(',')
                         + '&ref_src=twsrc%5Etfw'"
                       class="twitter-hashtag-button"
                       data-show-count="false"
@@ -104,7 +103,12 @@
                   <v-btn
                     small
                     outlined
-                    @click="toggleRelatedTweet(genky.店舗名)"
+                    :href="'https://twitter.com/search?q='
+                      + '%23福井県マスク在庫'
+                      + '%20%23' + genky.店舗名
+                      + '&src=typed_query&f=live'
+                    "
+                    target="_blank"
                   >{{ $t('この店舗に関連するツイートを表示') }}
                   </v-btn>
                 </l-popup>
