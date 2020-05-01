@@ -1,6 +1,11 @@
 {
-    "timestamp": 1588323925,
+    "timestamp": 1588327546,
     "info": [
+        {
+            "title": "石川県内の感染者は計254人に",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1079179",
+            "published_at": "2020/05/01 18:35"
+        },
         {
             "title": "福井県総合グリーンセンター全面閉鎖",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1079060",
@@ -30,11 +35,6 @@
             "title": "新型コロナ、年齢上がるほど高リスク",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1074953",
             "published_at": "2020/05/01 10:00"
-        },
-        {
-            "title": "テイクアウトでお得、現金５％還元",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1078810",
-            "published_at": "2020/05/01 08:00"
         }
     ]
 }
