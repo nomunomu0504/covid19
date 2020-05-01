@@ -130,7 +130,7 @@
   "陽性患者数": "The number of positive patients",
   "感染症病床使用率": "The COVID19 hospital bed occupancy rate",
   "病床使用率": "The hospital bed occupancy rate",
-  "（ 注 ）福井県から情報が提供されていないた、あくまでも参考値となります": "NB. The rate is for reference perpose only, as the data is not provided from Fukui Prefectural Government ",
+  "（ 注 ）福井県から情報が提供されていないため、あくまでも参考値となります": "NB. The rate is for reference perpose only, as the data is not provided from Fukui Prefectural Government ",
   "（ 注 ）現在患者数 = 累計陽性患者数 - 退院済患者数 - 死亡者数": "NB. The current No. of patients = accumulated total No. of patients - discharged No. of patients - No. of dead patients",
   "（注）同一の対象者について複数の検体を調査する場合あり": "NB. Multiple tests may be operated to a single patient",
   "県内": "Within the prefecture",
