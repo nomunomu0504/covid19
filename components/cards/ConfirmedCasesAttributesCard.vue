@@ -49,14 +49,9 @@ export default {
     for (const row of patientsTable.datasets) {
       row['居住地'] = this.$t(row['居住地'])
       row['性別'] = this.$t(row['性別'])
+      row['職業'] = this.$t(row['職業'])
+      row['年代'] = this.$t(row['年代'])
       row['備考'] = this.$t(row['備考'])
-
-      if (row['年代'] === '10歳未満') {
-        row['年代'] = this.$t('10歳未満')
-      } else {
-        const age = row['年代'].substring(0, 2)
-        row['年代'] = this.$t('{age}代', { age })
-      }
     }
 
     const data = {
