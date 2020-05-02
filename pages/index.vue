@@ -17,7 +17,9 @@
       :url="localePath('/mask')"
       target="_blank"
       :text="
-        $t('ゲンキーで販売されている県あっせんマスクについての情報はこちらからご確認いただけます')
+        $t(
+          'ゲンキーで販売されている県あっせんマスクについての情報はこちらからご確認いただけます'
+        )
       "
       :btn-text="$t('マスク情報へ')"
     />
@@ -38,6 +40,7 @@
     <v-row class="DataBlock">
       <!-- <youtube-card /> -->
       <confirmed-cases-number-card />
+      <hospitalized-patients-card />
       <confirmed-cases-details-card />
       <each-sex-age-number-positive-card />
       <inspection-persons-number-card />
@@ -64,6 +67,8 @@ import JapanNews from '@/data/japan_news.json'
 import BreakingNewsData from '@/data/breaking_news.json'
 // 陽性患者数
 import ConfirmedCasesNumberCard from '@/components/cards/ConfirmedCasesNumberCard.vue'
+// 入院患者数
+import HospitalizedPatientsCard from '@/components/cards/HospitalizedPatientsCard.vue'
 // 陽性患者の属性
 import ConfirmedCasesAttributesCard from '@/components/cards/ConfirmedCasesAttributesCard.vue'
 // 検査陽性者の状況
@@ -101,7 +106,10 @@ import EachSexAgeNumberPositiveCard from '@/components/cards/EachSexAgeNumberPos
 // import ConsultationDeskReportsNumberCard from '@/components/cards/ConsultationDeskReportsNumberCard.vue'
 // import MetroCard from '@/components/cards/MetroCard.vue'
 // import AgencyCard from '@/components/cards/AgencyCard.vue'
-import { convertDatetimeToISO8601Format, getCommonStyleDateString } from '@/utils/formatDate'
+import {
+  convertDatetimeToISO8601Format,
+  getCommonStyleDateString
+} from '@/utils/formatDate'
 
 export default Vue.extend({
   components: {
@@ -113,6 +121,7 @@ export default Vue.extend({
     WhatsNewJapan,
     StaticInfo,
     ConfirmedCasesNumberCard,
+    HospitalizedPatientsCard,
     ConfirmedCasesDetailsCard,
     InspectionPersonsNumberCard,
     // TestedCasesDetailsCard,

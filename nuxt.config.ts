@@ -21,7 +21,8 @@ const config: Configuration = {
       {
         hid: 'keywords',
         property: 'keywords',
-        content: '福井県, コロナウイルス, 対策サイト, 福井高専, covid19, コロナ, 対策, 公認サイト, 公式, 動向, 陽性患者数, 陽性患者, お問い合わせ件数, 問い合わせ'
+        content:
+          '福井県, コロナウイルス, 対策サイト, 福井高専, covid19, コロナ, 対策, 公認サイト, 公式, 動向, 陽性患者数, 陽性患者, お問い合わせ件数, 問い合わせ'
       },
       {
         hid: 'og:url',
@@ -128,7 +129,12 @@ const config: Configuration = {
     '@nuxtjs/proxy',
     ['@nuxtjs/moment', ['ja']],
     '@nuxtjs/axios',
-    ['nuxt-leaflet', { /* module options */ }]
+    [
+      'nuxt-leaflet',
+      {
+        /* module options */
+      }
+    ]
   ],
   /*
    ** vuetify module configuration
@@ -183,7 +189,8 @@ const config: Configuration = {
         '/cards/pcr-inspection-reports-number-card',
         '/cards/attributes-of-confirmed-cases',
         '/cards/number-of-inspection-persons',
-        '/cards/each-sex-age-number-positive'
+        '/cards/each-sex-age-number-positive',
+        '/cards/number-of-hospitalized-patients'
       ]
 
       const routes: string[] = []

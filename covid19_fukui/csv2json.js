@@ -81,69 +81,73 @@ const files = {
   inspectionPersons: 'inspection_persons.json', // 検査実施人数
   inspectionSummary: 'inspection_summary.json', // 検査陽性者の状況
   patientsSummary: 'patients_summary.json', // 陽性患者数
-  patients: 'patients.json' // 陽性患者の属性
+  patients: 'patients.json', // 陽性患者の属性
+  hospitaliedPatients: 'hospitalized_patients.json' // 入院患者数
 }
 
 const main = async () => {
   try{
-  // オープンデータ取得
-  for (const source of openDataSource) {
-    const csv = await getCSV(source.url)
-    const json = await csv2json().fromString(csv)
-    source.json = json
-  }
-  // ニュースデータ取得
-  const newsJson = (await axios.get(newsURL)).data
-  const breakingNewsJson = newsJson.breaking_news
-  const fukuiNewsJson = newsJson.fukui_news
-  const japanNewsJson = newsJson.japan_news
+    // オープンデータ取得
+    for (const source of openDataSource) {
+      const csv = await getCSV(source.url)
+      const json = await csv2json().fromString(csv)
+      source.json = json
+    }
+    // ニュースデータ取得
+    const newsJson = (await axios.get(newsURL)).data
+    const breakingNewsJson = newsJson.breaking_news
+    const fukuiNewsJson = newsJson.fukui_news
+    const japanNewsJson = newsJson.japan_news
 
-  // オープンデータ
-  const today = new Date()
-  today.setHours(today.getHours() + 9)
-  const jsonObjectBase = {
-    date: dateFormat.format(today, 'yyyy/MM/dd hh:mm')
-  }
-  // 各JSONを作成
-  const contactsJson = Object.assign({}, jsonObjectBase)
-  const hospitalBedsJson = Object.assign({}, jsonObjectBase)
-  const inspectionPersonsJson = Object.assign({}, jsonObjectBase)
-  const inspectionSummaryJson = Object.assign({}, jsonObjectBase)
-  const patientsJson = Object.assign({}, jsonObjectBase)
-  const patientsSummaryJson = Object.assign({}, jsonObjectBase)
-  // LINQの設定
-  const linq = Enumerable.from(openDataSource)
-  // 各JSONの処理
-  contacts(linq.where(x => x.name === 'call_center').first().json, contactsJson)
-  hospitalBeds(
-    linq.where(x => x.name === 'discharge').first().json,
-    hospitalBedsJson
-  )
-  inspectionPersons(
-    linq.where(x => x.name === 'test_count').first().json,
-    inspectionPersonsJson
-  )
-  inspectionSummary(
-    linq.where(x => x.name === 'patients').first().json,
-    linq.where(x => x.name === 'discharge').first().json,
-    inspectionSummaryJson
-  )
-  patients(linq.where(x => x.name === 'patients').first().json, patientsJson)
-  patientsSummary(
-    linq.where(x => x.name === 'patients').first().json,
-    patientsSummaryJson
-  )
+    // オープンデータ
+    const today = new Date()
+    today.setHours(today.getHours() + 9)
+    const jsonObjectBase = {
+      date: dateFormat.format(today, 'yyyy/MM/dd hh:mm')
+    }
+    // 各JSONを作成
+    const contactsJson = Object.assign({}, jsonObjectBase)
+    const hospitalBedsJson = Object.assign({}, jsonObjectBase)
+    const inspectionPersonsJson = Object.assign({}, jsonObjectBase)
+    const inspectionSummaryJson = Object.assign({}, jsonObjectBase)
+    const patientsJson = Object.assign({}, jsonObjectBase)
+    const patientsSummaryJson = Object.assign({}, jsonObjectBase)
+    const hospitalizedPatientsJson = Object.assign({}, jsonObjectBase)
+    // LINQの設定
+    const linq = Enumerable.from(openDataSource)
+    // 各JSONの処理
+    contacts(linq.where(x => x.name === 'call_center').first().json, contactsJson)
+    hospitalBeds(
+      linq.where(x => x.name === 'discharge').first().json,
+      hospitalBedsJson
+    )
+    inspectionPersons(
+      linq.where(x => x.name === 'test_count').first().json,
+      inspectionPersonsJson
+    )
+    inspectionSummary(
+      linq.where(x => x.name === 'patients').first().json,
+      linq.where(x => x.name === 'discharge').first().json,
+      inspectionSummaryJson
+    )
+    patients(linq.where(x => x.name === 'patients').first().json, patientsJson)
+    patientsSummary(
+      linq.where(x => x.name === 'patients').first().json,
+      patientsSummaryJson
+    )
+    hospitalizedPatients(linq.where(x => x.name === 'discharge').first().json, hospitalizedPatientsJson)
 
-  // 書き出し
-  writeFile(breakingNewsJson, files.breakingNews)
-  writeFile(fukuiNewsJson, files.fukuiNews)
-  writeFile(japanNewsJson, files.japanNews)
-  writeFile(contactsJson, files.contacts)
-  writeFile(hospitalBedsJson, files.hospitalBeds)
-  writeFile(inspectionPersonsJson, files.inspectionPersons)
-  writeFile(inspectionSummaryJson, files.inspectionSummary)
-  writeFile(patientsJson, files.patients)
-  writeFile(patientsSummaryJson, files.patientsSummary)
+    // 書き出し
+    writeFile(breakingNewsJson, files.breakingNews)
+    writeFile(fukuiNewsJson, files.fukuiNews)
+    writeFile(japanNewsJson, files.japanNews)
+    writeFile(contactsJson, files.contacts)
+    writeFile(hospitalBedsJson, files.hospitalBeds)
+    writeFile(inspectionPersonsJson, files.inspectionPersons)
+    writeFile(inspectionSummaryJson, files.inspectionSummary)
+    writeFile(patientsJson, files.patients)
+    writeFile(patientsSummaryJson, files.patientsSummary)
+    writeFile(hospitalizedPatientsJson, files.hospitaliedPatients)
   } catch(e) {
     console.error(e)
     process.exit(1)
@@ -193,16 +197,20 @@ function writeFile(json, fileName) {
  */
 function isUpdateJSON(oldJSON, newJSON) {
   // newJSONはシャローコピーなのでディープコピーを作成
-  const newJSONClone = JSON.parse(JSON.stringify(newJSON) || "null")
+  const newJSONClone = JSON.parse(JSON.stringify(newJSON) || 'null')
   // 各jsonからdateを除去
-  if("date" in oldJSON)
-    delete oldJSON.date
-  if("date" in newJSON)
-    delete newJSONClone.date
-    if("timestamp" in oldJSON)
-    delete oldJSON.timestamp
-    if("timestamp" in newJSON)
-    delete newJSONClone.timestamp
+  if(oldJSON !== null) {
+    if (oldJSON.hasOwnProperty('date'))
+      delete oldJSON.date
+    if (oldJSON.hasOwnProperty('timestamp'))
+      delete oldJSON.timestamp
+  }
+  if(newJSON !== null) {
+    if(newJSON.hasOwnProperty('date'))
+      delete newJSONClone.date
+    if(newJSON.hasOwnProperty('timestamp'))
+      delete newJSONClone.timestamp
+  }
   const oldJSONStr = JSON.stringify(oldJSON)
   const newJSONCloneStr = JSON.stringify(newJSONClone)
   return oldJSONStr !== newJSONCloneStr
@@ -364,8 +372,8 @@ function patientsSummary(json, jsonObject) {
   jsonObject.data = []
   // 最初の日
   const initDay = new Date('2020-02-16')
-  const latestDay = new Date((json.slice(-1)[0]).公表_年月日)
-  const diffDay = parseInt((latestDay - initDay) / (1000 * 60 * 60 * 24)) // 日の差分
+  const today = new Date()
+  const diffDay = parseInt((today - initDay) / (1000 * 60 * 60 * 24)) // 日の差分
   for (let i = 0; i <= diffDay; i++) {
     const targetDay = new Date(initDay.toDateString())
     targetDay.setDate(targetDay.getDate() + i)
@@ -382,6 +390,30 @@ function patientsSummary(json, jsonObject) {
     }
     jsonObject.data.push(newObj)
   }
+}
+
+/**
+ * 日毎の入院患者数をJSONにします
+ * @param {Object} json 元の情報があるJSONオブジェクト
+ * @param {Object} jsonObject 書き出すJSONオブジェクト
+ */
+function hospitalizedPatients(json, jsonObject) {
+  jsonObject.data = []
+  Enumerable.from(json).forEach(row => {
+    const publicationDay = new Date(row.完了_年月日)
+    const publicationDate = dateFormat.format(publicationDay, 'yyyy-MM-dd')
+    const publicationDateString = `${publicationDate}T00:00:00.000+09:00`
+    const positivePatiensNum = parseInt(row.陽性確認_件数)
+    const deadNum = parseInt(row.死亡確認_件数)
+    const dischargeNum = parseInt(row.陰性確認_件数)
+    const hospitalizedNum = positivePatiensNum - deadNum - dischargeNum
+
+    const newObj = {
+      日付: publicationDateString,
+      小計: hospitalizedNum
+    }
+    jsonObject.data.push(newObj)
+  })
 }
 
 const dateFormat = {

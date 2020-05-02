@@ -3,7 +3,7 @@
     <template v-slot:description>
       <slot name="description" />
     </template>
-    <template v-slot:button>
+    <template v-if="isEnableButton" v-slot:button>
       <data-selector
         v-model="dataKind"
         :target-id="chartId"
@@ -55,7 +55,7 @@ import DataView from '@/components/DataView.vue'
 import DataSelector from '@/components/DataSelector.vue'
 import DateSelectSlider from '@/components/DateSelectSlider.vue'
 import DataViewBasicInfoPanel from '@/components/DataViewBasicInfoPanel.vue'
-import { single as color } from '@/utils/colors'
+import { plusMinus as color } from '@/utils/colors'
 
 type Data = {
   dataKind: 'transition' | 'cumulative'
@@ -79,7 +79,7 @@ type Computed = {
     datasets: {
       label: 'transition' | 'cumulative'
       data: number[]
-      backgroundColor: string
+      backgroundColor: string[]
       borderWidth: number
     }[]
   }
@@ -114,6 +114,8 @@ type Props = {
   chartId: string
   chartData: GraphDataType[]
   transitionType: string
+  isEnableButton: boolean
+  forceDataKind: string
   date: string
   unit: string
   url: string
@@ -130,7 +132,12 @@ const options: ThisTypedComponentOptionsWithRecordProps<
     this.canvas = process.browser
     this.sliderUpdate([0, this.sliderMax])
   },
-  components: { DataView, DataSelector, DateSelectSlider, DataViewBasicInfoPanel },
+  components: {
+    DataView,
+    DataSelector,
+    DateSelectSlider,
+    DataViewBasicInfoPanel
+  },
   props: {
     title: {
       type: String,
@@ -147,6 +154,14 @@ const options: ThisTypedComponentOptionsWithRecordProps<
     chartData: {
       type: Array,
       default: () => []
+    },
+    isEnableButton: {
+      type: Boolean,
+      default: true
+    },
+    forceDataKind: {
+      type: String,
+      default: ''
     },
     transitionType: {
       type: String,
@@ -182,6 +197,9 @@ const options: ThisTypedComponentOptionsWithRecordProps<
       return this.formatDayBeforeRatio(lastDay - lastDayBefore)
     },
     displayInfo() {
+      if (this.forceDataKind !== '')
+        this.dataKind =
+          this.forceDataKind === 'transition' ? 'transition' : 'cumulative'
       if (this.dataKind === 'transition') {
         return {
           lText: `${this.chartData.slice(-1)[0].transition.toLocaleString()}`,
@@ -213,7 +231,9 @@ const options: ThisTypedComponentOptionsWithRecordProps<
               data: this.chartData.map(d => {
                 return d.transition
               }),
-              backgroundColor: color,
+              backgroundColor: this.chartData.map(d => {
+                return d.transition >= 0 ? color[0] : color[1]
+              }),
               borderWidth: 0
             }
           ]
@@ -227,7 +247,9 @@ const options: ThisTypedComponentOptionsWithRecordProps<
             data: this.chartData.map(d => {
               return d.cumulative
             }),
-            backgroundColor: color,
+            backgroundColor: this.chartData.map(d => {
+              return d.cumulative >= 0 ? color[0] : color[1]
+            }),
             borderWidth: 0
           }
         ]
@@ -352,7 +374,7 @@ const options: ThisTypedComponentOptionsWithRecordProps<
         return 1
       }
       return this.chartData.length - 1
-    },
+    }
   },
   methods: {
     formatDayBeforeRatio(dayBeforeRatio: number): string {

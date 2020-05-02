@@ -3,6 +3,9 @@
     <confirmed-cases-details-card
       v-if="this.$route.params.card == 'details-of-confirmed-cases'"
     />
+    <hospitalized-patients-card
+      v-if="this.$route.params.card == 'number-of-hospitalized-patients'"
+    />
     <!-- <tested-cases-details-card
       v-else-if="this.$route.params.card == 'details-of-tested-cases'"
     /> -->
@@ -47,6 +50,8 @@
 import InspectionPersons from '@/data/inspection_persons.json'
 // 陽性患者の属性
 import InspectionsSummary from '@/data/inspection_summary.json'
+// 入院患者数
+import HospitalizedPatients from '@/data/hospitalized_patients.json'
 // 感染症病床使用率
 import HospitalBeds from '@/data/hospital_beds.json'
 // 陽性患者数
@@ -61,6 +66,7 @@ import Contacts from '@/data/contacts.json'
 import ConfirmedCasesDetailsCard from '@/components/cards/ConfirmedCasesDetailsCard.vue'
 // import TestedCasesDetailsCard from '@/components/cards/TestedCasesDetailsCard.vue'
 import ConfirmedCasesNumberCard from '@/components/cards/ConfirmedCasesNumberCard.vue'
+import HospitalizedPatientsCard from '@/components/cards/HospitalizedPatientsCard.vue'
 import ConfirmedCasesAttributesCard from '@/components/cards/ConfirmedCasesAttributesCard.vue'
 // import TestedNumåberCard from '@/components/cards/TestedNumberCard.vue'
 import InspectionPersonsNumberCard from '@/components/cards/InspectionPersonsNumberCard.vue'
@@ -83,6 +89,7 @@ import MaskInventoryCard from '@/components/cards/MaskInventoryCard.vue'
 export default {
   components: {
     ConfirmedCasesDetailsCard,
+    HospitalizedPatientsCard,
     // TestedCasesDetailsCard,
     ConfirmedCasesNumberCard,
     ConfirmedCasesAttributesCard,
@@ -91,7 +98,7 @@ export default {
     HospitalBedsNumberCard,
     InformationNumberCard,
     EachSexAgeNumberPositiveCard,
-    MaskInventoryCard,
+    MaskInventoryCard
     // ConsultationDeskReportsNumberCard,
     // MetroCard,
     // AgencyCard,
@@ -109,6 +116,10 @@ export default {
       //   title = this.$t('検査実施状況')
       //   updatedAt = InspectionsSummary.date
       //   break
+      case 'hospitalied-patients':
+        title = this.$t('入院患者数')
+        updatedAt = HospitalizedPatients.date
+        break
       case 'number-of-confirmed-cases':
         title = this.$t('陽性患者数')
         updatedAt = PatientsSummary.date
@@ -120,7 +131,7 @@ export default {
       // case 'number-of-tested':
       //   title = this.$t('検査実施件数')
       //   updatedAt = InspectionsSummary.date
-        break
+      // break
       case 'number-of-inspection-persons':
         title = this.$t('検査実施人数')
         updatedAt = InspectionPersons.date
@@ -154,7 +165,7 @@ export default {
         title = this.$t('コールセンターお問合せ件数')
         updatedAt = Contacts.date
         break
-      
+
       case 'each-sex-age-number-positive':
         title = this.$t('年代別の陽性患者数')
         updatedAt = PatientsSummary.date
@@ -174,7 +185,7 @@ export default {
   },
   head() {
     const url = 'https://covid19-fukui.com'
-    const timestamp = new Date().getTime()
+    // const timestamp = new Date().getTime()
     const ogpImage = this.$tc('ogp.og:image')
     const description = `${this.updatedAt} | ${this.$t(
       '当サイトは福井県における新型コロナウイルス感染症 (COVID-19) に関する最新情報を提供するために、福井高専生卒の野村弘樹が開設したものです'
