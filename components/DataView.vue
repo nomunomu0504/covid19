@@ -32,7 +32,7 @@
               target="_blank"
               rel="noopener"
             >
-              ソースはこちら
+              {{ $t('ソースはこちら') }}
               <v-icon
                 class="ExternalLinkIcon"
                 size="15"
@@ -99,7 +99,7 @@
 
             <div class="Buttons">
               <button
-                :aria-label="$t('Lineで{title}のグラフをシェア', { title })"
+                :aria-label="$t('LINEで{title}のグラフをシェア', { title })"
                 @click="line"
               >
                 <picture>
@@ -131,7 +131,7 @@
               </button>
 
               <button
-                :aria-label="$t('facebookで{title}のグラフをシェア', { title })"
+                :aria-label="$t('Facebookで{title}のグラフをシェア', { title })"
                 @click="facebook"
               >
                 <picture>
@@ -257,8 +257,10 @@ export default Vue.extend({
         'https://twitter.com/intent/tweet?text=' +
         this.title +
         ' / ' +
-        this.$t('福井県公認') + ' ' +
-        this.$t('新型コロナウイルス感染症') + ' ' +
+        this.$t('福井県公認') +
+        ' ' +
+        this.$t('新型コロナウイルス感染症') +
+        ' ' +
         this.$t('対策サイト') +
         '&url=' +
         this.permalink(true) +

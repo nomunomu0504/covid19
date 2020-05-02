@@ -36,11 +36,6 @@
               </span>
               {{ $t('8:30~17:15') }}
             </li>
-            <li>
-              <span :class="$style.fzMedium">
-                {{ $t('平日のみ') }}
-              </span>
-            </li>
           </ul>
         </dt>
         <dd>
@@ -49,14 +44,6 @@
               <PhoneIcon alt="Phone" />
             </span>
             <a href="tel:0776200250">0776-20-0250</a>
-          </div>
-          <div
-            v-if="!['ja', 'ja-basic'].includes($i18n.locale)"
-            :class="[$style.phone, $style.fzNumeric]"
-          >
-            <span :class="[$style.fzMedium, $style.break, $style.mb10]">
-              {{ $t('ひまわり') }}
-            </span>
           </div>
         </dd>
       </div>
