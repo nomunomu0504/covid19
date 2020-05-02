@@ -1,6 +1,11 @@
 {
-    "timestamp": 1588410377,
+    "timestamp": 1588421277,
     "info": [
+        {
+            "title": "北陸新幹線の車掌が新型コロナ感染",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1079745",
+            "published_at": "2020/05/02 20:05"
+        },
         {
             "title": "黄金色のオニオコゼ、市場で発見",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1079620",
@@ -30,11 +35,6 @@
             "title": "コロナ禍と改憲論議",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1079541",
             "published_at": "2020/05/02 07:30"
-        },
-        {
-            "title": "見延和靖選手「困難乗り越え未来を」",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1079268",
-            "published_at": "2020/05/02 07:20"
         }
     ]
 }
