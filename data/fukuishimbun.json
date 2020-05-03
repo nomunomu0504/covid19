@@ -1,6 +1,11 @@
 {
-    "timestamp": 1588471626,
+    "timestamp": 1588475184,
     "info": [
+        {
+            "title": "石川県で新型コロナ新たに6人感染、計260人に",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1079984",
+            "published_at": "2020/05/03 12:00"
+        },
         {
             "title": "マスク品薄、企業はどこで購入？",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1079974",
@@ -25,11 +30,6 @@
             "title": "北陸新幹線の車掌が新型コロナ感染",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1079745",
             "published_at": "2020/05/02 21:00"
-        },
-        {
-            "title": "黄金色のオニオコゼ、市場で発見",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1079620",
-            "published_at": "2020/05/02 17:10"
         }
     ]
 }
