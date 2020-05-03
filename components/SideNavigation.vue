@@ -41,7 +41,8 @@
       </nav>
 
       <footer class="SideNavigation-Footer">
-        {{ $t('※このサイトは福井高専卒のエンジニアが開設したものです') }}
+        {{ $t('※') }}
+        {{ $t('このサイトは福井高専卒のエンジニアが開設したものです') }}
         <br /><br />
         <div class="SideNavigation-Social">
           <a
