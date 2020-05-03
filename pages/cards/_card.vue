@@ -4,7 +4,7 @@
       v-if="this.$route.params.card == 'details-of-confirmed-cases'"
     />
     <hospitalized-patients-card
-      v-if="this.$route.params.card == 'hospitalized-patients'"
+      v-if="this.$route.params.card == 'number-of-hospitalized-patients'"
     />
     <!-- <tested-cases-details-card
       v-else-if="this.$route.params.card == 'details-of-tested-cases'"
