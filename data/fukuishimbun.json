@@ -1,10 +1,15 @@
 {
-    "timestamp": 1588496844,
+    "timestamp": 1588500375,
     "info": [
         {
-            "title": "石川県で新型コロナ患者2人死亡、新たに4人感染",
+            "title": "石川県金沢市、かほく市の新型コロナ患者2人死亡",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1080077",
-            "published_at": "2020/05/03 17:27"
+            "published_at": "2020/05/03 19:00"
+        },
+        {
+            "title": "京都府で新型コロナ新たに3人感染",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1080092",
+            "published_at": "2020/05/03 18:17"
         },
         {
             "title": "福井県、濃厚接触者のホテル入所検討",
@@ -25,11 +30,6 @@
             "title": "マスク品薄、企業はどこで購入？",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1079974",
             "published_at": "2020/05/03 11:00"
-        },
-        {
-            "title": "新型コロナウイルスによる外出の自…",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1079958",
-            "published_at": "2020/05/03 07:20"
         }
     ]
 }
