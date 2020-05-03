@@ -1,6 +1,16 @@
 {
-    "timestamp": 1588493226,
+    "timestamp": 1588496844,
     "info": [
+        {
+            "title": "石川県で新型コロナ患者2人死亡、新たに4人感染",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1080077",
+            "published_at": "2020/05/03 17:27"
+        },
+        {
+            "title": "福井県、濃厚接触者のホテル入所検討",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1080011",
+            "published_at": "2020/05/03 17:10"
+        },
         {
             "title": "福井県で新たな新型コロナ感染者なし",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1079993",
@@ -20,16 +30,6 @@
             "title": "新型コロナウイルスによる外出の自…",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1079958",
             "published_at": "2020/05/03 07:20"
-        },
-        {
-            "title": "災害時避難所、新型コロナ対策急務",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1079759",
-            "published_at": "2020/05/03 07:20"
-        },
-        {
-            "title": "清水邦広選手「いまを大切にして」",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1079755",
-            "published_at": "2020/05/03 07:10"
         }
     ]
 }
