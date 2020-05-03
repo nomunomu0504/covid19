@@ -1,6 +1,11 @@
 {
-    "timestamp": 1588460745,
+    "timestamp": 1588471626,
     "info": [
+        {
+            "title": "マスク品薄、企業はどこで購入？",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1079974",
+            "published_at": "2020/05/03 11:00"
+        },
         {
             "title": "新型コロナウイルスによる外出の自…",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1079958",
@@ -25,11 +30,6 @@
             "title": "黄金色のオニオコゼ、市場で発見",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1079620",
             "published_at": "2020/05/02 17:10"
-        },
-        {
-            "title": "緊急事態宣言延長「賛成」９割超",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1079657",
-            "published_at": "2020/05/02 17:00"
         }
     ]
 }
