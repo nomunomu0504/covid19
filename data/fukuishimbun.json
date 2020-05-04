@@ -1,6 +1,11 @@
 {
-    "timestamp": 1588583135,
+    "timestamp": 1588586750,
     "info": [
+        {
+            "title": "新型コロナ、石川県で新たに3人感染",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1080447",
+            "published_at": "2020/05/04 18:00"
+        },
         {
             "title": "緊急事態宣言5月31日まで延長",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1080448",
@@ -25,11 +30,6 @@
             "title": "休業対象外のホームセンターが密状態",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1080115",
             "published_at": "2020/05/04 07:20"
-        },
-        {
-            "title": "休校中の子のケア、成長見つけ褒めて",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1080136",
-            "published_at": "2020/05/04 07:10"
         }
     ]
 }
