@@ -5,9 +5,9 @@
         mdi-information
       </v-icon>
       {{ $t('最新のお知らせ（国内）') }}
-      <a class="WhatsNew-heading-link" :href="this.localePath('/japan-news')">{{
-        $t('一覧はこちらから')
-      }}</a>
+      <a class="WhatsNew-heading-link" :href="this.localePath('/japan-news')">
+        {{ $t('一覧はこちらから') }}
+      </a>
     </h3>
     <ul class="WhatsNewJapan-list">
       <li

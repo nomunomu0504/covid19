@@ -52,11 +52,6 @@
           </div>
           <span>{{ $t('8:30~17:15') }}</span>
         </div>
-        <div class="mt-1">
-          <span :class="$style.AdvisoryContentsSubTitle">
-            {{ $t('平日のみ') }}
-          </span>
-        </div>
         <div
           :class="[
             $style.AdvisoryTelephoneArea,
@@ -73,9 +68,6 @@
             />
             0776-20-0250
           </a>
-        </div>
-        <div v-if="!['ja', 'ja-basic'].includes($i18n.locale)" class="pt-8">
-          <span>{{ $t('ひまわり') }}</span>
         </div>
       </div>
     </div>

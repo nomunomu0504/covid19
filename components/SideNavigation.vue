@@ -16,9 +16,8 @@
             :alt="$t('福井県')"
           />
           <div class="SideNavigation-HeaderText">
-            {{ $t('福井県公認 新型コロナウイルス') }}<br />{{
-              $t('対策サイト')
-            }}
+            {{ $t('福井県公認 新型コロナウイルス') }}<br />
+            {{ $t('対策サイト') }}
           </div>
         </nuxt-link>
       </h1>
@@ -47,7 +46,9 @@
       </nav>
 
       <footer class="SideNavigation-Footer">
-        {{ $t('※このサイトは福井高専卒のエンジニアが開設したものです') }}<br /><br />
+        {{ $t('※') }}
+        {{ $t('このサイトは福井高専卒のエンジニアが開設したものです') }}
+        <br /><br />
         <div class="SideNavigation-Social">
           <a
             href="https://twitter.com/covid19_fukui"

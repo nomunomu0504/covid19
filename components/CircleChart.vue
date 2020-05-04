@@ -2,14 +2,14 @@
   <data-view :title="title" :title-id="titleId" :date="date" :url="url">
     <template v-slot:button>
       <p class="Graph-Desc">
+        {{ $t('(注)') }}
         {{
           $t(
-            '（ 注 ）福井県から情報が提供されていないため、あくまでも参考値となります'
+            '福井県から情報が提供されていないため、あくまでも参考値となります'
           )
         }}<br />
-        {{
-          $t('（ 注 ）現在患者数 = 累計陽性患者数 - 退院済患者数 - 死亡者数')
-        }}
+        {{ $t('(注)') }}
+        {{ $t('現在患者数 = 累計陽性患者数 - 退院済患者数 - 死亡者数') }}
       </p>
     </template>
     <pie-chart
