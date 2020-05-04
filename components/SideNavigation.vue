@@ -16,9 +16,8 @@
             :alt="$t('福井県')"
           />
           <div class="SideNavigation-HeaderText">
-            {{ $t('福井県公認 新型コロナウイルス') }}<br />{{
-              $t('対策サイト')
-            }}
+            {{ $t('福井県公認 新型コロナウイルス') }}<br />
+            {{ $t('対策サイト') }}
           </div>
         </nuxt-link>
       </h1>
@@ -42,7 +41,9 @@
       </nav>
 
       <footer class="SideNavigation-Footer">
-        {{ $t('※このサイトは福井高専卒のエンジニアが開設したものです') }}<br /><br />
+        {{ $t('※') }}
+        {{ $t('このサイトは福井高専卒のエンジニアが開設したものです') }}
+        <br /><br />
         <div class="SideNavigation-Social">
           <a
             href="https://twitter.com/covid19_fukui"
@@ -86,9 +87,14 @@
         </picture>
         <small class="SideNavigation-Copyright-license">
           Content on This Site is Licensed Under a
-          <a rel="license" target="_blank" href="http://creativecommons.org/licenses/by/4.0/">
-          Creative Commons Attribution 4.0 International License </a>provided under<br/>
-          2020 Tokyo Metropolitan Government<br/>
+          <a
+            rel="license"
+            target="_blank"
+            href="http://creativecommons.org/licenses/by/4.0/"
+          >
+            Creative Commons Attribution 4.0 International License </a
+          >provided under<br />
+          2020 Tokyo Metropolitan Government<br />
           © 2020 covid19-fukui.com
         </small>
       </footer>

@@ -2,8 +2,10 @@
   <data-view :title="title" :title-id="titleId" :date="date" :url="url">
     <template v-slot:button>
       <p class="Graph-Desc">
-          {{ $t('（ 注 ）福井県における陽性患者数を年代別で表示しています') }}<br/>
-          {{ $t('（ 注 ）この値はこれまでの累積値です') }}
+        {{ $t('(注)') }}
+        {{ $t('福井県における陽性患者数を年代別で表示しています') }}<br />
+        {{ $t('(注)') }}
+        {{ $t('この値はこれまでの累積値です') }}
       </p>
     </template>
     <horizontal-bar
@@ -37,9 +39,7 @@ type Data = {
   canvas: boolean
   valueOfEachAge: number[]
 }
-type Methods = {
-  
-}
+type Methods = {}
 type Computed = {
   displayInfo: {
     lText: string
@@ -51,7 +51,7 @@ type Computed = {
     datasets: {
       label: TranslateResult
       data: number[]
-      backgroundColor: string,
+      backgroundColor: string
       borderWidth: number
     }[]
   }
@@ -59,8 +59,8 @@ type Computed = {
     tooltips: {
       displayColors: boolean
       callbacks: {
-          label(tooltipItem: any): string
-          title(tooltipItem: any[], data: any): string | undefined
+        label(tooltipItem: any): string
+        title(tooltipItem: any[], data: any): string | undefined
       }
     }
     scales: object
@@ -140,47 +140,47 @@ const options: ThisTypedComponentOptionsWithRecordProps<
   computed: {
     displayInfo() {
       return {
-        lText: "",
-        sText: "",
-        unit: ""
+        lText: '',
+        sText: '',
+        unit: ''
       }
     },
     displayData() {
-      this.valueOfEachAge = [0,0,0,0,0,0,0,0,0,0]
+      this.valueOfEachAge = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
       this.chartData.map((d: any) => {
-        switch (d["年代"]) {
-            case "10歳未満":
-                this.valueOfEachAge[9] += 1      
-                break;
-            case "10代":
-                this.valueOfEachAge[8] += 1      
-                break;
-            case "20代":
-                this.valueOfEachAge[7] += 1      
-                break;
-            case "30代":
-                this.valueOfEachAge[6] += 1      
-                break;
-            case "40代":
-                this.valueOfEachAge[5] += 1      
-                break;
-            case "50代":
-                this.valueOfEachAge[4] += 1      
-                break;
-            case "60代":
-                this.valueOfEachAge[3] += 1      
-                break;
-            case "70代":
-                this.valueOfEachAge[2] += 1      
-                break;
-            case "80代":
-                this.valueOfEachAge[1] += 1      
-                break;
-            case "90代":
-                this.valueOfEachAge[0] += 1      
-                break;
-            default:
-                break;
+        switch (d['年代']) {
+          case '10歳未満':
+            this.valueOfEachAge[9] += 1
+            break
+          case '10代':
+            this.valueOfEachAge[8] += 1
+            break
+          case '20代':
+            this.valueOfEachAge[7] += 1
+            break
+          case '30代':
+            this.valueOfEachAge[6] += 1
+            break
+          case '40代':
+            this.valueOfEachAge[5] += 1
+            break
+          case '50代':
+            this.valueOfEachAge[4] += 1
+            break
+          case '60代':
+            this.valueOfEachAge[3] += 1
+            break
+          case '70代':
+            this.valueOfEachAge[2] += 1
+            break
+          case '80代':
+            this.valueOfEachAge[1] += 1
+            break
+          case '90代':
+            this.valueOfEachAge[0] += 1
+            break
+          default:
+            break
         }
       })
 
@@ -188,7 +188,7 @@ const options: ThisTypedComponentOptionsWithRecordProps<
         labels: this.labels,
         datasets: [
           {
-            label: this.$t("陽性者数"),
+            label: this.$t('陽性者数'),
             data: this.valueOfEachAge,
             backgroundColor: color,
             borderWidth: 0
@@ -197,39 +197,47 @@ const options: ThisTypedComponentOptionsWithRecordProps<
       }
     },
     displayOption() {
-        // const unit = this.unit
-        const valueOfEachAge = this.valueOfEachAge
-        const _this = this
+      // const unit = this.unit
+      const valueOfEachAge = this.valueOfEachAge
+      const _this = this
 
-        const options = {
-            tooltips: {
-                displayColors: false,
-                callbacks: {
-                    label(tooltipItem: any) {
-                      return `${_this.$t('陽性者数')}: ${valueOfEachAge[tooltipItem.index]}`
-                    },
-                    title(tooltipItem: any, data: any) {
-                      return `${data.labels[tooltipItem[0].index]} ${_this.$t('陽性者数')}`
-                    }
-                }
+      const options = {
+        tooltips: {
+          displayColors: false,
+          callbacks: {
+            label(tooltipItem: any) {
+              return `${_this.$t('陽性者数')}: ${
+                valueOfEachAge[tooltipItem.index]
+              }`
             },
-            scales: {
-                xAxes: [{
-                    stacked: true,
-                    ticks: {
-                        suggestedMax: 50,
-                        suggestedMin: 0,
-                        stepSize: 5
-                    }
-                }],
-                yAxes: [{
-                    stacked: true,
-                }]
+            title(tooltipItem: any, data: any) {
+              return `${data.labels[tooltipItem[0].index]} ${_this.$t(
+                '陽性者数'
+              )}`
             }
+          }
+        },
+        scales: {
+          xAxes: [
+            {
+              stacked: true,
+              ticks: {
+                suggestedMax: 50,
+                suggestedMin: 0,
+                stepSize: 5
+              }
+            }
+          ],
+          yAxes: [
+            {
+              stacked: true
+            }
+          ]
         }
-        return options
+      }
+      return options
     }
-  },
+  }
 }
 
 export default Vue.extend(options)
