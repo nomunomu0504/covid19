@@ -1,6 +1,11 @@
 {
-    "timestamp": 1588547152,
+    "timestamp": 1588565273,
     "info": [
+        {
+            "title": "福井県で新たな新型コロナ感染者なし",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1080355",
+            "published_at": "2020/05/04 12:25"
+        },
         {
             "title": "新型コロナと差別",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1080308",
@@ -30,11 +35,6 @@
             "title": "京都府で新型コロナ新たに3人感染",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1080092",
             "published_at": "2020/05/03 18:17"
-        },
-        {
-            "title": "福井県、濃厚接触者のホテル入所検討",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1080011",
-            "published_at": "2020/05/03 17:10"
         }
     ]
 }
