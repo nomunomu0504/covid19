@@ -247,9 +247,13 @@
   "在庫あり": "In stock",
   "営業時間": "business hours",
   "県内のゲンキー店舗と在庫状況": "Genky shops in the prefecture and the face mask availabilities",
-  "入院患者数": "入院患者数",
-  "その日の入院患者数を表しています": "その日の入院患者数を表しています",
-  "入院患者数 = 前日の入院患者数 + 新たな入院件数 - 退院件数 - 死亡件数 と計算しています": "入院患者数 = 前日の入院患者数 + 新たな入院件数 - 退院件数 - 死亡件数 と計算しています",
+  "入院患者数": "Number of hospitalized patients",
+  "その日の入院患者数を表しています": "It shows the number of hospitalized patients on that day.",
+  "入院患者数 = 前日の入院患者数 + 新たな入院件数 - 退院件数 - 死亡件数 と計算しています": "The number of hospitalized patients is calculated as the number of hospitalized patients on the previous day + the number of new hospitalized patients  - the number of discharge - the number of deaths.",
+  "介護従事者": "Care workers",
+  "医師": "Doctor",
+  "自営手伝い": "self-employed helper",
+  "飲食業": "Restaurant business",
   "ogp": {
     "og:image": "https://covid19-fukui.com/official_ogp.png"
   }
