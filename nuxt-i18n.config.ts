@@ -34,48 +34,48 @@ export default {
       iso: 'ja-JP',
       file: 'ja-Hira.json',
       description: 'Easy Japanese'
-    },
-    {
-      code: 'zh-cn',
-      name: '简体中文',
-      iso: 'zh-CN',
-      file: 'zh_CN.json',
-      description: 'Simplified Chinese'
-    },
-    {
-      code: 'zh-tw',
-      name: '繁體中文',
-      iso: 'zh-TW',
-      file: 'zh_TW.json',
-      description: 'Traditional Chinese'
-    },
-    {
-      code: 'ko',
-      name: '한국어',
-      iso: 'ko-KR',
-      file: 'ko.json',
-      description: 'Korean'
-    },
-    {
-      code: 'pt-BR',
-      name: 'Portuguese',
-      iso: 'pt-BR',
-      file: 'pt_BR.json',
-      description: 'Portuguese'
-    },
-    {
-      code: 'th',
-      name: 'ภาษาไทย',
-      iso: 'th',
-      file: 'th.json',
-      description: 'Thai'
-    },
-    {
-      code: 'vi',
-      name: 'Tiếng Việt',
-      iso: 'vi',
-      file: 'vi.json',
-      description: 'Vietnamese'
     }
+    // {
+    //   code: 'zh-cn',
+    //   name: '简体中文',
+    //   iso: 'zh-CN',
+    //   file: 'zh_CN.json',
+    //   description: 'Simplified Chinese'
+    // },
+    // {
+    //   code: 'zh-tw',
+    //   name: '繁體中文',
+    //   iso: 'zh-TW',
+    //   file: 'zh_TW.json',
+    //   description: 'Traditional Chinese'
+    // },
+    // {
+    //   code: 'ko',
+    //   name: '한국어',
+    //   iso: 'ko-KR',
+    //   file: 'ko.json',
+    //   description: 'Korean'
+    // },
+    // {
+    //   code: 'pt-BR',
+    //   name: 'Portuguese',
+    //   iso: 'pt-BR',
+    //   file: 'pt_BR.json',
+    //   description: 'Portuguese'
+    // },
+    // {
+    //   code: 'th',
+    //   name: 'ภาษาไทย',
+    //   iso: 'th',
+    //   file: 'th.json',
+    //   description: 'Thai'
+    // },
+    // {
+    //   code: 'vi',
+    //   name: 'Tiếng Việt',
+    //   iso: 'vi',
+    //   file: 'vi.json',
+    //   description: 'Vietnamese'
+    // }
   ]
 }
