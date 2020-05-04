@@ -1,6 +1,11 @@
 {
-    "timestamp": 1588565273,
+    "timestamp": 1588579561,
     "info": [
+        {
+            "title": "マスクでも眼鏡くもらないクリーナー",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1080381",
+            "published_at": "2020/05/04 17:00"
+        },
         {
             "title": "福井県で新たな新型コロナ感染者なし",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1080355",
@@ -30,11 +35,6 @@
             "title": "石川県金沢市、かほく市の新型コロナ患者2人死亡",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1080077",
             "published_at": "2020/05/03 19:00"
-        },
-        {
-            "title": "京都府で新型コロナ新たに3人感染",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1080092",
-            "published_at": "2020/05/03 18:17"
         }
     ]
 }
