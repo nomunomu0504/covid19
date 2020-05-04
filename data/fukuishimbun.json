@@ -1,6 +1,11 @@
 {
-    "timestamp": 1588579561,
+    "timestamp": 1588583135,
     "info": [
+        {
+            "title": "緊急事態宣言5月31日まで延長",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1080448",
+            "published_at": "2020/05/04 17:35"
+        },
         {
             "title": "マスクでも眼鏡くもらないクリーナー",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1080381",
@@ -25,16 +30,6 @@
             "title": "休校中の子のケア、成長見つけ褒めて",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1080136",
             "published_at": "2020/05/04 07:10"
-        },
-        {
-            "title": "三谷元騎選手「悔しさを次の夢に」",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1080082",
-            "published_at": "2020/05/04 07:00"
-        },
-        {
-            "title": "石川県金沢市、かほく市の新型コロナ患者2人死亡",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1080077",
-            "published_at": "2020/05/03 19:00"
         }
     ]
 }
