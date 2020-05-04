@@ -26,16 +26,16 @@ export default {
   data() {
     // 年代グラフラベル
     const graphLabels = [
-      this.$t("90代"),
-      this.$t("80代"),
-      this.$t("70代"),
-      this.$t("60代"),
-      this.$t("50代"),
-      this.$t("40代"),
-      this.$t("30代"),
-      this.$t("20代"),
-      this.$t("10代"),
-      this.$t("10代未満")
+      this.$t('90代'),
+      this.$t('80代'),
+      this.$t('70代'),
+      this.$t('60代'),
+      this.$t('50代'),
+      this.$t('40代'),
+      this.$t('30代'),
+      this.$t('20代'),
+      this.$t('10代'),
+      this.$t('10歳未満')
     ]
 
     return {

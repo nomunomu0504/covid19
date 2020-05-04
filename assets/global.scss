@@ -23,3 +23,17 @@ img {
 *:focus {
   outline: dotted $gray-3 1px;
 }
+
+.v-btn:not(.v-btn--round).v-size--default {
+  height: unset !important;
+  min-width: 64px;
+  padding: 8px 16px !important;
+}
+
+.StaticInfo-Button {
+  width: 100%;
+}
+
+.v-btn__content {
+  max-width: 100%;
+}

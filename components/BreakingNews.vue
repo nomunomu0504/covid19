@@ -24,7 +24,7 @@
           <v-icon left small>
             mdi-bullhorn
           </v-icon>
-          <span style="font-weight: bold">{{
+          <span style="font-weight: bold; white-space: normal;">{{
             $t('福井県緊急事態宣言について')
           }}</span>
           <v-icon right small>

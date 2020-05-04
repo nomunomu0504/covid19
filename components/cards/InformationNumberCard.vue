@@ -1,12 +1,12 @@
 <template>
   <v-col cols="12" md="6" class="DataCard">
     <time-bar-chart
-      :title="'コールセンター相談件数'"
+      :title="$t('コールセンター相談件数')"
       :title-id="'information-number-card'"
       :chart-id="'information-number-card'"
       :chart-data="contactsGraph"
       :date="updatedAt"
-      :unit="'件'"
+      :unit="$t('件.reports')"
     />
   </v-col>
 </template>
@@ -25,7 +25,7 @@ export default {
     return {
       Contacts,
       // 検査実施週別状況
-      contactsGraph: formatGraph(Contacts.data),
+      contactsGraph: formatGraph(Contacts.data)
     }
   },
   computed: {

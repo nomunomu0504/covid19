@@ -5,7 +5,9 @@
         mdi-information
       </v-icon>
       {{ $t('福井新聞社の速報（RSS）') }}
-      <a class="WhatsNew-heading-link" :href="this.localePath('/rss-news')">一覧はこちらから</a>
+      <a class="WhatsNew-heading-link" :href="this.localePath('/rss-news')">{{
+        $t('一覧はこちらから')
+      }}</a>
     </h3>
     <ul class="WhatsNew-list">
       <li
@@ -49,24 +51,28 @@ import { convertDateToISO8601Format } from '@/utils/formatDate'
 import fukuishimbun from '@/data/fukuishimbun.json'
 
 export default Vue.extend({
+  async created() {
+    try {
+      const res = await axios.get('/api/v1/rss/fukuishimbun', { timeout: 5000 })
+      const info = res.data.info.map((e: any) => {
+        return {
+          title: e.title,
+          link: e.link,
+          published_at: moment.unix(e.published_at).format('YYYY/MM/DD HH:mm')
+        }
+      })
+      this.$store.commit('setInfo', info)
+    } catch (error) {
+      // console.error(error)
+      this.$store.commit('setInfo', fukuishimbun.info)
+    }
+  },
   methods: {
     isInternalLink(path: string): boolean {
       return !/^https?:\/\//.test(path)
     },
     formattedDate(dateString: string) {
       return convertDateToISO8601Format(dateString)
-    }
-  },
-  async created() {
-    try {
-      const res = await axios.get('/api/v1/rss/fukuishimbun', {timeout: 5000})
-      const info = res.data.info.map((e: any) => {
-        return {title: e.title, link: e.link, published_at: moment.unix(e.published_at).format('YYYY/MM/DD HH:mm') }
-      })
-      this.$store.commit('setInfo', info)
-    } catch(error) {
-      //console.error(error)
-      this.$store.commit('setInfo', fukuishimbun.info)
     }
   }
 })
