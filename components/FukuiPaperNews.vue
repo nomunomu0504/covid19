@@ -5,7 +5,7 @@
         mdi-information
       </v-icon>
       {{ $t('福井新聞社の速報（RSS）') }}
-      <a class="WhatsNew-heading-link" :href="this.localePath('/rss-news')">{{
+      <a class="WhatsNew-heading-link" :href="localePath('/rss-news')">{{
         $t('一覧はこちらから')
       }}</a>
     </h3>
@@ -54,11 +54,11 @@ export default Vue.extend({
   async created() {
     try {
       const res = await axios.get('/api/v1/rss/fukuishimbun', { timeout: 5000 })
-      const info = res.data.info.map((e: any) => {
+      const info = res.data.rssList.map((e: any) => {
         return {
           title: e.title,
           link: e.link,
-          published_at: moment.unix(e.published_at).format('YYYY/MM/DD HH:mm')
+          published_at: moment.unix(e.publishedAt).format('YYYY/MM/DD HH:mm')
         }
       })
       this.$store.commit('setInfo', info)
