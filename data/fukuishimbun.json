@@ -1,6 +1,11 @@
 {
-    "timestamp": 1588633551,
+    "timestamp": 1588644324,
     "info": [
+        {
+            "title": "新型コロナ感染防止、美容業界の工夫",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1080772",
+            "published_at": "2020/05/05 11:00"
+        },
         {
             "title": "「門の草芽出すやいなやむしらるる…",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1080707",
@@ -30,11 +35,6 @@
             "title": "緊急事態宣言5月31日まで延長",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1080448",
             "published_at": "2020/05/04 17:35"
-        },
-        {
-            "title": "マスクでも眼鏡くもらないクリーナー",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1080381",
-            "published_at": "2020/05/04 17:00"
         }
     ]
 }
