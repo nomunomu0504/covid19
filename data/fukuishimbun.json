@@ -1,6 +1,11 @@
 {
-    "timestamp": 1588669568,
+    "timestamp": 1588716503,
     "info": [
+        {
+            "title": "福井の上空に虹色の光の輪くっきり",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1080971",
+            "published_at": "2020/05/06 07:00"
+        },
         {
             "title": "石川県の70代男性、新型コロナ感染",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1080914",
@@ -30,11 +35,6 @@
             "title": "新型コロナ感染防止、美容業界の工夫",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1080772",
             "published_at": "2020/05/05 11:00"
-        },
-        {
-            "title": "「門の草芽出すやいなやむしらるる…",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1080707",
-            "published_at": "2020/05/05 07:20"
         }
     ]
 }
