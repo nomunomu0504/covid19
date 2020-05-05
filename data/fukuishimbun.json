@@ -1,6 +1,11 @@
 {
-    "timestamp": 1588666848,
+    "timestamp": 1588669568,
     "info": [
+        {
+            "title": "石川県の70代男性、新型コロナ感染",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1080914",
+            "published_at": "2020/05/05 17:31"
+        },
         {
             "title": "和紙の神様へ「リモート参拝」",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1080845",
@@ -29,11 +34,6 @@
         {
             "title": "「門の草芽出すやいなやむしらるる…",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1080707",
-            "published_at": "2020/05/05 07:20"
-        },
-        {
-            "title": "福井県が休業要請の延長発表へ",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1080531",
             "published_at": "2020/05/05 07:20"
         }
     ]
