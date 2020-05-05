@@ -1,6 +1,11 @@
 {
-    "timestamp": 1588651695,
+    "timestamp": 1588662364,
     "info": [
+        {
+            "title": "福井県が休業要請延長を決定",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1080842",
+            "published_at": "2020/05/05 15:30"
+        },
         {
             "title": "福井県のコロナ対策本部会議を配信",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1080811",
@@ -35,11 +40,6 @@
             "title": "苦境のスナックがオンライン営業",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1080122",
             "published_at": "2020/05/05 07:00"
-        },
-        {
-            "title": "新型コロナ、石川県で新たに3人感染",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1080447",
-            "published_at": "2020/05/04 18:00"
         }
     ]
 }
