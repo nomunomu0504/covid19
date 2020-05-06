@@ -1,6 +1,11 @@
 {
-    "timestamp": 1588720025,
+    "timestamp": 1588734325,
     "info": [
+        {
+            "title": "福井県、昼間の外出自粛11日緩和",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1081193",
+            "published_at": "2020/05/06 11:30"
+        },
         {
             "title": "アートプレイス３年目",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1081166",
@@ -35,11 +40,6 @@
             "title": "和紙の神様へ「リモート参拝」",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1080845",
             "published_at": "2020/05/05 17:10"
-        },
-        {
-            "title": "福井県が休業要請延長を決定",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1080842",
-            "published_at": "2020/05/05 15:30"
         }
     ]
 }
