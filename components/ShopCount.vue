@@ -28,6 +28,7 @@
 <script lang="ts">
 import axios from 'axios'
 import Vue from 'vue'
+import tweetCount from '../data/tweet_count.json'
 
 export default Vue.extend({
   data() {
@@ -49,13 +50,7 @@ export default Vue.extend({
       })
       this.$store.commit('setShop', shop)
     } catch (error) {
-      // console.log(error)
-      this.$store.commit('setShop', [
-        {
-          shop: 'ゲンキーこうのとり大橋北店',
-          num: 2
-        }
-      ])
+      this.$store.commit('setShop', tweetCount.shopList)
     }
   }
 })
