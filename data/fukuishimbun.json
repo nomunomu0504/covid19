@@ -1,6 +1,11 @@
 {
-    "timestamp": 1588745254,
+    "timestamp": 1588748981,
     "info": [
+        {
+            "title": "ＦＢ発、フェースシールド無償提供",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1081271",
+            "published_at": "2020/05/06 15:29"
+        },
         {
             "title": "福井県で新たな感染者なし、8日連続",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1081225",
@@ -35,11 +40,6 @@
             "title": "福井の上空に虹色の光の輪くっきり",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1080971",
             "published_at": "2020/05/06 07:00"
-        },
-        {
-            "title": "石川県の70代男性、新型コロナ感染",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1080914",
-            "published_at": "2020/05/05 17:31"
         }
     ]
 }
