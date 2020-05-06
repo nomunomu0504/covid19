@@ -2,21 +2,25 @@
   <v-col cols="12" class="DataCard">
     <v-card>
       <v-card-title>{{ $t('店舗ごとの投稿ツイート数') }}</v-card-title>
-      <p class="Graph-Desc">
-        {{ $t('(注)') }}
-        {{ $t('一部集計結果が異なる場合があります') }}
-      </p>
-      <v-data-table
-        :ref="'displayedTable'"
-        :headers="headers"
-        :items="$store.state.shop"
-        :items-per-page="-1"
-        :hide-default-footer="true"
-        :height="240"
-        :fixed-header="true"
-        :mobile-breakpoint="0"
-        class="cardTable"
-      />
+      <v-card-text>
+        <div>
+          <p class="Graph-Desc">
+            {{ $t('(注)') }}
+            {{ $t('一部集計結果が異なる場合があります') }}
+          </p>
+        </div>
+        <v-data-table
+          :ref="'displayedTable'"
+          :headers="headers"
+          :items="$store.state.shop"
+          :items-per-page="-1"
+          :hide-default-footer="true"
+          :height="240"
+          :fixed-header="true"
+          :mobile-breakpoint="0"
+          class="cardTable"
+        />
+      </v-card-text>
     </v-card>
   </v-col>
 </template>
@@ -78,5 +82,10 @@ export default Vue.extend({
   &-icon {
     margin: 10px;
   }
+}
+.Graph-Desc {
+  margin: 10px 0;
+  font-size: 12px;
+  color: $gray-3;
 }
 </style>
