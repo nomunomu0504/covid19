@@ -1,6 +1,11 @@
 {
-    "timestamp": 1588802778,
+    "timestamp": 1588806358,
     "info": [
+        {
+            "title": "明治時代のコレラ流行どう終息させた",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1081372",
+            "published_at": "2020/05/07 07:10"
+        },
         {
             "title": "石川県で新型コロナ新たに3人感染、5月6日",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1081318",
@@ -25,16 +30,6 @@
             "title": "福井県で新たな感染者なし、8日連続",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1081225",
             "published_at": "2020/05/06 12:22"
-        },
-        {
-            "title": "福井県、昼間の外出自粛11日緩和",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1081193",
-            "published_at": "2020/05/06 11:30"
-        },
-        {
-            "title": "アートプレイス３年目",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1081166",
-            "published_at": "2020/05/06 07:30"
         }
     ]
 }
