@@ -7,7 +7,11 @@
       {{ $t('福井新聞社の速報（RSS）') }}
     </page-header>
     <ul class="NewsList-list">
-      <li v-for="(item, i) in $store.state.info" :key="i" class="NewsList-list-item">
+      <li
+        v-for="(item, i) in $store.state.info"
+        :key="i"
+        class="NewsList-list-item"
+      >
         <a
           class="NewsList-list-item-anchor"
           :href="item.link"
@@ -42,38 +46,31 @@ import moment from 'moment'
 import Vue from 'vue'
 import { MetaInfo } from 'vue-meta'
 import PageHeader from '@/components/PageHeader.vue'
-import StaticCard from '@/components/StaticCard.vue'
 import Fukuishimbun from '@/data/fukuishimbun.json'
-import { convertDateToISO8601Format } from '@/utils/formatDate.ts'
 
 export default Vue.extend({
   components: {
-    PageHeader,
-    StaticCard
+    PageHeader
+  },
+  async created() {
+    try {
+      const res = await axios.get('/api/v1/rss/fukuishimbun', { timeout: 5000 })
+      const info = res.data.rssList.map((e: any) => {
+        return {
+          title: e.title,
+          link: e.link,
+          published_at: moment.unix(e.publishedAt).format('YYYY/MM/DD HH:mm')
+        }
+      })
+      this.$store.commit('setInfo', info)
+    } catch (error) {
+      // console.log(error)
+      this.$store.commit('setInfo', Fukuishimbun.info)
+    }
   },
   head(): MetaInfo {
     return {
       title: this.$t('福井新聞社の速報（RSS）') as string
-    }
-  }, 
-  methods: {
-    isInternalLink(path: string): boolean {
-      return !/^https?:\/\//.test(path)
-    },
-    formattedDate(dateString: string) {
-      return convertDateToISO8601Format(dateString)
-    }
-  },
-  async created() {
-    try {
-      const res = await axios.get('/api/v1/rss/fukuishimbun', {timeout: 5000})
-      const info = res.data.info.map((e: any) => {
-      return {title: e.title, link: e.link, published_at: moment.unix(e.published_at).format('YYYY/MM/DD HH:mm') }
-      })
-      this.$store.commit('setInfo', info)
-    } catch(error) {
-      //console.log(error)
-      this.$store.commit('setInfo', Fukuishimbun.info)
     }
   }
 })
@@ -130,8 +127,8 @@ export default Vue.extend({
 
       &-link {
         flex: 0 1 auto;
-        display: inline; 
-        
+        display: inline;
+
         @include text-link();
 
         @include lessThan($medium) {
