@@ -1,6 +1,11 @@
 {
-    "timestamp": 1588748981,
+    "timestamp": 1588752357,
     "info": [
+        {
+            "title": "千葉県で新型コロナ新たに２人感染と発表",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1081298",
+            "published_at": "2020/05/06 16:22"
+        },
         {
             "title": "ＦＢ発、フェースシールド無償提供",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1081271",
@@ -35,11 +40,6 @@
             "title": "佐藤希望選手「今できること意識を」",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1080976",
             "published_at": "2020/05/06 07:10"
-        },
-        {
-            "title": "福井の上空に虹色の光の輪くっきり",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1080971",
-            "published_at": "2020/05/06 07:00"
         }
     ]
 }
