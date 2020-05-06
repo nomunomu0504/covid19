@@ -47,6 +47,7 @@ import Vue from 'vue'
 import { MetaInfo } from 'vue-meta'
 import PageHeader from '@/components/PageHeader.vue'
 import Fukuishimbun from '@/data/fukuishimbun.json'
+import { convertDateToISO8601Format } from '@/utils/formatDate.ts'
 
 export default Vue.extend({
   components: {
@@ -66,6 +67,14 @@ export default Vue.extend({
     } catch (error) {
       // console.log(error)
       this.$store.commit('setInfo', Fukuishimbun.info)
+    }
+  },
+  methods: {
+    isInternalLink(path: string): boolean {
+      return !/^https?:\/\//.test(path)
+    },
+    formattedDate(dateString: string) {
+      return convertDateToISO8601Format(dateString)
     }
   },
   head(): MetaInfo {
