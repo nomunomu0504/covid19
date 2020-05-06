@@ -238,7 +238,7 @@ const config: Configuration = {
       }
     },
     '/api': {
-      target: 'https://covid19-273411.appspot.com',
+      target: 'https://covid19-backend-276205.dt.r.appspot.com',
       pathRewrite: {
         '^/api': '/api'
       }
