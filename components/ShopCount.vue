@@ -2,6 +2,10 @@
   <v-col cols="12" class="DataCard">
     <v-card>
       <v-card-title>{{ $t('店舗ごとの投稿ツイート数') }}</v-card-title>
+      <p class="Graph-Desc">
+        {{ $t('(注)') }}
+        {{ $t('一部集計結果が異なる場合があります') }}
+      </p>
       <v-data-table
         :ref="'displayedTable'"
         :headers="headers"
