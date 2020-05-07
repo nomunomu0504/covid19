@@ -1,6 +1,16 @@
 {
-    "timestamp": 1588806358,
+    "timestamp": 1588824524,
     "info": [
+        {
+            "title": "連休前半夜の人出、福井駅周辺８割減",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1081529",
+            "published_at": "2020/05/07 12:40"
+        },
+        {
+            "title": "福井県９日連続で新たな感染者なし",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1081557",
+            "published_at": "2020/05/07 12:16"
+        },
         {
             "title": "明治時代のコレラ流行どう終息させた",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1081372",
@@ -25,11 +35,6 @@
             "title": "ＦＢ発、フェースシールド無償提供",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1081271",
             "published_at": "2020/05/06 15:29"
-        },
-        {
-            "title": "福井県で新たな感染者なし、8日連続",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1081225",
-            "published_at": "2020/05/06 12:22"
         }
     ]
 }
