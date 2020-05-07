@@ -1,6 +1,16 @@
 {
-    "timestamp": 1588838760,
+    "timestamp": 1588842471,
     "info": [
+        {
+            "title": "石川県で新たに４人、県内の新型コロナ感染計275人",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1081671",
+            "published_at": "2020/05/07 17:12"
+        },
+        {
+            "title": "新型コロナと闘う医療者支援へ基金",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1081599",
+            "published_at": "2020/05/07 17:10"
+        },
         {
             "title": "ＪＡＦ出動件数７割は人為的ミス",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1081584",
@@ -20,11 +30,6 @@
             "title": "福井県９日連続で新たな感染者なし",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1081557",
             "published_at": "2020/05/07 12:16"
-        },
-        {
-            "title": "明治時代のコレラ流行どう終息させた",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1081372",
-            "published_at": "2020/05/07 07:10"
         }
     ]
 }
