@@ -1,6 +1,11 @@
 {
-    "timestamp": 1588903676,
+    "timestamp": 1588907148,
     "info": [
+        {
+            "title": "テイクアウトマルシェ福井10日開催",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1082150",
+            "published_at": "2020/05/08 11:30"
+        },
         {
             "title": "高速道路の土日割引適用除外、５月末まで延長",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1082178",
@@ -40,11 +45,6 @@
             "title": "石川県かほく市の二ツ屋病院で新たに新型コロナ4人感染",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1081671",
             "published_at": "2020/05/07 21:34"
-        },
-        {
-            "title": "新型コロナと闘う医療者支援へ基金",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1081599",
-            "published_at": "2020/05/07 17:10"
         }
     ]
 }
