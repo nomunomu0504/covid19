@@ -1,6 +1,11 @@
 {
-    "timestamp": 1588910807,
+    "timestamp": 1588914445,
     "info": [
+        {
+            "title": "大学生と院生計50万人に1人10万円現金給付案",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1082255",
+            "published_at": "2020/05/08 13:29"
+        },
         {
             "title": "福井県10日連続で新たな感染者なし",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1082213",
@@ -40,11 +45,6 @@
             "title": "篠山竜青選手「今を将来の糧に」",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1081779",
             "published_at": "2020/05/08 07:00"
-        },
-        {
-            "title": "レムデシビルを新型コロナ治療薬に初承認",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1081815",
-            "published_at": "2020/05/07 21:43"
         }
     ]
 }
