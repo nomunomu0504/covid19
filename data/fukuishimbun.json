@@ -1,6 +1,11 @@
 {
-    "timestamp": 1588925169,
+    "timestamp": 1588929048,
     "info": [
+        {
+            "title": "自粛で注目、自分褒めるボードゲーム",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1082267",
+            "published_at": "2020/05/08 17:10"
+        },
         {
             "title": "従業員の感染公表、反応は想像以上",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1082284",
@@ -39,11 +44,6 @@
         {
             "title": "感染から職場復帰、自責で昼食は車中",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1081785",
-            "published_at": "2020/05/08 07:20"
-        },
-        {
-            "title": "「ウイルスの次にやってくるもの。…",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1082091",
             "published_at": "2020/05/08 07:20"
         }
     ]
