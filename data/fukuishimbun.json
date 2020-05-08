@@ -1,6 +1,11 @@
 {
-    "timestamp": 1588907148,
+    "timestamp": 1588910807,
     "info": [
+        {
+            "title": "福井県10日連続で新たな感染者なし",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1082213",
+            "published_at": "2020/05/08 12:11"
+        },
         {
             "title": "テイクアウトマルシェ福井10日開催",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1082150",
@@ -40,11 +45,6 @@
             "title": "レムデシビルを新型コロナ治療薬に初承認",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1081815",
             "published_at": "2020/05/07 21:43"
-        },
-        {
-            "title": "石川県かほく市の二ツ屋病院で新たに新型コロナ4人感染",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1081671",
-            "published_at": "2020/05/07 21:34"
         }
     ]
 }
