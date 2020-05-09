@@ -1,6 +1,11 @@
 {
-    "timestamp": 1588979170,
+    "timestamp": 1588990038,
     "info": [
+        {
+            "title": "コロナで夫死亡、妻「奇跡信じ…」",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1082808",
+            "published_at": "2020/05/09 11:00"
+        },
         {
             "title": "コロナ相談「37.5度以上」を削除",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1082784",
@@ -35,11 +40,6 @@
             "title": "従業員の感染公表、反応は想像以上",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1082284",
             "published_at": "2020/05/08 17:00"
-        },
-        {
-            "title": "１カ月遅れ、マスク姿の入学式",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1082266",
-            "published_at": "2020/05/08 16:55"
         }
     ]
 }
