@@ -1,6 +1,11 @@
 {
-    "timestamp": 1588990038,
+    "timestamp": 1588997523,
     "info": [
+        {
+            "title": "福井県11日連続で新たな感染者なし",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1082830",
+            "published_at": "2020/05/09 12:06"
+        },
         {
             "title": "コロナで夫死亡、妻「奇跡信じ…」",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1082808",
@@ -35,11 +40,6 @@
             "title": "自粛で注目、自分褒めるボードゲーム",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1082267",
             "published_at": "2020/05/08 17:10"
-        },
-        {
-            "title": "従業員の感染公表、反応は想像以上",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1082284",
-            "published_at": "2020/05/08 17:00"
         }
     ]
 }
