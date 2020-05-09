@@ -1,6 +1,16 @@
 {
-    "timestamp": 1589011628,
+    "timestamp": 1589015354,
     "info": [
+        {
+            "title": "石川県で女性2人が新型コロナ感染",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1082896",
+            "published_at": "2020/05/09 17:45"
+        },
+        {
+            "title": "夫亡くした妻「コロナが本当に憎い」",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1082856",
+            "published_at": "2020/05/09 17:10"
+        },
         {
             "title": "福井県11日連続で新たな感染者なし",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1082830",
@@ -25,16 +35,6 @@
             "title": "「春過ぎて夏来たるらし白妙の衣ほ…",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1082764",
             "published_at": "2020/05/09 07:20"
-        },
-        {
-            "title": "県外から戻る高校生２週間施設で待機",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1082482",
-            "published_at": "2020/05/09 07:10"
-        },
-        {
-            "title": "百名山、水田に映る逆さ荒島",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1082466",
-            "published_at": "2020/05/09 07:00"
         }
     ]
 }
