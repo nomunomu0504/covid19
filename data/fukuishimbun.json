@@ -1,6 +1,11 @@
 {
-    "timestamp": 1589094383,
+    "timestamp": 1589098038,
     "info": [
+        {
+            "title": "10万円給付、福井県内最速は小浜市",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1083228",
+            "published_at": "2020/05/10 17:00"
+        },
         {
             "title": "【特殊詐欺情報】大野市　5月10日",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1083245",
@@ -30,11 +35,6 @@
             "title": "石川県で女性2人が新型コロナ感染",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1082896",
             "published_at": "2020/05/09 17:45"
-        },
-        {
-            "title": "夫亡くした妻「コロナが本当に憎い」",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1082856",
-            "published_at": "2020/05/09 17:10"
         }
     ]
 }
