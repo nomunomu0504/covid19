@@ -10,7 +10,22 @@
       :url="
         'https://www.pref.fukui.lg.jp/doc/kenkou/kansensyo-yobousessyu/corona.html'
       "
-    />
+    >
+      <template v-slot:description>
+        <ul>
+          <li>
+            {{ $t('(注)') }}
+            {{
+              $t(
+                '県の個人情報保護条例に基づき、情報公開を希望されない方の情報は公開されていません'
+              )
+            }} <br />
+            {{ $t('(注)') }}
+            {{ $t('状態、症状、渡航歴、退院について未記載の場合があります') }}
+          </li>
+        </ul>
+      </template>
+    </data-table>
   </v-col>
 </template>
 
