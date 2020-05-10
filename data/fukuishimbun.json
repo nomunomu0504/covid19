@@ -1,6 +1,11 @@
 {
-    "timestamp": 1589065496,
+    "timestamp": 1589076359,
     "info": [
+        {
+            "title": "飲食店や水族館、営業再開へ準備",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1083175",
+            "published_at": "2020/05/10 10:30"
+        },
         {
             "title": "司馬遼太郎の代表作に「坂の上の雲…",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1083166",
@@ -25,11 +30,6 @@
             "title": "福井県11日連続で新たな感染者なし",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1082830",
             "published_at": "2020/05/09 12:06"
-        },
-        {
-            "title": "コロナで夫死亡、妻「奇跡信じ…」",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1082808",
-            "published_at": "2020/05/09 11:00"
         }
     ]
 }
