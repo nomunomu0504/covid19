@@ -1,6 +1,11 @@
 {
-    "timestamp": 1589162930,
+    "timestamp": 1589170267,
     "info": [
+        {
+            "title": "福井県13日連続で新たな感染者なし",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1083644",
+            "published_at": "2020/05/11 12:20"
+        },
         {
             "title": "福井県などの緊急事態宣言解除を検討",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1083562",
@@ -35,11 +40,6 @@
             "title": "野外活動や外出自粛、コロナ意見次々",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1083235",
             "published_at": "2020/05/10 17:10"
-        },
-        {
-            "title": "10万円給付、福井県内最速は小浜市",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1083228",
-            "published_at": "2020/05/10 17:00"
         }
     ]
 }
