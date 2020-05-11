@@ -1,6 +1,11 @@
 {
-    "timestamp": 1589152044,
+    "timestamp": 1589162930,
     "info": [
+        {
+            "title": "福井県などの緊急事態宣言解除を検討",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1083562",
+            "published_at": "2020/05/11 10:00"
+        },
         {
             "title": "パリ協定目標据え置き",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1083512",
@@ -35,11 +40,6 @@
             "title": "10万円給付、福井県内最速は小浜市",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1083228",
             "published_at": "2020/05/10 17:00"
-        },
-        {
-            "title": "【特殊詐欺情報】大野市　5月10日",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1083245",
-            "published_at": "2020/05/10 15:35"
         }
     ]
 }
