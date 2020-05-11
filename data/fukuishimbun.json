@@ -1,6 +1,16 @@
 {
-    "timestamp": 1589184503,
+    "timestamp": 1589187934,
     "info": [
+        {
+            "title": "石川県で新型コロナ患者１人死亡、新たに２人感染",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1083811",
+            "published_at": "2020/05/11 17:19"
+        },
+        {
+            "title": "福井の新型コロナは「欧州系」か",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1083709",
+            "published_at": "2020/05/11 17:10"
+        },
         {
             "title": "水着の生地活用しフェースガード",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1083696",
@@ -35,11 +45,6 @@
             "title": "パリ協定目標据え置き",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1083512",
             "published_at": "2020/05/11 07:30"
-        },
-        {
-            "title": "新型コロナ感染拡大に伴う緊急事態…",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1083510",
-            "published_at": "2020/05/11 07:20"
         }
     ]
 }
