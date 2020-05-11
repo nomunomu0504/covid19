@@ -1,6 +1,11 @@
 {
-    "timestamp": 1589191626,
+    "timestamp": 1589199037,
     "info": [
+        {
+            "title": "週刊少年ジャンプ連載作品の休載増える見込み",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1083939",
+            "published_at": "2020/05/11 20:32"
+        },
         {
             "title": "石川県かほく市二ツ屋病院、新型コロナで１人死亡、新たに２人感染",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1083811",
@@ -40,11 +45,6 @@
             "title": "福井県などの緊急事態宣言解除を検討",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1083562",
             "published_at": "2020/05/11 10:00"
-        },
-        {
-            "title": "パリ協定目標据え置き",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1083512",
-            "published_at": "2020/05/11 07:30"
         }
     ]
 }
