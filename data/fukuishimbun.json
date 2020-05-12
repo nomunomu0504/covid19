@@ -1,6 +1,11 @@
 {
-    "timestamp": 1589270812,
+    "timestamp": 1589274523,
     "info": [
+        {
+            "title": "千葉県で３人新型コロナウイルス感染",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1084516",
+            "published_at": "2020/05/12 17:55"
+        },
         {
             "title": "福井県14日連続で新たな感染者なし",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1084311",
@@ -20,11 +25,6 @@
             "title": "子ども食堂",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1084197",
             "published_at": "2020/05/12 07:30"
-        },
-        {
-            "title": "福井で休業要請一部解除、喜びと不安",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1083936",
-            "published_at": "2020/05/12 07:20"
         }
     ]
 }
