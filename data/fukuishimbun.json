@@ -1,6 +1,11 @@
 {
-    "timestamp": 1589346357,
+    "timestamp": 1589357194,
     "info": [
+        {
+            "title": "通夜や葬儀、参列者減らし密集回避",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1085133",
+            "published_at": "2020/05/13 17:00"
+        },
         {
             "title": "石川県も休業要請緩和の独自基準策定へ",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1085041",
@@ -30,11 +35,6 @@
             "title": "就職氷河期世代、県庁が採用へ",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1084668",
             "published_at": "2020/05/13 07:10"
-        },
-        {
-            "title": "西武福井店、全館の営業再開へ",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1084619",
-            "published_at": "2020/05/13 07:00"
         }
     ]
 }
