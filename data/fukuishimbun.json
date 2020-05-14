@@ -1,6 +1,11 @@
 {
-    "timestamp": 1589425539,
+    "timestamp": 1589436430,
     "info": [
+        {
+            "title": "石川の県立学校5月20日から分散登校",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1085772",
+            "published_at": "2020/05/14 14:13"
+        },
         {
             "title": "福井県16日連続で新たな感染者なし",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1085729",
@@ -30,11 +35,6 @@
             "title": "村上めぐみ選手「自分と向き合って」",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1085291",
             "published_at": "2020/05/14 07:00"
-        },
-        {
-            "title": "石川県で90代男性が新型コロナ感染、県内284人に",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1085227",
-            "published_at": "2020/05/13 17:28"
         }
     ]
 }
