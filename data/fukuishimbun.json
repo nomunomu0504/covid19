@@ -1,6 +1,11 @@
 {
-    "timestamp": 1589458152,
+    "timestamp": 1589493973,
     "info": [
+        {
+            "title": "北川貴理選手「自分だけの目標を」",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1086037",
+            "published_at": "2020/05/15 06:50"
+        },
         {
             "title": "石川県かほく市の二ツ屋病院で新型コロナ感染の80代男性死亡",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1085830",
@@ -30,16 +35,6 @@
             "title": "緊急事態解除、福井県知事が取材対応",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1085810",
             "published_at": "2020/05/14 15:55"
-        },
-        {
-            "title": "石川の県立学校5月20日から分散登校",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1085772",
-            "published_at": "2020/05/14 14:13"
-        },
-        {
-            "title": "福井県16日連続で新たな感染者なし",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1085729",
-            "published_at": "2020/05/14 12:02"
         }
     ]
 }
