@@ -1,6 +1,16 @@
 {
-    "timestamp": 1589443591,
+    "timestamp": 1589447296,
     "info": [
+        {
+            "title": "福井県の休業要請、延長しない意向",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1085888",
+            "published_at": "2020/05/14 18:00"
+        },
+        {
+            "title": "テイクアウト、夏場は食中毒に注意",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1085787",
+            "published_at": "2020/05/14 17:10"
+        },
         {
             "title": "すいた高速道、速度違反7.5倍に",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1085779",
@@ -25,16 +35,6 @@
             "title": "福井県16日連続で新たな感染者なし",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1085729",
             "published_at": "2020/05/14 12:02"
-        },
-        {
-            "title": "若狭高生が飲食店支援",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1085624",
-            "published_at": "2020/05/14 07:30"
-        },
-        {
-            "title": "福井県立学校再開、6月1日軸に検討",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1085345",
-            "published_at": "2020/05/14 07:20"
         }
     ]
 }
