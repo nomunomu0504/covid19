@@ -1,15 +1,20 @@
 {
-    "timestamp": 1589529964,
+    "timestamp": 1589533617,
     "info": [
+        {
+            "title": "石川県で50代女性が新型コロナ感染、県内の感染確認は285人に",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1086656",
+            "published_at": "2020/05/15 17:12"
+        },
+        {
+            "title": "看護大学、実習受け入れ先確保に苦悩",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1086602",
+            "published_at": "2020/05/15 17:10"
+        },
         {
             "title": "夏用体操服の布でスクールマスク",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1086600",
             "published_at": "2020/05/15 17:00"
-        },
-        {
-            "title": "ロヒンギャの難民キャンプで新型コロナ感染を初確認",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1086614",
-            "published_at": "2020/05/15 16:27"
         },
         {
             "title": "米国のマクドナルドは30分ごとに除菌",
@@ -45,11 +50,6 @@
             "title": "コロナで育児不安「声聞かせて」",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1086355",
             "published_at": "2020/05/15 11:30"
-        },
-        {
-            "title": "高校野球夏の甲子園大会、中止の方向",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1086419",
-            "published_at": "2020/05/15 10:38"
         }
     ]
 }
