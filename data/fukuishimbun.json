@@ -1,6 +1,11 @@
 {
-    "timestamp": 1589501556,
+    "timestamp": 1589508620,
     "info": [
+        {
+            "title": "高校野球夏の甲子園大会、中止の方向",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1086419",
+            "published_at": "2020/05/15 10:38"
+        },
         {
             "title": "３９県で緊急事態解除",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1086310",
@@ -25,11 +30,6 @@
             "title": "北川貴理選手「自分だけの目標を」",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1086037",
             "published_at": "2020/05/15 06:50"
-        },
-        {
-            "title": "石川県かほく市の二ツ屋病院で新型コロナ感染の80代男性死亡",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1085830",
-            "published_at": "2020/05/14 20:20"
         }
     ]
 }
