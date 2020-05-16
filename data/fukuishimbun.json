@@ -1,6 +1,11 @@
 {
-    "timestamp": 1589598548,
+    "timestamp": 1589616353,
     "info": [
+        {
+            "title": "1000円分お得、福井市が商品券",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1087192",
+            "published_at": "2020/05/16 17:00"
+        },
         {
             "title": "福井県18日連続で新規感染者ゼロ",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1087178",
@@ -30,11 +35,6 @@
             "title": "「甲子園あると信じる」監督の胸中",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1086791",
             "published_at": "2020/05/16 07:10"
-        },
-        {
-            "title": "栗原陵矢選手「やれること懸命に」",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1086774",
-            "published_at": "2020/05/16 06:50"
         }
     ]
 }
