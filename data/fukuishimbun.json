@@ -1,6 +1,16 @@
 {
-    "timestamp": 1589616353,
+    "timestamp": 1589619939,
     "info": [
+        {
+            "title": "石川県で新型コロナ感染の90代女性死亡",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1087251",
+            "published_at": "2020/05/16 17:26"
+        },
+        {
+            "title": "店支援の食事券、目標の4倍売れる",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1087196",
+            "published_at": "2020/05/16 17:10"
+        },
         {
             "title": "1000円分お得、福井市が商品券",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1087192",
@@ -30,11 +40,6 @@
             "title": "この上なくシンプルで、力強いスロ…",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1087069",
             "published_at": "2020/05/16 07:20"
-        },
-        {
-            "title": "「甲子園あると信じる」監督の胸中",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1086791",
-            "published_at": "2020/05/16 07:10"
         }
     ]
 }
