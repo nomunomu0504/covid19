@@ -1,6 +1,11 @@
 {
-    "timestamp": 1589724414,
+    "timestamp": 1589749512,
     "info": [
+        {
+            "title": "新型コロナ、肥満の人ほど重症化リスク",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1087682",
+            "published_at": "2020/05/18 06:00"
+        },
         {
             "title": "消毒液の転売禁止へ、経済活動再開で品薄拍車を懸念",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1087712",
@@ -30,11 +35,6 @@
             "title": "ハタチの挑戦、こだわり絵本で個展",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1087516",
             "published_at": "2020/05/17 11:00"
-        },
-        {
-            "title": "福井の商業施設、にぎわい徐々に",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1087316",
-            "published_at": "2020/05/17 07:20"
         }
     ]
 }
