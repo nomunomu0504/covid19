@@ -163,14 +163,19 @@ export default Vue.extend({
         {
           icon: 'mdi-information',
           title: this.$t('国内のお知らせ一覧'),
-          link: this.localePath('/japan-news'),
+          link: 'https://www.pref.fukui.lg.jp/doc/kenkou/covid19_governar.html',
           divider: true
+        },
+        {
+          icon: 'mdi-near-me',
+          title: this.$t('県民くらしナビ'),
+          link: 'https://www.pref.fukui.lg.jp/doc/kouho/navi.html'
         },
         {
           icon: 'mdi-account-multiple',
           title: this.$t('福井県民の皆様へ'),
           link:
-            'https://www.pref.fukui.lg.jp/doc/kenkou/kansensyo-yobousessyu/corona.html#'
+            'https://www.pref.fukui.lg.jp/doc/kenkou/kansensyo-yobousessyu/corona.html'
         },
         {
           icon: 'ParentIcon',
@@ -180,14 +185,12 @@ export default Vue.extend({
         {
           icon: 'mdi-domain',
           title: this.$t('企業・はたらく皆様へ'),
-          link:
-            'https://www.pref.fukui.lg.jp/doc/kenkou/kansensyo-yobousessyu/corona.html#kigyou'
+          link: 'https://www.pref.fukui.lg.jp/kenko/kenkou/cat0907/index.html'
         },
         {
           icon: 'mdi-domain',
           title: this.$t('医療機関の皆様へ'),
-          link:
-            'https://www.pref.fukui.lg.jp/doc/kenkou/kansensyo-yobousessyu/corona.html#iryou',
+          link: 'https://www.pref.fukui.lg.jp/doc/kenkou/covid19_iryo.html',
           divider: true
         },
         {
