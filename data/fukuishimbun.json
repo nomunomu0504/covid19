@@ -1,6 +1,11 @@
 {
-    "timestamp": 1589685619,
+    "timestamp": 1589699276,
     "info": [
+        {
+            "title": "中国がマスク５０９億枚を輸出",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1087595",
+            "published_at": "2020/05/17 16:01"
+        },
         {
             "title": "福井県19日連続で新規感染者ゼロ",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1087541",
@@ -25,11 +30,6 @@
             "title": "家にある道具使い負担高めの運動",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1087297",
             "published_at": "2020/05/17 07:00"
-        },
-        {
-            "title": "石川県で新型コロナ感染の90代女性死亡",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1087251",
-            "published_at": "2020/05/16 17:26"
         }
     ]
 }
