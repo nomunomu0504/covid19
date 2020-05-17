@@ -1,6 +1,11 @@
 {
-    "timestamp": 1589681224,
+    "timestamp": 1589685619,
     "info": [
+        {
+            "title": "福井県19日連続で新規感染者ゼロ",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1087541",
+            "published_at": "2020/05/17 12:10"
+        },
         {
             "title": "ハタチの挑戦、こだわり絵本で個展",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1087516",
@@ -25,11 +30,6 @@
             "title": "石川県で新型コロナ感染の90代女性死亡",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1087251",
             "published_at": "2020/05/16 17:26"
-        },
-        {
-            "title": "店支援の食事券、目標の4倍売れる",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1087196",
-            "published_at": "2020/05/16 17:10"
         }
     ]
 }
