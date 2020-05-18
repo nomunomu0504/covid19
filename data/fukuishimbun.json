@@ -1,6 +1,11 @@
 {
-    "timestamp": 1589764023,
+    "timestamp": 1589774828,
     "info": [
+        {
+            "title": "福井県の新規感染者なし20日連続",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1087982",
+            "published_at": "2020/05/18 12:11"
+        },
         {
             "title": "社会活動再開へ、安心感提供できるか",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1087604",
@@ -25,11 +30,6 @@
             "title": "新型コロナ、肥満の人ほど重症化リスク",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1087682",
             "published_at": "2020/05/18 06:00"
-        },
-        {
-            "title": "消毒液の転売禁止へ、経済活動再開で品薄拍車を懸念",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1087712",
-            "published_at": "2020/05/17 21:57"
         }
     ]
 }
