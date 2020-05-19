@@ -12,26 +12,6 @@
           </a>
         </h2>
       </v-col>
-      <v-spacer />
-      <v-col cols="auto" style="padding-top:0;padding-bottom:0">
-        <v-btn
-          depressed
-          bottom
-          color="#ffe200"
-          href="https://www.pref.fukui.lg.jp/doc/kenkou/covid19_chiji.html"
-          target="_blank"
-        >
-          <v-icon left small>
-            mdi-bullhorn
-          </v-icon>
-          <span style="font-weight: bold; white-space: normal;">{{
-            $t('福井県緊急事態宣言について')
-          }}</span>
-          <v-icon right small>
-            mdi-open-in-new
-          </v-icon>
-        </v-btn>
-      </v-col>
     </v-row>
     <ul class="BreakingNews-list">
       <li
