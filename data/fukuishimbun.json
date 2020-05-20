@@ -1,6 +1,11 @@
 {
-    "timestamp": 1589936798,
+    "timestamp": 1589940370,
     "info": [
+        {
+            "title": "夏の甲子園開催可否、きょう議論",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1089260",
+            "published_at": "2020/05/20 10:20"
+        },
         {
             "title": "福井のチャイナテーブル再開せず閉店",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1089223",
@@ -30,11 +35,6 @@
             "title": "坂本竜三郎選手「早く野球がしたい」",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1088877",
             "published_at": "2020/05/20 07:00"
-        },
-        {
-            "title": "福井県全市町の小中学校6月1日再開",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1088683",
-            "published_at": "2020/05/19 17:00"
         }
     ]
 }
