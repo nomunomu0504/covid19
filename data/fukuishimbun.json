@@ -1,6 +1,11 @@
 {
-    "timestamp": 1589972719,
+    "timestamp": 1589990753,
     "info": [
+        {
+            "title": "栃木県宇都宮市で新型コロナ女性2人感染",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1089675",
+            "published_at": "2020/05/20 22:12"
+        },
         {
             "title": "困窮学生への現金給付、留学生だけ成績次第",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1089621",
@@ -25,11 +30,6 @@
             "title": "千葉県野田市の小学生男児が新型コロナ感染",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1089539",
             "published_at": "2020/05/20 17:38"
-        },
-        {
-            "title": "FBに給食レシピ、献立悩む親を応援",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1089418",
-            "published_at": "2020/05/20 17:10"
         }
     ]
 }
