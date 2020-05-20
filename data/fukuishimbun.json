@@ -1,6 +1,11 @@
 {
-    "timestamp": 1589944086,
+    "timestamp": 1589947624,
     "info": [
+        {
+            "title": "福井県22日連続で新たな感染者なし",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1089363",
+            "published_at": "2020/05/20 12:15"
+        },
         {
             "title": "福井県内公共スポーツ施設の再開予定",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1089294",
@@ -35,11 +40,6 @@
             "title": "町の全酒蔵が消毒用アルコール製造",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1088881",
             "published_at": "2020/05/20 07:10"
-        },
-        {
-            "title": "坂本竜三郎選手「早く野球がしたい」",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1088877",
-            "published_at": "2020/05/20 07:00"
         }
     ]
 }
