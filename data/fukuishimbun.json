@@ -1,6 +1,16 @@
 {
-    "timestamp": 1589929605,
+    "timestamp": 1589936798,
     "info": [
+        {
+            "title": "福井のチャイナテーブル再開せず閉店",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1089223",
+            "published_at": "2020/05/20 09:50"
+        },
+        {
+            "title": "鹿児島国体、今秋の開催は困難",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1089217",
+            "published_at": "2020/05/20 09:10"
+        },
         {
             "title": "三国祭開幕、新型コロナで例年と違い",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1088868",
@@ -25,11 +35,6 @@
             "title": "福井県全市町の小中学校6月1日再開",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1088683",
             "published_at": "2020/05/19 17:00"
-        },
-        {
-            "title": "福井県21日連続で新たな感染者なし",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1088580",
-            "published_at": "2020/05/19 12:23"
         }
     ]
 }
