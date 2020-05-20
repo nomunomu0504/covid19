@@ -1,6 +1,21 @@
 {
-    "timestamp": 1589965533,
+    "timestamp": 1589969120,
     "info": [
+        {
+            "title": "大阪府の休業要請5月23日に大幅縮小",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1089595",
+            "published_at": "2020/05/20 18:41"
+        },
+        {
+            "title": "滋賀県大津市の30代男性が新型コロナ再陽性",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1089572",
+            "published_at": "2020/05/20 18:23"
+        },
+        {
+            "title": "大阪府5月20日は新型コロナで5人死亡、計3人感染確認",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1089568",
+            "published_at": "2020/05/20 18:17"
+        },
         {
             "title": "千葉県野田市の小学生男児が新型コロナ感染",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1089539",
@@ -15,16 +30,6 @@
             "title": "稲田朋美氏ら子１人10万円支給要望",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1089417",
             "published_at": "2020/05/20 17:00"
-        },
-        {
-            "title": "甲子園中止の理由「学業に支障」「医療スタッフ不足」",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1089471",
-            "published_at": "2020/05/20 16:11"
-        },
-        {
-            "title": "福井県22日連続で新たな感染者なし",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1089363",
-            "published_at": "2020/05/20 12:15"
         }
     ]
 }
