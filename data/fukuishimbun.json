@@ -1,6 +1,11 @@
 {
-    "timestamp": 1590015915,
+    "timestamp": 1590023270,
     "info": [
+        {
+            "title": "マスク着け運動、体への負担大きく",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1086006",
+            "published_at": "2020/05/21 10:00"
+        },
         {
             "title": "夏の甲子園中止",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1089924",
@@ -20,11 +25,6 @@
             "title": "川島悠太郎選手「支え合い前へ」",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1089532",
             "published_at": "2020/05/21 06:50"
-        },
-        {
-            "title": "困窮学生への現金給付、留学生だけ成績次第",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1089621",
-            "published_at": "2020/05/20 19:20"
         }
     ]
 }
