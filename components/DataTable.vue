@@ -3,6 +3,9 @@
     <template v-slot:button>
       <span />
     </template>
+    <template v-slot:description>
+      <slot name="description" />
+    </template>
     <v-data-table
       :ref="'displayedTable'"
       :headers="chartData.headers"

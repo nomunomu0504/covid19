@@ -116,7 +116,7 @@ export default {
       //   title = this.$t('検査実施状況')
       //   updatedAt = InspectionsSummary.date
       //   break
-      case 'hospitalied-patients':
+      case 'number-of-hospitalized-patients':
         title = this.$t('入院患者数')
         updatedAt = HospitalizedPatients.date
         break
