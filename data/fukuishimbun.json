@@ -1,6 +1,11 @@
 {
-    "timestamp": 1590102415,
+    "timestamp": 1590116983,
     "info": [
+        {
+            "title": "持続化給付金の申請支援会場を開設",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1090604",
+            "published_at": "2020/05/22 11:30"
+        },
         {
             "title": "黒川検事長が辞表",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1090543",
@@ -30,11 +35,6 @@
             "title": "安川誠人選手「仲間は一生の宝物」",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1090300",
             "published_at": "2020/05/22 06:40"
-        },
-        {
-            "title": "大阪、京都、兵庫の緊急事態宣言解除を表明",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1090231",
-            "published_at": "2020/05/21 18:10"
         }
     ]
 }
