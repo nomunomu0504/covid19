@@ -1,6 +1,11 @@
 {
-    "timestamp": 1590203361,
+    "timestamp": 1590206993,
     "info": [
+        {
+            "title": "福井県あっせんマスクの売れ行きは",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1091348",
+            "published_at": "2020/05/23 12:15"
+        },
         {
             "title": "福井県25日連続で新規感染者なし",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1091353",
@@ -20,11 +25,6 @@
             "title": "石川県5月22日は新型コロナ新たに2人感染、2人死亡",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1090848",
             "published_at": "2020/05/22 18:40"
-        },
-        {
-            "title": "稲田朋美氏が馳浩氏とコロナで共闘",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1090715",
-            "published_at": "2020/05/22 17:10"
         }
     ]
 }
