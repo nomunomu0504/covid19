@@ -1,6 +1,11 @@
 {
-    "timestamp": 1590193409,
+    "timestamp": 1590203361,
     "info": [
+        {
+            "title": "福井県25日連続で新規感染者なし",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1091353",
+            "published_at": "2020/05/23 12:05"
+        },
         {
             "title": "コウノトリ巣立ち間近",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1091249",
@@ -20,11 +25,6 @@
             "title": "稲田朋美氏が馳浩氏とコロナで共闘",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1090715",
             "published_at": "2020/05/22 17:10"
-        },
-        {
-            "title": "「身内の感染を会社が言いふらした」",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1090720",
-            "published_at": "2020/05/22 17:00"
         }
     ]
 }
