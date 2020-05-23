@@ -1,6 +1,11 @@
 {
-    "timestamp": 1590222416,
+    "timestamp": 1590224944,
     "info": [
+        {
+            "title": "石川県で女性1人が新型コロナ感染",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1091450",
+            "published_at": "2020/05/23 17:50"
+        },
         {
             "title": "感染防ぐ「盾」みんなで作り現場へ",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1091385",
@@ -20,11 +25,6 @@
             "title": "コウノトリ巣立ち間近",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1091249",
             "published_at": "2020/05/23 07:30"
-        },
-        {
-            "title": "渡辺晃大選手「見つめ直す時間に」",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1090965",
-            "published_at": "2020/05/23 07:00"
         }
     ]
 }
