@@ -1,6 +1,11 @@
 {
-    "timestamp": 1590293408,
+    "timestamp": 1590311358,
     "info": [
+        {
+            "title": "テイクアウト需要に応える紙バッグ",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1091754",
+            "published_at": "2020/05/24 17:10"
+        },
         {
             "title": "26日連続で福井県の新規感染者ゼロ",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1091742",
@@ -35,11 +40,6 @@
             "title": "舞蹴修樹さん「何事も諦めないで」",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1091510",
             "published_at": "2020/05/24 06:50"
-        },
-        {
-            "title": "石川県で女性1人が新型コロナ感染",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1091450",
-            "published_at": "2020/05/23 17:50"
         }
     ]
 }
