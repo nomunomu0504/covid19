@@ -1,6 +1,11 @@
 {
-    "timestamp": 1590289767,
+    "timestamp": 1590293408,
     "info": [
+        {
+            "title": "26日連続で福井県の新規感染者ゼロ",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1091742",
+            "published_at": "2020/05/24 12:14"
+        },
         {
             "title": "校舎窓に笑顔の似顔絵、一足早く再会",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1091712",
@@ -35,11 +40,6 @@
             "title": "石川県で女性1人が新型コロナ感染",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1091450",
             "published_at": "2020/05/23 17:50"
-        },
-        {
-            "title": "感染防ぐ「盾」みんなで作り現場へ",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1091385",
-            "published_at": "2020/05/23 17:00"
         }
     ]
 }
