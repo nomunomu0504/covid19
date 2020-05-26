@@ -1,6 +1,11 @@
 {
-    "timestamp": 1590462583,
+    "timestamp": 1590466198,
     "info": [
+        {
+            "title": "福井県28日連続で新たな感染者なし",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1092807",
+            "published_at": "2020/05/26 12:15"
+        },
         {
             "title": "福井県のコロナ対策本部会議を中継",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1092740",
@@ -35,11 +40,6 @@
             "title": "ガーコ７歳、餌やり体験猛練習中です",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1092453",
             "published_at": "2020/05/25 20:25"
-        },
-        {
-            "title": "レナウン破綻、福井の繊維業界反応は",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1092253",
-            "published_at": "2020/05/25 17:10"
         }
     ]
 }
