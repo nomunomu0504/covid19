@@ -1,6 +1,11 @@
 {
-    "timestamp": 1590548974,
+    "timestamp": 1590552636,
     "info": [
+        {
+            "title": "福井県29日連続で新たな感染者なし",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1093485",
+            "published_at": "2020/05/27 12:20"
+        },
         {
             "title": "福井市小中学校、分割や統合８案",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1093439",
@@ -25,11 +30,6 @@
             "title": "いきなりステーキ、福井県内１店に",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1093135",
             "published_at": "2020/05/27 07:10"
-        },
-        {
-            "title": "石川県で80代男性が新型コロナ感染",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1092949",
-            "published_at": "2020/05/26 17:20"
         }
     ]
 }
