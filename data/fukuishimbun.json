@@ -1,6 +1,11 @@
 {
-    "timestamp": 1590840578,
+    "timestamp": 1590876453,
     "info": [
+        {
+            "title": "車窓ぎりぎりまで油圧ショベル接近",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1095759",
+            "published_at": "2020/05/31 07:00"
+        },
         {
             "title": "ユアーズホテルフクイ5月31日閉館",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1095665",
@@ -35,11 +40,6 @@
             "title": "こどもの本総選挙",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1095549",
             "published_at": "2020/05/30 07:30"
-        },
-        {
-            "title": "新型コロナ第2波備える医療従事者",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1095270",
-            "published_at": "2020/05/30 07:20"
         }
     ]
 }
