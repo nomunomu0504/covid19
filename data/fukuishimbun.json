@@ -1,6 +1,11 @@
 {
-    "timestamp": 1590793706,
+    "timestamp": 1590804466,
     "info": [
+        {
+            "title": "新型コロナ消毒に有効、界面活性剤２種類追加",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1095613",
+            "published_at": "2020/05/30 10:45"
+        },
         {
             "title": "こどもの本総選挙",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1095549",
@@ -30,11 +35,6 @@
             "title": "学校用パーティションで感染防止へ",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1094991",
             "published_at": "2020/05/29 17:10"
-        },
-        {
-            "title": "ランドセル商戦ようやく活気",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1094981",
-            "published_at": "2020/05/29 17:00"
         }
     ]
 }
