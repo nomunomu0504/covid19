@@ -1,6 +1,11 @@
 {
-    "timestamp": 1590808063,
+    "timestamp": 1590811691,
     "info": [
+        {
+            "title": "福井県コロナ感染確認なし32日連続",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1095634",
+            "published_at": "2020/05/30 12:06"
+        },
         {
             "title": "店の面積違うだけで…休業補償に不満",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1095622",
@@ -30,11 +35,6 @@
             "title": "石川県で80代女性が新型コロナ感染、5月29日",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1095092",
             "published_at": "2020/05/29 17:26"
-        },
-        {
-            "title": "学校用パーティションで感染防止へ",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1094991",
-            "published_at": "2020/05/29 17:10"
         }
     ]
 }
