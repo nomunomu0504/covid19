@@ -1,6 +1,11 @@
 {
-    "timestamp": 1590894459,
+    "timestamp": 1590898104,
     "info": [
+        {
+            "title": "福井県33日連続で新たな感染者なし",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1096042",
+            "published_at": "2020/05/31 12:10"
+        },
         {
             "title": "新型コロナ感染者数、世界全体で600万超える",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1096003",
@@ -30,11 +35,6 @@
             "title": "車窓ぎりぎりまで油圧ショベル接近",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1095759",
             "published_at": "2020/05/31 07:00"
-        },
-        {
-            "title": "ユアーズホテルフクイ5月31日閉館",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1095665",
-            "published_at": "2020/05/30 17:10"
         }
     ]
 }
