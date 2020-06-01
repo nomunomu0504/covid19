@@ -1,6 +1,11 @@
 {
-    "timestamp": 1590973768,
+    "timestamp": 1590977278,
     "info": [
+        {
+            "title": "５月は新規感染者発表なし、福井県内",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1096372",
+            "published_at": "2020/06/01 10:20"
+        },
         {
             "title": "福井県内の小中高校３カ月ぶり再開",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1096323",
@@ -25,11 +30,6 @@
             "title": "前澤友作氏の基金当選、市に寄付",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1096054",
             "published_at": "2020/05/31 17:00"
-        },
-        {
-            "title": "城小屋マルコ、仕切り直しの再開",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1096075",
-            "published_at": "2020/05/31 15:55"
         }
     ]
 }
