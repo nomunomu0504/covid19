@@ -1,6 +1,11 @@
 {
-    "timestamp": 1590977278,
+    "timestamp": 1590980868,
     "info": [
+        {
+            "title": "福井県内最悪で1500人感染と警告",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1096388",
+            "published_at": "2020/06/01 11:10"
+        },
         {
             "title": "５月は新規感染者発表なし、福井県内",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1096372",
@@ -25,11 +30,6 @@
             "title": "恐竜博物館に新展示、HPで紹介",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1096160",
             "published_at": "2020/06/01 07:10"
-        },
-        {
-            "title": "前澤友作氏の基金当選、市に寄付",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1096054",
-            "published_at": "2020/05/31 17:00"
         }
     ]
 }
