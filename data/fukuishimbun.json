@@ -1,6 +1,11 @@
 {
-    "timestamp": 1591067265,
+    "timestamp": 1591070877,
     "info": [
+        {
+            "title": "35日連続で福井県内新規感染者ゼロ",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1097111",
+            "published_at": "2020/06/02 12:08"
+        },
         {
             "title": "コロナと自然災害",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1096985",
@@ -20,11 +25,6 @@
             "title": "サプライズ花火、全国の夜空に咲く",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1096718",
             "published_at": "2020/06/02 07:00"
-        },
-        {
-            "title": "アベノマスク契約総額260億円と菅官房長官",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1096453",
-            "published_at": "2020/06/01 12:36"
         }
     ]
 }
