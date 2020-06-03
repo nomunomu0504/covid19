@@ -1,6 +1,11 @@
 {
-    "timestamp": 1591160847,
+    "timestamp": 1591164504,
     "info": [
+        {
+            "title": "36日連続で福井県の新規感染者ゼロ",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1097842",
+            "published_at": "2020/06/03 14:00"
+        },
         {
             "title": "恐竜博物館、ネット予約で再開へ",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1097793",
@@ -25,11 +30,6 @@
             "title": "越前市に新設される北陸新幹線・南越…",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1097684",
             "published_at": "2020/06/03 07:20"
-        },
-        {
-            "title": "レッサーパンダ2カ月ぶり元気な姿",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1097210",
-            "published_at": "2020/06/02 17:10"
         }
     ]
 }
