@@ -1,6 +1,11 @@
 {
-    "timestamp": 1591250896,
+    "timestamp": 1591254485,
     "info": [
+        {
+            "title": "新型コロナ感染者が1分間話すとウイルス含む飛沫1000個発生",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1098645",
+            "published_at": "2020/06/04 16:00"
+        },
         {
             "title": "福井県の新規感染者37日連続ゼロ",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1098559",
@@ -30,11 +35,6 @@
             "title": "ネットで一期一会、オンライン宿泊",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1098105",
             "published_at": "2020/06/04 07:10"
-        },
-        {
-            "title": "夏定番、昔ながらのビー玉入りラムネ",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1098065",
-            "published_at": "2020/06/04 07:00"
         }
     ]
 }
