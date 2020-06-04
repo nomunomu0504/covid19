@@ -1,6 +1,11 @@
 {
-    "timestamp": 1591233114,
+    "timestamp": 1591236478,
     "info": [
+        {
+            "title": "学生多い京都に福井県が拠点開所",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1098426",
+            "published_at": "2020/06/04 10:30"
+        },
         {
             "title": "新型コロナ、PCR検査と抗原検査の違いは",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1094768",
@@ -30,11 +35,6 @@
             "title": "池上遼一さんコロナ克服へ古里激励",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1097917",
             "published_at": "2020/06/03 17:10"
-        },
-        {
-            "title": "コロナ対策で水晶浜など海開き中止",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1097892",
-            "published_at": "2020/06/03 17:00"
         }
     ]
 }
