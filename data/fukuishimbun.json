@@ -1,6 +1,11 @@
 {
-    "timestamp": 1591225671,
+    "timestamp": 1591233114,
     "info": [
+        {
+            "title": "新型コロナ、PCR検査と抗原検査の違いは",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1094768",
+            "published_at": "2020/06/04 10:00"
+        },
         {
             "title": "米抗議デモ激化",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1098379",
@@ -30,11 +35,6 @@
             "title": "コロナ対策で水晶浜など海開き中止",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1097892",
             "published_at": "2020/06/03 17:00"
-        },
-        {
-            "title": "石川県で新型コロナ感染者１人死亡",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1097959",
-            "published_at": "2020/06/03 16:29"
         }
     ]
 }
