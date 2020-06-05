@@ -1,6 +1,11 @@
 {
-    "timestamp": 1591351671,
+    "timestamp": 1591394869,
     "info": [
+        {
+            "title": "スナック、板で仕切って営業再開",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1099548",
+            "published_at": "2020/06/06 07:00"
+        },
         {
             "title": "菊花マラソン、大会初の中止に",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1099392",
@@ -20,11 +25,6 @@
             "title": "福井県の新規感染者38日連続ゼロ",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1099240",
             "published_at": "2020/06/05 14:30"
-        },
-        {
-            "title": "アマビコ最古級の記録確認、挿絵も",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1098833",
-            "published_at": "2020/06/05 10:30"
         }
     ]
 }
