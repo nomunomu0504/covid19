@@ -1,6 +1,11 @@
 {
-    "timestamp": 1591337322,
+    "timestamp": 1591340879,
     "info": [
+        {
+            "title": "ふくい特報班、投稿はコロナ一色",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1099302",
+            "published_at": "2020/06/05 16:00"
+        },
         {
             "title": "福井県の新規感染者38日連続ゼロ",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1099240",
@@ -15,16 +20,6 @@
             "title": "次亜塩素酸水の噴霧器、撤去相次ぐ",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1098829",
             "published_at": "2020/06/05 07:20"
-        },
-        {
-            "title": "コロナ禍に揺れる今こそ見てほしい…",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1099088",
-            "published_at": "2020/06/05 07:20"
-        },
-        {
-            "title": "自転車の脇本雄太を進化させた出会い",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1098851",
-            "published_at": "2020/06/05 07:00"
         }
     ]
 }
