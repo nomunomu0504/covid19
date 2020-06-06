@@ -1,6 +1,11 @@
 {
-    "timestamp": 1591430921,
+    "timestamp": 1591434498,
     "info": [
+        {
+            "title": "福井県内感染者の相関図掲載に賛否",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1099981",
+            "published_at": "2020/06/06 17:10"
+        },
         {
             "title": "コロナで受診控え、診療報酬が大幅減",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1099918",
@@ -20,11 +25,6 @@
             "title": "スナック、板で仕切って営業再開",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1099548",
             "published_at": "2020/06/06 07:00"
-        },
-        {
-            "title": "菊花マラソン、大会初の中止に",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1099392",
-            "published_at": "2020/06/05 18:35"
         }
     ]
 }
