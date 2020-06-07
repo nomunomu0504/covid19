@@ -1,6 +1,11 @@
 {
-    "timestamp": 1591499286,
+    "timestamp": 1591502888,
     "info": [
+        {
+            "title": "福井県内の新規感染者40日連続ゼロ",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1100321",
+            "published_at": "2020/06/07 12:05"
+        },
         {
             "title": "部員不足、コロナ禍を越え大会いざ",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1100315",
@@ -30,11 +35,6 @@
             "title": "コロナで受診控え、診療報酬が大幅減",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1099918",
             "published_at": "2020/06/06 12:00"
-        },
-        {
-            "title": "コロナ補正予算",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1099844",
-            "published_at": "2020/06/06 07:30"
         }
     ]
 }
