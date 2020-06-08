@@ -1,13 +1,18 @@
 {
-    "timestamp": 1591582085,
+    "timestamp": 1591592850,
     "info": [
+        {
+            "title": "新規感染者ゼロ、福井県41日連続",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1100705",
+            "published_at": "2020/06/08 14:00"
+        },
         {
             "title": "３密防いで集会、公民館で高齢者笑顔",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1100642",
             "published_at": "2020/06/08 11:00"
         },
         {
-            "title": "いまから５０年ほど前に書かれた「…",
+            "title": "いまから５０年ほど前に書かれた…",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1100614",
             "published_at": "2020/06/08 07:20"
         },
@@ -30,11 +35,6 @@
             "title": "恋のパワースポットで純白の花見頃",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1100458",
             "published_at": "2020/06/08 06:50"
-        },
-        {
-            "title": "ライブハウス支援「協力者想定の倍」",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1100350",
-            "published_at": "2020/06/07 17:00"
         }
     ]
 }
