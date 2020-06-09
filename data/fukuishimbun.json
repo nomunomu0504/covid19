@@ -1,6 +1,11 @@
 {
-    "timestamp": 1591672093,
+    "timestamp": 1591682910,
     "info": [
+        {
+            "title": "リモート教育、成績評価はどうするの",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1100945",
+            "published_at": "2020/06/09 14:00"
+        },
         {
             "title": "敦賀花火2020、新型コロナで中止",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1101378",
@@ -35,11 +40,6 @@
             "title": "暑い日はマスク外して登下校認める",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1101029",
             "published_at": "2020/06/09 07:00"
-        },
-        {
-            "title": "給食風景様変わり、板で仕切りも",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1100765",
-            "published_at": "2020/06/08 17:10"
         }
     ]
 }
