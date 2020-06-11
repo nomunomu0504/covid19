@@ -1,6 +1,11 @@
 {
-    "timestamp": 1591830452,
+    "timestamp": 1591844879,
     "info": [
+        {
+            "title": "JR福井駅周辺、昼の人出が戻る",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1102908",
+            "published_at": "2020/06/11 12:00"
+        },
         {
             "title": "福井弁護士会の教育動画",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1102780",
@@ -25,11 +30,6 @@
             "title": "赤字だった福井市が一転、連続黒字",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1102487",
             "published_at": "2020/06/11 07:00"
-        },
-        {
-            "title": "福井の銘菓、大幅値下げで直売のワケ",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1102234",
-            "published_at": "2020/06/10 17:00"
         }
     ]
 }
