@@ -1,6 +1,11 @@
 {
-    "timestamp": 1591880883,
+    "timestamp": 1591913260,
     "info": [
+        {
+            "title": "東京や北海道への移動自粛解除へ",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1103159",
+            "published_at": "2020/06/12 07:00"
+        },
         {
             "title": "石川県の高校野球独自大会で「バーチャル開会式」",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1103181",
@@ -20,11 +25,6 @@
             "title": "JR福井駅周辺、昼の人出が戻る",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1102908",
             "published_at": "2020/06/11 12:00"
-        },
-        {
-            "title": "福井弁護士会の教育動画",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1102780",
-            "published_at": "2020/06/11 07:30"
         }
     ]
 }
