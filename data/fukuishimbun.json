@@ -1,6 +1,11 @@
 {
-    "timestamp": 1591970879,
+    "timestamp": 1591999658,
     "info": [
+        {
+            "title": "福井県高体連が30競技で代替大会",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1103956",
+            "published_at": "2020/06/13 07:00"
+        },
         {
             "title": "北九州市で新型コロナ新たに4人感染、6月12日",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1103876",
@@ -30,16 +35,6 @@
             "title": "「修学旅行は京都へ」全国自治体に文書",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1103683",
             "published_at": "2020/06/12 14:11"
-        },
-        {
-            "title": "福井県内の新規感染者45日連続ゼロ",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1103620",
-            "published_at": "2020/06/12 12:30"
-        },
-        {
-            "title": "県立中高校の全生徒にタブレット貸与",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1103507",
-            "published_at": "2020/06/12 12:00"
         }
     ]
 }
