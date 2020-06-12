@@ -1,6 +1,16 @@
 {
-    "timestamp": 1591942119,
+    "timestamp": 1591949354,
     "info": [
+        {
+            "title": "小中学校の給食にブランド牛、福井県",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1103669",
+            "published_at": "2020/06/12 17:00"
+        },
+        {
+            "title": "第一三共が新型コロナウイルスのワクチン開発決定",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1103777",
+            "published_at": "2020/06/12 16:54"
+        },
         {
             "title": "「修学旅行は京都へ」全国自治体に文書",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1103683",
@@ -25,11 +35,6 @@
             "title": "高校入試の出題範囲、休校の影響は",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1103140",
             "published_at": "2020/06/12 07:20"
-        },
-        {
-            "title": "知事会見２カ月ぶりマスク外した理由",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1103152",
-            "published_at": "2020/06/12 07:10"
         }
     ]
 }
