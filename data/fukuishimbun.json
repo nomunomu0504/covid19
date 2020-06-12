@@ -1,6 +1,11 @@
 {
-    "timestamp": 1591931295,
+    "timestamp": 1591934906,
     "info": [
+        {
+            "title": "福井県内の新規感染者45日連続ゼロ",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1103620",
+            "published_at": "2020/06/12 12:30"
+        },
         {
             "title": "県立中高校の全生徒にタブレット貸与",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1103507",
@@ -30,11 +35,6 @@
             "title": "石川県の高校野球独自大会で「バーチャル開会式」",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1103181",
             "published_at": "2020/06/11 21:37"
-        },
-        {
-            "title": "大学入学共通テスト、1月実施で調整",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1103173",
-            "published_at": "2020/06/11 21:21"
         }
     ]
 }
