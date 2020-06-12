@@ -1,6 +1,11 @@
 {
-    "timestamp": 1591938502,
+    "timestamp": 1591942119,
     "info": [
+        {
+            "title": "「修学旅行は京都へ」全国自治体に文書",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1103683",
+            "published_at": "2020/06/12 14:11"
+        },
         {
             "title": "福井県内の新規感染者45日連続ゼロ",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1103620",
@@ -25,11 +30,6 @@
             "title": "知事会見２カ月ぶりマスク外した理由",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1103152",
             "published_at": "2020/06/12 07:10"
-        },
-        {
-            "title": "東京や北海道への移動自粛解除へ",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1103159",
-            "published_at": "2020/06/12 07:00"
         }
     ]
 }
