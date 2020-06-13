@@ -1,6 +1,11 @@
 {
-    "timestamp": 1592014090,
+    "timestamp": 1592017681,
     "info": [
+        {
+            "title": "マスクや防護服、県産化へ設備補助",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1104291",
+            "published_at": "2020/06/13 11:40"
+        },
         {
             "title": "高浜の地域商社",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1104223",
@@ -15,11 +20,6 @@
             "title": "福井県高体連が30競技で代替大会",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1103956",
             "published_at": "2020/06/13 07:00"
-        },
-        {
-            "title": "新型コロナ陰性2回で退院も再び陽性に",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1103864",
-            "published_at": "2020/06/12 18:44"
         }
     ]
 }
