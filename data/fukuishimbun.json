@@ -1,6 +1,11 @@
 {
-    "timestamp": 1592035735,
+    "timestamp": 1592039287,
     "info": [
+        {
+            "title": "福井版GoToキャンペーン補助率は",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1104343",
+            "published_at": "2020/06/13 17:10"
+        },
         {
             "title": "大学生就職率、全国トップは福井県",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1104340",
@@ -25,11 +30,6 @@
             "title": "県大会復活、すでに引退の高校球児も",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1103952",
             "published_at": "2020/06/13 07:10"
-        },
-        {
-            "title": "福井県高体連が30競技で代替大会",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1103956",
-            "published_at": "2020/06/13 07:00"
         }
     ]
 }
