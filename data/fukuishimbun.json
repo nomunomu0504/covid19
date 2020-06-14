@@ -1,6 +1,11 @@
 {
-    "timestamp": 1592104080,
+    "timestamp": 1592107727,
     "info": [
+        {
+            "title": "福井県、新型コロナ新規感染者ゼロ",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1104714",
+            "published_at": "2020/06/14 13:00"
+        },
         {
             "title": "コロナで子の予防接種延期はリスク",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1104697",
@@ -15,11 +20,6 @@
             "title": "布マスクを施設へ、公民館が役割",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1104434",
             "published_at": "2020/06/14 07:20"
-        },
-        {
-            "title": "福井版GoToキャンペーン補助率は",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1104343",
-            "published_at": "2020/06/13 17:10"
         }
     ]
 }
