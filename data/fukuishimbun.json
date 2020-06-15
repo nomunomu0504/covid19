@@ -1,6 +1,16 @@
 {
-    "timestamp": 1592208528,
+    "timestamp": 1592258874,
     "info": [
+        {
+            "title": "福井県立恐竜博物館３カ月ぶり再開",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1105300",
+            "published_at": "2020/06/16 07:00"
+        },
+        {
+            "title": "鯖江市長選、田村康夫氏が出馬表明",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1105288",
+            "published_at": "2020/06/16 06:50"
+        },
         {
             "title": "マジックバー応援、返礼で派遣も",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1105071",
@@ -20,11 +30,6 @@
             "title": "福井県、新型コロナの新規感染者なし",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1104987",
             "published_at": "2020/06/15 11:46"
-        },
-        {
-            "title": "狂犬病の男性死亡、豊橋市が発表",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1104963",
-            "published_at": "2020/06/15 11:35"
         }
     ]
 }
