@@ -1,6 +1,46 @@
 {
     "newsItems": [
         {
+            "date": "2020/05/17",
+            "url": "https://www.pref.fukui.lg.jp/doc/kenkou/covid19_chiji_d/fil/200517.pdf",
+            "text": "県民行動指針が更新されました"
+        },
+        {
+            "date": "2020/05/15",
+            "url": "https://www.pref.fukui.lg.jp/doc/kenkou/corona/guideline.html",
+            "text": "新型コロナウイルス感染拡大防止対策ガイドラインが公開されました"
+        },
+        {
+            "date": "2020/05/12",
+            "url": "https://www.pref.fukui.lg.jp/doc/kenkou/covid19_chiji_d/fil/200511-3.pdf",
+            "text": "新しい生活様式の実践例が公開されました"
+        },
+        {
+            "date": "2020/05/07",
+            "url": "https://www.pref.fukui.lg.jp/doc/kenkou/covid19_chiji_d/fil/200507.pdf",
+            "text": "県民行動指針が更新されました"
+        },
+        {
+            "date": "2020/05/05",
+            "url": "https://www.pref.fukui.lg.jp/doc/kenkou/kansensyo-yobousessyu/corona_d/fil/200506.pdf",
+            "text": "緊急事態措置の対象施設一覧が公開されました"
+        },
+        {
+            "date": "2020/05/05",
+            "url": "https://www.pref.fukui.lg.jp/doc/kenkou/covid19_chiji_d/fil/200507.pdf",
+            "text": "福井県の緊急事態措置が改定されました"
+        },
+        {
+            "date": "2020/04/28",
+            "url": "https://www.pref.fukui.lg.jp/doc/kenkou/corona/jyoukyou_d/fil/200428.pdf",
+            "text": "福井県内で122例目となる新型コロナウイルス感染者が確認されました"
+        },
+        {
+            "date": "2020/04/26",
+            "url": "https://www.pref.fukui.lg.jp/doc/kenkou/corona/jyoukyou_d/fil/200426.pdf",
+            "text": "福井県内で121例目となる新型コロナウイルス感染者が確認されました"
+        },
+        {
             "date": "2020/04/24",
             "url": "https://www.pref.fukui.lg.jp/doc/kenkou/corona/jyoukyou_d/fil/200424.pdf",
             "text": "福井県内で120例目となる新型コロナウイルス感染者が確認されました"
@@ -43,77 +83,77 @@
         {
             "date": "2020/04/15",
             "url": "https://www.pref.fukui.lg.jp/doc/kenkou/corona/jyoukyou_d/fil/200415.pdf",
-            "text": "福井県内で93例目~100例目となる新型コロナウイルス感染者が確認されました。"
+            "text": "福井県内で93例目~100例目となる新型コロナウイルス感染者が確認されました"
         },
         {
-            "date": "2020-04-13T15:00:00.000Z",
+            "date": "2020/04/14",
             "url": "https://www.pref.fukui.lg.jp/doc/kenkou/covid19_chiji.html",
-            "text": "福井県緊急事態宣言を発令しました。"
+            "text": "福井県緊急事態宣言を発令しました"
         },
         {
             "date": "2020/04/13",
             "url": "https://www.pref.fukui.lg.jp/doc/kenkou/corona/jyoukyou_d/fil/200413.pdf",
-            "text": "福井県内で89例目~92例目となる新型コロナウイルス感染者が確認されました。"
+            "text": "福井県内で89例目~92例目となる新型コロナウイルス感染者が確認されました"
         },
         {
             "date": "2020/04/12",
             "url": "https://www.pref.fukui.lg.jp/doc/kenkou/corona/jyoukyou_d/fil/200412.pdf",
-            "text": "福井県内で87例目~88例目となる新型コロナウイルス感染者が確認されました。"
+            "text": "福井県内で87例目~88例目となる新型コロナウイルス感染者が確認されました"
         },
         {
             "date": "2020/04/11",
             "url": "https://www.pref.fukui.lg.jp/doc/kenkou/corona/jyoukyou_d/fil/200411.pdf",
-            "text": "福井県内で83例目~86例目となる新型コロナウイルス感染者が確認されました。"
+            "text": "福井県内で83例目~86例目となる新型コロナウイルス感染者が確認されました"
         },
         {
             "date": "2020/04/10",
             "url": "https://www.pref.fukui.lg.jp/doc/kenkou/corona/jyoukyou_d/fil/200410.pdf",
-            "text": "福井県内で78例目~82例目となる新型コロナウイルス感染者が確認されました。"
+            "text": "福井県内で78例目~82例目となる新型コロナウイルス感染者が確認されました"
         },
         {
             "date": "2020/04/09",
             "url": "https://www.pref.fukui.lg.jp/doc/kenkou/corona/jyoukyou_d/fil/200409.pdf",
-            "text": "福井県内で73例目~77例目となる新型コロナウイルス感染者が確認されました。"
+            "text": "福井県内で73例目~77例目となる新型コロナウイルス感染者が確認されました"
         },
         {
             "date": "2020/04/08",
             "url": "https://www.pref.fukui.lg.jp/doc/kenkou/corona/jyoukyou_d/fil/200408.pdf",
-            "text": "福井県内で66例目~72例目となる新型コロナウイルス感染者が確認されました。"
+            "text": "福井県内で66例目~72例目となる新型コロナウイルス感染者が確認されました"
         },
         {
             "date": "2020/04/07",
             "url": "https://www.pref.fukui.lg.jp/doc/kenkou/corona/jyoukyou_d/fil/200407.pdf",
-            "text": "福井県内で60例目~65例目となる新型コロナウイルス感染者が確認されました。"
+            "text": "福井県内で60例目~65例目となる新型コロナウイルス感染者が確認されました"
         },
         {
             "date": "2020/04/06",
             "url": "https://www.pref.fukui.lg.jp/doc/kenkou/corona/jyoukyou_d/fil/200406-2.pdf",
-            "text": "福井県内で54例目~59例目となる新型コロナウイルス感染者が確認されました。"
+            "text": "福井県内で54例目~59例目となる新型コロナウイルス感染者が確認されました"
         },
         {
             "date": "2020/04/05",
             "url": "https://www.pref.fukui.lg.jp/doc/kenkou/corona/jyoukyou_d/fil/200405-1.pdf",
-            "text": "福井県内で47例目~53例目となる新型コロナウイルス感染者が確認されました。"
+            "text": "福井県内で47例目~53例目となる新型コロナウイルス感染者が確認されました"
         },
         {
             "date": "2020/04/04",
             "url": "https://www.pref.fukui.lg.jp/doc/kenkou/corona/jyoukyou_d/fil/200404.pdf",
-            "text": "福井県内で43例目~46例目となる新型コロナウイルス感染者が確認されました。"
+            "text": "福井県内で43例目~46例目となる新型コロナウイルス感染者が確認されました"
         },
         {
             "date": "2020/04/03",
             "url": "https://www.pref.fukui.lg.jp/doc/kenkou/corona/jyoukyou_d/fil/200403-1.pdf",
-            "text": "福井県内で40例目~42例目となる新型コロナウイルス感染者が確認されました。"
+            "text": "福井県内で40例目~42例目となる新型コロナウイルス感染者が確認されました"
         },
         {
             "date": "2020/04/03",
             "url": "https://www.pref.fukui.lg.jp/doc/kenkou/corona/jyoukyou_d/fil/200403.pdf",
-            "text": "福井県内で30例目~39例目となる新型コロナウイルス感染者が確認されました。"
+            "text": "福井県内で30例目~39例目となる新型コロナウイルス感染者が確認されました"
         },
         {
             "date": "2020/04/02",
             "url": "https://www.pref.fukui.lg.jp/doc/kenkou/corona/jyoukyou_d/fil/200402-1.pdf",
-            "text": "福井県内で22例目~30例目となる新型コロナウイルス感染者が確認されました。"
+            "text": "福井県内で22例目~30例目となる新型コロナウイルス感染者が確認されました"
         },
         {
             "date": "2020/04/01",

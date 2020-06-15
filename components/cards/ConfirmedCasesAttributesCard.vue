@@ -7,8 +7,25 @@
       :chart-option="{}"
       :date="updatedAt"
       :info="sumInfoOfPatients"
-      :url="'https://www.pref.fukui.lg.jp/doc/toukei-jouhou/covid-19.html'"
-    />
+      :url="
+        'https://www.pref.fukui.lg.jp/doc/kenkou/kansensyo-yobousessyu/corona.html'
+      "
+    >
+      <template v-slot:description>
+        <ul>
+          <li>
+            {{ $t('(注)') }}
+            {{
+              $t(
+                '県の個人情報保護条例に基づき、情報公開を希望されない方の情報は公開されていません'
+              )
+            }} <br />
+            {{ $t('(注)') }}
+            {{ $t('状態、症状、渡航歴、退院について未記載の場合があります') }}
+          </li>
+        </ul>
+      </template>
+    </data-table>
   </v-col>
 </template>
 
@@ -39,22 +56,16 @@ export default {
     // console.log(sumInfoOfPatients)
 
     // 陽性患者の属性 ヘッダー翻訳
-    // for (const header of patientsTable.headers) {
-    //   header.text =
-    //     header.value === '退院' ? this.$t('退院※') : this.$t(header.value)
-    // }
+    for (const header of patientsTable.headers) {
+      header.text = this.$t(header.value)
+    }
     // 陽性患者の属性 中身の翻訳
     for (const row of patientsTable.datasets) {
       row['居住地'] = this.$t(row['居住地'])
       row['性別'] = this.$t(row['性別'])
+      row['職業'] = this.$t(row['職業'])
+      row['年代'] = this.$t(row['年代'])
       row['備考'] = this.$t(row['備考'])
-
-      if (row['年代'] === '10歳未満') {
-        row['年代'] = this.$t('10歳未満')
-      } else {
-        const age = row['年代'].substring(0, 2)
-        row['年代'] = this.$t('{age}代', { age })
-      }
     }
 
     const data = {

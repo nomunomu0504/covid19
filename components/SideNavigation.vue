@@ -16,9 +16,8 @@
             :alt="$t('福井県')"
           />
           <div class="SideNavigation-HeaderText">
-            {{ $t('福井県公認 新型コロナウイルス') }}<br />{{
-              $t('対策サイト')
-            }}
+            {{ $t('福井県公認 新型コロナウイルス') }}<br />
+            {{ $t('対策サイト') }}
           </div>
         </nuxt-link>
       </h1>
@@ -34,15 +33,22 @@
       </v-icon>
 
       <nav class="SideNavigation-Menu">
-        <MenuList :items="items" @click="$emit('closeNavi', $event)" />
         <div
           v-if="this.$i18n.locales.length > 1"
           class="SideNavigation-Language"
-        />
+        >
+          <label class="SideNavigation-LanguageLabel" for="LanguageSelector">
+            {{ $t('多言語対応選択メニュー') }}
+          </label>
+          <LanguageSelector />
+        </div>
+        <MenuList :items="items" @click="$emit('closeNavi', $event)" />
       </nav>
 
       <footer class="SideNavigation-Footer">
-        {{ $t('※このサイトは福井高専卒のエンジニアが開設したものです') }}<br /><br />
+        {{ $t('※') }}
+        {{ $t('このサイトは福井高専卒のエンジニアが開設したものです') }}
+        <br /><br />
         <div class="SideNavigation-Social">
           <a
             href="https://twitter.com/covid19_fukui"
@@ -86,9 +92,14 @@
         </picture>
         <small class="SideNavigation-Copyright-license">
           Content on This Site is Licensed Under a
-          <a rel="license" target="_blank" href="http://creativecommons.org/licenses/by/4.0/">
-          Creative Commons Attribution 4.0 International License </a>provided under<br/>
-          2020 Tokyo Metropolitan Government<br/>
+          <a
+            rel="license"
+            target="_blank"
+            href="http://creativecommons.org/licenses/by/4.0/"
+          >
+            Creative Commons Attribution 4.0 International License </a
+          >provided under<br />
+          2020 Tokyo Metropolitan Government<br />
           © 2020 covid19-fukui.com
         </small>
       </footer>
@@ -99,7 +110,7 @@
 <script lang="ts">
 import Vue from 'vue'
 import { TranslateResult } from 'vue-i18n'
-// import LanguageSelector from '@/components/LanguageSelector.vue'
+import LanguageSelector from '@/components/LanguageSelector.vue'
 import MenuList from '@/components/MenuList.vue'
 
 type Item = {
@@ -111,7 +122,7 @@ type Item = {
 
 export default Vue.extend({
   components: {
-    // LanguageSelector,
+    LanguageSelector,
     MenuList
   },
   props: {
@@ -131,7 +142,12 @@ export default Vue.extend({
         {
           icon: 'CovidIcon',
           title: this.$t('新型コロナウイルス感染症が心配な方はこちら'),
-          link: this.localePath('/flow'),
+          link: this.localePath('/flow')
+        },
+        {
+          icon: 'SurgicalMaskIcon',
+          title: this.$t('県あっせんマスクについて'),
+          link: this.localePath('/mask'),
           divider: true
         },
         {
@@ -147,14 +163,19 @@ export default Vue.extend({
         {
           icon: 'mdi-information',
           title: this.$t('国内のお知らせ一覧'),
-          link: this.localePath('/japan-news'),
+          link: 'https://www.pref.fukui.lg.jp/doc/kenkou/covid19_governar.html',
           divider: true
+        },
+        {
+          icon: 'mdi-near-me',
+          title: this.$t('県民くらしナビ'),
+          link: 'https://www.pref.fukui.lg.jp/doc/kouho/navi.html'
         },
         {
           icon: 'mdi-account-multiple',
           title: this.$t('福井県民の皆様へ'),
           link:
-            'https://www.pref.fukui.lg.jp/doc/kenkou/kansensyo-yobousessyu/corona.html#'
+            'https://www.pref.fukui.lg.jp/doc/kenkou/kansensyo-yobousessyu/corona.html'
         },
         {
           icon: 'ParentIcon',
@@ -164,14 +185,12 @@ export default Vue.extend({
         {
           icon: 'mdi-domain',
           title: this.$t('企業・はたらく皆様へ'),
-          link:
-            'https://www.pref.fukui.lg.jp/doc/kenkou/kansensyo-yobousessyu/corona.html#kigyou'
+          link: 'https://www.pref.fukui.lg.jp/kenko/kenkou/cat0907/index.html'
         },
         {
           icon: 'mdi-domain',
           title: this.$t('医療機関の皆様へ'),
-          link:
-            'https://www.pref.fukui.lg.jp/doc/kenkou/kansensyo-yobousessyu/corona.html#iryou',
+          link: 'https://www.pref.fukui.lg.jp/doc/kenkou/covid19_iryo.html',
           divider: true
         },
         {

@@ -57,6 +57,7 @@
     "vue-property-decorator": "^8.4.0",
     "vue-scrollto": "^2.17.1",
     "vue-spinner": "^1.0.3",
+    "vue-tweet-embed": "^2.4.0",
     "vue-youtube": "^1.4.0",
     "vue2-leaflet": "^2.5.2",
     "xml2js": "^0.4.23"

@@ -7,34 +7,10 @@
             mdi-information
           </v-icon>
           {{ $t('速報') }}
-          <a class="BreakingNews-heading-link" :href="this.localePath('/news')"
-            >過去のお知らせはこちら</a
-          >
+          <a class="BreakingNews-heading-link" :href="this.localePath('/news')">
+            {{ $t('過去のお知らせはこちら') }}
+          </a>
         </h2>
-      </v-col>
-      <v-spacer></v-spacer>
-      <v-col cols="auto" style="padding-top:0;padding-bottom:0">
-        <v-btn
-          depressed
-          bottom
-          color="#ffe200"
-          href="https://www.pref.fukui.lg.jp/doc/kenkou/covid19_chiji.html"
-          target="_blank"
-        >
-          <v-icon
-            left
-            small
-          >
-            mdi-bullhorn
-          </v-icon>
-          <span style="font-weight: bold">{{ $t('福井県緊急事態宣言について') }}</span>
-          <v-icon
-            right
-            small
-          >
-            mdi-open-in-new
-          </v-icon>
-        </v-btn>
       </v-col>
     </v-row>
     <ul class="BreakingNews-list">

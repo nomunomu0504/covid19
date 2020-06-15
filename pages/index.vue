@@ -12,28 +12,22 @@
         <span>{{ $t('注釈') }} </span>
       </div>
     </div>
+    <static-info
+      class="mb-4"
+      :url="localePath('/mask')"
+      target="_blank"
+      :text="
+        $t(
+          'ゲンキーで販売されている県あっせんマスクについての情報はこちらからご確認いただけます'
+        )
+      "
+      :btn-text="$t('マスク情報へ')"
+    />
     <breaking-news class="mb-4" :items="newsItems" />
     <fukui-paper-news class="mb-4" />
     <!-- <fukui-news class="mb-4" />
     <whats-new class="mb-4" :items="newsItems" /> -->
     <whats-new-japan class="mb-4" :items="japanItems" />
-    <div class="BreakingNews">
-      <ul class="BreakingNews-list">
-        <li class="BreakingNews-list-item BreakingNews-list-item-anchor">
-          <h4>
-            <v-icon size="20" class="BreakingNews-heading-icon">
-              mdi-information
-            </v-icon>
-            誤ったDMCA申請につきまして
-          </h4>
-          <span class="BreakingNews-list-item-anchor-link">
-            丹南ケーブルテレビ株式会社が運営する<a href="https://covid19-fukui.bosai-signal.jp/">新型コロナ対策サイト</a>についてDMCA申請を行っていましたが<br />
-            誤ったDMCA申請であったため、現在、取下げ申請を行っております。<br />
-            関係者の方々には、大変なご迷惑をおかけいたしました。お詫び申し上げます。
-          </span>
-        </li>
-      </ul>
-    </div>
     <static-info
       class="mb-4"
       :url="localePath('/flow')"
@@ -46,13 +40,13 @@
     <v-row class="DataBlock">
       <!-- <youtube-card /> -->
       <confirmed-cases-number-card />
+      <hospitalized-patients-card />
       <confirmed-cases-details-card />
       <each-sex-age-number-positive-card />
       <inspection-persons-number-card />
+      <hospital-beds-number-card />
       <confirmed-cases-attributes-card />
       <information-number-card />
-      <hospital-beds-number-card />
-      <mask-inventory-card />
     </v-row>
   </div>
 </template>
@@ -73,6 +67,8 @@ import JapanNews from '@/data/japan_news.json'
 import BreakingNewsData from '@/data/breaking_news.json'
 // 陽性患者数
 import ConfirmedCasesNumberCard from '@/components/cards/ConfirmedCasesNumberCard.vue'
+// 入院患者数
+import HospitalizedPatientsCard from '@/components/cards/HospitalizedPatientsCard.vue'
 // 陽性患者の属性
 import ConfirmedCasesAttributesCard from '@/components/cards/ConfirmedCasesAttributesCard.vue'
 // 検査陽性者の状況
@@ -81,8 +77,6 @@ import ConfirmedCasesDetailsCard from '@/components/cards/ConfirmedCasesDetailsC
 import InspectionPersonsNumberCard from '@/components/cards/InspectionPersonsNumberCard.vue'
 // 病床数
 import HospitalBedsNumberCard from '@/components/cards/HospitalBedsNumberCard.vue'
-// マスクの在庫状況
-import MaskInventoryCard from '@/components/cards/MaskInventoryCard.vue'
 // Youtube
 // import YoutubeCard from '@/components/cards/YoutubeCard.vue'
 
@@ -112,7 +106,10 @@ import EachSexAgeNumberPositiveCard from '@/components/cards/EachSexAgeNumberPos
 // import ConsultationDeskReportsNumberCard from '@/components/cards/ConsultationDeskReportsNumberCard.vue'
 // import MetroCard from '@/components/cards/MetroCard.vue'
 // import AgencyCard from '@/components/cards/AgencyCard.vue'
-import { convertDatetimeToISO8601Format, getCommonStyleDateString } from '@/utils/formatDate'
+import {
+  convertDatetimeToISO8601Format,
+  getCommonStyleDateString
+} from '@/utils/formatDate'
 
 export default Vue.extend({
   components: {
@@ -124,12 +121,12 @@ export default Vue.extend({
     WhatsNewJapan,
     StaticInfo,
     ConfirmedCasesNumberCard,
+    HospitalizedPatientsCard,
     ConfirmedCasesDetailsCard,
     InspectionPersonsNumberCard,
     // TestedCasesDetailsCard,
     ConfirmedCasesAttributesCard,
     HospitalBedsNumberCard,
-    MaskInventoryCard,
     InformationNumberCard,
     EachSexAgeNumberPositiveCard
     // YoutubeCard,

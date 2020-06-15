@@ -34,7 +34,7 @@ $tiny: 320;
 // z-index
 $z-index-map: (
   opened-side-navigation: 101,
-  sp-navigation: 100,
+  sp-navigation: 10000,
 );
 
 @function z-index-of($key) {
