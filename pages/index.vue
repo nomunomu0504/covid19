@@ -44,9 +44,9 @@
       <confirmed-cases-details-card />
       <each-sex-age-number-positive-card />
       <inspection-persons-number-card />
+      <hospital-beds-number-card />
       <confirmed-cases-attributes-card />
       <information-number-card />
-      <hospital-beds-number-card />
     </v-row>
   </div>
 </template>
