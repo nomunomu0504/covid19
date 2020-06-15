@@ -1,6 +1,21 @@
 {
-    "timestamp": 1592258874,
+    "timestamp": 1592262430,
     "info": [
+        {
+            "title": "コロナ禍の新幹線整備",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1105566",
+            "published_at": "2020/06/16 07:30"
+        },
+        {
+            "title": "福井県コロナ入院ゼロ平均21日入院",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1105309",
+            "published_at": "2020/06/16 07:20"
+        },
+        {
+            "title": "大雨で避難所開設、コロナ対応に課題",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1105303",
+            "published_at": "2020/06/16 07:10"
+        },
         {
             "title": "福井県立恐竜博物館３カ月ぶり再開",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1105300",
@@ -15,21 +30,6 @@
             "title": "マジックバー応援、返礼で派遣も",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1105071",
             "published_at": "2020/06/15 17:00"
-        },
-        {
-            "title": "レッサーパンダクッキーを保育所へ",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1105032",
-            "published_at": "2020/06/15 16:50"
-        },
-        {
-            "title": "福井県内の新型コロナ入院患者ゼロに",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1105026",
-            "published_at": "2020/06/15 13:58"
-        },
-        {
-            "title": "福井県、新型コロナの新規感染者なし",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1104987",
-            "published_at": "2020/06/15 11:46"
         }
     ]
 }
