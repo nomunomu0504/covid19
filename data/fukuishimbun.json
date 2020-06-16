@@ -1,6 +1,11 @@
 {
-    "timestamp": 1592273311,
+    "timestamp": 1592276900,
     "info": [
+        {
+            "title": "福井のコロナ新規感染ゼロ6月16日",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1105701",
+            "published_at": "2020/06/16 11:54"
+        },
         {
             "title": "コロナ禍の新幹線整備",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1105566",
@@ -25,11 +30,6 @@
             "title": "鯖江市長選、田村康夫氏が出馬表明",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1105288",
             "published_at": "2020/06/16 06:50"
-        },
-        {
-            "title": "マジックバー応援、返礼で派遣も",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1105071",
-            "published_at": "2020/06/15 17:00"
         }
     ]
 }
