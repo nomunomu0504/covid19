@@ -1,6 +1,11 @@
 {
-    "timestamp": 1592266850,
+    "timestamp": 1592269724,
     "info": [
+        {
+            "title": "神奈川県海老名市の3人が新型コロナ感染",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1105638",
+            "published_at": "2020/06/16 10:00"
+        },
         {
             "title": "コロナ禍の新幹線整備",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1105566",
@@ -25,11 +30,6 @@
             "title": "鯖江市長選、田村康夫氏が出馬表明",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1105288",
             "published_at": "2020/06/16 06:50"
-        },
-        {
-            "title": "マジックバー応援、返礼で派遣も",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1105071",
-            "published_at": "2020/06/15 17:00"
         }
     ]
 }
