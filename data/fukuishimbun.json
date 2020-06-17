@@ -1,6 +1,11 @@
 {
-    "timestamp": 1592384903,
+    "timestamp": 1592431677,
     "info": [
+        {
+            "title": "JR北陸線の列車に抗ウイルス加工",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1106728",
+            "published_at": "2020/06/18 07:00"
+        },
         {
             "title": "50日連続で福井県の新規感染者ゼロ",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1106383",
@@ -10,11 +15,6 @@
             "title": "コロナで県制度融資に20倍の申請",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1106362",
             "published_at": "2020/06/17 11:55"
-        },
-        {
-            "title": "新型コロナ感染者が他人にうつすリスク、どれくらい続く",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1102068",
-            "published_at": "2020/06/17 10:00"
         }
     ]
 }
