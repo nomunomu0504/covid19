@@ -1,6 +1,16 @@
 {
-    "timestamp": 1592356117,
+    "timestamp": 1592363285,
     "info": [
+        {
+            "title": "50日連続で福井県の新規感染者ゼロ",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1106383",
+            "published_at": "2020/06/17 12:05"
+        },
+        {
+            "title": "コロナで県制度融資に20倍の申請",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1106362",
+            "published_at": "2020/06/17 11:55"
+        },
         {
             "title": "新型コロナ感染者が他人にうつすリスク、どれくらい続く",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1102068",
@@ -20,11 +30,6 @@
             "title": "2020たけふ菊人形、縮小して開催",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1105966",
             "published_at": "2020/06/17 07:00"
-        },
-        {
-            "title": "アマビエ小法師、顔はみんな違う",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1105770",
-            "published_at": "2020/06/16 17:00"
         }
     ]
 }
