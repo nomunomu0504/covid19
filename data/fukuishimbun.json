@@ -1,6 +1,11 @@
 {
-    "timestamp": 1592348853,
+    "timestamp": 1592356117,
     "info": [
+        {
+            "title": "新型コロナ感染者が他人にうつすリスク、どれくらい続く",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1102068",
+            "published_at": "2020/06/17 10:00"
+        },
         {
             "title": "「世界経済は現在、１９３０年代の…",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1106244",
@@ -20,11 +25,6 @@
             "title": "アマビエ小法師、顔はみんな違う",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1105770",
             "published_at": "2020/06/16 17:00"
-        },
-        {
-            "title": "49日連続で福井県の新規感染者ゼロ",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1105701",
-            "published_at": "2020/06/16 11:54"
         }
     ]
 }
