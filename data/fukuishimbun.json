@@ -1,6 +1,11 @@
 {
-    "timestamp": 1592518141,
+    "timestamp": 1592521699,
     "info": [
+        {
+            "title": "福井県、県境越え移動制限全て解除",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1107459",
+            "published_at": "2020/06/19 07:20"
+        },
         {
             "title": "道の駅恐竜かつやま、グルメも充実",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1107256",
@@ -10,21 +15,6 @@
             "title": "新生福井、異例ずくめの１季目臨む",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1107253",
             "published_at": "2020/06/18 17:00"
-        },
-        {
-            "title": "通常国会閉幕",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1107040",
-            "published_at": "2020/06/18 07:30"
-        },
-        {
-            "title": "脳性まひの女性がミュージックリレー",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1106744",
-            "published_at": "2020/06/18 07:20"
-        },
-        {
-            "title": "「五月蠅い」と書いて「うるさい」…",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1107039",
-            "published_at": "2020/06/18 07:20"
         }
     ]
 }
