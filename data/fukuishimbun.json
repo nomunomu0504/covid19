@@ -1,6 +1,11 @@
 {
-    "timestamp": 1592467727,
+    "timestamp": 1592471297,
     "info": [
+        {
+            "title": "道の駅恐竜かつやま、グルメも充実",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1107256",
+            "published_at": "2020/06/18 17:10"
+        },
         {
             "title": "新生福井、異例ずくめの１季目臨む",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1107253",
@@ -25,11 +30,6 @@
             "title": "書道部、けじめの大書パフォーマンス",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1106738",
             "published_at": "2020/06/18 07:10"
-        },
-        {
-            "title": "JR北陸線の列車に抗ウイルス加工",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1106728",
-            "published_at": "2020/06/18 07:00"
         }
     ]
 }
