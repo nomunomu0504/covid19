@@ -1,6 +1,16 @@
 {
-    "timestamp": 1592604471,
+    "timestamp": 1592608055,
     "info": [
+        {
+            "title": "コロナと議会",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1108540",
+            "published_at": "2020/06/20 07:30"
+        },
+        {
+            "title": "長谷川博己さん着用、光秀衣装を展示",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1108273",
+            "published_at": "2020/06/20 07:10"
+        },
         {
             "title": "鹿児島国体と障スポの年内開催断念",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1108174",
@@ -10,16 +20,6 @@
             "title": "接触アプリ運用始まる",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1107971",
             "published_at": "2020/06/19 17:15"
-        },
-        {
-            "title": "コロナの今だから「結婚しよう」",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1108029",
-            "published_at": "2020/06/19 17:10"
-        },
-        {
-            "title": "富山県の入院患者ゼロに",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1107970",
-            "published_at": "2020/06/19 14:20"
         }
     ]
 }
