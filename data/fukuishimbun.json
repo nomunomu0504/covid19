@@ -1,6 +1,11 @@
 {
-    "timestamp": 1592690852,
+    "timestamp": 1592694497,
     "info": [
+        {
+            "title": "コロナ感染防止で飲酒検問に変化",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1108764",
+            "published_at": "2020/06/21 07:10"
+        },
         {
             "title": "野球独立リーグ、球団社長が試合解説",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1108747",
@@ -20,16 +25,6 @@
             "title": "福井県内53日連続新規感染者なし",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1108619",
             "published_at": "2020/06/20 12:30"
-        },
-        {
-            "title": "屋内で木のぬくもり、森の魅力体感",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1108604",
-            "published_at": "2020/06/20 11:45"
-        },
-        {
-            "title": "コロナと議会",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1108540",
-            "published_at": "2020/06/20 07:30"
         }
     ]
 }
