@@ -1,6 +1,11 @@
 {
-    "timestamp": 1592608055,
+    "timestamp": 1592622484,
     "info": [
+        {
+            "title": "屋内で木のぬくもり、森の魅力体感",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1108604",
+            "published_at": "2020/06/20 11:45"
+        },
         {
             "title": "コロナと議会",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1108540",
@@ -15,11 +20,6 @@
             "title": "鹿児島国体と障スポの年内開催断念",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1108174",
             "published_at": "2020/06/19 19:12"
-        },
-        {
-            "title": "接触アプリ運用始まる",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1107971",
-            "published_at": "2020/06/19 17:15"
         }
     ]
 }
