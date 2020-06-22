@@ -1,6 +1,11 @@
 {
-    "timestamp": 1592813363,
+    "timestamp": 1592816908,
     "info": [
+        {
+            "title": "【6/22コロナ速報】石川県30代女性が感染、計300人に",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1109603",
+            "published_at": "2020/06/22 17:48"
+        },
         {
             "title": "鯖江市長一転不出馬「市民におわび」",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1109520",
@@ -20,11 +25,6 @@
             "title": "福井県への観光客数、過去最高に",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1109120",
             "published_at": "2020/06/22 07:10"
-        },
-        {
-            "title": "ネット中傷で考える「表現の自由」",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1109027",
-            "published_at": "2020/06/21 17:10"
         }
     ]
 }
