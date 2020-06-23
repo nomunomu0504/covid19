@@ -1,8 +1,13 @@
 {
-    "timestamp": 1592881731,
+    "timestamp": 1592892534,
     "info": [
         {
-            "title": "2020年夏、海開きわずか２割",
+            "title": "【特殊詐欺情報】福井県　6月23日",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1110118",
+            "published_at": "2020/06/23 14:35"
+        },
+        {
+            "title": "2020夏、福井の海開きわずか２割",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1110043",
             "published_at": "2020/06/23 11:45"
         },
@@ -25,11 +30,6 @@
             "title": "【6/22コロナ速報】石川県30代女性が感染、計300人に",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1109603",
             "published_at": "2020/06/22 17:48"
-        },
-        {
-            "title": "鯖江市長一転不出馬「市民におわび」",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1109520",
-            "published_at": "2020/06/22 17:00"
         }
     ]
 }
