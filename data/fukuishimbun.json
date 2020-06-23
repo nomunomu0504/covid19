@@ -1,6 +1,11 @@
 {
-    "timestamp": 1592892534,
+    "timestamp": 1592899740,
     "info": [
+        {
+            "title": "新幹線敦賀開業、コロナ懸念払拭狙う",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1110128",
+            "published_at": "2020/06/23 16:50"
+        },
         {
             "title": "【特殊詐欺情報】福井県　6月23日",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1110118",
@@ -25,11 +30,6 @@
             "title": "「水際作戦」と聞いて思い浮かぶの…",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1109950",
             "published_at": "2020/06/23 07:20"
-        },
-        {
-            "title": "【6/22コロナ速報】石川県30代女性が感染、計300人に",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1109603",
-            "published_at": "2020/06/22 17:48"
         }
     ]
 }
