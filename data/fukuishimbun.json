@@ -1,6 +1,11 @@
 {
-    "timestamp": 1592910466,
+    "timestamp": 1592950098,
     "info": [
+        {
+            "title": "コロナ終息を願って茅の輪くぐり",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1110333",
+            "published_at": "2020/06/24 07:00"
+        },
         {
             "title": "雇用助成金、小規模企業のポイントは",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1110141",
@@ -20,11 +25,6 @@
             "title": "2020夏、福井の海開きわずか２割",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1110043",
             "published_at": "2020/06/23 11:45"
-        },
-        {
-            "title": "環境白書に「気候危機」",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1109952",
-            "published_at": "2020/06/23 07:30"
         }
     ]
 }
