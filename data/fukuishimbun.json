@@ -1,6 +1,21 @@
 {
-    "timestamp": 1593036495,
+    "timestamp": 1593040081,
     "info": [
+        {
+            "title": "修復待つ敦賀・西福寺",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1111151",
+            "published_at": "2020/06/25 07:30"
+        },
+        {
+            "title": "北陸新幹線工事「コロナ影響なし」",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1111075",
+            "published_at": "2020/06/25 07:20"
+        },
+        {
+            "title": "20代消防士が飲酒運転で懲戒免職",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1111090",
+            "published_at": "2020/06/25 07:10"
+        },
         {
             "title": "【6/24コロナ速報】埼玉県、さいたま市、川口市が中学生ら9人の感染発表",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1111076",
@@ -15,31 +30,6 @@
             "title": "【6/24コロナ速報】宮城県多賀城市の女性が感染",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1110816",
             "published_at": "2020/06/24 21:10"
-        },
-        {
-            "title": "【6/24コロナ速報】大阪府で男性2人が感染",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1110965",
-            "published_at": "2020/06/24 18:11"
-        },
-        {
-            "title": "新人小説ヒットへ導いたリモート戦略",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1110817",
-            "published_at": "2020/06/24 17:15"
-        },
-        {
-            "title": "オンラインで地域活性化案コンテスト",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1110874",
-            "published_at": "2020/06/24 17:00"
-        },
-        {
-            "title": "武田匡弘、冨田千愛が五輪へ再始動",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1110735",
-            "published_at": "2020/06/24 16:40"
-        },
-        {
-            "title": "【6/24コロナ速報】横浜市の10代女性感染",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1110863",
-            "published_at": "2020/06/24 16:09"
         }
     ]
 }
