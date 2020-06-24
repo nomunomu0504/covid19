@@ -1,6 +1,11 @@
 {
-    "timestamp": 1592989728,
+    "timestamp": 1592993295,
     "info": [
+        {
+            "title": "【6/24コロナ速報】大阪府で男性2人が感染",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1110965",
+            "published_at": "2020/06/24 18:11"
+        },
         {
             "title": "新人小説ヒットへ導いたリモート戦略",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1110817",
@@ -40,11 +45,6 @@
             "title": "若草物語オルコット家の精神に触れる",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1110133",
             "published_at": "2020/06/24 10:00"
-        },
-        {
-            "title": "戦後７５年「慰霊の日」",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1110620",
-            "published_at": "2020/06/24 07:30"
         }
     ]
 }
