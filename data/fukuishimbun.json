@@ -1,11 +1,6 @@
 {
-    "timestamp": 1593076102,
+    "timestamp": 1593079719,
     "info": [
-        {
-            "title": "【6/25コロナ速報】大阪府が20代男性の感染発表",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1111671",
-            "published_at": "2020/06/25 17:32"
-        },
         {
             "title": "子宮頸がんウイルス検査、自己採取で",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1111575",
@@ -35,6 +30,11 @@
             "title": "修復待つ敦賀・西福寺",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1111151",
             "published_at": "2020/06/25 07:30"
+        },
+        {
+            "title": "北陸新幹線工事「コロナ影響なし」",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1111075",
+            "published_at": "2020/06/25 07:20"
         }
     ]
 }
