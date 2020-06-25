@@ -1,6 +1,16 @@
 {
-    "timestamp": 1593065390,
+    "timestamp": 1593068912,
     "info": [
+        {
+            "title": "【6/25コロナ速報】北海道小樽市で6人感染",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1111605",
+            "published_at": "2020/06/25 15:58"
+        },
+        {
+            "title": "新型コロナウイルスのワクチン、国内初の治験開始へ",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1111576",
+            "published_at": "2020/06/25 15:19"
+        },
         {
             "title": "関西電力社長が謝罪、金品受領問題",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1111515",
@@ -20,11 +30,6 @@
             "title": "北陸新幹線工事「コロナ影響なし」",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1111075",
             "published_at": "2020/06/25 07:20"
-        },
-        {
-            "title": "20代消防士が飲酒運転で懲戒免職",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1111090",
-            "published_at": "2020/06/25 07:10"
         }
     ]
 }
