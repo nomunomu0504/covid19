@@ -1,6 +1,11 @@
 {
-    "timestamp": 1593047358,
+    "timestamp": 1593054502,
     "info": [
+        {
+            "title": "夜の街も安心「福井ルール」策定へ",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1111490",
+            "published_at": "2020/06/25 11:45"
+        },
         {
             "title": "修復待つ敦賀・西福寺",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1111151",
@@ -15,11 +20,6 @@
             "title": "20代消防士が飲酒運転で懲戒免職",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1111090",
             "published_at": "2020/06/25 07:10"
-        },
-        {
-            "title": "【6/24コロナ速報】大阪府で男性2人が感染",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1110965",
-            "published_at": "2020/06/24 18:11"
         }
     ]
 }
