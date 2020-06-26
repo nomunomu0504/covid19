@@ -1,8 +1,13 @@
 {
-    "timestamp": 1593151754,
+    "timestamp": 1593155308,
     "info": [
         {
-            "title": "東京都で54人が新型コロナに感染、6月26日",
+            "title": "【6/26コロナ速報】北海道で5人感染",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1112331",
+            "published_at": "2020/06/26 15:38"
+        },
+        {
+            "title": "【6/26コロナ速報】東京都で54人感染",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1112311",
             "published_at": "2020/06/26 14:54"
         },
