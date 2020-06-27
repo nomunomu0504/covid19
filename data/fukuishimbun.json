@@ -1,6 +1,11 @@
 {
-    "timestamp": 1593295706,
+    "timestamp": 1593299261,
     "info": [
+        {
+            "title": "北陸新幹線敦賀車両基地の工事を公開",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1113036",
+            "published_at": "2020/06/28 07:20"
+        },
         {
             "title": "強い香り伝統野菜「木田ちそ」収穫期",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1113024",
@@ -15,11 +20,6 @@
             "title": "次亜塩素酸水、一定の条件でコロナ消毒効果と判断",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1112836",
             "published_at": "2020/06/27 08:12"
-        },
-        {
-            "title": "自粛反動で客足が急回復、高額商品も",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1112513",
-            "published_at": "2020/06/27 07:20"
         }
     ]
 }
