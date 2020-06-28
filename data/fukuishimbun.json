@@ -1,6 +1,11 @@
 {
-    "timestamp": 1593299261,
+    "timestamp": 1593310136,
     "info": [
+        {
+            "title": "福井県民宿泊半額、予約枠埋まり追加",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1113261",
+            "published_at": "2020/06/28 11:00"
+        },
         {
             "title": "北陸新幹線敦賀車両基地の工事を公開",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1113036",
@@ -15,11 +20,6 @@
             "title": "福井県民は宿泊半額、予約初日で半数",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1112908",
             "published_at": "2020/06/27 12:45"
-        },
-        {
-            "title": "次亜塩素酸水、一定の条件でコロナ消毒効果と判断",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1112836",
-            "published_at": "2020/06/27 08:12"
         }
     ]
 }
