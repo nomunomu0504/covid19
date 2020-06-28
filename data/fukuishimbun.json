@@ -1,6 +1,11 @@
 {
-    "timestamp": 1593310136,
+    "timestamp": 1593317364,
     "info": [
+        {
+            "title": "【6/28コロナ速報】福井はゼロ",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1113281",
+            "published_at": "2020/06/28 12:10"
+        },
         {
             "title": "福井県民宿泊半額、予約枠埋まり追加",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1113261",
@@ -15,11 +20,6 @@
             "title": "強い香り伝統野菜「木田ちそ」収穫期",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1113024",
             "published_at": "2020/06/28 07:00"
-        },
-        {
-            "title": "福井県民は宿泊半額、予約初日で半数",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1112908",
-            "published_at": "2020/06/27 12:45"
         }
     ]
 }
