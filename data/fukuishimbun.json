@@ -1,6 +1,11 @@
 {
-    "timestamp": 1593385673,
+    "timestamp": 1593400112,
     "info": [
+        {
+            "title": "高校バレー部最後の試合「悔いなし」",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1113655",
+            "published_at": "2020/06/29 11:30"
+        },
         {
             "title": "ゲイのかずえちゃん「サロン」開設",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1113351",
@@ -15,11 +20,6 @@
             "title": "【6/28コロナ速報】福井はゼロ",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1113281",
             "published_at": "2020/06/28 12:10"
-        },
-        {
-            "title": "福井県民宿泊半額、予約枠埋まり追加",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1113261",
-            "published_at": "2020/06/28 11:00"
         }
     ]
 }
