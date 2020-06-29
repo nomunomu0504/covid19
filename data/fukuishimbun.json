@@ -1,6 +1,21 @@
 {
-    "timestamp": 1593425514,
+    "timestamp": 1593472094,
     "info": [
+        {
+            "title": "コロナと県内観光",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1114311",
+            "published_at": "2020/06/30 07:30"
+        },
+        {
+            "title": "北陸新幹線の新北陸トンネル７月貫通",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1114014",
+            "published_at": "2020/06/30 07:20"
+        },
+        {
+            "title": "コロナで超勤、最多で月232時間",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1114007",
+            "published_at": "2020/06/30 07:10"
+        },
         {
             "title": "長期間自宅にいた子、心身不調も",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1113776",
@@ -10,11 +25,6 @@
             "title": "高校バレー部最後の試合「悔いなし」",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1113655",
             "published_at": "2020/06/29 11:30"
-        },
-        {
-            "title": "福井に第２波想定、最悪877人入院",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1113374",
-            "published_at": "2020/06/29 07:30"
         }
     ]
 }
