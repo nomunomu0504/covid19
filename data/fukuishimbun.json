@@ -1,6 +1,11 @@
 {
-    "timestamp": 1593472094,
+    "timestamp": 1593486522,
     "info": [
+        {
+            "title": "ホテルの味、福井に限定レストラン",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1114416",
+            "published_at": "2020/06/30 11:50"
+        },
         {
             "title": "コロナと県内観光",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1114311",
@@ -20,11 +25,6 @@
             "title": "長期間自宅にいた子、心身不調も",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1113776",
             "published_at": "2020/06/29 17:00"
-        },
-        {
-            "title": "高校バレー部最後の試合「悔いなし」",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1113655",
-            "published_at": "2020/06/29 11:30"
         }
     ]
 }
