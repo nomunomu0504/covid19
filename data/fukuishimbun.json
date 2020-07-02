@@ -1,15 +1,20 @@
 {
-    "timestamp": 1593655850,
+    "timestamp": 1593659420,
     "info": [
+        {
+            "title": "福井県内の最高路線価４年連続で上昇",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1115963",
+            "published_at": "2020/07/02 12:00"
+        },
+        {
+            "title": "大学入学共通テスト、第２日程の要項",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1115964",
+            "published_at": "2020/07/02 11:30"
+        },
         {
             "title": "レジ袋有料化",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1115850",
             "published_at": "2020/07/02 07:30"
-        },
-        {
-            "title": "福井高校野球大会の組み合わせ決まる",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1115444",
-            "published_at": "2020/07/01 18:30"
         }
     ]
 }
