@@ -1,6 +1,11 @@
 {
-    "timestamp": 1594026616,
+    "timestamp": 1594033777,
     "info": [
+        {
+            "title": "福井の飲食280店感染予防へ一丸",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1118533",
+            "published_at": "2020/07/06 19:24"
+        },
         {
             "title": "人間ドック再開も確認が必要なこと",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1118393",
@@ -20,11 +25,6 @@
             "title": "鯖江・宿泊施設を避難所に",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1118150",
             "published_at": "2020/07/06 07:30"
-        },
-        {
-            "title": "「もはや単なる『気候変動』ではな…",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1118149",
-            "published_at": "2020/07/06 07:20"
         }
     ]
 }
