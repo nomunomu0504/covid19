@@ -1,6 +1,11 @@
 {
-    "timestamp": 1594005009,
+    "timestamp": 1594023075,
     "info": [
+        {
+            "title": "温水施設リニューアル、漫画500冊",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1118359",
+            "published_at": "2020/07/06 17:00"
+        },
         {
             "title": "移動販売や宅配好調、第2波も備え",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1118234",
@@ -25,11 +30,6 @@
             "title": "天皇杯予選決勝、２年連続の顔合わせ",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1117988",
             "published_at": "2020/07/06 07:00"
-        },
-        {
-            "title": "「Apex」全国優勝、福井在住男性",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1117916",
-            "published_at": "2020/07/05 17:10"
         }
     ]
 }
