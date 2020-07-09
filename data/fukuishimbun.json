@@ -1,6 +1,11 @@
 {
-    "timestamp": 1594332599,
+    "timestamp": 1594336175,
     "info": [
+        {
+            "title": "石炭火力休廃止",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1121118",
+            "published_at": "2020/07/10 07:30"
+        },
         {
             "title": "清水邦広選手が福井市に100万円",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1120805",
@@ -15,26 +20,6 @@
             "title": "宿泊券１万円分が６千円、大好評",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1120619",
             "published_at": "2020/07/09 17:00"
-        },
-        {
-            "title": "55歳以上が元気になる体操教室",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1120614",
-            "published_at": "2020/07/09 16:50"
-        },
-        {
-            "title": "【7/9コロナ速報】東京で220人以上感染",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1120604",
-            "published_at": "2020/07/09 14:41"
-        },
-        {
-            "title": "東京オリンピックチケット払い戻しへ",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1120557",
-            "published_at": "2020/07/09 12:05"
-        },
-        {
-            "title": "福井県コロナ対策、ステップ３移行へ",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1120517",
-            "published_at": "2020/07/09 11:30"
         }
     ]
 }
