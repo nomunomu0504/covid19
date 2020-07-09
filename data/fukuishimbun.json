@@ -1,6 +1,11 @@
 {
-    "timestamp": 1594264218,
+    "timestamp": 1594275063,
     "info": [
+        {
+            "title": "【7/9コロナ速報】東京で220人以上感染",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1120604",
+            "published_at": "2020/07/09 14:41"
+        },
         {
             "title": "東京オリンピックチケット払い戻しへ",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1120557",
@@ -10,11 +15,6 @@
             "title": "福井県コロナ対策、ステップ３移行へ",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1120517",
             "published_at": "2020/07/09 11:30"
-        },
-        {
-            "title": "接触確認アプリで感染2~3割減か",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1120073",
-            "published_at": "2020/07/09 07:10"
         }
     ]
 }
