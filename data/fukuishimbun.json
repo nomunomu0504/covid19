@@ -1,6 +1,11 @@
 {
-    "timestamp": 1594361482,
+    "timestamp": 1594368674,
     "info": [
+        {
+            "title": "第２波は学校ごとに休校判断、福井県",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1121350",
+            "published_at": "2020/07/10 17:00"
+        },
         {
             "title": "7/10東京の感染243人過去最多",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1121313",
@@ -15,11 +20,6 @@
             "title": "清水邦広選手が福井市に100万円",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1120805",
             "published_at": "2020/07/10 07:00"
-        },
-        {
-            "title": "折り鶴５万羽、虹のグラデーション",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1120813",
-            "published_at": "2020/07/10 06:50"
         }
     ]
 }
