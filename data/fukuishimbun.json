@@ -1,6 +1,11 @@
 {
-    "timestamp": 1594437014,
+    "timestamp": 1594451404,
     "info": [
+        {
+            "title": "第２弾はや５千人、福井県民宿泊半額",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1122027",
+            "published_at": "2020/07/11 16:05"
+        },
         {
             "title": "鯖江市で体操インターハイ代替大会",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1121951",
@@ -25,11 +30,6 @@
             "title": "栗原陵矢、ここで満足してはいけない",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1121535",
             "published_at": "2020/07/10 19:40"
-        },
-        {
-            "title": "【7/10コロナ速報】京都で10人感染",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1121448",
-            "published_at": "2020/07/10 17:59"
         }
     ]
 }
