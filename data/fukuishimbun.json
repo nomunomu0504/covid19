@@ -1,6 +1,11 @@
 {
-    "timestamp": 1594433460,
+    "timestamp": 1594437014,
     "info": [
+        {
+            "title": "鯖江市で体操インターハイ代替大会",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1121951",
+            "published_at": "2020/07/11 12:00"
+        },
         {
             "title": "勝山に道の駅オープン",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1121875",
@@ -25,11 +30,6 @@
             "title": "【7/10コロナ速報】京都で10人感染",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1121448",
             "published_at": "2020/07/10 17:59"
-        },
-        {
-            "title": "7/10東京の感染243人過去最多",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1121313",
-            "published_at": "2020/07/10 17:20"
         }
     ]
 }
