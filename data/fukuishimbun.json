@@ -1,6 +1,16 @@
 {
-    "timestamp": 1594559413,
+    "timestamp": 1594595399,
     "info": [
+        {
+            "title": "空気清浄機の販売急増、コロナ拡大で",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1122607",
+            "published_at": "2020/07/13 07:20"
+        },
+        {
+            "title": "日本橋三越本店に並んだ福井の特産は",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1122601",
+            "published_at": "2020/07/13 07:10"
+        },
         {
             "title": "【7/12コロナ速報】国内409人感染確認",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1122610",
@@ -25,21 +35,6 @@
             "title": "感染者は福井市の男性、東京に滞在",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1122431",
             "published_at": "2020/07/12 14:05"
-        },
-        {
-            "title": "コロナ1人感染、福井県の会見中継",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1122410",
-            "published_at": "2020/07/12 12:17"
-        },
-        {
-            "title": "福井県で30代男性のコロナ感染発表",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1122409",
-            "published_at": "2020/07/12 12:10"
-        },
-        {
-            "title": "福井お泊まりキャンペーン第2弾好調",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1122394",
-            "published_at": "2020/07/12 11:24"
         }
     ]
 }
