@@ -1,6 +1,11 @@
 {
-    "timestamp": 1594534280,
+    "timestamp": 1594537824,
     "info": [
+        {
+            "title": "【7/12コロナ確認】福井県知事コメント",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1122455",
+            "published_at": "2020/07/12 15:30"
+        },
         {
             "title": "感染者は福井市の男性、東京に滞在",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1122431",
@@ -20,11 +25,6 @@
             "title": "福井お泊まりキャンペーン第2弾好調",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1122394",
             "published_at": "2020/07/12 11:24"
-        },
-        {
-            "title": "明智光秀と称念寺のマスク販売開始",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1122152",
-            "published_at": "2020/07/12 07:00"
         }
     ]
 }
