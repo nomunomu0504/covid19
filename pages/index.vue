@@ -12,7 +12,7 @@
         <span>{{ $t('注釈') }} </span>
       </div>
     </div>
-    <static-info
+    <!-- <static-info
       class="mb-4"
       :url="localePath('/mask')"
       target="_blank"
@@ -22,7 +22,7 @@
         )
       "
       :btn-text="$t('マスク情報へ')"
-    />
+    /> -->
     <breaking-news class="mb-4" :items="newsItems" />
     <fukui-paper-news class="mb-4" />
     <!-- <fukui-news class="mb-4" />
