@@ -144,12 +144,12 @@ export default Vue.extend({
           title: this.$t('新型コロナウイルス感染症が心配な方はこちら'),
           link: this.localePath('/flow')
         },
-        {
-          icon: 'SurgicalMaskIcon',
-          title: this.$t('県あっせんマスクについて'),
-          link: this.localePath('/mask'),
-          divider: true
-        },
+        // {
+        //   icon: 'SurgicalMaskIcon',
+        //   title: this.$t('県あっせんマスクについて'),
+        //   link: this.localePath('/mask'),
+        //   divider: true
+        // },
         {
           icon: 'mdi-information',
           title: this.$t('福井新聞社の速報（RSS）'),
