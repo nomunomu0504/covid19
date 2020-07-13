@@ -1,6 +1,16 @@
 {
-    "timestamp": 1594606284,
+    "timestamp": 1594613469,
     "info": [
+        {
+            "title": "福井県内2日連続感染確認、会見中継",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1122739",
+            "published_at": "2020/07/13 12:15"
+        },
+        {
+            "title": "福井県内２日連続新型コロナ感染確認",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1122738",
+            "published_at": "2020/07/13 12:10"
+        },
         {
             "title": "空気清浄機の販売急増、コロナ拡大で",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1122607",
@@ -20,16 +30,6 @@
             "title": "【Web号外】小浜市長に松崎氏４選",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1122548",
             "published_at": "2020/07/12 18:30"
-        },
-        {
-            "title": "【7/12コロナ速報】東京で206人感染",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1122472",
-            "published_at": "2020/07/12 16:17"
-        },
-        {
-            "title": "【7/12コロナ感染確認】福井県知事コメント",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1122455",
-            "published_at": "2020/07/12 15:30"
         }
     ]
 }
