@@ -1,6 +1,11 @@
 {
-    "timestamp": 1594696237,
+    "timestamp": 1594699835,
     "info": [
+        {
+            "title": "福井県、新型コロナ新規感染者なし",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1123498",
+            "published_at": "2020/07/14 12:30"
+        },
         {
             "title": "恐竜博物館20周年記念グッズを販売",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1123459",
@@ -25,11 +30,6 @@
             "title": "国の10万円対象外にも独自で支給",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1123052",
             "published_at": "2020/07/14 07:10"
-        },
-        {
-            "title": "外出自粛緩和も影響…死亡事故が急増",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1122716",
-            "published_at": "2020/07/13 17:10"
         }
     ]
 }
