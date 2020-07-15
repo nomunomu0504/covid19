@@ -1,6 +1,11 @@
 {
-    "timestamp": 1594793491,
+    "timestamp": 1594797055,
     "info": [
+        {
+            "title": "テレワーク、入社２年目の悩み",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1118273",
+            "published_at": "2020/07/15 16:00"
+        },
         {
             "title": "福井コロナ感染女児2度目検査で陽性",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1124330",
@@ -20,11 +25,6 @@
             "title": "金井大旺、集大成へ進化続ける24歳",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1124225",
             "published_at": "2020/07/15 11:00"
-        },
-        {
-            "title": "コロナ感染急増",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1124130",
-            "published_at": "2020/07/15 07:30"
         }
     ]
 }
