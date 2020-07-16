@@ -1,6 +1,11 @@
 {
-    "timestamp": 1594901604,
+    "timestamp": 1594937384,
     "info": [
+        {
+            "title": "JR福井駅にサーモグラフィー登場",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1125308",
+            "published_at": "2020/07/17 06:50"
+        },
         {
             "title": "7/16コロナ速報_国内感染者500人超え、4月18日以来",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1125267",
@@ -25,11 +30,6 @@
             "title": "7/16コロナ速報_東京都過去最多280人台感染の見通し",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1125029",
             "published_at": "2020/07/16 12:20"
-        },
-        {
-            "title": "7/16コロナ速報_福井県感染ゼロ",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1125042",
-            "published_at": "2020/07/16 11:59"
         }
     ]
 }
