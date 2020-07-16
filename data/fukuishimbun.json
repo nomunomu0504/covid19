@@ -1,6 +1,11 @@
 {
-    "timestamp": 1594854572,
+    "timestamp": 1594865474,
     "info": [
+        {
+            "title": "福井の盲学校生の詩、全国音楽祭採用",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1124986",
+            "published_at": "2020/07/16 11:00"
+        },
         {
             "title": "県内小規模校のＩＣＴ活用",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1124888",
@@ -10,11 +15,6 @@
             "title": "福井のコロナ感染者にまた誹謗中傷",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1124561",
             "published_at": "2020/07/16 07:10"
-        },
-        {
-            "title": "こども園に顔認証＋体温測定システム",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1124376",
-            "published_at": "2020/07/15 17:00"
         }
     ]
 }
