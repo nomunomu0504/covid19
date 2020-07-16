@@ -1,6 +1,11 @@
 {
-    "timestamp": 1594872650,
+    "timestamp": 1594887064,
     "info": [
+        {
+            "title": "7/16コロナ速報_東京都の感染者は286人、過去最多",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1125143",
+            "published_at": "2020/07/16 16:03"
+        },
         {
             "title": "7/16コロナ速報_東京都過去最多280人台感染の見通し",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1125029",
@@ -20,11 +25,6 @@
             "title": "県内小規模校のＩＣＴ活用",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1124888",
             "published_at": "2020/07/16 07:30"
-        },
-        {
-            "title": "福井のコロナ感染者にまた誹謗中傷",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1124561",
-            "published_at": "2020/07/16 07:10"
         }
     ]
 }
