@@ -1,6 +1,16 @@
 {
-    "timestamp": 1594890619,
+    "timestamp": 1594894223,
     "info": [
+        {
+            "title": "7/16コロナ速報_国内感染者500人超え、4月18日以来",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1125267",
+            "published_at": "2020/07/16 19:02"
+        },
+        {
+            "title": "7/16コロナ速報_京都府と京都市が13人の感染発表",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1125227",
+            "published_at": "2020/07/16 18:13"
+        },
         {
             "title": "エアコン中の換気、省エネの方法",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1125130",
@@ -25,11 +35,6 @@
             "title": "福井の盲学校生の詩、全国音楽祭採用",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1124986",
             "published_at": "2020/07/16 11:00"
-        },
-        {
-            "title": "県内小規模校のＩＣＴ活用",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1124888",
-            "published_at": "2020/07/16 07:30"
         }
     ]
 }
