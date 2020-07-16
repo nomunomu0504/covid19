@@ -1,6 +1,11 @@
 {
-    "timestamp": 1594937384,
+    "timestamp": 1594940975,
     "info": [
+        {
+            "title": "えち鉄がキャッシュレス決済導入",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1125325",
+            "published_at": "2020/07/17 07:10"
+        },
         {
             "title": "JR福井駅にサーモグラフィー登場",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1125308",
@@ -15,21 +20,6 @@
             "title": "7/16コロナ速報_京都府と京都市が13人の感染発表",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1125227",
             "published_at": "2020/07/16 18:13"
-        },
-        {
-            "title": "エアコン中の換気、省エネの方法",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1125130",
-            "published_at": "2020/07/16 17:10"
-        },
-        {
-            "title": "7/16コロナ速報_東京都の感染者は286人、過去最多",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1125143",
-            "published_at": "2020/07/16 16:03"
-        },
-        {
-            "title": "7/16コロナ速報_東京都過去最多280人台感染の見通し",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1125029",
-            "published_at": "2020/07/16 12:20"
         }
     ]
 }
