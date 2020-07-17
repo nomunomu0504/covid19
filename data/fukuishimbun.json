@@ -1,6 +1,16 @@
 {
-    "timestamp": 1594966272,
+    "timestamp": 1594969828,
     "info": [
+        {
+            "title": "感染した運転士乗務のバス路線一覧",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1125977",
+            "published_at": "2020/07/17 16:00"
+        },
+        {
+            "title": "運転士感染、同居家族1人も濃厚接触",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1125955",
+            "published_at": "2020/07/17 15:30"
+        },
         {
             "title": "福井県知事が新型コロナ臨時記者会見",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1125890",
@@ -35,11 +45,6 @@
             "title": "京福バス男性運転士が新型コロナ感染",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1125828",
             "published_at": "2020/07/17 12:03"
-        },
-        {
-            "title": "大野の朝どり野菜や加工品が集結へ",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1125802",
-            "published_at": "2020/07/17 11:35"
         }
     ]
 }
