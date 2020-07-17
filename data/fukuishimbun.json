@@ -1,6 +1,11 @@
 {
-    "timestamp": 1594988113,
+    "timestamp": 1595023811,
     "info": [
+        {
+            "title": "福井ナイター陸上チケット発売日決定",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1126206",
+            "published_at": "2020/07/18 07:00"
+        },
         {
             "title": "東京発着キャンセル料の補償なし",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1126113",
@@ -35,21 +40,6 @@
             "title": "運転士感染、同居家族1人も濃厚接触",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1125955",
             "published_at": "2020/07/17 15:30"
-        },
-        {
-            "title": "福井県知事が新型コロナ臨時記者会見",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1125890",
-            "published_at": "2020/07/17 15:05"
-        },
-        {
-            "title": "京福バス社内濃厚接触者は運転士6人",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1125930",
-            "published_at": "2020/07/17 14:40"
-        },
-        {
-            "title": "【7/17コロナ速報】東京都で293人感染、2日連続で最多更新",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1125925",
-            "published_at": "2020/07/17 14:20"
         }
     ]
 }
