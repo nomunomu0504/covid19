@@ -1,6 +1,31 @@
 {
-    "timestamp": 1594959068,
+    "timestamp": 1594966272,
     "info": [
+        {
+            "title": "福井県知事が新型コロナ臨時記者会見",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1125890",
+            "published_at": "2020/07/17 15:05"
+        },
+        {
+            "title": "京福バス社内濃厚接触者は運転士6人",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1125930",
+            "published_at": "2020/07/17 14:40"
+        },
+        {
+            "title": "【7/17コロナ速報】東京都で293人感染、2日連続で最多更新",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1125925",
+            "published_at": "2020/07/17 14:20"
+        },
+        {
+            "title": "感染の京福バス運転士が乗務の路線名",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1125922",
+            "published_at": "2020/07/17 14:15"
+        },
+        {
+            "title": "京福バス運転士スクールバスにも乗務",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1125891",
+            "published_at": "2020/07/17 14:00"
+        },
         {
             "title": "京福バス運転士感染、福井県など会見",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1125835",
@@ -15,11 +40,6 @@
             "title": "大野の朝どり野菜や加工品が集結へ",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1125802",
             "published_at": "2020/07/17 11:35"
-        },
-        {
-            "title": "えち鉄がキャッシュレス決済導入",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1125325",
-            "published_at": "2020/07/17 07:10"
         }
     ]
 }
