@@ -1,6 +1,16 @@
 {
-    "timestamp": 1594973493,
+    "timestamp": 1594977029,
     "info": [
+        {
+            "title": "【7/17コロナ速報】石川県が男性1人の感染発表",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1126025",
+            "published_at": "2020/07/17 17:22"
+        },
+        {
+            "title": "野球部指導、LINEや動画フル活用",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1125971",
+            "published_at": "2020/07/17 17:10"
+        },
         {
             "title": "GoTo東京除外、福井の業者の反応",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1125967",
@@ -40,11 +50,6 @@
             "title": "感染の京福バス運転士が乗務の路線名",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1125922",
             "published_at": "2020/07/17 14:15"
-        },
-        {
-            "title": "感染運転士は高椋小スクールバス乗務",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1125891",
-            "published_at": "2020/07/17 14:00"
         }
     ]
 }
