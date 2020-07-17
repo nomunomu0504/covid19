@@ -1,6 +1,11 @@
 {
-    "timestamp": 1594977029,
+    "timestamp": 1594984188,
     "info": [
+        {
+            "title": "東京発着キャンセル料の補償なし",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1126113",
+            "published_at": "2020/07/17 19:17"
+        },
         {
             "title": "【7/17コロナ速報】石川県が男性1人の感染発表",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1126025",
@@ -45,11 +50,6 @@
             "title": "【7/17コロナ速報】東京都で293人感染、2日連続で最多更新",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1125925",
             "published_at": "2020/07/17 14:20"
-        },
-        {
-            "title": "感染の京福バス運転士が乗務の路線名",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1125922",
-            "published_at": "2020/07/17 14:15"
         }
     ]
 }
