@@ -1,6 +1,16 @@
 {
-    "timestamp": 1595067013,
+    "timestamp": 1595110201,
     "info": [
+        {
+            "title": "福井空襲75年、城址に鎮魂の光",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1126810",
+            "published_at": "2020/07/19 07:00"
+        },
+        {
+            "title": "福井活性化プレゼン、視聴者も投票",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1126765",
+            "published_at": "2020/07/19 06:50"
+        },
         {
             "title": "7/18コロナ速報_石川県で2人感染、七尾市の病院の医療従事者と金沢大学学生",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1126696",
@@ -20,16 +30,6 @@
             "title": "7/18コロナ速報_東京で290人感染",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1126642",
             "published_at": "2020/07/18 15:22"
-        },
-        {
-            "title": "京福バス運転手14人PCR検査陰性",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1126621",
-            "published_at": "2020/07/18 14:30"
-        },
-        {
-            "title": "7/18福井コロナ、新規感染者なし",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1126578",
-            "published_at": "2020/07/18 11:45"
         }
     ]
 }
