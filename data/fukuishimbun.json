@@ -1,6 +1,11 @@
 {
-    "timestamp": 1595041846,
+    "timestamp": 1595052666,
     "info": [
+        {
+            "title": "京福バス運転手14人PCR検査陰性",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1126621",
+            "published_at": "2020/07/18 14:30"
+        },
         {
             "title": "7/18福井コロナ、新規感染者なし",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1126578",
@@ -25,16 +30,6 @@
             "title": "日常的に使う言葉ではないが、「侃…",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1126470",
             "published_at": "2020/07/18 07:20"
-        },
-        {
-            "title": "感染続き知事「来るべき時が来た」",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1126198",
-            "published_at": "2020/07/18 07:10"
-        },
-        {
-            "title": "福井ナイター陸上チケット発売日決定",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1126206",
-            "published_at": "2020/07/18 07:00"
         }
     ]
 }
