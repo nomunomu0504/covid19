@@ -1,6 +1,11 @@
 {
-    "timestamp": 1595124687,
+    "timestamp": 1595131859,
     "info": [
+        {
+            "title": "福井県内、新たなコロナ感染者なし",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1127041",
+            "published_at": "2020/07/19 12:09"
+        },
         {
             "title": "全国の祭りの風景をマスクの柄に",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1126991",
@@ -20,11 +25,6 @@
             "title": "PCR検査、福井県内で増加傾向",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1126815",
             "published_at": "2020/07/19 07:10"
-        },
-        {
-            "title": "福井空襲75年、城址に鎮魂の光",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1126810",
-            "published_at": "2020/07/19 07:00"
         }
     ]
 }
