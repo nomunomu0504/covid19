@@ -1,11 +1,6 @@
 {
-    "timestamp": 1595250605,
+    "timestamp": 1595254298,
     "info": [
-        {
-            "title": "7/20コロナ速報_東京都足立区のフィリピンパブ2店舗で計22人感染",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1127800",
-            "published_at": "2020/07/20 21:55"
-        },
         {
             "title": "老朽化の公民館を小学校内に移転",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1127650",
@@ -30,6 +25,11 @@
             "title": "コロナと一極集中",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1127447",
             "published_at": "2020/07/20 07:30"
+        },
+        {
+            "title": "スクールバス児童ＰＣＲ検査全員陰性",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1127251",
+            "published_at": "2020/07/20 07:20"
         }
     ]
 }
