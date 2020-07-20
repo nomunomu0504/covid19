@@ -1,6 +1,11 @@
 {
-    "timestamp": 1595254298,
+    "timestamp": 1595283002,
     "info": [
+        {
+            "title": "土用の丑の日、ウナギこんがり",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1127784",
+            "published_at": "2020/07/21 07:00"
+        },
         {
             "title": "老朽化の公民館を小学校内に移転",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1127650",
@@ -25,11 +30,6 @@
             "title": "コロナと一極集中",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1127447",
             "published_at": "2020/07/20 07:30"
-        },
-        {
-            "title": "スクールバス児童ＰＣＲ検査全員陰性",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1127251",
-            "published_at": "2020/07/20 07:20"
         }
     ]
 }
