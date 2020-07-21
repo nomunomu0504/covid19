@@ -1,6 +1,11 @@
 {
-    "timestamp": 1595301052,
+    "timestamp": 1595319099,
     "info": [
+        {
+            "title": "10万円給付まだ2%の世帯が未申請",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1128307",
+            "published_at": "2020/07/21 17:00"
+        },
         {
             "title": "感染公表企業に福井県が50万円支給",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1128167",
@@ -25,11 +30,6 @@
             "title": "老朽化の公民館を小学校内に移転",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1127650",
             "published_at": "2020/07/20 17:10"
-        },
-        {
-            "title": "コロナ禍で出産経験、ママの胸中",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1127633",
-            "published_at": "2020/07/20 17:00"
         }
     ]
 }
