@@ -1,6 +1,16 @@
 {
-    "timestamp": 1595329799,
+    "timestamp": 1595372990,
     "info": [
+        {
+            "title": "緊急事態解除２カ月",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1128911",
+            "published_at": "2020/07/22 07:30"
+        },
+        {
+            "title": "GoToトラベル対象？宿側も不明",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1128640",
+            "published_at": "2020/07/22 07:20"
+        },
         {
             "title": "7/21コロナ速報_石川県で乳児含む3人感染",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1128409",
@@ -15,21 +25,6 @@
             "title": "10万円給付まだ2%の世帯が未申請",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1128307",
             "published_at": "2020/07/21 17:00"
-        },
-        {
-            "title": "感染公表企業に福井県が50万円支給",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1128167",
-            "published_at": "2020/07/21 11:30"
-        },
-        {
-            "title": "ＧｏＴｏ「延期」６割超",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1128063",
-            "published_at": "2020/07/21 07:30"
-        },
-        {
-            "title": "PCR陰性の150人、原発構内へ",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1127780",
-            "published_at": "2020/07/21 07:20"
         }
     ]
 }
