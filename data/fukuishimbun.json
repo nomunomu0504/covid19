@@ -1,6 +1,16 @@
 {
-    "timestamp": 1595319099,
+    "timestamp": 1595322643,
     "info": [
+        {
+            "title": "7/21コロナ速報_京都府と京都市が21人の感染確認",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1128445",
+            "published_at": "2020/07/21 17:58"
+        },
+        {
+            "title": "7/21コロナ速報_石川県で乳児含む3人感染",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1128409",
+            "published_at": "2020/07/21 17:23"
+        },
         {
             "title": "10万円給付まだ2%の世帯が未申請",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1128307",
@@ -20,16 +30,6 @@
             "title": "PCR陰性の150人、原発構内へ",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1127780",
             "published_at": "2020/07/21 07:20"
-        },
-        {
-            "title": "土用の丑の日、ウナギこんがり",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1127784",
-            "published_at": "2020/07/21 07:00"
-        },
-        {
-            "title": "老朽化の公民館を小学校内に移転",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1127650",
-            "published_at": "2020/07/20 17:10"
         }
     ]
 }
