@@ -1,6 +1,11 @@
 {
-    "timestamp": 1595409037,
+    "timestamp": 1595419989,
     "info": [
+        {
+            "title": "福井県高校野球大会23日から再開",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1129180",
+            "published_at": "2020/07/22 21:00"
+        },
         {
             "title": "7/22コロナ速報_愛知県で過去最多60人以上感染確認",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1129286",
@@ -30,11 +35,6 @@
             "title": "PCR検査が最多130件、福井県",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1128594",
             "published_at": "2020/07/22 10:00"
-        },
-        {
-            "title": "緊急事態解除２カ月",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1128911",
-            "published_at": "2020/07/22 07:30"
         }
     ]
 }
