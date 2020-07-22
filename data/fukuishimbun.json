@@ -1,6 +1,11 @@
 {
-    "timestamp": 1595380299,
+    "timestamp": 1595391070,
     "info": [
+        {
+            "title": "福井県内、新たなコロナ感染者なし",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1129106",
+            "published_at": "2020/07/22 12:20"
+        },
         {
             "title": "PCR検査が最多130件、福井県",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1128594",
@@ -20,11 +25,6 @@
             "title": "7/21コロナ速報_石川県で乳児含む3人感染",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1128409",
             "published_at": "2020/07/21 20:00"
-        },
-        {
-            "title": "7/21コロナ速報_京都府と京都市が20人の感染確認",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1128445",
-            "published_at": "2020/07/21 17:58"
         }
     ]
 }
