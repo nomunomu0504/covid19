@@ -1,6 +1,11 @@
 {
-    "timestamp": 1595405497,
+    "timestamp": 1595409037,
     "info": [
+        {
+            "title": "7/22コロナ速報_愛知県で過去最多60人以上感染確認",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1129286",
+            "published_at": "2020/07/22 17:20"
+        },
         {
             "title": "オンラインで同窓会、前より仲良く",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1129216",
@@ -30,11 +35,6 @@
             "title": "緊急事態解除２カ月",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1128911",
             "published_at": "2020/07/22 07:30"
-        },
-        {
-            "title": "GoToトラベル対象？宿側も不明",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1128640",
-            "published_at": "2020/07/22 07:20"
         }
     ]
 }
