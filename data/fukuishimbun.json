@@ -1,6 +1,11 @@
 {
-    "timestamp": 1595372990,
+    "timestamp": 1595380299,
     "info": [
+        {
+            "title": "PCR検査が最多130件、福井県",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1128594",
+            "published_at": "2020/07/22 10:00"
+        },
         {
             "title": "緊急事態解除２カ月",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1128911",
@@ -20,11 +25,6 @@
             "title": "7/21コロナ速報_京都府と京都市が20人の感染確認",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1128445",
             "published_at": "2020/07/21 17:58"
-        },
-        {
-            "title": "10万円給付まだ2%の世帯が未申請",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1128307",
-            "published_at": "2020/07/21 17:00"
         }
     ]
 }
