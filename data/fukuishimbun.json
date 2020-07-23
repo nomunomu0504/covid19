@@ -1,6 +1,11 @@
 {
-    "timestamp": 1595477482,
+    "timestamp": 1595481051,
     "info": [
+        {
+            "title": "福井工大福井21得点、勝山を圧倒",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1129859",
+            "published_at": "2020/07/23 13:50"
+        },
         {
             "title": "福井県の20代男性感染、会見中継",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1129831",
@@ -30,11 +35,6 @@
             "title": "「海よ、僕らの使ふ文字では、…",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1129702",
             "published_at": "2020/07/23 07:20"
-        },
-        {
-            "title": "「東京への往来自粛を」と福井県知事",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1129427",
-            "published_at": "2020/07/23 07:10"
         }
     ]
 }
