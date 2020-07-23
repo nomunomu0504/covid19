@@ -1,6 +1,11 @@
 {
-    "timestamp": 1595495450,
+    "timestamp": 1595499075,
     "info": [
+        {
+            "title": "福井商業ー敦賀、坂井ー啓新は24日",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1130051",
+            "published_at": "2020/07/23 18:45"
+        },
         {
             "title": "7/23コロナ速報_石川県が30代男性の感染発表",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1130018",
@@ -30,11 +35,6 @@
             "title": "感染者は坂井市の男性、大阪滞在",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1129865",
             "published_at": "2020/07/23 14:15"
-        },
-        {
-            "title": "福井工大福井21得点、勝山を圧倒",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1129859",
-            "published_at": "2020/07/23 13:50"
         }
     ]
 }
