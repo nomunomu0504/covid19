@@ -1,6 +1,16 @@
 {
-    "timestamp": 1595473852,
+    "timestamp": 1595477482,
     "info": [
+        {
+            "title": "福井県の20代男性感染、会見中継",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1129831",
+            "published_at": "2020/07/23 12:25"
+        },
+        {
+            "title": "福井県の20代男性が新型コロナ感染",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1129825",
+            "published_at": "2020/07/23 12:14"
+        },
         {
             "title": "サービスエリアや道の駅の感染防止策",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1129802",
@@ -25,11 +35,6 @@
             "title": "「東京への往来自粛を」と福井県知事",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1129427",
             "published_at": "2020/07/23 07:10"
-        },
-        {
-            "title": "福井県高校野球大会23日から再開",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1129180",
-            "published_at": "2020/07/22 21:00"
         }
     ]
 }
