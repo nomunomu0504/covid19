@@ -1,6 +1,11 @@
 {
-    "timestamp": 1595578326,
+    "timestamp": 1595581827,
     "info": [
+        {
+            "title": "7/24コロナ速報_石川県の男女3人が感染",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1130556",
+            "published_at": "2020/07/24 17:20"
+        },
         {
             "title": "にぎわう福井県の観光地、県外客の声",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1130523",
@@ -30,11 +35,6 @@
             "title": "福井県内、コロナ新規感染者なし",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1130421",
             "published_at": "2020/07/24 12:05"
-        },
-        {
-            "title": "京福バス運転手は関東乗客から感染",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1130402",
-            "published_at": "2020/07/24 11:30"
         }
     ]
 }
