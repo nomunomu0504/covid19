@@ -1,6 +1,11 @@
 {
-    "timestamp": 1595588992,
+    "timestamp": 1595628623,
     "info": [
+        {
+            "title": "全国一斉花火、福井県の夜空にも咲く",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1130699",
+            "published_at": "2020/07/25 07:00"
+        },
         {
             "title": "7/24コロナ速報_滋賀県が男女6人の感染発表",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1130628",
@@ -35,16 +40,6 @@
             "title": "北陸、奥越明成を振り切って８強",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1130431",
             "published_at": "2020/07/24 12:50"
-        },
-        {
-            "title": "【特殊詐欺情報】坂井市 7月24日",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1130426",
-            "published_at": "2020/07/24 12:25"
-        },
-        {
-            "title": "福井県内、コロナ新規感染者なし",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1130421",
-            "published_at": "2020/07/24 12:05"
         }
     ]
 }
