@@ -1,6 +1,16 @@
 {
-    "timestamp": 1595550569,
+    "timestamp": 1595560241,
     "info": [
+        {
+            "title": "福井県内、コロナ新規感染者なし",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1130421",
+            "published_at": "2020/07/24 12:05"
+        },
+        {
+            "title": "京福バス運転手は関東乗客から感染",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1130402",
+            "published_at": "2020/07/24 11:30"
+        },
         {
             "title": "美浜・園芸ＬＡＢＯ１周年",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1130321",
@@ -10,21 +20,6 @@
             "title": "４連休開始、恐竜博物館に大勢の人",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1130128",
             "published_at": "2020/07/24 07:20"
-        },
-        {
-            "title": "7/23コロナ速報_滋賀県が17人の感染発表、過去最多",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1130105",
-            "published_at": "2020/07/23 22:05"
-        },
-        {
-            "title": "福井商業ー敦賀、坂井ー啓新は24日",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1130051",
-            "published_at": "2020/07/23 18:45"
-        },
-        {
-            "title": "7/23コロナ速報_石川県が30代男性の感染発表",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1130018",
-            "published_at": "2020/07/23 17:50"
         }
     ]
 }
