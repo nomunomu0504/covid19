@@ -1,6 +1,11 @@
 {
-    "timestamp": 1595632219,
+    "timestamp": 1595646653,
     "info": [
+        {
+            "title": "福井県内２日連続で新規感染者なし",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1130966",
+            "published_at": "2020/07/25 11:54"
+        },
         {
             "title": "世の左党が飲酒の口実として、一番…",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1130880",
@@ -25,16 +30,6 @@
             "title": "7/24コロナ速報_滋賀県が男女6人の感染発表",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1130628",
             "published_at": "2020/07/24 19:25"
-        },
-        {
-            "title": "敦賀気比が羽水を振り切り８強",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1130619",
-            "published_at": "2020/07/24 19:10"
-        },
-        {
-            "title": "7/24コロナ速報_石川県の男女3人が感染",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1130556",
-            "published_at": "2020/07/24 17:20"
         }
     ]
 }
