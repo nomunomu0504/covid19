@@ -1,6 +1,11 @@
 {
-    "timestamp": 1595646653,
+    "timestamp": 1595657500,
     "info": [
+        {
+            "title": "福井工大福井が猛攻、鯖江下し８強",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1130987",
+            "published_at": "2020/07/25 14:15"
+        },
         {
             "title": "福井県内２日連続で新規感染者なし",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1130966",
@@ -25,11 +30,6 @@
             "title": "全国一斉花火、福井県の夜空にも咲く",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1130699",
             "published_at": "2020/07/25 07:00"
-        },
-        {
-            "title": "7/24コロナ速報_滋賀県が男女6人の感染発表",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1130628",
-            "published_at": "2020/07/24 19:25"
         }
     ]
 }
