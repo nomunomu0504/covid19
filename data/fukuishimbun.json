@@ -1,6 +1,11 @@
 {
-    "timestamp": 1595754638,
+    "timestamp": 1595758264,
     "info": [
+        {
+            "title": "7/26コロナ速報_千葉県で22人感染確認",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1131544",
+            "published_at": "2020/07/26 18:24"
+        },
         {
             "title": "武生商業、北陸下しベスト４進出",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1131520",
@@ -30,11 +35,6 @@
             "title": "コロナ感染１人は福井県立病院看護師",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1131459",
             "published_at": "2020/07/26 14:21"
-        },
-        {
-            "title": "2人コロナ感染、福井県の会見中継",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1131412",
-            "published_at": "2020/07/26 12:18"
         }
     ]
 }
