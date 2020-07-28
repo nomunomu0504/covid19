@@ -1,6 +1,11 @@
 {
-    "timestamp": 1595913036,
+    "timestamp": 1595923928,
     "info": [
+        {
+            "title": "ゲンキー決算、売上高など過去最高",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1132672",
+            "published_at": "2020/07/28 17:00"
+        },
         {
             "title": "福井県7月28日コロナ新規感染なし",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1132574",
@@ -15,11 +20,6 @@
             "title": "「貧すれば鈍する」ということわざ…",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1132454",
             "published_at": "2020/07/28 07:20"
-        },
-        {
-            "title": "福井市のタグライン決定、福いいネ！",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1132190",
-            "published_at": "2020/07/28 07:10"
         }
     ]
 }
