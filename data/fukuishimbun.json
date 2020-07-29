@@ -1,6 +1,16 @@
 {
-    "timestamp": 1595992264,
+    "timestamp": 1595995908,
     "info": [
+        {
+            "title": "福井県で4人感染確認、県会見中継",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1133376",
+            "published_at": "2020/07/29 12:18"
+        },
+        {
+            "title": "福井県で新型コロナ4人感染確認",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1133379",
+            "published_at": "2020/07/29 12:15"
+        },
         {
             "title": "学校再開2カ月、登校渋る相談増加",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1133263",
@@ -15,11 +25,6 @@
             "title": "福井藩が寛文２（１６６２）年に発行…",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1133213",
             "published_at": "2020/07/29 07:20"
-        },
-        {
-            "title": "ゲンキー決算、売上高など過去最高",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1132672",
-            "published_at": "2020/07/28 17:00"
         }
     ]
 }
