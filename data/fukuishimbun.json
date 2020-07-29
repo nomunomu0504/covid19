@@ -1,6 +1,16 @@
 {
-    "timestamp": 1596060669,
+    "timestamp": 1596064213,
     "info": [
+        {
+            "title": "顔見えぬ安倍首相",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1133992",
+            "published_at": "2020/07/30 07:30"
+        },
+        {
+            "title": "１週間で９人感染、福井県対策提示へ",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1133647",
+            "published_at": "2020/07/30 07:20"
+        },
         {
             "title": "7/29コロナ速報_石川県金沢市の男女2人感染",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1133569",
@@ -20,26 +30,6 @@
             "title": "福井県内高速道、交通量90％超え",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1133439",
             "published_at": "2020/07/29 17:00"
-        },
-        {
-            "title": "絹のインナーマスクを保育施設へ",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1133427",
-            "published_at": "2020/07/29 15:10"
-        },
-        {
-            "title": "コロナ感染6人は石垣島、西表島訪問",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1133448",
-            "published_at": "2020/07/29 14:45"
-        },
-        {
-            "title": "濃厚接触者は少なくとも13人",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1133438",
-            "published_at": "2020/07/29 14:30"
-        },
-        {
-            "title": "感染6人は福井市、坂井市の会社員",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1133407",
-            "published_at": "2020/07/29 14:25"
         }
     ]
 }
