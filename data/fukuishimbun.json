@@ -1,6 +1,11 @@
 {
-    "timestamp": 1596093087,
+    "timestamp": 1596096716,
     "info": [
+        {
+            "title": "新たな複合施設、クロスゲート金沢",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1134265",
+            "published_at": "2020/07/30 16:50"
+        },
         {
             "title": "海水浴場、海開きしない方が危険な訳",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1132031",
@@ -10,16 +15,6 @@
             "title": "ＵＳＪがクルー１人のコロナ感染発表",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1134316",
             "published_at": "2020/07/30 15:38"
-        },
-        {
-            "title": "福井県の新型コロナ対策会議を中継",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1134281",
-            "published_at": "2020/07/30 15:00"
-        },
-        {
-            "title": "感染２人は福井市の男性の濃厚接触者",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1134259",
-            "published_at": "2020/07/30 14:10"
         }
     ]
 }
