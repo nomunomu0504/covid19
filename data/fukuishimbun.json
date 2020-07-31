@@ -1,6 +1,21 @@
 {
-    "timestamp": 1596168714,
+    "timestamp": 1596175946,
     "info": [
+        {
+            "title": "コロナ感染２人、濃厚接触者５人以上",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1135120",
+            "published_at": "2020/07/31 14:19"
+        },
+        {
+            "title": "7/31コロナ速報_東京都の新規感染者は463人",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1135121",
+            "published_at": "2020/07/31 14:10"
+        },
+        {
+            "title": "感染者２人は敦賀市、越前市の男性",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1135101",
+            "published_at": "2020/07/31 14:07"
+        },
         {
             "title": "福井県コロナ２人感染、県会見を中継",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1134990",
@@ -25,21 +40,6 @@
             "title": "7/30コロナ速報_石川県金沢市の男女4人が感染",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1134382",
             "published_at": "2020/07/31 08:10"
-        },
-        {
-            "title": "米中対立再び激化",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1134846",
-            "published_at": "2020/07/31 07:30"
-        },
-        {
-            "title": "いつも行く散髪屋さんのドアが半開…",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1134845",
-            "published_at": "2020/07/31 07:20"
-        },
-        {
-            "title": "福井県が第１波分析、対応策示す",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1134590",
-            "published_at": "2020/07/31 07:20"
         }
     ]
 }
