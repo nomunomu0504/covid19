@@ -1,6 +1,11 @@
 {
-    "timestamp": 1596183148,
+    "timestamp": 1596186670,
     "info": [
+        {
+            "title": "7/31コロナ速報_石川県金沢市の20代男性が感染",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1135245",
+            "published_at": "2020/07/31 17:25"
+        },
         {
             "title": "福井大学入試、全学部３月に追試",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1135156",
@@ -30,16 +35,6 @@
             "title": "福井県コロナ２人感染、県会見を中継",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1134990",
             "published_at": "2020/07/31 12:13"
-        },
-        {
-            "title": "7/31コロナ速報_東京都で400人以上感染見通し",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1135041",
-            "published_at": "2020/07/31 12:08"
-        },
-        {
-            "title": "7/31コロナ速報_福井で２人感染",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1134987",
-            "published_at": "2020/07/31 12:07"
         }
     ]
 }
