@@ -1,6 +1,11 @@
 {
-    "timestamp": 1596165052,
+    "timestamp": 1596168714,
     "info": [
+        {
+            "title": "福井県コロナ２人感染、県会見を中継",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1134990",
+            "published_at": "2020/07/31 12:13"
+        },
         {
             "title": "7/31コロナ速報_東京都で400人以上感染見通し",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1135041",
@@ -9,7 +14,7 @@
         {
             "title": "7/31コロナ速報_福井で２人感染",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1134987",
-            "published_at": "2020/07/31 12:00"
+            "published_at": "2020/07/31 12:07"
         },
         {
             "title": "大飯、高浜原発同時事故を想定し改定",
@@ -35,11 +40,6 @@
             "title": "福井県が第１波分析、対応策示す",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1134590",
             "published_at": "2020/07/31 07:20"
-        },
-        {
-            "title": "全国高校総合文化祭、ウェブで開幕",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1134537",
-            "published_at": "2020/07/31 07:10"
         }
     ]
 }
