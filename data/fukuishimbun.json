@@ -1,6 +1,11 @@
 {
-    "timestamp": 1596175946,
+    "timestamp": 1596179456,
     "info": [
+        {
+            "title": "7/31コロナ速報_岐阜県が独自の「第2波非常事態」を宣言",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1135185",
+            "published_at": "2020/07/31 16:00"
+        },
         {
             "title": "コロナ感染２人、濃厚接触者５人以上",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1135120",
@@ -30,16 +35,6 @@
             "title": "7/31コロナ速報_福井で２人感染",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1134987",
             "published_at": "2020/07/31 12:07"
-        },
-        {
-            "title": "大飯、高浜原発同時事故を想定し改定",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1134976",
-            "published_at": "2020/07/31 11:30"
-        },
-        {
-            "title": "7/30コロナ速報_石川県金沢市の男女4人が感染",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1134382",
-            "published_at": "2020/07/31 08:10"
         }
     ]
 }
