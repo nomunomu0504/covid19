@@ -1,6 +1,16 @@
 {
-    "timestamp": 1596190265,
+    "timestamp": 1596197776,
     "info": [
+        {
+            "title": "福井県高校野球大会、ベスト４激突",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1135321",
+            "published_at": "2020/07/31 21:00"
+        },
+        {
+            "title": "7/31コロナ速報_岐阜県と岐阜市が19人の感染発表",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1135338",
+            "published_at": "2020/07/31 20:10"
+        },
         {
             "title": "7/31コロナ速報_滋賀県が3人の感染発表",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1135284",
@@ -25,16 +35,6 @@
             "title": "7/31コロナ速報_岐阜県が独自の「第2波非常事態」を宣言",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1135185",
             "published_at": "2020/07/31 16:00"
-        },
-        {
-            "title": "コロナ感染２人、濃厚接触者５人以上",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1135120",
-            "published_at": "2020/07/31 14:19"
-        },
-        {
-            "title": "7/31コロナ速報_東京都の新規感染者は463人",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1135121",
-            "published_at": "2020/07/31 14:10"
         }
     ]
 }
