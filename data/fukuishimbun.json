@@ -1,6 +1,16 @@
 {
-    "timestamp": 1596247943,
+    "timestamp": 1596251483,
     "info": [
+        {
+            "title": "福井工大福井が福井商業を破り決勝進出",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1135854",
+            "published_at": "2020/08/01 12:02"
+        },
+        {
+            "title": "福井県内8月1日は新規感染者なし",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1135843",
+            "published_at": "2020/08/01 11:45"
+        },
         {
             "title": "都市から移住、コロナ禍で相談倍増",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1135726",
@@ -25,11 +35,6 @@
             "title": "グランスタ東京にありそ鮨し出店",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1135355",
             "published_at": "2020/08/01 07:20"
-        },
-        {
-            "title": "感染疑い相談先、福井県が一元化",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1135352",
-            "published_at": "2020/08/01 07:10"
         }
     ]
 }
