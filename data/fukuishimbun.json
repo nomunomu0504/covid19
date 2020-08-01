@@ -1,6 +1,11 @@
 {
-    "timestamp": 1596319872,
+    "timestamp": 1596323436,
     "info": [
+        {
+            "title": "コロナ注意報で福井のビルが黄色に",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1136042",
+            "published_at": "2020/08/02 07:20"
+        },
         {
             "title": "8/1コロナ速報_滋賀県で８人感染",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1135973",
@@ -25,16 +30,6 @@
             "title": "福井県内8月1日は新規感染者なし",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1135843",
             "published_at": "2020/08/01 11:45"
-        },
-        {
-            "title": "都市から移住、コロナ禍で相談倍増",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1135726",
-            "published_at": "2020/08/01 10:00"
-        },
-        {
-            "title": "7/31コロナ速報_岐阜県で19人感染、可児市のジム関連や北方町の高校生も",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1135338",
-            "published_at": "2020/08/01 08:44"
         }
     ]
 }
