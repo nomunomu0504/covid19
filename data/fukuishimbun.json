@@ -1,6 +1,11 @@
 {
-    "timestamp": 1596241874,
+    "timestamp": 1596244332,
     "info": [
+        {
+            "title": "都市から移住、コロナ禍で相談倍増",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1135726",
+            "published_at": "2020/08/01 10:00"
+        },
         {
             "title": "7/31コロナ速報_岐阜県で19人感染、可児市のジム関連や北方町の高校生も",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1135338",
@@ -30,11 +35,6 @@
             "title": "福井県高校野球大会、ベスト４激突",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1135321",
             "published_at": "2020/07/31 21:00"
-        },
-        {
-            "title": "7/31コロナ速報_3日連続、国内感染者が千人超",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1135283",
-            "published_at": "2020/07/31 18:15"
         }
     ]
 }
