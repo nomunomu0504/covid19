@@ -1,6 +1,11 @@
 {
-    "timestamp": 1596328309,
+    "timestamp": 1596337847,
     "info": [
+        {
+            "title": "8/2コロナ速報_福井県で１人感染",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1136366",
+            "published_at": "2020/08/02 12:05"
+        },
         {
             "title": "コロナ注意報で福井のビルが黄色に",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1136042",
@@ -20,21 +25,6 @@
             "title": "8/1コロナ速報_石川県で５０代男性１人感染",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1135961",
             "published_at": "2020/08/01 17:17"
-        },
-        {
-            "title": "敦賀気比が武生商業を破り決勝進出",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1135918",
-            "published_at": "2020/08/01 15:21"
-        },
-        {
-            "title": "工大福井が福井商業を破り決勝進出",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1135854",
-            "published_at": "2020/08/01 12:02"
-        },
-        {
-            "title": "福井県内8月1日は新規感染者なし",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1135843",
-            "published_at": "2020/08/01 11:45"
         }
     ]
 }
