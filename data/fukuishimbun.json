@@ -1,6 +1,11 @@
 {
-    "timestamp": 1596355911,
+    "timestamp": 1596359477,
     "info": [
+        {
+            "title": "8/2コロナ速報_石川県金沢市の70代男性感染",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1136466",
+            "published_at": "2020/08/02 17:30"
+        },
         {
             "title": "コロナで２次試験の東京会場取りやめ",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1136393",
@@ -24,11 +29,6 @@
         {
             "title": "コロナ注意報で福井のビルが黄色に",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1136042",
-            "published_at": "2020/08/02 07:20"
-        },
-        {
-            "title": "コロナ禍で学校の夏休みは県内ばら…",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1136308",
             "published_at": "2020/08/02 07:20"
         }
     ]
