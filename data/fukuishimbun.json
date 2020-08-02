@@ -1,6 +1,11 @@
 {
-    "timestamp": 1596345061,
+    "timestamp": 1596345462,
     "info": [
+        {
+            "title": "福井県の新規感染者は坂井市の男性",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1136388",
+            "published_at": "2020/08/02 14:15"
+        },
         {
             "title": "福井県コロナ１人感染、県会見を中継",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1136372",
@@ -25,11 +30,6 @@
             "title": "8/1コロナ速報_滋賀県で８人感染",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1135973",
             "published_at": "2020/08/01 17:48"
-        },
-        {
-            "title": "8/1コロナ速報_石川県で５０代男性１人感染",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1135961",
-            "published_at": "2020/08/01 17:17"
         }
     ]
 }
