@@ -1,6 +1,11 @@
 {
-    "timestamp": 1596359477,
+    "timestamp": 1596363078,
     "info": [
+        {
+            "title": "8/2コロナ速報_国内の感染者1000人超す、5日連続",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1136508",
+            "published_at": "2020/08/02 18:41"
+        },
         {
             "title": "8/2コロナ速報_石川県金沢市の70代男性感染",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1136466",
@@ -25,11 +30,6 @@
             "title": "8/2コロナ速報_福井県で１人感染",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1136366",
             "published_at": "2020/08/02 12:05"
-        },
-        {
-            "title": "コロナ注意報で福井のビルが黄色に",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1136042",
-            "published_at": "2020/08/02 07:20"
         }
     ]
 }
