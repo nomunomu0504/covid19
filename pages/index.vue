@@ -12,21 +12,9 @@
         <span>{{ $t('注釈') }} </span>
       </div>
     </div>
-    <!-- <static-info
-      class="mb-4"
-      :url="localePath('/mask')"
-      target="_blank"
-      :text="
-        $t(
-          'ゲンキーで販売されている県あっせんマスクについての情報はこちらからご確認いただけます'
-        )
-      "
-      :btn-text="$t('マスク情報へ')"
-    /> -->
+    <header-card class="md-4" />
     <breaking-news class="mb-4" :items="newsItems" />
     <fukui-paper-news class="mb-4" />
-    <!-- <fukui-news class="mb-4" />
-    <whats-new class="mb-4" :items="newsItems" /> -->
     <whats-new-japan class="mb-4" :items="japanItems" />
     <static-info
       class="mb-4"
@@ -55,6 +43,8 @@
 import Vue from 'vue'
 import { MetaInfo } from 'vue-meta'
 import PageHeader from '@/components/PageHeader.vue'
+// トップページ／ヘッダーカード
+import HeaderCard from '@/components/HeaderCard.vue'
 // 速報
 import BreakingNews from '@/components/BreakingNews.vue'
 // import WhatsNew from '@/components/WhatsNew.vue'
@@ -114,6 +104,7 @@ import {
 export default Vue.extend({
   components: {
     PageHeader,
+    HeaderCard,
     BreakingNews,
     // FukuiNews,
     FukuiPaperNews,
