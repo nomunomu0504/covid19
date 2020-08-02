@@ -68,6 +68,11 @@ const config: Configuration = {
         src: 'https://platform.twitter.com/widgets.js',
         charset: 'utf-8',
         async: true
+      },
+      {
+        src: 'https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js',
+        'data-ad-client': 'ca-pub-8126452634304873',
+        async: true
       }
     ]
   },
