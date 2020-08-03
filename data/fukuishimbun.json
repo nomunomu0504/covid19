@@ -1,6 +1,11 @@
 {
-    "timestamp": 1596427921,
+    "timestamp": 1596431497,
     "info": [
+        {
+            "title": "感染者は敦賀市女性とあわら市男性",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1136949",
+            "published_at": "2020/08/03 14:10"
+        },
         {
             "title": "敦賀気比が福井工大福井を下し優勝",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1136921",
@@ -30,11 +35,6 @@
             "title": "家庭から出る下水から新型コロナウ…",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1136745",
             "published_at": "2020/08/03 07:20"
-        },
-        {
-            "title": "新生児に10万円、小浜市が追加給付",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1136490",
-            "published_at": "2020/08/03 07:10"
         }
     ]
 }
