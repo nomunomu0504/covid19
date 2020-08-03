@@ -1,6 +1,16 @@
 {
-    "timestamp": 1596409845,
+    "timestamp": 1596424264,
     "info": [
+        {
+            "title": "8/3コロナ速報_福井県で２人感染",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1136884",
+            "published_at": "2020/08/03 12:00"
+        },
+        {
+            "title": "福井県に微住、広めるサイト開設",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1136801",
+            "published_at": "2020/08/03 11:30"
+        },
         {
             "title": "校歌は古関裕而さん作曲、直筆楽譜も",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1136481",
@@ -20,16 +30,6 @@
             "title": "8/2コロナ速報_国内の感染者1000人超す、5日連続",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1136508",
             "published_at": "2020/08/02 18:41"
-        },
-        {
-            "title": "8/2コロナ速報_石川県金沢市の70代男性感染",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1136466",
-            "published_at": "2020/08/02 17:30"
-        },
-        {
-            "title": "コロナで２次試験の東京会場取りやめ",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1136393",
-            "published_at": "2020/08/02 17:10"
         }
     ]
 }
