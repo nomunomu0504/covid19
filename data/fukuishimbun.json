@@ -1,6 +1,11 @@
 {
-    "timestamp": 1596528781,
+    "timestamp": 1596532288,
     "info": [
+        {
+            "title": "8/4コロナ速報_石川県で１人感染",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1137863",
+            "published_at": "2020/08/04 17:28"
+        },
         {
             "title": "ご当地ヒーロー、踊って疫病退散",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1137700",
@@ -20,11 +25,6 @@
             "title": "福井県コロナ３人感染、県会見を中継",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1137653",
             "published_at": "2020/08/04 12:15"
-        },
-        {
-            "title": "8/4コロナ速報_福井県で３人感染",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1137636",
-            "published_at": "2020/08/04 12:07"
         }
     ]
 }
