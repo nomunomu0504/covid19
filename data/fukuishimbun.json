@@ -1,6 +1,16 @@
 {
-    "timestamp": 1596496241,
+    "timestamp": 1596514328,
     "info": [
+        {
+            "title": "福井県コロナ３人感染、県会見を中継",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1137653",
+            "published_at": "2020/08/04 12:15"
+        },
+        {
+            "title": "8/4コロナ速報_福井県で３人感染",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1137636",
+            "published_at": "2020/08/04 12:07"
+        },
         {
             "title": "進まぬコロナ対策",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1137491",
@@ -15,16 +25,6 @@
             "title": "福井県高校野球、熱戦の数々を写真で",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1136978",
             "published_at": "2020/08/03 21:00"
-        },
-        {
-            "title": "8/3コロナ速報_新型コロナ関連の企業倒産、400件超に",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1137200",
-            "published_at": "2020/08/03 20:30"
-        },
-        {
-            "title": "8/3コロナ速報_犬２匹が新型コロナ陽性",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1137149",
-            "published_at": "2020/08/03 18:54"
         }
     ]
 }
