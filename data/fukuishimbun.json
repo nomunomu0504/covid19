@@ -1,6 +1,11 @@
 {
-    "timestamp": 1596521561,
+    "timestamp": 1596528781,
     "info": [
+        {
+            "title": "ご当地ヒーロー、踊って疫病退散",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1137700",
+            "published_at": "2020/08/04 17:00"
+        },
         {
             "title": "感染の敦賀市男性、仕事で県外滞在",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1137726",
@@ -20,16 +25,6 @@
             "title": "8/4コロナ速報_福井県で３人感染",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1137636",
             "published_at": "2020/08/04 12:07"
-        },
-        {
-            "title": "進まぬコロナ対策",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1137491",
-            "published_at": "2020/08/04 07:30"
-        },
-        {
-            "title": "「小確幸」と聞いてもなじみは薄い…",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1137490",
-            "published_at": "2020/08/04 07:20"
         }
     ]
 }
