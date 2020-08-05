@@ -1,6 +1,11 @@
 {
-    "timestamp": 1596615170,
+    "timestamp": 1596622295,
     "info": [
+        {
+            "title": "デザインを楽しむ越前織のマスク",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1138594",
+            "published_at": "2020/08/05 19:00"
+        },
         {
             "title": "コロナ禍支援、福井市の商品券発売",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1138541",
@@ -35,11 +40,6 @@
             "title": "消費喚起へ福井県が応援企画採択",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1138347",
             "published_at": "2020/08/05 11:30"
-        },
-        {
-            "title": "越前焼窯元応援企画",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1138281",
-            "published_at": "2020/08/05 07:30"
         }
     ]
 }
