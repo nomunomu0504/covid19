@@ -1,6 +1,11 @@
 {
-    "timestamp": 1596607968,
+    "timestamp": 1596611515,
     "info": [
+        {
+            "title": "8/5コロナ速報_富山県が20～70代の男女7人の感染確認を発表",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1138553",
+            "published_at": "2020/08/05 15:52"
+        },
         {
             "title": "福井県「コロナ感染対策一層注意を」",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1138481",
@@ -40,11 +45,6 @@
             "title": "「とぎれていたふるさととの糸が…",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1138282",
             "published_at": "2020/08/05 07:20"
-        },
-        {
-            "title": "ＧｏＴｏトラベル福井県宿泊で追加割",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1137983",
-            "published_at": "2020/08/05 07:10"
         }
     ]
 }
