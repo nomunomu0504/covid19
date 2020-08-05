@@ -1,6 +1,11 @@
 {
-    "timestamp": 1596611515,
+    "timestamp": 1596615170,
     "info": [
+        {
+            "title": "コロナ禍支援、福井市の商品券発売",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1138541",
+            "published_at": "2020/08/05 17:10"
+        },
         {
             "title": "8/5コロナ速報_富山県が20～70代の男女7人の感染確認を発表",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1138553",
@@ -35,16 +40,6 @@
             "title": "越前焼窯元応援企画",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1138281",
             "published_at": "2020/08/05 07:30"
-        },
-        {
-            "title": "東京から福井へのお盆帰省、自粛を",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1137962",
-            "published_at": "2020/08/05 07:20"
-        },
-        {
-            "title": "「とぎれていたふるさととの糸が…",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1138282",
-            "published_at": "2020/08/05 07:20"
         }
     ]
 }
