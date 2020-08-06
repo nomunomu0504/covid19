@@ -1,6 +1,21 @@
 {
-    "timestamp": 1596751879,
+    "timestamp": 1596755476,
     "info": [
+        {
+            "title": "8/6コロナ速報_石川県で6人感染、20~70代の男女",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1139407",
+            "published_at": "2020/08/07 08:00"
+        },
+        {
+            "title": "福井の大学、後期もオンライン授業に",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1139504",
+            "published_at": "2020/08/07 07:20"
+        },
+        {
+            "title": "青井山、蒼島、青戸の入江、青海神…",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1139872",
+            "published_at": "2020/08/07 07:20"
+        },
         {
             "title": "8/6コロナ速報_全国の病院、コロナ受け6割赤字",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1139475",
@@ -12,24 +27,9 @@
             "published_at": "2020/08/06 17:38"
         },
         {
-            "title": "8/6コロナ速報_石川県で6人感染、20~70代の男女",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1139407",
-            "published_at": "2020/08/06 17:16"
-        },
-        {
             "title": "年間休日の日数、社員の選択制に",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1139334",
             "published_at": "2020/08/06 17:10"
-        },
-        {
-            "title": "8/6コロナ速報_東京都360人感染確認",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1139321",
-            "published_at": "2020/08/06 15:04"
-        },
-        {
-            "title": "8/6コロナ速報_三重県四日市市で10~20代の男女3人感染",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1139313",
-            "published_at": "2020/08/06 14:58"
         }
     ]
 }
