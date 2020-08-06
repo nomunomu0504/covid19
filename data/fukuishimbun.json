@@ -1,6 +1,21 @@
 {
-    "timestamp": 1596687125,
+    "timestamp": 1596694354,
     "info": [
+        {
+            "title": "8/6コロナ速報_東京都360人感染確認",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1139321",
+            "published_at": "2020/08/06 15:04"
+        },
+        {
+            "title": "8/6コロナ速報_三重県四日市市で10~20代の男女3人感染",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1139313",
+            "published_at": "2020/08/06 14:58"
+        },
+        {
+            "title": "３人感染、福井県滞在の三重県男性も",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1139295",
+            "published_at": "2020/08/06 14:52"
+        },
         {
             "title": "コロナ３人感染、福井県会見を中継",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1139260",
@@ -15,11 +30,6 @@
             "title": "原爆の日",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1139117",
             "published_at": "2020/08/06 07:30"
-        },
-        {
-            "title": "感染経路の調査続くケースも、福井県",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1138825",
-            "published_at": "2020/08/06 07:20"
         }
     ]
 }
