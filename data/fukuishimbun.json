@@ -1,6 +1,11 @@
 {
-    "timestamp": 1596705095,
+    "timestamp": 1596708685,
     "info": [
+        {
+            "title": "8/6コロナ速報_全国の病院、コロナ受け6割赤字",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1139475",
+            "published_at": "2020/08/06 18:35"
+        },
         {
             "title": "8/6コロナ速報_大阪府で225人感染、過去最多",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1139423",
@@ -35,11 +40,6 @@
             "title": "コロナ３人感染、福井県会見を中継",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1139260",
             "published_at": "2020/08/06 12:25"
-        },
-        {
-            "title": "8/6コロナ_福井県が３人感染発表",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1139227",
-            "published_at": "2020/08/06 12:12"
         }
     ]
 }
