@@ -1,6 +1,11 @@
 {
-    "timestamp": 1596755476,
+    "timestamp": 1596766388,
     "info": [
+        {
+            "title": "コロナワクチン１億回分供給で合意へ",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1139969",
+            "published_at": "2020/08/07 10:27"
+        },
         {
             "title": "8/6コロナ速報_石川県で6人感染、20~70代の男女",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1139407",
@@ -25,11 +30,6 @@
             "title": "8/6コロナ速報_大阪府で225人感染、過去最多",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1139423",
             "published_at": "2020/08/06 17:38"
-        },
-        {
-            "title": "年間休日の日数、社員の選択制に",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1139334",
-            "published_at": "2020/08/06 17:10"
         }
     ]
 }
