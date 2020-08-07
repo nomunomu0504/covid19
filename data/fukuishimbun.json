@@ -1,6 +1,11 @@
 {
-    "timestamp": 1596787987,
+    "timestamp": 1596791501,
     "info": [
+        {
+            "title": "8/7コロナ速報_石川県小松市の80代男性が感染",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1140230",
+            "published_at": "2020/08/07 17:53"
+        },
         {
             "title": "人手不足業種に就職、30万円支給",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1140135",
@@ -35,11 +40,6 @@
             "title": "コロナワクチン１億回分供給で合意へ",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1139969",
             "published_at": "2020/08/07 10:27"
-        },
-        {
-            "title": "8/6コロナ速報_石川県で6人感染、20~70代の男女",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1139407",
-            "published_at": "2020/08/07 08:00"
         }
     ]
 }
