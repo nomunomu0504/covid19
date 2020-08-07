@@ -1,6 +1,11 @@
 {
-    "timestamp": 1596766388,
+    "timestamp": 1596769897,
     "info": [
+        {
+            "title": "8/7コロナ速報_福井県で１人感染",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1139987",
+            "published_at": "2020/08/07 12:00"
+        },
         {
             "title": "コロナワクチン１億回分供給で合意へ",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1139969",
@@ -20,16 +25,6 @@
             "title": "青井山、蒼島、青戸の入江、青海神…",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1139872",
             "published_at": "2020/08/07 07:20"
-        },
-        {
-            "title": "8/6コロナ速報_全国の病院、コロナ受け6割赤字",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1139475",
-            "published_at": "2020/08/06 18:35"
-        },
-        {
-            "title": "8/6コロナ速報_大阪府で225人感染、過去最多",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1139423",
-            "published_at": "2020/08/06 17:38"
         }
     ]
 }
