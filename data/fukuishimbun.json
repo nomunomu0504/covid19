@@ -1,6 +1,11 @@
 {
-    "timestamp": 1596780772,
+    "timestamp": 1596784319,
     "info": [
+        {
+            "title": "8/7コロナ速報_東京都で462人感染",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1140147",
+            "published_at": "2020/08/07 15:13"
+        },
         {
             "title": "福井の感染者は濃厚接触者で同僚",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1140099",
@@ -25,11 +30,6 @@
             "title": "8/6コロナ速報_石川県で6人感染、20~70代の男女",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1139407",
             "published_at": "2020/08/07 08:00"
-        },
-        {
-            "title": "福井の大学、後期もオンライン授業に",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1139504",
-            "published_at": "2020/08/07 07:20"
         }
     ]
 }
