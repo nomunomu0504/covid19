@@ -1,6 +1,11 @@
 {
-    "timestamp": 1596773553,
+    "timestamp": 1596780772,
     "info": [
+        {
+            "title": "福井の感染者は濃厚接触者で同僚",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1140099",
+            "published_at": "2020/08/07 14:30"
+        },
         {
             "title": "コロナ１人感染、福井県の会見中継",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1139997",
@@ -24,11 +29,6 @@
         {
             "title": "福井の大学、後期もオンライン授業に",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1139504",
-            "published_at": "2020/08/07 07:20"
-        },
-        {
-            "title": "青井山、蒼島、青戸の入江、青海神…",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1139872",
             "published_at": "2020/08/07 07:20"
         }
     ]
