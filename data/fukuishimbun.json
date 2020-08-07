@@ -1,6 +1,11 @@
 {
-    "timestamp": 1596791501,
+    "timestamp": 1596802599,
     "info": [
+        {
+            "title": "8/7コロナ速報_コロナ感染者数が過去最多",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1140347",
+            "published_at": "2020/08/07 20:13"
+        },
         {
             "title": "8/7コロナ速報_石川県小松市の80代男性が感染",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1140230",
@@ -35,11 +40,6 @@
             "title": "8/7コロナ速報_福井県で１人感染",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1139987",
             "published_at": "2020/08/07 12:00"
-        },
-        {
-            "title": "コロナワクチン１億回分供給で合意へ",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1139969",
-            "published_at": "2020/08/07 10:27"
         }
     ]
 }
