@@ -1,6 +1,16 @@
 {
-    "timestamp": 1596849173,
+    "timestamp": 1596856281,
     "info": [
+        {
+            "title": "福井県内１週間ぶり新規感染者なし",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1140770",
+            "published_at": "2020/08/08 11:53"
+        },
+        {
+            "title": "コロナで保健師差別「誤解しないで」",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1140757",
+            "published_at": "2020/08/08 11:30"
+        },
         {
             "title": "県スポーツコミッション",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1140674",
@@ -20,16 +30,6 @@
             "title": "8/7コロナ速報_コロナ感染者数が過去最多",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1140347",
             "published_at": "2020/08/07 20:13"
-        },
-        {
-            "title": "8/7コロナ速報_石川県小松市の80代男性が感染",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1140230",
-            "published_at": "2020/08/07 17:53"
-        },
-        {
-            "title": "人手不足業種に就職、30万円支給",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1140135",
-            "published_at": "2020/08/07 17:10"
         }
     ]
 }
