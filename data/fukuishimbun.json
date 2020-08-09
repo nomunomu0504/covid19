@@ -1,10 +1,15 @@
 {
-    "timestamp": 1596939186,
+    "timestamp": 1596942686,
     "info": [
+        {
+            "title": "8/9コロナ速報_福井県で１人感染",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1141252",
+            "published_at": "2020/08/09 12:02"
+        },
         {
             "title": "飛沫感染防ぐ「盾」を福井県に寄贈",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1141234",
-            "published_at": "2020/08/09 11:00"
+            "published_at": "2020/08/09 11:10"
         },
         {
             "title": "三好達治の絶筆直筆原稿を全国初公開",
@@ -20,11 +25,6 @@
             "title": "海辺でもソーシャルディスタンス定着",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1140969",
             "published_at": "2020/08/09 07:00"
-        },
-        {
-            "title": "福井県内１週間ぶり新規感染者なし",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1140770",
-            "published_at": "2020/08/08 11:53"
         }
     ]
 }
