@@ -1,15 +1,15 @@
 {
-    "timestamp": 1597137124,
+    "timestamp": 1597148115,
     "info": [
+        {
+            "title": "8/11コロナ速報_石川県で0歳児から80代の男女14人感染、クラスターのカラオケ大会関連は計37人に",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1142461",
+            "published_at": "2020/08/11 19:20"
+        },
         {
             "title": "8/11コロナ速報_滋賀県で4人感染",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1142471",
             "published_at": "2020/08/11 17:37"
-        },
-        {
-            "title": "8/11コロナ速報_石川県で男女14人感染",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1142461",
-            "published_at": "2020/08/11 17:13"
         },
         {
             "title": "花火真下から見られるプラネタリウム",
@@ -20,16 +20,6 @@
             "title": "8/11コロナ速報_富山県が20～70代の男女3人の感染確認を発表",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1142335",
             "published_at": "2020/08/11 13:26"
-        },
-        {
-            "title": "8/11コロナ速報_福井は感染ゼロ",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1142285",
-            "published_at": "2020/08/11 12:00"
-        },
-        {
-            "title": "宿泊客に氏子が作ったアマビエ絵馬",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1142269",
-            "published_at": "2020/08/11 11:45"
         }
     ]
 }
