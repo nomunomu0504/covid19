@@ -1,6 +1,11 @@
 {
-    "timestamp": 1597183910,
+    "timestamp": 1597187491,
     "info": [
+        {
+            "title": "感染多系統、福井県がPCR検査積極",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1142629",
+            "published_at": "2020/08/12 07:10"
+        },
         {
             "title": "中止の敦賀花火、CGで５千発配信",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1142602",
@@ -15,16 +20,6 @@
             "title": "8/11コロナ速報_滋賀県で4人感染",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1142471",
             "published_at": "2020/08/11 17:37"
-        },
-        {
-            "title": "花火真下から見られるプラネタリウム",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1142408",
-            "published_at": "2020/08/11 17:10"
-        },
-        {
-            "title": "8/11コロナ速報_富山県が20～70代の男女3人の感染確認を発表",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1142335",
-            "published_at": "2020/08/11 13:26"
         }
     ]
 }
