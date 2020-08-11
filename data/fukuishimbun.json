@@ -1,6 +1,11 @@
 {
-    "timestamp": 1597101099,
+    "timestamp": 1597111983,
     "info": [
+        {
+            "title": "福井県高校夏季特別大会、写真で特集",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1142261",
+            "published_at": "2020/08/11 11:00"
+        },
         {
             "title": "子どもはゲーセン禁止、親同伴でも？",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1141981",
@@ -15,11 +20,6 @@
             "title": "8/10コロナ速報_石川県で12人感染、白山市の飲食店従業員は感染経路不明",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1141879",
             "published_at": "2020/08/10 19:12"
-        },
-        {
-            "title": "8/10コロナ速報_京都府と京都市が計8人の感染発表",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1141908",
-            "published_at": "2020/08/10 17:58"
         }
     ]
 }
