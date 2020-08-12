@@ -1,6 +1,11 @@
 {
-    "timestamp": 1597198394,
+    "timestamp": 1597201917,
     "info": [
+        {
+            "title": "福井県内３日連続で新規感染者なし",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1142993",
+            "published_at": "2020/08/12 12:00"
+        },
         {
             "title": "勝山市長選挙、水上実喜夫氏が出馬へ",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1142971",
@@ -15,11 +20,6 @@
             "title": "感染多系統、福井県がPCR検査積極",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1142629",
             "published_at": "2020/08/12 07:10"
-        },
-        {
-            "title": "中止の敦賀花火、CGで５千発配信",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1142602",
-            "published_at": "2020/08/12 07:00"
         }
     ]
 }
