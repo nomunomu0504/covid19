@@ -1,6 +1,16 @@
 {
-    "timestamp": 1597306411,
+    "timestamp": 1597309936,
     "info": [
+        {
+            "title": "8/13コロナ速報_富山県の感染発表は計5人に　新たに10~50代の男女3人確認",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1143877",
+            "published_at": "2020/08/13 17:27"
+        },
+        {
+            "title": "8/13コロナ速報_石川県で13人感染",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1143865",
+            "published_at": "2020/08/13 17:16"
+        },
         {
             "title": "8/13コロナ速報_富山県の魚津市、富山市で計2人感染　スナックでクラスター発生も",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1143802",
@@ -20,16 +30,6 @@
             "title": "8/12コロナ速報_岐阜県で9人感染　大垣市民病院の医師や大垣商業高校生徒も",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1143235",
             "published_at": "2020/08/13 11:04"
-        },
-        {
-            "title": "8/12コロナ速報_滋賀県で9人感染、栗東市の70代男性死亡",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1143195",
-            "published_at": "2020/08/13 11:00"
-        },
-        {
-            "title": "8/12コロナ速報_福岡県で76人感染　大牟田市の私立高校生徒も",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1143215",
-            "published_at": "2020/08/13 10:50"
         }
     ]
 }
