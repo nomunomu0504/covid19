@@ -6,10 +6,8 @@
         $t('帰国者・接触者 電話相談センター')
       }}</small>
     </h4>
-    <p :class="[$style.open, $style.fzMedium]">
-      <span>{{ $t('時間外は携帯電話番号がアナウンスされます') }}</span>
-    </p>
     <dl>
+      <!--
       <div :class="$style.daytime">
         <dt :class="[$style.title, $style.fzMedium]">
           {{ $t('時間外も対応') }}
@@ -27,27 +25,38 @@
           </a>
         </dd>
       </div>
+      -->
       <div>
         <dt>
           <ul :class="[$style.night]">
             <li>
               <span :class="[$style.fzMedium, $style.break, $style.mb10]">
-                {{ $t('総合相談電話窓口') }}
+                {{ $t('総合相談窓口') }}
               </span>
-              {{ $t('8:30~17:15') }}
+              {{ $t('7:00~21:00') }}
             </li>
           </ul>
         </dt>
+        <!--
+        <dd>
+          <div :class="['mb-1']">
+            <span>{{ $t('7:00~21:00') }}</span>
+          </div>
+        </dd>
+        -->
         <dd>
           <div :class="[$style.phone, $style.fzNumeric]">
             <span :class="$style.icon">
               <PhoneIcon alt="Phone" />
             </span>
-            <a href="tel:0776200250">0776-20-0250</a>
+            <a href="tel:0776200795">0776-20-0795</a>
           </div>
         </dd>
       </div>
     </dl>
+    <p :class="[$style.open, $style.fzMedium]">
+      <span>{{ $t('時間外は携帯電話番号がアナウンスされます') }}</span>
+    </p>
   </div>
 </template>
 
