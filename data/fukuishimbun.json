@@ -1,6 +1,16 @@
 {
-    "timestamp": 1597356713,
+    "timestamp": 1597360290,
     "info": [
+        {
+            "title": "女性登用目標先送り",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1144291",
+            "published_at": "2020/08/14 07:30"
+        },
+        {
+            "title": "アルコール消毒液、車内放置は危険",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1143711",
+            "published_at": "2020/08/14 07:20"
+        },
         {
             "title": "市長の応援メッセージ添付し忘れ配信",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1143823",
@@ -15,11 +25,6 @@
             "title": "8/13コロナ速報_石川県で13人感染、うちカラオケ大会関係者7人",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1143865",
             "published_at": "2020/08/13 19:32"
-        },
-        {
-            "title": "8/13コロナ速報_富山県の魚津市、富山市で計2人感染　スナックでクラスター発生も",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1143802",
-            "published_at": "2020/08/13 16:43"
         }
     ]
 }
