@@ -1,6 +1,11 @@
 {
-    "timestamp": 1597360290,
+    "timestamp": 1597378406,
     "info": [
+        {
+            "title": "福井県内５日連続で新規感染者なし",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1144428",
+            "published_at": "2020/08/14 12:05"
+        },
         {
             "title": "女性登用目標先送り",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1144291",
@@ -20,11 +25,6 @@
             "title": "8/13コロナ速報_富山県の感染発表は計5人に　新たに10~50代の男女3人確認",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1143877",
             "published_at": "2020/08/13 19:33"
-        },
-        {
-            "title": "8/13コロナ速報_石川県で13人感染、うちカラオケ大会関係者7人",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1143865",
-            "published_at": "2020/08/13 19:32"
         }
     ]
 }
