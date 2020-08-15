@@ -71,7 +71,7 @@ const config: Configuration = {
       },
       {
         src: 'https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js',
-        'data-ad-client': 'ca-pub-5940847233270731',
+        'data-ad-client': 'ca-pub-8126452634304873',
         async: true
       }
     ]
