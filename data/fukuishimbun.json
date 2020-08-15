@@ -1,6 +1,11 @@
 {
-    "timestamp": 1597446709,
+    "timestamp": 1597461147,
     "info": [
+        {
+            "title": "福井県内６日連続で新規感染者なし",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1145057",
+            "published_at": "2020/08/15 11:55"
+        },
         {
             "title": "終戦の日",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1144989",
@@ -20,11 +25,6 @@
             "title": "猫耳に見える新型フェイスシールド",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1144490",
             "published_at": "2020/08/14 17:00"
-        },
-        {
-            "title": "8/14コロナ速報_東京で新たに389人感染",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1144504",
-            "published_at": "2020/08/14 15:04"
         }
     ]
 }
