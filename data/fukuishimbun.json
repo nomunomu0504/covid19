@@ -1,6 +1,11 @@
 {
-    "timestamp": 1597551191,
+    "timestamp": 1597558419,
     "info": [
+        {
+            "title": "福井県の女性は３次感染、７月以降初",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1145603",
+            "published_at": "2020/08/16 14:55"
+        },
         {
             "title": "福井県コロナ１人感染、県会見を中継",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1145570",
@@ -25,11 +30,6 @@
             "title": "お盆Uターン北陸道やＪＲ利用少なく",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1145315",
             "published_at": "2020/08/16 07:20"
-        },
-        {
-            "title": "ホッケー高校女子、丹生が優勝",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1145326",
-            "published_at": "2020/08/16 07:10"
         }
     ]
 }
