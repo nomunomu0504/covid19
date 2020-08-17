@@ -1,6 +1,11 @@
 {
-    "timestamp": 1597659168,
+    "timestamp": 1597666550,
     "info": [
+        {
+            "title": "8/17コロナ速報_大阪府でコロナ感染の5人死亡",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1146122",
+            "published_at": "2020/08/17 20:21"
+        },
         {
             "title": "8/17コロナ速報_石川県で19人感染　小松市の病院勤務の看護師や白山署の警官も",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1146021",
@@ -20,11 +25,6 @@
             "title": "消費喚起キャンペーン始まる、福井県",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1145842",
             "published_at": "2020/08/17 11:50"
-        },
-        {
-            "title": "ホテルフジタの壁面使い映画上映会",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1145676",
-            "published_at": "2020/08/17 07:10"
         }
     ]
 }
