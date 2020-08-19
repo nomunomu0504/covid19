@@ -1,6 +1,16 @@
 {
-    "timestamp": 1597792288,
+    "timestamp": 1597806753,
     "info": [
+        {
+            "title": "新小松イオンの従業員がコロナ陽性",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1147190",
+            "published_at": "2020/08/19 11:50"
+        },
+        {
+            "title": "福井県内企業の夏ボーナス平均支給額",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1147121",
+            "published_at": "2020/08/19 11:30"
+        },
         {
             "title": "コロナ禍　経済直撃",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1147083",
@@ -20,11 +30,6 @@
             "title": "コロナのお盆、北陸自動車道42％減",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1146674",
             "published_at": "2020/08/18 17:40"
-        },
-        {
-            "title": "8/18コロナ速報_石川県で男女11人感染",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1146668",
-            "published_at": "2020/08/18 17:13"
         }
     ]
 }
