@@ -1,6 +1,16 @@
 {
-    "timestamp": 1597875149,
+    "timestamp": 1597878719,
     "info": [
+        {
+            "title": "厳しい並行在来線",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1147740",
+            "published_at": "2020/08/20 07:30"
+        },
+        {
+            "title": "福井は暴君、大分は仁君と評する大名",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1147458",
+            "published_at": "2020/08/20 07:20"
+        },
         {
             "title": "8/19コロナ速報_石川県で19人感染　金沢市のグループホーム関連や加賀市の男女ら",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1147330",
@@ -10,21 +20,6 @@
             "title": "石川テレビ放送の社員が新型コロナ感染",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1147408",
             "published_at": "2020/08/19 19:01"
-        },
-        {
-            "title": "コロナ対策財源に…期末手当３割削減",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1147288",
-            "published_at": "2020/08/19 17:00"
-        },
-        {
-            "title": "金沢百番街の社員が新型コロナ感染",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1147202",
-            "published_at": "2020/08/19 12:20"
-        },
-        {
-            "title": "8/19コロナ速報_福井で感染なし",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1147162",
-            "published_at": "2020/08/19 12:10"
         }
     ]
 }
