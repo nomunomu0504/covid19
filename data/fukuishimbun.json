@@ -1,6 +1,11 @@
 {
-    "timestamp": 1597824994,
+    "timestamp": 1597828371,
     "info": [
+        {
+            "title": "8/19コロナ速報_大阪府で187人感染",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1147364",
+            "published_at": "2020/08/19 17:56"
+        },
         {
             "title": "8/19コロナ速報_石川県で男女14人感染",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1147330",
@@ -30,11 +35,6 @@
             "title": "福井県内企業の夏ボーナス平均支給額",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1147121",
             "published_at": "2020/08/19 11:30"
-        },
-        {
-            "title": "コロナ禍　経済直撃",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1147083",
-            "published_at": "2020/08/19 07:30"
         }
     ]
 }
