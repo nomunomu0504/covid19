@@ -1,6 +1,16 @@
 {
-    "timestamp": 1597810397,
+    "timestamp": 1597824994,
     "info": [
+        {
+            "title": "8/19コロナ速報_石川県で男女14人感染",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1147330",
+            "published_at": "2020/08/19 17:05"
+        },
+        {
+            "title": "コロナ対策財源に…期末手当３割削減",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1147288",
+            "published_at": "2020/08/19 17:00"
+        },
         {
             "title": "金沢百番街の社員が新型コロナ感染",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1147202",
@@ -25,11 +35,6 @@
             "title": "コロナ禍　経済直撃",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1147083",
             "published_at": "2020/08/19 07:30"
-        },
-        {
-            "title": "福井県を代表するビッグネームで…",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1147081",
-            "published_at": "2020/08/19 07:20"
         }
     ]
 }
