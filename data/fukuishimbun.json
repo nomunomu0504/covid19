@@ -1,6 +1,16 @@
 {
-    "timestamp": 1597911235,
+    "timestamp": 1597914753,
     "info": [
+        {
+            "title": "8/20コロナ速報_滋賀県が5人の感染発表",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1148127",
+            "published_at": "2020/08/20 17:55"
+        },
+        {
+            "title": "8/20コロナ速報_石川県が男女19人の感染確認",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1148100",
+            "published_at": "2020/08/20 17:30"
+        },
         {
             "title": "疫病退散ソング計画、あと77万円",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1146484",
@@ -25,11 +35,6 @@
             "title": "福井県美浜町の男性が新型コロナ感染",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1147856",
             "published_at": "2020/08/20 11:57"
-        },
-        {
-            "title": "厳しい並行在来線",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1147740",
-            "published_at": "2020/08/20 07:30"
         }
     ]
 }
