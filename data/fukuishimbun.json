@@ -1,6 +1,11 @@
 {
-    "timestamp": 1597914753,
+    "timestamp": 1597918371,
     "info": [
+        {
+            "title": "8/20コロナ速報_京都府と京都市が41人の感染発表",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1148151",
+            "published_at": "2020/08/20 18:20"
+        },
         {
             "title": "8/20コロナ速報_滋賀県が5人の感染発表",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1148127",
@@ -30,11 +35,6 @@
             "title": "福井県コロナ１人感染、県会見を中継",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1147863",
             "published_at": "2020/08/20 12:11"
-        },
-        {
-            "title": "福井県美浜町の男性が新型コロナ感染",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1147856",
-            "published_at": "2020/08/20 11:57"
         }
     ]
 }
