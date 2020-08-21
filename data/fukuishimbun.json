@@ -1,6 +1,11 @@
 {
-    "timestamp": 1597990448,
+    "timestamp": 1597993965,
     "info": [
+        {
+            "title": "8/21コロナ速報_富山県が男性2人の感染発表",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1148754",
+            "published_at": "2020/08/21 15:52"
+        },
         {
             "title": "8/21コロナ速報_東京都が258人の感染発表",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1148725",
@@ -35,11 +40,6 @@
             "title": "8/20コロナ速報_石川県で19人感染　経路不明が13人　かほく市の病院の入院患者も",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1148100",
             "published_at": "2020/08/21 08:16"
-        },
-        {
-            "title": "8/20コロナ速報_京都府と京都市が41人の感染発表　接客伴う飲食店の従業員2人の感染も判明",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1148151",
-            "published_at": "2020/08/21 07:40"
         }
     ]
 }
