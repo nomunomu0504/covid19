@@ -1,6 +1,16 @@
 {
-    "timestamp": 1598076836,
+    "timestamp": 1598080362,
     "info": [
+        {
+            "title": "WHOテドロス事務局長「都市封鎖は解決策ならず」　新型コロナ感染対策で",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1149303",
+            "published_at": "2020/08/22 16:00"
+        },
+        {
+            "title": "泳ぎ始めてから20分、「海で24歳の娘が不明」と母親が通報…娘は唖然",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1149360",
+            "published_at": "2020/08/22 16:00"
+        },
         {
             "title": "福井県感染4人の濃厚接触者は11人",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1149371",
@@ -25,16 +35,6 @@
             "title": "8/21コロナ速報_滋賀県で7人感染、大津市の2施設でクラスター発生",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1148845",
             "published_at": "2020/08/22 08:11"
-        },
-        {
-            "title": "8/21コロナ速報_岐阜県多治見市の感染男性が死亡、東京から帰省した10歳未満の女児1人感染",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1148876",
-            "published_at": "2020/08/22 08:08"
-        },
-        {
-            "title": "8/21コロナ速報_富山県で富山市と立山町の男性感染　クラスター発生のカラオケ店利用者家族も",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1148754",
-            "published_at": "2020/08/22 08:06"
         }
     ]
 }
