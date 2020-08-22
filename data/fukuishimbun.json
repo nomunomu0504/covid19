@@ -1,6 +1,21 @@
 {
-    "timestamp": 1598056450,
+    "timestamp": 1598065953,
     "info": [
+        {
+            "title": "コロナ感染4人、福井県会見を中継",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1149324",
+            "published_at": "2020/08/22 12:06"
+        },
+        {
+            "title": "8/22_福井県で4人コロナ感染",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1149320",
+            "published_at": "2020/08/22 12:05"
+        },
+        {
+            "title": "8/22コロナ速報_愛媛県の60代男性が感染",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1149337",
+            "published_at": "2020/08/22 11:58"
+        },
         {
             "title": "8/21コロナ速報_滋賀県で7人感染、大津市の2施設でクラスター発生",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1148845",
@@ -15,16 +30,6 @@
             "title": "8/21コロナ速報_富山県で富山市と立山町の男性感染　クラスター発生のカラオケ店利用者家族も",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1148754",
             "published_at": "2020/08/22 08:06"
-        },
-        {
-            "title": "今庄365スキー場、今季営業見送り",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1148983",
-            "published_at": "2020/08/22 07:10"
-        },
-        {
-            "title": "40年超原発運転、地元同意見通せず",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1148984",
-            "published_at": "2020/08/22 07:00"
         }
     ]
 }
