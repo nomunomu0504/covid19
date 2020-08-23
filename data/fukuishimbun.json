@@ -1,6 +1,16 @@
 {
-    "timestamp": 1598145162,
+    "timestamp": 1598148849,
     "info": [
+        {
+            "title": "コロナ禍の原発事故想定、全国初訓練",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1149786",
+            "published_at": "2020/08/23 11:00"
+        },
+        {
+            "title": "感染増加でコロナ注意報延長、福井県",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1149368",
+            "published_at": "2020/08/23 10:45"
+        },
         {
             "title": "疫病退散ソング計画、あと72万円",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1146484",
@@ -20,11 +30,6 @@
             "title": "8/22コロナ速報_石川県で18人の感染確認",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1149472",
             "published_at": "2020/08/22 17:49"
-        },
-        {
-            "title": "WHOテドロス事務局長「都市封鎖は解決策ならず」　新型コロナ感染対策で",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1149303",
-            "published_at": "2020/08/22 16:00"
         }
     ]
 }
