@@ -1,6 +1,16 @@
 {
-    "timestamp": 1598278434,
+    "timestamp": 1598307169,
     "info": [
+        {
+            "title": "コロナ警戒、インフル検査に新方式",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1150541",
+            "published_at": "2020/08/25 07:00"
+        },
+        {
+            "title": "福井の企業のオンラインサービス一覧",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1150585",
+            "published_at": "2020/08/25 06:40"
+        },
         {
             "title": "8/24コロナ速報_石川県職員が感染　24日の感染発表は計8人に",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1150600",
@@ -20,21 +30,6 @@
             "title": "ファミリーミニマラソン廃止も視野",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1150344",
             "published_at": "2020/08/24 17:00"
-        },
-        {
-            "title": "8/24コロナ速報_東京都で95人感染",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1150326",
-            "published_at": "2020/08/24 15:04"
-        },
-        {
-            "title": "感染の県外女性、滋賀と京都に滞在",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1150306",
-            "published_at": "2020/08/24 14:27"
-        },
-        {
-            "title": "福井県で感染確認の女性は坂井市滞在",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1150303",
-            "published_at": "2020/08/24 14:11"
         }
     ]
 }
