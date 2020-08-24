@@ -1,6 +1,11 @@
 {
-    "timestamp": 1598263993,
+    "timestamp": 1598267539,
     "info": [
+        {
+            "title": "8/24コロナ速報_埼玉県、さいたま市、川口市、川越市、越谷市が計30人の感染確認",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1150528",
+            "published_at": "2020/08/24 19:30"
+        },
         {
             "title": "8/24コロナ速報_石川県で男女7人感染、加賀市の40代男性も",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1150455",
@@ -30,16 +35,6 @@
             "title": "福井県で感染確認の女性は坂井市滞在",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1150303",
             "published_at": "2020/08/24 14:11"
-        },
-        {
-            "title": "1人感染、福井県会見を中継8/24",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1150268",
-            "published_at": "2020/08/24 12:20"
-        },
-        {
-            "title": "8/24コロナ_福井県で１人感染",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1150232",
-            "published_at": "2020/08/24 12:08"
         }
     ]
 }
