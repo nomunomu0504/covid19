@@ -1,6 +1,21 @@
 {
-    "timestamp": 1598328865,
+    "timestamp": 1598336057,
     "info": [
+        {
+            "title": "福井県のPCR検査数最多の146件",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1151075",
+            "published_at": "2020/08/25 15:08"
+        },
+        {
+            "title": "福井の感染７人全員、県外滞在歴なし",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1151044",
+            "published_at": "2020/08/25 14:45"
+        },
+        {
+            "title": "福井の感染２人はカラオケ喫茶関係者",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1151055",
+            "published_at": "2020/08/25 14:45"
+        },
         {
             "title": "接触通知の敦賀市職員24人全員陰性",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1151021",
@@ -25,21 +40,6 @@
             "title": "敦賀市職員24人COCOAから通知",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1150525",
             "published_at": "2020/08/25 07:20"
-        },
-        {
-            "title": "「初心忘るべからず」は、室町時代…",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1150846",
-            "published_at": "2020/08/25 07:20"
-        },
-        {
-            "title": "越前がに漁期の宿泊５千円券が２千円",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1150554",
-            "published_at": "2020/08/25 07:10"
-        },
-        {
-            "title": "コロナ警戒、インフル検査に新方式",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1150541",
-            "published_at": "2020/08/25 07:00"
         }
     ]
 }
