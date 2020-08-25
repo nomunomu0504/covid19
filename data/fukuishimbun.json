@@ -1,6 +1,11 @@
 {
-    "timestamp": 1598310722,
+    "timestamp": 1598325170,
     "info": [
+        {
+            "title": "8/25_福井県で７人感染７月以降最多",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1150959",
+            "published_at": "2020/08/25 12:04"
+        },
         {
             "title": "県内最低賃金１円アップ",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1150847",
@@ -30,11 +35,6 @@
             "title": "福井の企業のオンラインサービス一覧",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1150585",
             "published_at": "2020/08/25 06:40"
-        },
-        {
-            "title": "8/24コロナ速報_石川県職員が感染　24日の感染発表は計8人に",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1150600",
-            "published_at": "2020/08/24 22:47"
         }
     ]
 }
