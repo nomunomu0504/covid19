@@ -1,6 +1,11 @@
 {
-    "timestamp": 1598339744,
+    "timestamp": 1598343739,
     "info": [
+        {
+            "title": "福井の中小企業の夏賞与にコロナ影響",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1151130",
+            "published_at": "2020/08/25 17:00"
+        },
         {
             "title": "福井県のPCR検査数最多の146件",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1151075",
@@ -30,11 +35,6 @@
             "title": "福井県で７人感染７月以降最多",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1150959",
             "published_at": "2020/08/25 12:04"
-        },
-        {
-            "title": "県内最低賃金１円アップ",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1150847",
-            "published_at": "2020/08/25 07:30"
         }
     ]
 }
