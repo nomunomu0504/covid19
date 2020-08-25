@@ -1,8 +1,18 @@
 {
-    "timestamp": 1598325170,
+    "timestamp": 1598328865,
     "info": [
         {
-            "title": "8/25_福井県で７人感染７月以降最多",
+            "title": "接触通知の敦賀市職員24人全員陰性",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1151021",
+            "published_at": "2020/08/25 13:05"
+        },
+        {
+            "title": "福井県で７人感染、県会見を中継",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1150998",
+            "published_at": "2020/08/25 12:29"
+        },
+        {
+            "title": "福井県で７人感染７月以降最多",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1150959",
             "published_at": "2020/08/25 12:04"
         },
@@ -30,11 +40,6 @@
             "title": "コロナ警戒、インフル検査に新方式",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1150541",
             "published_at": "2020/08/25 07:00"
-        },
-        {
-            "title": "福井の企業のオンラインサービス一覧",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1150585",
-            "published_at": "2020/08/25 06:40"
         }
     ]
 }
