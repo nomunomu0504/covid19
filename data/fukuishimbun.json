@@ -1,6 +1,11 @@
 {
-    "timestamp": 1598404384,
+    "timestamp": 1598408051,
     "info": [
+        {
+            "title": "接触通知の敦賀市職員33人も陰性",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1151699",
+            "published_at": "2020/08/26 10:50"
+        },
         {
             "title": "8/25コロナ速報_石川県で11人感染　高校生や加賀市の認定こども園通う0歳児も",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1151197",
@@ -20,11 +25,6 @@
             "title": "ＮＨＫＢＳで今年２月末に放映され…",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1151603",
             "published_at": "2020/08/26 07:20"
-        },
-        {
-            "title": "福井の中小企業の夏賞与にコロナ影響",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1151130",
-            "published_at": "2020/08/25 17:00"
         }
     ]
 }
