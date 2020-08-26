@@ -1,6 +1,16 @@
 {
-    "timestamp": 1598418750,
+    "timestamp": 1598422476,
     "info": [
+        {
+            "title": "8/26コロナ速報_東京都で236人感染",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1151814",
+            "published_at": "2020/08/26 15:04"
+        },
+        {
+            "title": "福井県コロナ注意報延長9月9日まで",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1151805",
+            "published_at": "2020/08/26 14:55"
+        },
         {
             "title": "福井県直近1週間のコロナ感染発表数",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1151777",
@@ -35,11 +45,6 @@
             "title": "接触通知の敦賀市職員33人も陰性",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1151699",
             "published_at": "2020/08/26 10:50"
-        },
-        {
-            "title": "8/25コロナ速報_石川県で11人感染　高校生や加賀市の認定こども園通う0歳児も",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1151197",
-            "published_at": "2020/08/26 08:10"
         }
     ]
 }
