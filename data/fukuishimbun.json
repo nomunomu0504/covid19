@@ -1,15 +1,25 @@
 {
-    "timestamp": 1598433170,
+    "timestamp": 1598436784,
     "info": [
+        {
+            "title": "8/26コロナ速報_石川県で男女7人感染発表、クラスター発生の小松市のセンター関連計21人に",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1151913",
+            "published_at": "2020/08/26 19:00"
+        },
+        {
+            "title": "8/26コロナ速報_国立感染症研究所で初、40代男性職員1人が感染",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1151983",
+            "published_at": "2020/08/26 18:53"
+        },
+        {
+            "title": "8/26コロナ速報_京都府と京都市が31人の感染発表",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1151961",
+            "published_at": "2020/08/26 18:20"
+        },
         {
             "title": "8/26コロナ速報_滋賀県で8人感染発表",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1151925",
             "published_at": "2020/08/26 17:58"
-        },
-        {
-            "title": "8/26コロナ速報_石川県で男女7人感染発表",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1151913",
-            "published_at": "2020/08/26 17:33"
         },
         {
             "title": "8/26コロナ速報_富山県でさらに3人感染発表、26日は計10人に",
@@ -35,16 +45,6 @@
             "title": "福井県直近1週間のコロナ感染発表数",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1151777",
             "published_at": "2020/08/26 13:30"
-        },
-        {
-            "title": "職員に接触通知50人超、敦賀市困惑",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1151688",
-            "published_at": "2020/08/26 12:30"
-        },
-        {
-            "title": "コロナ６人感染、福井県の会見中継",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1151703",
-            "published_at": "2020/08/26 12:07"
         }
     ]
 }
