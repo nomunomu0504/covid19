@@ -1,6 +1,11 @@
 {
-    "timestamp": 1598436784,
+    "timestamp": 1598440330,
     "info": [
+        {
+            "title": "8/26コロナ速報_群馬県で16人感染確認",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1152029",
+            "published_at": "2020/08/26 19:44"
+        },
         {
             "title": "8/26コロナ速報_石川県で男女7人感染発表、クラスター発生の小松市のセンター関連計21人に",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1151913",
@@ -40,11 +45,6 @@
             "title": "福井県コロナ注意報延長9月9日まで",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1151805",
             "published_at": "2020/08/26 14:55"
-        },
-        {
-            "title": "福井県直近1週間のコロナ感染発表数",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1151777",
-            "published_at": "2020/08/26 13:30"
         }
     ]
 }
