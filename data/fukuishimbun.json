@@ -1,6 +1,11 @@
 {
-    "timestamp": 1598422476,
+    "timestamp": 1598425999,
     "info": [
+        {
+            "title": "福井の感染6人は30~80代の男女",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1151841",
+            "published_at": "2020/08/26 15:43"
+        },
         {
             "title": "8/26コロナ速報_東京都で236人感染",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1151814",
@@ -40,11 +45,6 @@
             "title": "コロナでキャンプ人気、自宅の庭でも",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1151674",
             "published_at": "2020/08/26 11:11"
-        },
-        {
-            "title": "接触通知の敦賀市職員33人も陰性",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1151699",
-            "published_at": "2020/08/26 10:50"
         }
     ]
 }
