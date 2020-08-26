@@ -1,6 +1,16 @@
 {
-    "timestamp": 1598479977,
+    "timestamp": 1598483523,
     "info": [
+        {
+            "title": "コロナ禍と平和資料館",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1152342",
+            "published_at": "2020/08/27 07:30"
+        },
+        {
+            "title": "福井カラオケ喫茶感染で相談120件",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1152053",
+            "published_at": "2020/08/27 07:20"
+        },
         {
             "title": "8/26コロナまとめ_徳島県で10～70代の男女9人感染、うち5人はクラスター発生のカラオケ喫茶関連",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1152112",
@@ -15,26 +25,6 @@
             "title": "8/26コロナ速報_富山県でさらに3人感染発表、26日は計10人に",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1151912",
             "published_at": "2020/08/26 17:30"
-        },
-        {
-            "title": "福井の感染6人は30~80代の男女",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1151841",
-            "published_at": "2020/08/26 15:43"
-        },
-        {
-            "title": "8/26コロナ速報_東京都で236人感染",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1151814",
-            "published_at": "2020/08/26 15:04"
-        },
-        {
-            "title": "福井県コロナ注意報延長9月9日まで",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1151805",
-            "published_at": "2020/08/26 14:55"
-        },
-        {
-            "title": "福井県直近1週間のコロナ感染発表数",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1151777",
-            "published_at": "2020/08/26 13:30"
         }
     ]
 }
