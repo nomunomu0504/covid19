@@ -1,6 +1,11 @@
 {
-    "timestamp": 1598516066,
+    "timestamp": 1598519564,
     "info": [
+        {
+            "title": "8/27コロナ速報_石川県で13人感染、2人死亡",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1152725",
+            "published_at": "2020/08/27 18:03"
+        },
         {
             "title": "オンリーワンの柄、マスクで一体感",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1152555",
@@ -45,11 +50,6 @@
             "title": "カラオケ伴う飲食店に昼間の休業要請",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1152549",
             "published_at": "2020/08/27 14:31"
-        },
-        {
-            "title": "福井県がコロナ感染拡大警報を発令",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1152548",
-            "published_at": "2020/08/27 14:27"
         }
     ]
 }
