@@ -1,6 +1,11 @@
 {
-    "timestamp": 1598494460,
+    "timestamp": 1598497992,
     "info": [
+        {
+            "title": "福井県で過去最多13人コロナ感染",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1152428",
+            "published_at": "2020/08/27 12:12"
+        },
         {
             "title": "ＧｏＴｏトラベル北陸割引１カ月延期",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1152418",
@@ -25,11 +30,6 @@
             "title": "8/26コロナ速報_石川県で男女7人感染発表、クラスター発生の小松市のセンター関連計21人に",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1151913",
             "published_at": "2020/08/26 19:00"
-        },
-        {
-            "title": "8/26コロナ速報_富山県でさらに3人感染発表、26日は計10人に",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1151912",
-            "published_at": "2020/08/26 17:30"
         }
     ]
 }
