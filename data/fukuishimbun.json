@@ -1,10 +1,15 @@
 {
-    "timestamp": 1598519564,
+    "timestamp": 1598523194,
     "info": [
         {
-            "title": "8/27コロナ速報_石川県で13人感染、2人死亡",
+            "title": "警察庁の20代男性職員が感染　本庁で初",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1152756",
+            "published_at": "2020/08/27 18:49"
+        },
+        {
+            "title": "8/27コロナ速報_石川県で13人感染、2人死亡　小松市の70代男性は死亡後に感染判明",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1152725",
-            "published_at": "2020/08/27 18:03"
+            "published_at": "2020/08/27 18:18"
         },
         {
             "title": "オンリーワンの柄、マスクで一体感",
@@ -45,11 +50,6 @@
             "title": "福井県知事が感染防止徹底を訴え",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1152550",
             "published_at": "2020/08/27 14:48"
-        },
-        {
-            "title": "カラオケ伴う飲食店に昼間の休業要請",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1152549",
-            "published_at": "2020/08/27 14:31"
         }
     ]
 }
