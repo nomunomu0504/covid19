@@ -1,6 +1,11 @@
 {
-    "timestamp": 1598575121,
+    "timestamp": 1598580914,
     "info": [
+        {
+            "title": "換気しないことが原則でのコロナ対策",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1153177",
+            "published_at": "2020/08/28 11:00"
+        },
         {
             "title": "コロナと原子力防災訓練",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1153042",
@@ -20,11 +25,6 @@
             "title": "8/27コロナ速報_石川県で13人感染、2人死亡　小松市の70代男性は死亡後に感染判明",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1152725",
             "published_at": "2020/08/27 18:18"
-        },
-        {
-            "title": "オンリーワンの柄、マスクで一体感",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1152555",
-            "published_at": "2020/08/27 17:10"
         }
     ]
 }
