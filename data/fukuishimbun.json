@@ -1,6 +1,11 @@
 {
-    "timestamp": 1598617190,
+    "timestamp": 1598652808,
     "info": [
+        {
+            "title": "福井でカラオケ喫茶関連の感染28人",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1153607",
+            "published_at": "2020/08/29 07:10"
+        },
         {
             "title": "8/28コロナ速報_石川県で高校職員１人感染",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1153609",
@@ -35,16 +40,6 @@
             "title": "コロナ16人感染、福井県の会見中継",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1153201",
             "published_at": "2020/08/28 12:10"
-        },
-        {
-            "title": "福井県で16人感染２日連続最多更新",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1153209",
-            "published_at": "2020/08/28 12:02"
-        },
-        {
-            "title": "換気しないことが原則でのコロナ対策",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1153177",
-            "published_at": "2020/08/28 11:00"
         }
     ]
 }
