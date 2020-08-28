@@ -1,6 +1,16 @@
 {
-    "timestamp": 1598580914,
+    "timestamp": 1598584628,
     "info": [
+        {
+            "title": "コロナ16人感染、福井県の会見中継",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1153201",
+            "published_at": "2020/08/28 12:10"
+        },
+        {
+            "title": "福井県で16人感染２日連続最多更新",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1153209",
+            "published_at": "2020/08/28 12:02"
+        },
         {
             "title": "換気しないことが原則でのコロナ対策",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1153177",
@@ -20,11 +30,6 @@
             "title": "原発事故訓練、27人避難にバス4台",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1152803",
             "published_at": "2020/08/28 07:10"
-        },
-        {
-            "title": "8/27コロナ速報_石川県で13人感染、2人死亡　小松市の70代男性は死亡後に感染判明",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1152725",
-            "published_at": "2020/08/27 18:18"
         }
     ]
 }
