@@ -1,6 +1,11 @@
 {
-    "timestamp": 1598602540,
+    "timestamp": 1598606030,
     "info": [
+        {
+            "title": "8/28コロナ速報_石川県で８人感染",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1153493",
+            "published_at": "2020/08/28 17:59"
+        },
         {
             "title": "8/28コロナ速報_奈良県と奈良市が2人の感染発表",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1153361",
@@ -35,11 +40,6 @@
             "title": "換気しないことが原則でのコロナ対策",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1153177",
             "published_at": "2020/08/28 11:00"
-        },
-        {
-            "title": "コロナと原子力防災訓練",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1153042",
-            "published_at": "2020/08/28 07:30"
         }
     ]
 }
