@@ -1,6 +1,11 @@
 {
-    "timestamp": 1598660393,
+    "timestamp": 1598667302,
     "info": [
+        {
+            "title": "政権評価５割超、後継は石破氏トップ",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1153932",
+            "published_at": "2020/08/29 10:20"
+        },
         {
             "title": "安倍首相退陣表明",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1153894",
@@ -25,11 +30,6 @@
             "title": "8/28コロナ速報_石川県で高校職員１人感染",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1153609",
             "published_at": "2020/08/28 20:25"
-        },
-        {
-            "title": "8/28コロナ速報_石川県で８人感染",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1153493",
-            "published_at": "2020/08/28 17:59"
         }
     ]
 }
