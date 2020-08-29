@@ -1,6 +1,11 @@
 {
-    "timestamp": 1598684907,
+    "timestamp": 1598688828,
     "info": [
+        {
+            "title": "昼カラ休業協力に1日1万円、福井県",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1154032",
+            "published_at": "2020/08/29 17:10"
+        },
         {
             "title": "カラオケ喫茶85店でPCR検査",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1154045",
@@ -30,11 +35,6 @@
             "title": "政権評価５割超、後継は石破氏トップ",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1153932",
             "published_at": "2020/08/29 10:20"
-        },
-        {
-            "title": "安倍首相退陣表明",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1153894",
-            "published_at": "2020/08/29 07:30"
         }
     ]
 }
