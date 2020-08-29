@@ -1,6 +1,16 @@
 {
-    "timestamp": 1598670442,
+    "timestamp": 1598674236,
     "info": [
+        {
+            "title": "コロナ５人感染、福井県の会見中継",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1153999",
+            "published_at": "2020/08/29 12:13"
+        },
+        {
+            "title": "福井市と鯖江市の５人がコロナ感染",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1153977",
+            "published_at": "2020/08/29 12:06"
+        },
         {
             "title": "感染者利用のカラオケ喫茶10店超に",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1153965",
@@ -25,11 +35,6 @@
             "title": "人が追い詰められてにっちもさっち…",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1153893",
             "published_at": "2020/08/29 07:20"
-        },
-        {
-            "title": "福井でカラオケ喫茶関連の感染28人",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1153607",
-            "published_at": "2020/08/29 07:10"
         }
     ]
 }
