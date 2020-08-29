@@ -1,6 +1,11 @@
 {
-    "timestamp": 1598667302,
+    "timestamp": 1598670442,
     "info": [
+        {
+            "title": "感染者利用のカラオケ喫茶10店超に",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1153965",
+            "published_at": "2020/08/29 11:30"
+        },
         {
             "title": "政権評価５割超、後継は石破氏トップ",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1153932",
@@ -25,11 +30,6 @@
             "title": "福井でカラオケ喫茶関連の感染28人",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1153607",
             "published_at": "2020/08/29 07:10"
-        },
-        {
-            "title": "8/28コロナ速報_石川県で高校職員１人感染",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1153609",
-            "published_at": "2020/08/28 20:25"
         }
     ]
 }
