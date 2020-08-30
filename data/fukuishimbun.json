@@ -1,6 +1,11 @@
 {
-    "timestamp": 1598760409,
+    "timestamp": 1598768161,
     "info": [
+        {
+            "title": "福井市の小学生感染、当該校を休校に",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1154559",
+            "published_at": "2020/08/30 14:24"
+        },
         {
             "title": "コロナ11人感染、福井県会見を中継",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1154533",
@@ -20,11 +25,6 @@
             "title": "8/29コロナ速報_石川県で7人感染　内灘町の高校教員や金沢市の自営業男性も",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1154163",
             "published_at": "2020/08/30 09:25"
-        },
-        {
-            "title": "スガキヤ福井県と石川県の店舗閉店へ",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1154462",
-            "published_at": "2020/08/30 07:45"
         }
     ]
 }
