@@ -1,6 +1,16 @@
 {
-    "timestamp": 1598847271,
+    "timestamp": 1598854113,
     "info": [
+        {
+            "title": "福井県内はコロナ「第２波の状況」",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1155092",
+            "published_at": "2020/08/31 14:50"
+        },
+        {
+            "title": "感染６人中５人がカラオケ喫茶関連",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1155071",
+            "published_at": "2020/08/31 14:33"
+        },
         {
             "title": "コロナ６人感染、福井県会見を中継",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1154985",
@@ -15,16 +25,6 @@
             "title": "7月以降の感染者、半数が60代以上",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1154710",
             "published_at": "2020/08/31 07:20"
-        },
-        {
-            "title": "片町などで飲食、限定お得チケット",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1154666",
-            "published_at": "2020/08/31 07:00"
-        },
-        {
-            "title": "8/30コロナ速報_滋賀県が3人の感染発表",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1154636",
-            "published_at": "2020/08/30 17:45"
         }
     ]
 }
