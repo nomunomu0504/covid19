@@ -1,6 +1,11 @@
 {
-    "timestamp": 1598854113,
+    "timestamp": 1598861579,
     "info": [
+        {
+            "title": "8/31コロナ速報_石川県が男女2人の感染発表",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1155199",
+            "published_at": "2020/08/31 17:10"
+        },
         {
             "title": "福井県内はコロナ「第２波の状況」",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1155092",
@@ -20,11 +25,6 @@
             "title": "福井市と鯖江市の６人がコロナ感染",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1154979",
             "published_at": "2020/08/31 12:03"
-        },
-        {
-            "title": "7月以降の感染者、半数が60代以上",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1154710",
-            "published_at": "2020/08/31 07:20"
         }
     ]
 }
