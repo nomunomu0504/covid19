@@ -1,6 +1,11 @@
 {
-    "timestamp": 1598962984,
+    "timestamp": 1598998557,
     "info": [
+        {
+            "title": "小説「桔梗の覇道」、厳選の挿絵集",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1156124",
+            "published_at": "2020/09/02 06:50"
+        },
         {
             "title": "9/1コロナ速報_石川県で過去最多27人感染",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1156042",
@@ -25,16 +30,6 @@
             "title": "鯖江のカラオケ喫茶経営者の感染公表",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1155862",
             "published_at": "2020/09/01 15:00"
-        },
-        {
-            "title": "感染の４人全員がカラオケ喫茶関連",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1155841",
-            "published_at": "2020/09/01 14:50"
-        },
-        {
-            "title": "コロナ４人感染、福井県会見を中継",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1155747",
-            "published_at": "2020/09/01 12:13"
         }
     ]
 }
