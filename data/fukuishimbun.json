@@ -1,6 +1,11 @@
 {
-    "timestamp": 1598948149,
+    "timestamp": 1598951651,
     "info": [
+        {
+            "title": "水晶浜でドライブインシアター",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1155905",
+            "published_at": "2020/09/01 18:00"
+        },
         {
             "title": "墓もり和尚、お寺の住職が法人設立",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1155836",
@@ -30,11 +35,6 @@
             "title": "福井、鯖江、越前市の４人コロナ感染",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1155744",
             "published_at": "2020/09/01 12:05"
-        },
-        {
-            "title": "2歳未満のマスク「着用推奨しない」と厚生労働省",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1155745",
-            "published_at": "2020/09/01 11:13"
         }
     ]
 }
