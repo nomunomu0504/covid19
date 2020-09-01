@@ -1,6 +1,16 @@
 {
-    "timestamp": 1598933780,
+    "timestamp": 1598940942,
     "info": [
+        {
+            "title": "感染１人は鯖江のカラオケ喫茶経営者",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1155862",
+            "published_at": "2020/09/01 15:00"
+        },
+        {
+            "title": "感染の全４人がカラオケ喫茶関連",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1155841",
+            "published_at": "2020/09/01 14:50"
+        },
         {
             "title": "コロナ４人感染、福井県会見を中継",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1155747",
@@ -15,11 +25,6 @@
             "title": "2歳未満のマスク「着用推奨しない」と厚生労働省",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1155745",
             "published_at": "2020/09/01 11:13"
-        },
-        {
-            "title": "コロナで病院経営悪化",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1155626",
-            "published_at": "2020/09/01 07:30"
         }
     ]
 }
