@@ -1,6 +1,21 @@
 {
-    "timestamp": 1599020099,
+    "timestamp": 1599027323,
     "info": [
+        {
+            "title": "越前市のカラオケ喫茶従業員感染公表",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1156666",
+            "published_at": "2020/09/02 14:44"
+        },
+        {
+            "title": "感染確認の小中学校151人全員陰性",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1156658",
+            "published_at": "2020/09/02 14:25"
+        },
+        {
+            "title": "福井の感染４人全員カラオケ喫茶関連",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1156652",
+            "published_at": "2020/09/02 14:19"
+        },
         {
             "title": "鯖江、越前市、越前町４人コロナ感染",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1156578",
@@ -15,11 +30,6 @@
             "title": "自民党総裁選、福井は党員投票実施",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1156542",
             "published_at": "2020/09/02 11:30"
-        },
-        {
-            "title": "自民党総裁選",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1156442",
-            "published_at": "2020/09/02 07:30"
         }
     ]
 }
