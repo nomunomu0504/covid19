@@ -1,6 +1,11 @@
 {
-    "timestamp": 1599027323,
+    "timestamp": 1599034525,
     "info": [
+        {
+            "title": "「猫寺」に猫を乗せた巨大大仏建立",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1156627",
+            "published_at": "2020/09/02 17:10"
+        },
         {
             "title": "越前市のカラオケ喫茶従業員感染公表",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1156666",
@@ -25,11 +30,6 @@
             "title": "コロナ４人感染、福井県会見を中継",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1156583",
             "published_at": "2020/09/02 12:08"
-        },
-        {
-            "title": "自民党総裁選、福井は党員投票実施",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1156542",
-            "published_at": "2020/09/02 11:30"
         }
     ]
 }
