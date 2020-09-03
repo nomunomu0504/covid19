@@ -1,6 +1,16 @@
 {
-    "timestamp": 1599171237,
+    "timestamp": 1599174808,
     "info": [
+        {
+            "title": "第２波拡大、福井県医師会が特別警報",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1157543",
+            "published_at": "2020/09/04 07:20"
+        },
+        {
+            "title": "類似の名称が混乱を招くとして京都…",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1157840",
+            "published_at": "2020/09/04 07:20"
+        },
         {
             "title": "コロナに負けるな、ビッグに呼び掛け",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1157550",
@@ -20,16 +30,6 @@
             "title": "9/3コロナ速報_石川県が11人の感染発表",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1157462",
             "published_at": "2020/09/03 18:10"
-        },
-        {
-            "title": "9/3コロナ速報_滋賀県が4人の感染と1人の死亡発表",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1157448",
-            "published_at": "2020/09/03 17:45"
-        },
-        {
-            "title": "感染拡大、大学が対面授業再開に慎重",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1157387",
-            "published_at": "2020/09/03 17:10"
         }
     ]
 }
