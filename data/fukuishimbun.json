@@ -1,8 +1,13 @@
 {
-    "timestamp": 1599128071,
+    "timestamp": 1599138864,
     "info": [
         {
-            "title": "台風10号で気象庁が臨時記者会見　「自宅以外への避難ためらわないで」　特別警報級で5日沖縄接近　最大瞬間風速80mか",
+            "title": "コロナに負けるな、ビッグに呼び掛け",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1157550",
+            "published_at": "2020/09/03 21:30"
+        },
+        {
+            "title": "台風10号で気象庁が臨時記者会見　「4日までに備え終わらせ、最大級の警戒を」　特別警報級で5日沖縄接近　最大瞬間風速80mか",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1157490",
             "published_at": "2020/09/03 19:00"
         },
@@ -30,11 +35,6 @@
             "title": "越前町議会が議員のコロナ感染発表",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1157410",
             "published_at": "2020/09/03 16:35"
-        },
-        {
-            "title": "感染者２人ともカラオケ喫茶関連",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1157327",
-            "published_at": "2020/09/03 14:12"
         }
     ]
 }
