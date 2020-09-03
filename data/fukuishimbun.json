@@ -1,6 +1,16 @@
 {
-    "timestamp": 1599113744,
+    "timestamp": 1599120952,
     "info": [
+        {
+            "title": "感染拡大、大学が対面授業再開に慎重",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1157387",
+            "published_at": "2020/09/03 17:10"
+        },
+        {
+            "title": "越前町議会が議員のコロナ感染発表",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1157410",
+            "published_at": "2020/09/03 16:35"
+        },
         {
             "title": "感染者２人ともカラオケ喫茶関連",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1157327",
@@ -15,11 +25,6 @@
             "title": "鯖江市と南越前町の２人コロナ感染",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1157264",
             "published_at": "2020/09/03 11:58"
-        },
-        {
-            "title": "福井でナイター陸上",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1157140",
-            "published_at": "2020/09/03 07:30"
         }
     ]
 }
