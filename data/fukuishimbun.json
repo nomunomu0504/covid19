@@ -1,6 +1,16 @@
 {
-    "timestamp": 1599207355,
+    "timestamp": 1599210848,
     "info": [
+        {
+            "title": "9/4コロナ速報_石川県で3人死亡、4人感染確認",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1158258",
+            "published_at": "2020/09/04 17:39"
+        },
+        {
+            "title": "9/4コロナ速報_岐阜県で20代男性の感染確認",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1158238",
+            "published_at": "2020/09/04 17:26"
+        },
         {
             "title": "おおい町に複合商業施設オープンへ",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1158132",
@@ -10,16 +20,6 @@
             "title": "３人は同居家族、感染経路は調査中",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1158083",
             "published_at": "2020/09/04 14:15"
-        },
-        {
-            "title": "コロナ３人感染、福井県会見を中継",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1158023",
-            "published_at": "2020/09/04 12:11"
-        },
-        {
-            "title": "福井市の男女３人が新型コロナ感染",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1158005",
-            "published_at": "2020/09/04 12:05"
         }
     ]
 }
