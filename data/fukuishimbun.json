@@ -1,6 +1,11 @@
 {
-    "timestamp": 1599276546,
+    "timestamp": 1599283471,
     "info": [
+        {
+            "title": "感染確認の男性、大阪府に滞在歴",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1158800",
+            "published_at": "2020/09/05 14:20"
+        },
         {
             "title": "コロナ２人感染、福井県会見を中継",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1158759",
@@ -15,11 +20,6 @@
             "title": "鯖江・食の自立養う動画",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1158691",
             "published_at": "2020/09/05 07:30"
-        },
-        {
-            "title": "行政が昼カラに「デュエット自粛を」",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1158377",
-            "published_at": "2020/09/05 07:00"
         }
     ]
 }
