@@ -1,15 +1,20 @@
 {
-    "timestamp": 1599405224,
+    "timestamp": 1599430437,
     "info": [
+        {
+            "title": "コロナ禍で小中学校の修学旅行状況",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1159432",
+            "published_at": "2020/09/07 07:10"
+        },
+        {
+            "title": "高級品「メロンの王様」出来は上々",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1159426",
+            "published_at": "2020/09/07 06:50"
+        },
         {
             "title": "9/6コロナ速報_石川県で７人感染確認",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1159410",
             "published_at": "2020/09/06 18:15"
-        },
-        {
-            "title": "注目集まる園児向けの運動教室",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1159324",
-            "published_at": "2020/09/06 17:10"
         }
     ]
 }
