@@ -1,6 +1,11 @@
 {
-    "timestamp": 1599538512,
+    "timestamp": 1599545763,
     "info": [
+        {
+            "title": "福井県の感染女性に県外滞在歴なし",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1160486",
+            "published_at": "2020/09/08 14:09"
+        },
         {
             "title": "コロナ１人感染、福井県会見を中継",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1160449",
@@ -25,11 +30,6 @@
             "title": "モーリシャス重油流出",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1160336",
             "published_at": "2020/09/08 07:30"
-        },
-        {
-            "title": "ロボットが看護師代わりに病室巡回",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1160004",
-            "published_at": "2020/09/08 07:20"
         }
     ]
 }
