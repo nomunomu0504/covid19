@@ -1,6 +1,16 @@
 {
-    "timestamp": 1599617770,
+    "timestamp": 1599621279,
     "info": [
+        {
+            "title": "北國銀行野々市支店の従業員がコロナ感染",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1161165",
+            "published_at": "2020/09/09 12:07"
+        },
+        {
+            "title": "9/9コロナ速報_福井県で感染なし",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1161151",
+            "published_at": "2020/09/09 12:00"
+        },
         {
             "title": "新型コロナの開発中ワクチンで深刻な副作用疑い事例　米国での臨床試験中断　欧米報道",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1161030",
@@ -25,11 +35,6 @@
             "title": "福井県選出の自民５議員は菅氏支持",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1160705",
             "published_at": "2020/09/09 07:10"
-        },
-        {
-            "title": "暑さに負けず児童100人稲刈り体験",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1160657",
-            "published_at": "2020/09/09 06:50"
         }
     ]
 }
