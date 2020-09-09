@@ -1,10 +1,15 @@
 {
-    "timestamp": 1599606804,
+    "timestamp": 1599611960,
     "info": [
+        {
+            "title": "9/8コロナ速報_石川県で４人感染　金沢医療センター関係や加賀市の小学生ら",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1160621",
+            "published_at": "2020/09/09 09:02"
+        },
         {
             "title": "新型コロナの開発中ワクチンに副作用疑い　アメリカ国内の臨床試験中断　地元報道",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1161030",
-            "published_at": "2020/09/09 08:03"
+            "published_at": "2020/09/09 08:44"
         },
         {
             "title": "自民党総裁選告示",
@@ -25,11 +30,6 @@
             "title": "暑さに負けず児童100人稲刈り体験",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1160657",
             "published_at": "2020/09/09 06:50"
-        },
-        {
-            "title": "9/8コロナ速報_石川県で４人感染",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1160621",
-            "published_at": "2020/09/08 17:53"
         }
     ]
 }
