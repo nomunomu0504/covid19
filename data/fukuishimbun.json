@@ -1,6 +1,11 @@
 {
-    "timestamp": 1599653931,
+    "timestamp": 1599657240,
     "info": [
+        {
+            "title": "9/9コロナ速報_東京都で149人感染",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1161245",
+            "published_at": "2020/09/09 21:35"
+        },
         {
             "title": "北陸新幹線グランクラスの車内サービス担当女性社員がコロナ感染",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1161314",
@@ -22,11 +27,6 @@
             "published_at": "2020/09/09 17:10"
         },
         {
-            "title": "9/9コロナ速報_東京都で新たに149人感染",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1161245",
-            "published_at": "2020/09/09 15:02"
-        },
-        {
             "title": "アストラゼネカ、日本でもコロナワクチンの治験中断方針　副作用疑いで",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1161231",
             "published_at": "2020/09/09 14:32"
@@ -35,11 +35,6 @@
             "title": "北國銀行野々市支店の従業員がコロナ感染　9月9日発表、石川県野々市市",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1161165",
             "published_at": "2020/09/09 12:07"
-        },
-        {
-            "title": "9/9コロナ速報_福井県で感染なし",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1161151",
-            "published_at": "2020/09/09 12:00"
         }
     ]
 }
