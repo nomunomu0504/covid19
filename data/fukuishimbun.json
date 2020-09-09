@@ -1,13 +1,23 @@
 {
-    "timestamp": 1599639351,
+    "timestamp": 1599642887,
     "info": [
+        {
+            "title": "9/9コロナ速報_石川県で6人感染、1人死亡",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1161349",
+            "published_at": "2020/09/09 17:50"
+        },
+        {
+            "title": "9/9コロナ速報_全国都道府県対抗駅伝、男女とも中止へ　日本陸連",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1161325",
+            "published_at": "2020/09/09 17:21"
+        },
         {
             "title": "ショッピングセンターで退去の動き",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1161268",
             "published_at": "2020/09/09 17:10"
         },
         {
-            "title": "9/9コロナ速報_北陸新幹線グランクラスの車内サービス担当女性社員が感染",
+            "title": "北陸新幹線グランクラスの車内サービス担当女性社員がコロナ感染",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1161314",
             "published_at": "2020/09/09 17:05"
         },
@@ -30,11 +40,6 @@
             "title": "9/9コロナ速報_福井県で感染なし",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1161151",
             "published_at": "2020/09/09 12:00"
-        },
-        {
-            "title": "新型コロナの開発中ワクチンで深刻な副作用疑い事例　米国での臨床試験中断　欧米報道",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1161030",
-            "published_at": "2020/09/09 10:46"
         }
     ]
 }
