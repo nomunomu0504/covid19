@@ -1,6 +1,16 @@
 {
-    "timestamp": 1599725710,
+    "timestamp": 1599729244,
     "info": [
+        {
+            "title": "9/10コロナ速報_石川県で男女4人感染、1人死亡",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1162173",
+            "published_at": "2020/09/10 17:35"
+        },
+        {
+            "title": "9/10コロナ速報_滋賀県で1人感染　県内感染確認は計467人に",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1162170",
+            "published_at": "2020/09/10 17:33"
+        },
         {
             "title": "紅白歌合戦、今年は史上初の無観客　ＮＨＫ発表、コロナ感染対策で",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1162144",
@@ -25,11 +35,6 @@
             "title": "ＧｏＴｏイートお得食事券を発売へ",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1161807",
             "published_at": "2020/09/10 11:30"
-        },
-        {
-            "title": "コロナとインフル対策",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1161731",
-            "published_at": "2020/09/10 07:30"
         }
     ]
 }
