@@ -1,6 +1,11 @@
 {
-    "timestamp": 1599776049,
+    "timestamp": 1599779600,
     "info": [
+        {
+            "title": "合流新党代表に枝野氏",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1162631",
+            "published_at": "2020/09/11 07:30"
+        },
         {
             "title": "福井県の「昼カラ」休業要請終了",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1162335",
@@ -20,16 +25,6 @@
             "title": "9/10コロナ速報_滋賀県高島市の70代男性が感染　県内感染確認は計467人に",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1162170",
             "published_at": "2020/09/10 19:00"
-        },
-        {
-            "title": "9/10コロナ速報_石川県で4人感染、3人は金沢医療センター勤務　金沢市の80代男性死亡も",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1162173",
-            "published_at": "2020/09/10 18:29"
-        },
-        {
-            "title": "紅白歌合戦、今年は史上初の無観客　ＮＨＫ発表、コロナ感染対策で",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1162144",
-            "published_at": "2020/09/10 17:03"
         }
     ]
 }
