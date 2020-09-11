@@ -1,6 +1,16 @@
 {
-    "timestamp": 1599819268,
+    "timestamp": 1599827291,
     "info": [
+        {
+            "title": "北陸新幹線敦賀開業に菅義偉氏「予定通りに」",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1163099",
+            "published_at": "2020/09/11 20:24"
+        },
+        {
+            "title": "GoToトラベル東京追加に石川県知事「正直、複雑な心境」",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1163085",
+            "published_at": "2020/09/11 20:14"
+        },
         {
             "title": "9/11コロナ速報_石川県で2人感染確認　七尾市の小学生と金沢市の60代男性",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1162953",
@@ -15,11 +25,6 @@
             "title": "春風亭昇太さん一乗谷に「うっとり」",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1162863",
             "published_at": "2020/09/11 17:00"
-        },
-        {
-            "title": "9/11福井県で感染なし３日連続",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1162761",
-            "published_at": "2020/09/11 12:00"
         }
     ]
 }
