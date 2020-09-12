@@ -1,20 +1,20 @@
 {
-    "timestamp": 1599902040,
+    "timestamp": 1599909186,
     "info": [
+        {
+            "title": "9/12コロナ速報_石川県で6人感染　3人は金沢市の金沢医療センターの入院患者",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1163613",
+            "published_at": "2020/09/12 19:43"
+        },
+        {
+            "title": "9/12コロナ速報_滋賀県栗東市や大津市で計3人感染確認　2人は感染者と接触",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1163658",
+            "published_at": "2020/09/12 19:41"
+        },
         {
             "title": "9/12コロナ速報_群馬県で24人感染",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1163637",
             "published_at": "2020/09/12 18:05"
-        },
-        {
-            "title": "9/12コロナ速報_石川県で６人感染",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1163613",
-            "published_at": "2020/09/12 17:34"
-        },
-        {
-            "title": "9/12福井県４日連続で感染なし",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1163470",
-            "published_at": "2020/09/12 11:53"
         }
     ]
 }
