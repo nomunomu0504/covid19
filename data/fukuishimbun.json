@@ -1,6 +1,11 @@
 {
-    "timestamp": 1599865994,
+    "timestamp": 1599880451,
     "info": [
+        {
+            "title": "9/12福井県４日連続で感染なし",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1163470",
+            "published_at": "2020/09/12 11:53"
+        },
         {
             "title": "小浜・まちの駅再始動",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1163359",
@@ -15,26 +20,6 @@
             "title": "「昼カラ」営業再開も感染に危機感",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1163078",
             "published_at": "2020/09/12 07:10"
-        },
-        {
-            "title": "北陸新幹線敦賀開業、菅義偉氏の考え",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1163099",
-            "published_at": "2020/09/11 20:24"
-        },
-        {
-            "title": "GoToトラベル東京追加に石川県知事「正直、複雑な心境」",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1163085",
-            "published_at": "2020/09/11 20:14"
-        },
-        {
-            "title": "9/11コロナ速報_石川県で2人感染確認　七尾市の小学生と金沢市の60代男性",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1162953",
-            "published_at": "2020/09/11 18:58"
-        },
-        {
-            "title": "ワーケーションの拠点を高浜町に",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1162960",
-            "published_at": "2020/09/11 18:00"
         }
     ]
 }
