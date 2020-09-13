@@ -1,6 +1,11 @@
 {
-    "timestamp": 1599957660,
+    "timestamp": 1599963351,
     "info": [
+        {
+            "title": "シールから始まった病院とパン屋の絆",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1163074",
+            "published_at": "2020/09/13 11:00"
+        },
         {
             "title": "キス釣りの餌が品薄「初めての事態」",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1163664",
@@ -15,11 +20,6 @@
             "title": "国勢調査員、集合住宅の調査に苦慮",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1163681",
             "published_at": "2020/09/13 07:00"
-        },
-        {
-            "title": "9/12コロナ速報_石川県で6人感染　3人は金沢市の金沢医療センターの入院患者",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1163613",
-            "published_at": "2020/09/12 19:43"
         }
     ]
 }
