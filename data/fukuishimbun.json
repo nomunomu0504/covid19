@@ -1,6 +1,11 @@
 {
-    "timestamp": 1599963351,
+    "timestamp": 1599966859,
     "info": [
+        {
+            "title": "福井県、新規コロナ感染確認なし",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1164003",
+            "published_at": "2020/09/13 11:50"
+        },
         {
             "title": "シールから始まった病院とパン屋の絆",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1163074",
@@ -15,11 +20,6 @@
             "title": "大坂なおみ、全米テニス２年ぶり優勝　４大大会３勝はアジア勢単独最多",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1163952",
             "published_at": "2020/09/13 07:10"
-        },
-        {
-            "title": "国勢調査員、集合住宅の調査に苦慮",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1163681",
-            "published_at": "2020/09/13 07:00"
         }
     ]
 }
