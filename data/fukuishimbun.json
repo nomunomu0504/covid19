@@ -1,6 +1,11 @@
 {
-    "timestamp": 1600208070,
+    "timestamp": 1600211622,
     "info": [
+        {
+            "title": "「昼カラ」感染拡大、影響は片町にも",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1165496",
+            "published_at": "2020/09/16 07:20"
+        },
         {
             "title": "ワーケーション拠点化、元民宿を改修",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1165458",
@@ -15,26 +20,6 @@
             "title": "9/15コロナ速報_広島県広島市が10代と70代の計2人の感染発表",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1165285",
             "published_at": "2020/09/15 16:02"
-        },
-        {
-            "title": "GoToトラベル、東京追加は10月1日の予定　旅行商品販売は9月18日正午以降",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1165174",
-            "published_at": "2020/09/15 12:28"
-        },
-        {
-            "title": "福井県７日連続コロナ新規感染者なし",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1165143",
-            "published_at": "2020/09/15 12:00"
-        },
-        {
-            "title": "COCOA、ブルートゥース不適正か",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1165136",
-            "published_at": "2020/09/15 11:35"
-        },
-        {
-            "title": "海開き中止増で事故減少…実は例外的",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1165103",
-            "published_at": "2020/09/15 10:50"
         }
     ]
 }
