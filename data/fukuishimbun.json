@@ -1,6 +1,11 @@
 {
-    "timestamp": 1600146835,
+    "timestamp": 1600154069,
     "info": [
+        {
+            "title": "9/15コロナ速報_広島県広島市が10代と70代の計2人の感染発表",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1165285",
+            "published_at": "2020/09/15 16:02"
+        },
         {
             "title": "GoToトラベル、東京追加は10月1日の予定　旅行商品販売は9月18日正午以降",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1165174",
@@ -20,11 +25,6 @@
             "title": "海開き中止増で事故減少…実は例外的",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1165103",
             "published_at": "2020/09/15 10:50"
-        },
-        {
-            "title": "自民党新総裁に菅義偉氏",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1165005",
-            "published_at": "2020/09/15 07:30"
         }
     ]
 }
