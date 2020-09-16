@@ -1,15 +1,20 @@
 {
-    "timestamp": 1600247670,
+    "timestamp": 1600251278,
     "info": [
+        {
+            "title": "9/16コロナ速報_滋賀県で東近江市の未就学児と大津市の80代女性感染",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1166126",
+            "published_at": "2020/09/16 19:10"
+        },
+        {
+            "title": "9/16コロナ速報_石川県金沢市の患者1人死亡、石川県内の死亡計44人に",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1166172",
+            "published_at": "2020/09/16 18:18"
+        },
         {
             "title": "JR西日本、過去最大の赤字へ　純損益赤字2400億円　2021年3月期連結業績予想",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1166015",
             "published_at": "2020/09/16 18:00"
-        },
-        {
-            "title": "9/16コロナ速報_滋賀県が2人の感染発表",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1166126",
-            "published_at": "2020/09/16 17:45"
         },
         {
             "title": "死亡は70代男性､福井県新型コロナ",
@@ -35,11 +40,6 @@
             "title": "iPhone新製品の披露なし、10月発表か",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1166006",
             "published_at": "2020/09/16 15:18"
-        },
-        {
-            "title": "菅義偉氏第99代首相に選出",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1165940",
-            "published_at": "2020/09/16 14:25"
         }
     ]
 }
