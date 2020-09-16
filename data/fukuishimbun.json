@@ -1,6 +1,11 @@
 {
-    "timestamp": 1600236960,
+    "timestamp": 1600240484,
     "info": [
+        {
+            "title": "iPhone新製品の披露なし、10月発表か",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1166006",
+            "published_at": "2020/09/16 15:18"
+        },
         {
             "title": "菅義偉氏第99代首相に選出",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1165940",
@@ -20,16 +25,6 @@
             "title": "「昼カラ」感染拡大、影響は片町にも",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1165496",
             "published_at": "2020/09/16 07:20"
-        },
-        {
-            "title": "ワーケーション拠点化、元民宿を改修",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1165458",
-            "published_at": "2020/09/16 07:00"
-        },
-        {
-            "title": "菅義偉新総裁に福井県民は何を求める",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1165220",
-            "published_at": "2020/09/15 17:00"
         }
     ]
 }
