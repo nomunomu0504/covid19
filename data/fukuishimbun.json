@@ -1,6 +1,11 @@
 {
-    "timestamp": 1600254826,
+    "timestamp": 1600262034,
     "info": [
+        {
+            "title": "菅義偉首相が会見、桜を見る会は中止",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1166299",
+            "published_at": "2020/09/16 21:38"
+        },
         {
             "title": "9/16コロナ速報_石川県で1人死亡、クラスター発生の医療センター関連患者",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1166172",
@@ -30,16 +35,6 @@
             "title": "福井県で１人死亡、コロナ第２波で初",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1166085",
             "published_at": "2020/09/16 16:45"
-        },
-        {
-            "title": "菅義偉内閣の閣僚名簿にじむ安定志向",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1166059",
-            "published_at": "2020/09/16 16:30"
-        },
-        {
-            "title": "iPhone新製品の発表なし、10月発表か",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1166006",
-            "published_at": "2020/09/16 15:18"
         }
     ]
 }
