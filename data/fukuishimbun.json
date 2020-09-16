@@ -1,15 +1,15 @@
 {
-    "timestamp": 1600251278,
+    "timestamp": 1600254826,
     "info": [
+        {
+            "title": "9/16コロナ速報_石川県で1人死亡、クラスター発生の医療センター関連患者",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1166172",
+            "published_at": "2020/09/16 19:18"
+        },
         {
             "title": "9/16コロナ速報_滋賀県で東近江市の未就学児と大津市の80代女性感染",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1166126",
             "published_at": "2020/09/16 19:10"
-        },
-        {
-            "title": "9/16コロナ速報_石川県金沢市の患者1人死亡、石川県内の死亡計44人に",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1166172",
-            "published_at": "2020/09/16 18:18"
         },
         {
             "title": "JR西日本、過去最大の赤字へ　純損益赤字2400億円　2021年3月期連結業績予想",
@@ -37,7 +37,7 @@
             "published_at": "2020/09/16 16:30"
         },
         {
-            "title": "iPhone新製品の披露なし、10月発表か",
+            "title": "iPhone新製品の発表なし、10月発表か",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1166006",
             "published_at": "2020/09/16 15:18"
         }
