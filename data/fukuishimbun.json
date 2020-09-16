@@ -1,6 +1,11 @@
 {
-    "timestamp": 1600294456,
+    "timestamp": 1600298014,
     "info": [
+        {
+            "title": "菅新内閣発足",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1166617",
+            "published_at": "2020/09/17 07:30"
+        },
         {
             "title": "菅義偉首相が会見、桜を見る会は中止",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1166299",
@@ -10,21 +15,6 @@
             "title": "9/16コロナ速報_石川県で1人死亡、クラスター発生の医療センター関連患者",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1166172",
             "published_at": "2020/09/16 19:18"
-        },
-        {
-            "title": "9/16コロナ速報_滋賀県で東近江市の未就学児と大津市の80代女性感染",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1166126",
-            "published_at": "2020/09/16 19:10"
-        },
-        {
-            "title": "JR西日本、過去最大の赤字へ　純損益赤字2400億円　2021年3月期連結業績予想",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1166015",
-            "published_at": "2020/09/16 18:00"
-        },
-        {
-            "title": "死亡は70代男性､福井県新型コロナ",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1166110",
-            "published_at": "2020/09/16 17:35"
         }
     ]
 }
