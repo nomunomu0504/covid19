@@ -1,6 +1,11 @@
 {
-    "timestamp": 1600226070,
+    "timestamp": 1600236960,
     "info": [
+        {
+            "title": "菅義偉氏第99代首相に選出",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1165940",
+            "published_at": "2020/09/16 14:25"
+        },
         {
             "title": "福井県８日連続コロナ新規感染なし",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1165888",
@@ -25,11 +30,6 @@
             "title": "菅義偉新総裁に福井県民は何を求める",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1165220",
             "published_at": "2020/09/15 17:00"
-        },
-        {
-            "title": "9/15コロナ速報_広島県広島市が10代と70代の計2人の感染発表",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1165285",
-            "published_at": "2020/09/15 16:02"
         }
     ]
 }
