@@ -1,15 +1,20 @@
 {
-    "timestamp": 1600334057,
+    "timestamp": 1600341210,
     "info": [
+        {
+            "title": "COCOAでトラブル、政府が報告",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1167103",
+            "published_at": "2020/09/17 20:00"
+        },
+        {
+            "title": "9/17コロナ速報_石川県で男女6人感染、金沢市立中学校の教員感染で休校処置",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1166967",
+            "published_at": "2020/09/17 19:30"
+        },
         {
             "title": "9/17コロナ速報_滋賀県が1人の感染発表",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1166982",
             "published_at": "2020/09/17 17:45"
-        },
-        {
-            "title": "9/17コロナ速報_石川県が男女6人の感染発表",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1166967",
-            "published_at": "2020/09/17 17:30"
         },
         {
             "title": "ステーキ、レア肉寿司…10店集結",
