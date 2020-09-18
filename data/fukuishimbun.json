@@ -1,6 +1,11 @@
 {
-    "timestamp": 1600416982,
+    "timestamp": 1600420470,
     "info": [
+        {
+            "title": "9/18コロナ速報_石川県で２人感染",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1167789",
+            "published_at": "2020/09/18 17:58"
+        },
         {
             "title": "福井県コロナ感染拡大警報24日解除",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1167663",
@@ -15,11 +20,6 @@
             "title": "COCOAでトラブル、政府が発表",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1167103",
             "published_at": "2020/09/18 07:56"
-        },
-        {
-            "title": "県内野党の行方",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1167357",
-            "published_at": "2020/09/18 07:30"
         }
     ]
 }
