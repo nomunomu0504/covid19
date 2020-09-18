@@ -1,6 +1,11 @@
 {
-    "timestamp": 1600424093,
+    "timestamp": 1600467274,
     "info": [
+        {
+            "title": "初の40年超原発安全対策工事完了",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1167900",
+            "published_at": "2020/09/19 07:00"
+        },
         {
             "title": "9/18コロナ速報_石川県で２人感染",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1167789",
@@ -10,11 +15,6 @@
             "title": "福井県コロナ感染拡大警報24日解除",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1167663",
             "published_at": "2020/09/18 17:10"
-        },
-        {
-            "title": "福井県10日連続コロナ新規感染なし",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1167597",
-            "published_at": "2020/09/18 12:03"
         }
     ]
 }
