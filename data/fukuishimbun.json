@@ -1,6 +1,11 @@
 {
-    "timestamp": 1600481758,
+    "timestamp": 1600485298,
     "info": [
+        {
+            "title": "9/19福井県11日連続感染なし",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1168272",
+            "published_at": "2020/09/19 11:31"
+        },
         {
             "title": "コロナワクチン開発",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1168173",
@@ -10,11 +15,6 @@
             "title": "インスタ映えスポットが大野市に次々",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1167839",
             "published_at": "2020/09/19 07:20"
-        },
-        {
-            "title": "初の40年超原発安全対策工事完了",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1167900",
-            "published_at": "2020/09/19 07:00"
         }
     ]
 }
