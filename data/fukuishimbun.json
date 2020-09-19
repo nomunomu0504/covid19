@@ -1,6 +1,11 @@
 {
-    "timestamp": 1600553660,
+    "timestamp": 1600557198,
     "info": [
+        {
+            "title": "コロナ休校、教職員の超勤時間に影響",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1168503",
+            "published_at": "2020/09/20 07:20"
+        },
         {
             "title": "牛ハラミステーキの厚さに子ども驚き",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1168451",
@@ -20,11 +25,6 @@
             "title": "9/19コロナ速報_石川県が男女6人の感染発表　3人は金沢医療センターの入院患者",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1168400",
             "published_at": "2020/09/19 19:27"
-        },
-        {
-            "title": "夜の越前松島水族館、貸し切りが人気",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1168334",
-            "published_at": "2020/09/19 17:00"
         }
     ]
 }
