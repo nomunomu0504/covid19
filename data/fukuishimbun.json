@@ -1,6 +1,11 @@
 {
-    "timestamp": 1600568160,
+    "timestamp": 1600571670,
     "info": [
+        {
+            "title": "福井で12日連続新規コロナ感染なし",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1168788",
+            "published_at": "2020/09/20 12:00"
+        },
         {
             "title": "東尋坊SUNSET2020開幕",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1168760",
@@ -30,11 +35,6 @@
             "title": "坂井市の6年生対象に10月陸上催し",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1168434",
             "published_at": "2020/09/19 19:40"
-        },
-        {
-            "title": "9/19コロナ速報_石川県が男女6人の感染発表　3人は金沢医療センターの入院患者",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1168400",
-            "published_at": "2020/09/19 19:27"
         }
     ]
 }
