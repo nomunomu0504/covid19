@@ -1,6 +1,16 @@
 {
-    "timestamp": 1600604325,
+    "timestamp": 1600640076,
     "info": [
+        {
+            "title": "福井県内のコロナ死者計10人に",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1168978",
+            "published_at": "2020/09/21 07:10"
+        },
+        {
+            "title": "「密」防ぎ一足早い七五三参り",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1168927",
+            "published_at": "2020/09/21 07:00"
+        },
         {
             "title": "9/20コロナ速報_石川県で金沢市の中学生含む４人感染　高齢者施設入居の女性も",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1168950",
@@ -30,11 +40,6 @@
             "title": "福井県で１人死亡、第２波２人目",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1168825",
             "published_at": "2020/09/20 14:30"
-        },
-        {
-            "title": "福井で12日連続新規コロナ感染なし",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1168788",
-            "published_at": "2020/09/20 12:00"
         }
     ]
 }
