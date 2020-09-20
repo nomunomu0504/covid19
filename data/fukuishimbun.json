@@ -1,6 +1,11 @@
 {
-    "timestamp": 1600582567,
+    "timestamp": 1600586067,
     "info": [
+        {
+            "title": "死亡は80代女性、新型コロナ福井県",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1168870",
+            "published_at": "2020/09/20 16:05"
+        },
         {
             "title": "福井県で１人死亡、第２波２人目",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1168825",
@@ -20,11 +25,6 @@
             "title": "特急券いらない特急「新快速」誕生50年",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1168757",
             "published_at": "2020/09/20 10:10"
-        },
-        {
-            "title": "コロナ休校、教職員の超勤時間に影響",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1168503",
-            "published_at": "2020/09/20 07:20"
         }
     ]
 }
