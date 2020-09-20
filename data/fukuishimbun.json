@@ -1,6 +1,11 @@
 {
-    "timestamp": 1600640076,
+    "timestamp": 1600643624,
     "info": [
+        {
+            "title": "コロナにスパコン活用",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1169169",
+            "published_at": "2020/09/21 07:30"
+        },
         {
             "title": "福井県内のコロナ死者計10人に",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1168978",
@@ -30,16 +35,6 @@
             "title": "中高生に福井県がLINEで教育相談",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1168852",
             "published_at": "2020/09/20 17:10"
-        },
-        {
-            "title": "死亡は80代女性、新型コロナ福井県",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1168870",
-            "published_at": "2020/09/20 16:05"
-        },
-        {
-            "title": "福井県で１人死亡、第２波２人目",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1168825",
-            "published_at": "2020/09/20 14:30"
         }
     ]
 }
