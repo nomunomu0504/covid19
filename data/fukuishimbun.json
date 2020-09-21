@@ -1,6 +1,16 @@
 {
-    "timestamp": 1600643624,
+    "timestamp": 1600658078,
     "info": [
+        {
+            "title": "福井で13日連続新規コロナ感染なし",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1169237",
+            "published_at": "2020/09/21 11:50"
+        },
+        {
+            "title": "福井県コロナ独自策、拡大防止に効果",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1169229",
+            "published_at": "2020/09/21 11:15"
+        },
         {
             "title": "コロナにスパコン活用",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1169169",
@@ -22,19 +32,9 @@
             "published_at": "2020/09/20 20:38"
         },
         {
-            "title": "9/20コロナ速報_秋田県の30代男性が感染　大仙市の有料老人ホーム関係",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1169002",
-            "published_at": "2020/09/20 20:23"
-        },
-        {
             "title": "写真の力で離れて暮らす親子つなぐ",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1168961",
             "published_at": "2020/09/20 19:00"
-        },
-        {
-            "title": "中高生に福井県がLINEで教育相談",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1168852",
-            "published_at": "2020/09/20 17:10"
         }
     ]
 }
