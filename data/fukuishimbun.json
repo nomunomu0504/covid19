@@ -1,6 +1,11 @@
 {
-    "timestamp": 1600694052,
+    "timestamp": 1600726466,
     "info": [
+        {
+            "title": "秋の彼岸、福井県内各地で墓参り",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1169461",
+            "published_at": "2020/09/22 07:00"
+        },
         {
             "title": "9/21コロナ速報_滋賀県が1人の感染発表",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1169372",
@@ -15,11 +20,6 @@
             "title": "山うに屋台拡張し河和田の産品販売",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1169262",
             "published_at": "2020/09/21 17:00"
-        },
-        {
-            "title": "福井県13日連続新規コロナ感染なし",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1169237",
-            "published_at": "2020/09/21 11:50"
         }
     ]
 }
