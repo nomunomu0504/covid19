@@ -1,6 +1,16 @@
 {
-    "timestamp": 1600766087,
+    "timestamp": 1600769735,
     "info": [
+        {
+            "title": "9/22コロナ速報_滋賀県が1人の死亡を発表",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1169877",
+            "published_at": "2020/09/22 18:20"
+        },
+        {
+            "title": "9/22コロナ速報_石川県が4人の感染発表",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1169861",
+            "published_at": "2020/09/22 17:30"
+        },
         {
             "title": "正確な食物アレルギー診断が重要",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1169790",
@@ -10,11 +20,6 @@
             "title": "福井県14日連続コロナ新規感染なし",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1169761",
             "published_at": "2020/09/22 12:05"
-        },
-        {
-            "title": "木望の森プロジェクト",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1169692",
-            "published_at": "2020/09/22 07:30"
         }
     ]
 }
