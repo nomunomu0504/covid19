@@ -1,6 +1,11 @@
 {
-    "timestamp": 1600730039,
+    "timestamp": 1600744474,
     "info": [
+        {
+            "title": "福井県14日連続新規コロナ感染なし",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1169761",
+            "published_at": "2020/09/22 12:05"
+        },
         {
             "title": "木望の森プロジェクト",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1169692",
@@ -15,11 +20,6 @@
             "title": "9/21コロナ速報_滋賀県が1人の感染発表",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1169372",
             "published_at": "2020/09/21 17:45"
-        },
-        {
-            "title": "9/21コロナ速報_石川県で2人感染、1人死亡",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1169353",
-            "published_at": "2020/09/21 17:25"
         }
     ]
 }
