@@ -1,6 +1,11 @@
 {
-    "timestamp": 1600902842,
+    "timestamp": 1600908125,
     "info": [
+        {
+            "title": "2021年の初詣は「マイひしゃく」で　埼玉県神社庁がコロナ防止ガイドライン　福井など28都府県の神社庁も賛同",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1171002",
+            "published_at": "2020/09/24 09:04"
+        },
         {
             "title": "コロナ以降最多の観光客、喜びと不安",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1170656",
@@ -20,11 +25,6 @@
             "title": "9/23コロナ速報_大阪府で39人感染確認、男性1人死亡　陽性率は3.6％",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1170534",
             "published_at": "2020/09/23 18:12"
-        },
-        {
-            "title": "9/23コロナ速報_滋賀県大津市で2人の感染確認　70代男性は京都府へ外出も",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1170503",
-            "published_at": "2020/09/23 18:11"
         }
     ]
 }
