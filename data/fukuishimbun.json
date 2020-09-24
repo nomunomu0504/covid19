@@ -1,6 +1,11 @@
 {
-    "timestamp": 1600949967,
+    "timestamp": 1600985681,
     "info": [
+        {
+            "title": "福井県、コロナ感染拡大警報を解除",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1171447",
+            "published_at": "2020/09/25 07:00"
+        },
         {
             "title": "インターハイ2021年の新日程決定　福井県での総合開会式は8月13日",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1171445",
@@ -25,16 +30,6 @@
             "title": "指の根元の湿疹どうケア、薬や原因は",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1171138",
             "published_at": "2020/09/24 17:00"
-        },
-        {
-            "title": "9/24コロナ速報_東京都で新たに195人感染　警戒度は最高レベルから２番目の水準維持",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1171166",
-            "published_at": "2020/09/24 16:25"
-        },
-        {
-            "title": "9/24福井で16日連続感染なし",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1171085",
-            "published_at": "2020/09/24 12:10"
         }
     ]
 }
