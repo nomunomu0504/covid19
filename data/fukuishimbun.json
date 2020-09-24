@@ -1,6 +1,11 @@
 {
-    "timestamp": 1600946035,
+    "timestamp": 1600949967,
     "info": [
+        {
+            "title": "インターハイ2021年の新日程決定　福井県での総合開会式は8月13日",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1171445",
+            "published_at": "2020/09/24 20:31"
+        },
         {
             "title": "9/24コロナ速報_石川県金沢市と内灘町の20代男性2人の感染を発表　いずれも接客を伴う飲食店の従業員",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1171287",
@@ -30,11 +35,6 @@
             "title": "9/24福井で16日連続感染なし",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1171085",
             "published_at": "2020/09/24 12:10"
-        },
-        {
-            "title": "脱はんこ、福井県まず請求書で廃止",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1171036",
-            "published_at": "2020/09/24 11:30"
         }
     ]
 }
