@@ -1,15 +1,20 @@
 {
-    "timestamp": 1600938901,
+    "timestamp": 1600942528,
     "info": [
+        {
+            "title": "9/24コロナ速報_大阪府で66人の感染確認　男女4人死亡も　感染経路不明は52人",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1171322",
+            "published_at": "2020/09/24 18:55"
+        },
+        {
+            "title": "9/24コロナ速報_石川県金沢市と内灘町の20代男性2人の感染を発表　いずれも接客を伴う飲食店の授業員",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1171287",
+            "published_at": "2020/09/24 18:49"
+        },
         {
             "title": "9/24コロナ速報_滋賀県大津市の女性2人感染　30代と40代、いずれも軽症",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1171281",
             "published_at": "2020/09/24 17:59"
-        },
-        {
-            "title": "9/24コロナ速報_石川県が20代男性2人の感染を発表、県内感染確認累計763人に",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1171287",
-            "published_at": "2020/09/24 17:38"
         },
         {
             "title": "福井県中学新人競技大会予定通り実施",
@@ -30,11 +35,6 @@
             "title": "9/24福井で16日連続感染なし",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1171085",
             "published_at": "2020/09/24 12:10"
-        },
-        {
-            "title": "脱はんこ、福井県まず請求書で廃止",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1171036",
-            "published_at": "2020/09/24 11:30"
         }
     ]
 }
