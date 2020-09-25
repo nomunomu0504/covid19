@@ -1,6 +1,11 @@
 {
-    "timestamp": 1601003689,
+    "timestamp": 1601018093,
     "info": [
+        {
+            "title": "高齢者にタブレット貸与し孤立防止",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1172034",
+            "published_at": "2020/09/25 16:00"
+        },
         {
             "title": "9/25福井で感染なし17日連続",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1171938",
@@ -15,11 +20,6 @@
             "title": "北陸新幹線敦賀開業に遅れ懸念の声も",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1171465",
             "published_at": "2020/09/25 07:20"
-        },
-        {
-            "title": "福井県、コロナ感染拡大警報を解除",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1171447",
-            "published_at": "2020/09/25 07:00"
         }
     ]
 }
