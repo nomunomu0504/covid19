@@ -1,6 +1,11 @@
 {
-    "timestamp": 1601158486,
+    "timestamp": 1601162034,
     "info": [
+        {
+            "title": "福井県内お得食事券の発売日決定",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1172920",
+            "published_at": "2020/09/27 07:20"
+        },
         {
             "title": "秋の味覚、大粒でつやつやのクリ",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1172907",
@@ -15,11 +20,6 @@
             "title": "9/26コロナ速報_石川県が男女2人の感染発表",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1172778",
             "published_at": "2020/09/26 17:20"
-        },
-        {
-            "title": "9/26コロナ速報_東京都で270人感染",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1172699",
-            "published_at": "2020/09/26 15:10"
         }
     ]
 }
