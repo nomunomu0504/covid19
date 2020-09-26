@@ -1,6 +1,11 @@
 {
-    "timestamp": 1601101002,
+    "timestamp": 1601111691,
     "info": [
+        {
+            "title": "9/26コロナ速報_石川県が男女2人の感染発表",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1172778",
+            "published_at": "2020/09/26 17:20"
+        },
         {
             "title": "9/26コロナ速報_東京都で270人感染",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1172699",
@@ -10,11 +15,6 @@
             "title": "福井県18日連続コロナ新規感染なし",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1172641",
             "published_at": "2020/09/26 11:46"
-        },
-        {
-            "title": "9/25コロナ速報_石川県で8人感染　野々市市の会社員男性も　6人は接待伴う飲食店関係",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1172133",
-            "published_at": "2020/09/26 09:17"
         }
     ]
 }
