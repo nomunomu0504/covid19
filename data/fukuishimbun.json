@@ -1,6 +1,11 @@
 {
-    "timestamp": 1601086567,
+    "timestamp": 1601090105,
     "info": [
+        {
+            "title": "福井県18日連続コロナ新規感染なし",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1172641",
+            "published_at": "2020/09/26 11:46"
+        },
         {
             "title": "9/25コロナ速報_石川県で8人感染　野々市市の会社員男性も　6人は接待伴う飲食店関係",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1172133",
@@ -10,11 +15,6 @@
             "title": "高浜原発の再稼働請願審査が紛糾",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1172261",
             "published_at": "2020/09/26 07:10"
-        },
-        {
-            "title": "自費ＰＣＲ検査、福井県内で受けたい",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1172029",
-            "published_at": "2020/09/25 17:10"
         }
     ]
 }
