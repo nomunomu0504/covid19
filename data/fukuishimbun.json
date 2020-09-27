@@ -1,6 +1,11 @@
 {
-    "timestamp": 1601205230,
+    "timestamp": 1601244894,
     "info": [
+        {
+            "title": "今冬は1.7ｍの大雪？自然界の予想",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1173377",
+            "published_at": "2020/09/28 07:10"
+        },
         {
             "title": "9/27コロナ速報_滋賀県で5人感染　守山市の20代女性は大阪府に出勤",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1173333",
@@ -15,11 +20,6 @@
             "title": "9/27コロナ速報_石川県で接待伴う飲食店関係者含む女性3人感染　男性1人死亡",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1173321",
             "published_at": "2020/09/27 18:20"
-        },
-        {
-            "title": "福井県19日連続コロナ新規感染なし",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1173180",
-            "published_at": "2020/09/27 13:20"
         }
     ]
 }
