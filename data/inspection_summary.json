@@ -1,5 +1,5 @@
 {
-    "date": "2020/09/26 15:16",
+    "date": "2020/09/27 15:17",
     "children": [
         {
             "attr": "陽性患者数",
@@ -7,11 +7,11 @@
             "children": [
                 {
                     "attr": "入院中",
-                    "value": 5,
+                    "value": 4,
                     "children": [
                         {
                             "attr": "軽症・中等症",
-                            "value": 5
+                            "value": 4
                         },
                         {
                             "attr": "重症",
@@ -21,7 +21,7 @@
                 },
                 {
                     "attr": "死亡",
-                    "value": 10
+                    "value": 11
                 },
                 {
                     "attr": "退院",
