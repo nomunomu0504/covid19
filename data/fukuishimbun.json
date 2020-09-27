@@ -1,6 +1,11 @@
 {
-    "timestamp": 1601162034,
+    "timestamp": 1601167422,
     "info": [
+        {
+            "title": "福井県で新型コロナ感染の男性死亡",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1173137",
+            "published_at": "2020/09/27 09:40"
+        },
         {
             "title": "福井県内お得食事券の発売日決定",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1172920",
@@ -15,11 +20,6 @@
             "title": "9/26コロナ速報_滋賀県が4人の感染発表",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1172794",
             "published_at": "2020/09/26 17:40"
-        },
-        {
-            "title": "9/26コロナ速報_石川県が男女2人の感染発表",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1172778",
-            "published_at": "2020/09/26 17:20"
         }
     ]
 }
