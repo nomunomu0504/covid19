@@ -1,25 +1,25 @@
 {
-    "timestamp": 1601198073,
+    "timestamp": 1601201693,
     "info": [
+        {
+            "title": "9/27コロナ速報_京都府と京都市が5人の感染発表",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1173366",
+            "published_at": "2020/09/27 18:43"
+        },
+        {
+            "title": "9/27コロナ速報_石川県で接待伴う飲食店関係者含む女性3人感染　男性1人死亡",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1173321",
+            "published_at": "2020/09/27 18:20"
+        },
         {
             "title": "9/27コロナ速報_滋賀県で5人感染　県内感染確認は計495人に",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1173333",
             "published_at": "2020/09/27 17:34"
         },
         {
-            "title": "9/27コロナ速報_石川県で新たに女性3人感染　男性1人死亡",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1173321",
-            "published_at": "2020/09/27 17:13"
-        },
-        {
             "title": "福井県19日連続コロナ新規感染なし",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1173180",
             "published_at": "2020/09/27 13:20"
-        },
-        {
-            "title": "福井県で新型コロナ感染の男性死亡",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1173137",
-            "published_at": "2020/09/27 09:40"
         }
     ]
 }
