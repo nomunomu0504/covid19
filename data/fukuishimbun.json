@@ -1,15 +1,20 @@
 {
-    "timestamp": 1601298880,
+    "timestamp": 1601333901,
     "info": [
+        {
+            "title": "第三のビール増税前に買いだめ客続々",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1174000",
+            "published_at": "2020/09/29 07:20"
+        },
+        {
+            "title": "カツ30枚デカ盛りボルガライス誕生",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1174012",
+            "published_at": "2020/09/29 07:10"
+        },
         {
             "title": "9/28コロナ速報_京都府と京都市が8人の感染発表　府内の感染確認は計1739人に",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1173954",
             "published_at": "2020/09/28 21:23"
-        },
-        {
-            "title": "9/28コロナ速報_東京都で新たに78人感染",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1173814",
-            "published_at": "2020/09/28 15:02"
         }
     ]
 }
