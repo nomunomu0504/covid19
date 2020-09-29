@@ -1,6 +1,11 @@
 {
-    "timestamp": 1601356483,
+    "timestamp": 1601360214,
     "info": [
+        {
+            "title": "9/29コロナ速報_東京都で212人感染",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1174507",
+            "published_at": "2020/09/29 15:05"
+        },
         {
             "title": "福井県21日連続コロナ新規感染ゼロ",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1174422",
@@ -20,11 +25,6 @@
             "title": "カツ30枚デカ盛りボルガライス誕生",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1174012",
             "published_at": "2020/09/29 07:10"
-        },
-        {
-            "title": "大学入学共通テスト、初日は9825人出願　2021年1月に初の実施　コロナ禍で第２日程",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1173999",
-            "published_at": "2020/09/29 02:00"
         }
     ]
 }
