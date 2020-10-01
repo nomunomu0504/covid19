@@ -1,6 +1,16 @@
 {
-    "timestamp": 1601543744,
+    "timestamp": 1601590529,
     "info": [
+        {
+            "title": "福井県内コロナ行政検査の体制拡充",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1176436",
+            "published_at": "2020/10/02 07:10"
+        },
+        {
+            "title": "GoToクーポン開始、消費に期待",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1176447",
+            "published_at": "2020/10/02 07:00"
+        },
         {
             "title": "10/1コロナ速報_滋賀県が1人の感染発表",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1176299",
@@ -25,11 +35,6 @@
             "title": "10/1コロナ速報_東京都で235人感染",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1176157",
             "published_at": "2020/10/01 15:05"
-        },
-        {
-            "title": "福井県23日連続コロナ新規感染ゼロ",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1176032",
-            "published_at": "2020/10/01 12:00"
         }
     ]
 }
