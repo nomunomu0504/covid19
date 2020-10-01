@@ -1,6 +1,21 @@
 {
-    "timestamp": 1601504102,
+    "timestamp": 1601513036,
     "info": [
+        {
+            "title": "米大統領選テレビ討論",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1175914",
+            "published_at": "2020/10/01 07:30"
+        },
+        {
+            "title": "GoToクーポン福井は750店対象",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1175601",
+            "published_at": "2020/10/01 07:20"
+        },
+        {
+            "title": "ゲーテはドイツを代表する作家で…",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1175901",
+            "published_at": "2020/10/01 07:20"
+        },
         {
             "title": "インフルワクチン「早く打ちたい」",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1175609",
@@ -10,11 +25,6 @@
             "title": "9/30コロナ速報_滋賀県が1人の感染発表",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1175495",
             "published_at": "2020/09/30 18:15"
-        },
-        {
-            "title": "福井県22日連続コロナ新規感染ゼロ",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1175191",
-            "published_at": "2020/09/30 12:05"
         }
     ]
 }
