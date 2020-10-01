@@ -1,6 +1,21 @@
 {
-    "timestamp": 1601540237,
+    "timestamp": 1601543744,
     "info": [
+        {
+            "title": "10/1コロナ速報_滋賀県が1人の感染発表",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1176299",
+            "published_at": "2020/10/01 18:02"
+        },
+        {
+            "title": "10/1コロナ速報_岐阜県岐阜市が1人の感染発表",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1176295",
+            "published_at": "2020/10/01 18:00"
+        },
+        {
+            "title": "10/1コロナ速報_石川県が1人の感染発表",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1176294",
+            "published_at": "2020/10/01 17:55"
+        },
         {
             "title": "コロナで陸上大会中止…児童に夢を",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1176124",
@@ -15,21 +30,6 @@
             "title": "福井県23日連続コロナ新規感染ゼロ",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1176032",
             "published_at": "2020/10/01 12:00"
-        },
-        {
-            "title": "米大統領選テレビ討論",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1175914",
-            "published_at": "2020/10/01 07:30"
-        },
-        {
-            "title": "GoToクーポン福井は750店対象",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1175601",
-            "published_at": "2020/10/01 07:20"
-        },
-        {
-            "title": "ゲーテはドイツを代表する作家で…",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1175901",
-            "published_at": "2020/10/01 07:20"
         }
     ]
 }
