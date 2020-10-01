@@ -1,6 +1,16 @@
 {
-    "timestamp": 1601522121,
+    "timestamp": 1601533047,
     "info": [
+        {
+            "title": "コロナで陸上大会中止…児童に夢を",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1176124",
+            "published_at": "2020/10/01 15:15"
+        },
+        {
+            "title": "10/1コロナ速報_東京都で235人感染",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1176157",
+            "published_at": "2020/10/01 15:05"
+        },
         {
             "title": "福井県23日連続コロナ新規感染ゼロ",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1176032",
@@ -25,11 +35,6 @@
             "title": "インフルワクチン「早く打ちたい」",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1175609",
             "published_at": "2020/10/01 07:00"
-        },
-        {
-            "title": "9/30コロナ速報_滋賀県が1人の感染発表",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1175495",
-            "published_at": "2020/09/30 18:15"
         }
     ]
 }
