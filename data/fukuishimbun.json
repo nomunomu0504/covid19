@@ -1,6 +1,11 @@
 {
-    "timestamp": 1601605036,
+    "timestamp": 1601608531,
     "info": [
+        {
+            "title": "福井県24日連続コロナ新規感染ゼロ",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1176912",
+            "published_at": "2020/10/02 12:10"
+        },
         {
             "title": "たけふ菊人形９日開幕",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1176755",
@@ -15,11 +20,6 @@
             "title": "GoToクーポン開始、消費に期待",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1176447",
             "published_at": "2020/10/02 07:00"
-        },
-        {
-            "title": "10/1コロナ速報_滋賀県が1人の感染発表",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1176299",
-            "published_at": "2020/10/01 18:02"
         }
     ]
 }
