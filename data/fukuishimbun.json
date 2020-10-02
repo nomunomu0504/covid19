@@ -1,6 +1,16 @@
 {
-    "timestamp": 1601608531,
+    "timestamp": 1601615723,
     "info": [
+        {
+            "title": "トランプ米大統領が新型コロナ陽性",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1176972",
+            "published_at": "2020/10/02 14:10"
+        },
+        {
+            "title": "コロナ禍で閉業、三国の民宿復活へ",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1176957",
+            "published_at": "2020/10/02 14:00"
+        },
         {
             "title": "福井県24日連続コロナ新規感染ゼロ",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1176912",
@@ -15,11 +25,6 @@
             "title": "福井県内コロナ行政検査の体制拡充",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1176436",
             "published_at": "2020/10/02 07:10"
-        },
-        {
-            "title": "GoToクーポン開始、消費に期待",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1176447",
-            "published_at": "2020/10/02 07:00"
         }
     ]
 }
