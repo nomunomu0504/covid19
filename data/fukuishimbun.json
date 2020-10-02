@@ -1,6 +1,11 @@
 {
-    "timestamp": 1601630135,
+    "timestamp": 1601676957,
     "info": [
+        {
+            "title": "国勢調査員が腕章紛失、悪用恐れも",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1177201",
+            "published_at": "2020/10/03 07:00"
+        },
         {
             "title": "トランプ米大統領が新型コロナ陽性",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1176972",
@@ -10,11 +15,6 @@
             "title": "コロナ禍で閉業、三国の民宿復活へ",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1176957",
             "published_at": "2020/10/02 14:00"
-        },
-        {
-            "title": "福井県24日連続コロナ新規感染ゼロ",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1176912",
-            "published_at": "2020/10/02 12:10"
         }
     ]
 }
