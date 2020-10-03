@@ -1,6 +1,11 @@
 {
-    "timestamp": 1601691429,
+    "timestamp": 1601694922,
     "info": [
+        {
+            "title": "福井県コロナ新規感染ゼロ25日連続",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1177589",
+            "published_at": "2020/10/03 11:55"
+        },
         {
             "title": "大学１年生で初の対面授業「やっと」",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1177576",
@@ -25,11 +30,6 @@
             "title": "科学の世界では１０月は特別な月で…",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1177483",
             "published_at": "2020/10/03 07:20"
-        },
-        {
-            "title": "国勢調査員が腕章紛失、悪用恐れも",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1177201",
-            "published_at": "2020/10/03 07:00"
         }
     ]
 }
