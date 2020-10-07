@@ -1,6 +1,11 @@
 {
-    "timestamp": 1602037052,
+    "timestamp": 1602040592,
     "info": [
+        {
+            "title": "若狭町の男性１人がコロナ感染",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1180080",
+            "published_at": "2020/10/07 12:05"
+        },
         {
             "title": "美しい夕日とラブストーリー満喫",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1180056",
@@ -10,11 +15,6 @@
             "title": "２１年度予算概算要求",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1179963",
             "published_at": "2020/10/07 07:30"
-        },
-        {
-            "title": "2021年の干支「丑」愛らしい姿に",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1179629",
-            "published_at": "2020/10/07 07:00"
         }
     ]
 }
