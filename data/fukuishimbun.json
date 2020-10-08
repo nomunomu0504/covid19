@@ -1,6 +1,11 @@
 {
-    "timestamp": 1602144953,
+    "timestamp": 1602148580,
     "info": [
+        {
+            "title": "10/8コロナ速報_滋賀県で2人感染　県内感染確認は計510人に",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1181097",
+            "published_at": "2020/10/08 17:55"
+        },
         {
             "title": "化学物質過敏症の人に優しい民宿",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1181003",
@@ -25,11 +30,6 @@
             "title": "坂井市の女性１人がコロナ感染",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1180857",
             "published_at": "2020/10/08 12:05"
-        },
-        {
-            "title": "福井移住、ターゲットは関西の若者",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1180826",
-            "published_at": "2020/10/08 11:30"
         }
     ]
 }
