@@ -1,6 +1,11 @@
 {
-    "timestamp": 1602152237,
+    "timestamp": 1602195392,
     "info": [
+        {
+            "title": "OSK桐生麻耶さん城月れいさん抱負",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1181171",
+            "published_at": "2020/10/09 07:00"
+        },
         {
             "title": "10/8コロナ速報_滋賀県長浜市の公務員が感染　守山市の20代会社員も",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1181097",
@@ -20,16 +25,6 @@
             "title": "抗原検査キット、同時流行備え備蓄",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1181005",
             "published_at": "2020/10/08 17:00"
-        },
-        {
-            "title": "感染女性は坂井市の大学院生",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1180948",
-            "published_at": "2020/10/08 14:10"
-        },
-        {
-            "title": "コロナ１人感染、福井県会見を中継",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1180891",
-            "published_at": "2020/10/08 12:15"
         }
     ]
 }
