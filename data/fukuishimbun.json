@@ -1,15 +1,20 @@
 {
-    "timestamp": 1602112401,
+    "timestamp": 1602126830,
     "info": [
+        {
+            "title": "坂井市の女性１人がコロナ感染",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1180857",
+            "published_at": "2020/10/08 12:05"
+        },
+        {
+            "title": "福井移住、ターゲットは関西の若者",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1180826",
+            "published_at": "2020/10/08 11:30"
+        },
         {
             "title": "きょうは二十四節気の一つ「寒露」…",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1180702",
             "published_at": "2020/10/08 07:20"
-        },
-        {
-            "title": "スキージャム勝山でリフト取り付け",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1180312",
-            "published_at": "2020/10/08 07:00"
         }
     ]
 }
