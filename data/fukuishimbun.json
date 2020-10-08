@@ -1,10 +1,15 @@
 {
-    "timestamp": 1602148580,
+    "timestamp": 1602152237,
     "info": [
         {
-            "title": "10/8コロナ速報_滋賀県で2人感染　県内感染確認は計510人に",
+            "title": "10/8コロナ速報_滋賀県長浜市の公務員が感染　守山市の20代会社員も",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1181097",
-            "published_at": "2020/10/08 17:55"
+            "published_at": "2020/10/08 18:56"
+        },
+        {
+            "title": "10/8コロナ速報_京都府と京都市が9人の感染発表",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1181125",
+            "published_at": "2020/10/08 18:32"
         },
         {
             "title": "化学物質過敏症の人に優しい民宿",
@@ -25,11 +30,6 @@
             "title": "コロナ１人感染、福井県会見を中継",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1180891",
             "published_at": "2020/10/08 12:15"
-        },
-        {
-            "title": "坂井市の女性１人がコロナ感染",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1180857",
-            "published_at": "2020/10/08 12:05"
         }
     ]
 }
