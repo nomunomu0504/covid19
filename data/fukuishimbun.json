@@ -1,6 +1,11 @@
 {
-    "timestamp": 1602227795,
+    "timestamp": 1602231521,
     "info": [
+        {
+            "title": "明治神宮野球大会、2020年は中止　新型コロナウイルス影響",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1181813",
+            "published_at": "2020/10/09 16:34"
+        },
         {
             "title": "鯖江のコロナ感染男性、大阪に滞在歴",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1181733",
@@ -15,11 +20,6 @@
             "title": "鯖江市の男性１人がコロナ感染",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1181621",
             "published_at": "2020/10/09 11:57"
-        },
-        {
-            "title": "福井のヨサコイ踊り手に発表の場を",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1181566",
-            "published_at": "2020/10/09 11:00"
         }
     ]
 }
