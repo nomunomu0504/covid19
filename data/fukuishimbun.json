@@ -1,6 +1,11 @@
 {
-    "timestamp": 1602209875,
+    "timestamp": 1602213396,
     "info": [
+        {
+            "title": "鯖江市の男性１人がコロナ感染",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1181621",
+            "published_at": "2020/10/09 11:57"
+        },
         {
             "title": "福井のヨサコイ踊り手に発表の場を",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1181566",
@@ -15,11 +20,6 @@
             "title": "鳴り物応援解禁「少しずつ日常に」",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1181185",
             "published_at": "2020/10/09 07:20"
-        },
-        {
-            "title": "OSK桐生麻耶さん城月れいさん抱負",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1181171",
-            "published_at": "2020/10/09 07:00"
         }
     ]
 }
