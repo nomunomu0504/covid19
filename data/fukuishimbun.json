@@ -1,6 +1,11 @@
 {
-    "timestamp": 1602217104,
+    "timestamp": 1602220565,
     "info": [
+        {
+            "title": "鯖江のコロナ感染男性、大阪に滞在歴",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1181733",
+            "published_at": "2020/10/09 14:07"
+        },
         {
             "title": "コロナ１人感染、福井県会見を中継",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1181657",
@@ -20,11 +25,6 @@
             "title": "県内スポーツ界熱く",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1181497",
             "published_at": "2020/10/09 07:30"
-        },
-        {
-            "title": "鳴り物応援解禁「少しずつ日常に」",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1181185",
-            "published_at": "2020/10/09 07:20"
         }
     ]
 }
