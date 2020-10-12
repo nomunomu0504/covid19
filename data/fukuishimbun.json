@@ -1,15 +1,20 @@
 {
-    "timestamp": 1602454579,
+    "timestamp": 1602472605,
     "info": [
+        {
+            "title": "コロナで休校機に高校生が農園開業",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1183149",
+            "published_at": "2020/10/12 12:00"
+        },
+        {
+            "title": "福井県3日連続コロナ新規感染なし",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1183158",
+            "published_at": "2020/10/12 12:00"
+        },
         {
             "title": "新酒仕込みに奥越産米「味わい期待」",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1182910",
             "published_at": "2020/10/11 17:10"
-        },
-        {
-            "title": "コロナ対策、福井県が販促支援補助金",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1182901",
-            "published_at": "2020/10/11 17:00"
         }
     ]
 }
