@@ -1,6 +1,11 @@
 {
-    "timestamp": 1602544554,
+    "timestamp": 1602559006,
     "info": [
+        {
+            "title": "福井県4日連続コロナ新規感染なし",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1183857",
+            "published_at": "2020/10/13 12:00"
+        },
         {
             "title": "秋の一日、大野市中心部から約５０…",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1183743",
@@ -15,11 +20,6 @@
             "title": "離れた家族つなぐ福井県の写真館",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1183347",
             "published_at": "2020/10/12 18:10"
-        },
-        {
-            "title": "コロナで休校機に高校生が農園開業",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1183149",
-            "published_at": "2020/10/12 12:00"
         }
     ]
 }
