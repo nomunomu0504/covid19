@@ -1,6 +1,11 @@
 {
-    "timestamp": 1602577154,
+    "timestamp": 1602580614,
     "info": [
+        {
+            "title": "10/13コロナ速報_石川県で２人感染",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1184029",
+            "published_at": "2020/10/13 17:24"
+        },
         {
             "title": "北陸新幹線「黄信号」沿線に危機感",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1183942",
@@ -20,11 +25,6 @@
             "title": "秋の一日、大野市中心部から約５０…",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1183743",
             "published_at": "2020/10/13 07:20"
-        },
-        {
-            "title": "ＧｏＴｏイート食事券受け付け開始",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1183416",
-            "published_at": "2020/10/13 07:00"
         }
     ]
 }
