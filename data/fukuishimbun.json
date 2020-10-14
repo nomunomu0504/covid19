@@ -1,15 +1,15 @@
 {
-    "timestamp": 1602636387,
+    "timestamp": 1602649114,
     "info": [
+        {
+            "title": "福井県5日連続コロナ新規感染なし",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1184611",
+            "published_at": "2020/10/14 12:10"
+        },
         {
             "title": "きょうは鉄道の日。１８７２年の…",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1184466",
             "published_at": "2020/10/14 07:20"
-        },
-        {
-            "title": "10/13コロナ速報_石川県で２人感染",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1184029",
-            "published_at": "2020/10/13 17:24"
         }
     ]
 }
