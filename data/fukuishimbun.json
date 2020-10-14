@@ -1,6 +1,11 @@
 {
-    "timestamp": 1602667034,
+    "timestamp": 1602713806,
     "info": [
+        {
+            "title": "一般人装ってコロナ給付金申請し逮捕",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1184914",
+            "published_at": "2020/10/15 07:10"
+        },
         {
             "title": "10/14コロナ速報_石川県で小学生含む4人感染　金沢市の小学校で臨時休校も　",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1184783",
@@ -20,11 +25,6 @@
             "title": "10/14コロナ速報_東京都で177人感染　警戒度は最高レベルから２番目",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1184701",
             "published_at": "2020/10/14 16:24"
-        },
-        {
-            "title": "福井県5日連続コロナ新規感染なし",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1184611",
-            "published_at": "2020/10/14 12:10"
         }
     ]
 }
