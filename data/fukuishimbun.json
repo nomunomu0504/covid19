@@ -1,6 +1,11 @@
 {
-    "timestamp": 1602725720,
+    "timestamp": 1602731805,
     "info": [
+        {
+            "title": "感染の大学教員男性、兵庫県に滞在歴",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1185331",
+            "published_at": "2020/10/15 11:43"
+        },
         {
             "title": "コロナ１人感染、福井県会見を中継",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1185283",
@@ -15,11 +20,6 @@
             "title": "一般人装ってコロナ給付金申請し逮捕",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1184914",
             "published_at": "2020/10/15 07:10"
-        },
-        {
-            "title": "10/14コロナ速報_石川県で小学生含む4人感染　金沢市の小学校で臨時休校も　",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1184783",
-            "published_at": "2020/10/14 18:05"
         }
     ]
 }
