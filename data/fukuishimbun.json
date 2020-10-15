@@ -1,6 +1,16 @@
 {
-    "timestamp": 1602713806,
+    "timestamp": 1602725720,
     "info": [
+        {
+            "title": "コロナ１人感染、福井県会見を中継",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1185283",
+            "published_at": "2020/10/15 10:30"
+        },
+        {
+            "title": "福井市の大学教員男性１人コロナ感染",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1185250",
+            "published_at": "2020/10/15 10:15"
+        },
         {
             "title": "一般人装ってコロナ給付金申請し逮捕",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1184914",
@@ -10,21 +20,6 @@
             "title": "10/14コロナ速報_石川県で小学生含む4人感染　金沢市の小学校で臨時休校も　",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1184783",
             "published_at": "2020/10/14 18:05"
-        },
-        {
-            "title": "10/14コロナ速報_滋賀県大津市の40代男性1人感染　味覚障害の症状",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1184792",
-            "published_at": "2020/10/14 18:03"
-        },
-        {
-            "title": "修学旅行でサプライズ花火2000発",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1184704",
-            "published_at": "2020/10/14 17:00"
-        },
-        {
-            "title": "10/14コロナ速報_東京都で177人感染　警戒度は最高レベルから２番目",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1184701",
-            "published_at": "2020/10/14 16:24"
         }
     ]
 }
