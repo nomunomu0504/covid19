@@ -1,6 +1,11 @@
 {
-    "timestamp": 1602757065,
+    "timestamp": 1602800207,
     "info": [
+        {
+            "title": "とんかつ屋の配膳ロボは「店の仲間」",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1185689",
+            "published_at": "2020/10/16 07:00"
+        },
         {
             "title": "10/15コロナ速報_岐阜県羽島市の夫婦の感染確認　既に感染判明の20代男性の親族",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1185551",
@@ -35,16 +40,6 @@
             "title": "観客席は満員！ダミーパネル開発",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1185508",
             "published_at": "2020/10/15 17:10"
-        },
-        {
-            "title": "ニュース見た農家の優しさ150kg",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1185441",
-            "published_at": "2020/10/15 17:00"
-        },
-        {
-            "title": "10/15コロナ速報_東京都で新たに284人感染　警戒度は感染状況が「再拡大に警戒が必要」維持",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1185424",
-            "published_at": "2020/10/15 16:26"
         }
     ]
 }
