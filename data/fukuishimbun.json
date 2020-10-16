@@ -1,6 +1,11 @@
 {
-    "timestamp": 1602825395,
+    "timestamp": 1602829150,
     "info": [
+        {
+            "title": "小浜市の４人感染、同じ飲食店従業員",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1186211",
+            "published_at": "2020/10/16 14:30"
+        },
         {
             "title": "コロナ感染確認、福井県会見を中継",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1186167",
@@ -15,11 +20,6 @@
             "title": "生物多様性の危機",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1185978",
             "published_at": "2020/10/16 07:30"
-        },
-        {
-            "title": "とんかつ屋の配膳ロボは「店の仲間」",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1185689",
-            "published_at": "2020/10/16 07:00"
         }
     ]
 }
