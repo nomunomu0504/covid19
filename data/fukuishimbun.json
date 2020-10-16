@@ -1,6 +1,16 @@
 {
-    "timestamp": 1602812195,
+    "timestamp": 1602818231,
     "info": [
+        {
+            "title": "コロナ１人感染、福井県会見を中継",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1186167",
+            "published_at": "2020/10/16 12:15"
+        },
+        {
+            "title": "小浜市の女性１人がコロナ感染",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1186090",
+            "published_at": "2020/10/16 12:07"
+        },
         {
             "title": "生物多様性の危機",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1185978",
@@ -10,16 +20,6 @@
             "title": "とんかつ屋の配膳ロボは「店の仲間」",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1185689",
             "published_at": "2020/10/16 07:00"
-        },
-        {
-            "title": "10/15コロナ速報_岐阜県羽島市の夫婦の感染確認　既に感染判明の20代男性の親族",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1185551",
-            "published_at": "2020/10/15 18:21"
-        },
-        {
-            "title": "10/15コロナ速報_滋賀県大津市の80代女性の感染確認　県内感染確認は計520人に",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1185576",
-            "published_at": "2020/10/15 18:18"
         }
     ]
 }
