@@ -1,15 +1,15 @@
 {
-    "timestamp": 1602908361,
+    "timestamp": 1602915529,
     "info": [
+        {
+            "title": "10/17コロナ速報_東京都で235人感染　入院中の重症患者は23人",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1186916",
+            "published_at": "2020/10/17 15:05"
+        },
         {
             "title": "福井県コロナ新規感染者なし",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1186865",
             "published_at": "2020/10/17 12:00"
-        },
-        {
-            "title": "若狭高の探究学習",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1186796",
-            "published_at": "2020/10/17 07:30"
         }
     ]
 }
