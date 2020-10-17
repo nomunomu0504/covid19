@@ -1,6 +1,16 @@
 {
-    "timestamp": 1602890146,
+    "timestamp": 1602895642,
     "info": [
+        {
+            "title": "吐く息でコロナ検査する方法開発　東北大学と島津製作所",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1186821",
+            "published_at": "2020/10/17 09:21"
+        },
+        {
+            "title": "コロナ治療薬レムデシビル、死亡率の改善効果みられず　ＷＨＯ臨床試験、英紙報道",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1186820",
+            "published_at": "2020/10/17 09:15"
+        },
         {
             "title": "若狭高の探究学習",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1186796",
@@ -20,11 +30,6 @@
             "title": "開業不透明にＪＲ西社長「驚き」",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1186501",
             "published_at": "2020/10/17 07:00"
-        },
-        {
-            "title": "新幹線開業不透明、再開発への影響は",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1186274",
-            "published_at": "2020/10/16 17:10"
         }
     ]
 }
