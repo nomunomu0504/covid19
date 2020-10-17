@@ -1,6 +1,11 @@
 {
-    "timestamp": 1602929856,
+    "timestamp": 1602973014,
     "info": [
+        {
+            "title": "エルパ20周年、ランタン夜空彩る",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1187153",
+            "published_at": "2020/10/18 07:10"
+        },
         {
             "title": "10/17コロナ速報_滋賀県近江八幡市、野洲市で計2人感染　60代会社役員と40代会社員",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1187014",
@@ -15,11 +20,6 @@
             "title": "10/17コロナ速報_石川県で5人感染　白山市の小学生や野々市市の大学の学生も",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1187001",
             "published_at": "2020/10/17 17:55"
-        },
-        {
-            "title": "10/17コロナ速報_東京都で235人感染　入院中の重症患者は23人",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1186916",
-            "published_at": "2020/10/17 15:05"
         }
     ]
 }
