@@ -1,15 +1,25 @@
 {
-    "timestamp": 1602915529,
+    "timestamp": 1602926230,
     "info": [
+        {
+            "title": "10/17コロナ速報_京都府と京都市が計8人の感染発表",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1187022",
+            "published_at": "2020/10/17 18:00"
+        },
+        {
+            "title": "10/17コロナ速報_石川県で5人感染　白山市の小学生や野々市市の大学の学生も",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1187001",
+            "published_at": "2020/10/17 17:55"
+        },
+        {
+            "title": "10/17コロナ速報_滋賀県が2人の感染発表",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1187014",
+            "published_at": "2020/10/17 17:55"
+        },
         {
             "title": "10/17コロナ速報_東京都で235人感染　入院中の重症患者は23人",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1186916",
             "published_at": "2020/10/17 15:05"
-        },
-        {
-            "title": "福井県コロナ新規感染者なし",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1186865",
-            "published_at": "2020/10/17 12:00"
         }
     ]
 }
