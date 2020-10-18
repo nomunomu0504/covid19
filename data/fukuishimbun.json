@@ -1,6 +1,11 @@
 {
-    "timestamp": 1603001930,
+    "timestamp": 1603009135,
     "info": [
+        {
+            "title": "交通死亡事故相次ぎ死者数が月別最多",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1187449",
+            "published_at": "2020/10/18 17:00"
+        },
         {
             "title": "福井2人感染、高校生ら91人検査",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1187432",
@@ -15,11 +20,6 @@
             "title": "高浜町の男女2人がコロナ感染",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1187412",
             "published_at": "2020/10/18 12:15"
-        },
-        {
-            "title": "エルパ20周年、ランタン夜空彩る",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1187153",
-            "published_at": "2020/10/18 07:10"
         }
     ]
 }
