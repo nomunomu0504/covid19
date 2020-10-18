@@ -1,6 +1,11 @@
 {
-    "timestamp": 1602987507,
+    "timestamp": 1602991020,
     "info": [
+        {
+            "title": "高浜町の男女2人がコロナ感染",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1187412",
+            "published_at": "2020/10/18 12:15"
+        },
         {
             "title": "エルパ20周年、ランタン夜空彩る",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1187153",
@@ -10,11 +15,6 @@
             "title": "10/17コロナ速報_滋賀県近江八幡市、野洲市で計2人感染　60代会社役員と40代会社員",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1187014",
             "published_at": "2020/10/17 18:16"
-        },
-        {
-            "title": "10/17コロナ速報_京都府と京都市が計8人の感染発表",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1187022",
-            "published_at": "2020/10/17 18:00"
         }
     ]
 }
