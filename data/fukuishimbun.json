@@ -1,15 +1,15 @@
 {
-    "timestamp": 1603068528,
+    "timestamp": 1603077434,
     "info": [
+        {
+            "title": "福井県内コロナ新規感染者なし",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1187925",
+            "published_at": "2020/10/19 12:15"
+        },
         {
             "title": "徒歩で福井県内縦断、１カ月の旅",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1187562",
             "published_at": "2020/10/19 07:10"
-        },
-        {
-            "title": "10/18コロナ速報_石川県白山市の男性２人の感染確認",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1187525",
-            "published_at": "2020/10/18 17:55"
         }
     ]
 }
