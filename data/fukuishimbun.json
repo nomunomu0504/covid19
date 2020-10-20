@@ -1,6 +1,11 @@
 {
-    "timestamp": 1603182016,
+    "timestamp": 1603185459,
     "info": [
+        {
+            "title": "10/20コロナ速報_滋賀県で女性1人死亡、3人感染",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1188805",
+            "published_at": "2020/10/20 18:09"
+        },
         {
             "title": "コロナで楽器ブーム売れ筋はウクレレ",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1188679",
@@ -30,11 +35,6 @@
             "title": "佐々木鯖江市長　初登庁",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1188432",
             "published_at": "2020/10/20 07:30"
-        },
-        {
-            "title": "五輪ホストタウンの苦しい胸の内",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1188122",
-            "published_at": "2020/10/20 07:20"
         }
     ]
 }
