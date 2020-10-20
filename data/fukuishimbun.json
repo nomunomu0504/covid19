@@ -1,10 +1,20 @@
 {
-    "timestamp": 1603185459,
+    "timestamp": 1603189106,
     "info": [
         {
-            "title": "10/20コロナ速報_滋賀県で女性1人死亡、3人感染",
+            "title": "10/20コロナ速報_京都府と京都市が1人死亡、3人の感染確認　1人の再陽性も",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1188835",
+            "published_at": "2020/10/20 18:46"
+        },
+        {
+            "title": "10/20コロナ速報_岐阜県と岐阜市が男女3人の感染確認　多治見市の2人は感染女性の飲食店を訪問",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1188812",
+            "published_at": "2020/10/20 18:32"
+        },
+        {
+            "title": "10/20コロナ速報_滋賀県で20~50代の男性3人感染　80代女性1人が死亡",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1188805",
-            "published_at": "2020/10/20 18:09"
+            "published_at": "2020/10/20 18:26"
         },
         {
             "title": "コロナで楽器ブーム売れ筋はウクレレ",
@@ -30,11 +40,6 @@
             "title": "福井県内コロナ新規感染者なし",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1188560",
             "published_at": "2020/10/20 12:00"
-        },
-        {
-            "title": "佐々木鯖江市長　初登庁",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1188432",
-            "published_at": "2020/10/20 07:30"
         }
     ]
 }
