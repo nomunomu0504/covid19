@@ -1,6 +1,16 @@
 {
-    "timestamp": 1603268405,
+    "timestamp": 1603271861,
     "info": [
+        {
+            "title": "10/21コロナ速報_岐阜県と岐阜市が計4人の感染確認　県内感染確認は計651人に",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1189523",
+            "published_at": "2020/10/21 17:52"
+        },
+        {
+            "title": "10/21コロナ速報_滋賀県で1人感染　県内感染確認は計531人に",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1189499",
+            "published_at": "2020/10/21 17:30"
+        },
         {
             "title": "おせち料理もコロナ対応、個食型充実",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1189356",
@@ -20,11 +30,6 @@
             "title": "福井県で新たな感染なし、３日連続",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1189281",
             "published_at": "2020/10/21 11:58"
-        },
-        {
-            "title": "子どもに人気の職業の保育士なぜ不足",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1188888",
-            "published_at": "2020/10/21 07:20"
         }
     ]
 }
