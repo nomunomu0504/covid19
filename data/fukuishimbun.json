@@ -1,6 +1,11 @@
 {
-    "timestamp": 1603235798,
+    "timestamp": 1603250244,
     "info": [
+        {
+            "title": "福井県で新たな感染なし、３日連続",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1189281",
+            "published_at": "2020/10/21 11:58"
+        },
         {
             "title": "子どもに人気の職業の保育士なぜ不足",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1188888",
@@ -10,16 +15,6 @@
             "title": "10/20コロナ速報_京都府と京都市が1人死亡、3人の感染確認　1人の再陽性も",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1188835",
             "published_at": "2020/10/20 18:46"
-        },
-        {
-            "title": "10/20コロナ速報_岐阜県と岐阜市が男女3人の感染確認　多治見市の2人は感染女性の飲食店を訪問",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1188812",
-            "published_at": "2020/10/20 18:32"
-        },
-        {
-            "title": "10/20コロナ速報_滋賀県で20~50代の男性3人感染　80代女性1人が死亡",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1188805",
-            "published_at": "2020/10/20 18:26"
         }
     ]
 }
