@@ -1,6 +1,11 @@
 {
-    "timestamp": 1603250244,
+    "timestamp": 1603261193,
     "info": [
+        {
+            "title": "10/21コロナ速報_東京都で150人感染",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1189380",
+            "published_at": "2020/10/21 15:03"
+        },
         {
             "title": "福井県で新たな感染なし、３日連続",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1189281",
@@ -10,11 +15,6 @@
             "title": "子どもに人気の職業の保育士なぜ不足",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1188888",
             "published_at": "2020/10/21 07:20"
-        },
-        {
-            "title": "10/20コロナ速報_京都府と京都市が1人死亡、3人の感染確認　1人の再陽性も",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1188835",
-            "published_at": "2020/10/20 18:46"
         }
     ]
 }
