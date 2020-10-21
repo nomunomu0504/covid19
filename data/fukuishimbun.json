@@ -1,6 +1,11 @@
 {
-    "timestamp": 1603318699,
+    "timestamp": 1603322212,
     "info": [
+        {
+            "title": "県外大学受験、感染予防気を張る高校",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1189607",
+            "published_at": "2020/10/22 07:20"
+        },
         {
             "title": "福井県内インフル患者いまだゼロ",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1189589",
@@ -30,21 +35,6 @@
             "title": "おせち料理もコロナ対応、個食型充実",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1189356",
             "published_at": "2020/10/21 17:10"
-        },
-        {
-            "title": "コロナ禍の米国と黄色人種脅威論",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1189370",
-            "published_at": "2020/10/21 17:00"
-        },
-        {
-            "title": "10/21コロナ速報_東京都で150人感染",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1189380",
-            "published_at": "2020/10/21 15:03"
-        },
-        {
-            "title": "福井県で新たな感染なし、３日連続",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1189281",
-            "published_at": "2020/10/21 11:58"
         }
     ]
 }
