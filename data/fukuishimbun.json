@@ -1,6 +1,11 @@
 {
-    "timestamp": 1603340409,
+    "timestamp": 1603347593,
     "info": [
+        {
+            "title": "10/22コロナ速報_東京都で新たに185人感染",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1190146",
+            "published_at": "2020/10/22 15:03"
+        },
         {
             "title": "カラオケ店名公表「客の命考え」即断",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1189955",
@@ -10,16 +15,6 @@
             "title": "首都圏在住者が異業種ビジネス対談へ",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1189960",
             "published_at": "2020/10/22 10:10"
-        },
-        {
-            "title": "県外大学受験、感染予防気を張る高校",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1189607",
-            "published_at": "2020/10/22 07:20"
-        },
-        {
-            "title": "福井県内インフル患者いまだゼロ",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1189589",
-            "published_at": "2020/10/22 07:10"
         }
     ]
 }
