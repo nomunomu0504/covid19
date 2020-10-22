@@ -1,6 +1,16 @@
 {
-    "timestamp": 1603354826,
+    "timestamp": 1603358256,
     "info": [
+        {
+            "title": "10/22コロナ速報_滋賀県が2人の感染発表",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1190275",
+            "published_at": "2020/10/22 18:10"
+        },
+        {
+            "title": "10/22コロナ速報_石川県金沢市の男性1人感染",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1190244",
+            "published_at": "2020/10/22 17:54"
+        },
         {
             "title": "レシートに４か８あればマイ箸セット",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1190134",
@@ -15,16 +25,6 @@
             "title": "10/22コロナ速報_東京都で新たに185人感染",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1190146",
             "published_at": "2020/10/22 15:03"
-        },
-        {
-            "title": "カラオケ店名公表「客の命考え」即断",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1189955",
-            "published_at": "2020/10/22 10:40"
-        },
-        {
-            "title": "首都圏在住者が異業種ビジネス対談へ",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1189960",
-            "published_at": "2020/10/22 10:10"
         }
     ]
 }
