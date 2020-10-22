@@ -1,6 +1,11 @@
 {
-    "timestamp": 1603361938,
+    "timestamp": 1603365409,
     "info": [
+        {
+            "title": "10/22コロナ速報_岐阜県が9人の感染発表",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1190329",
+            "published_at": "2020/10/22 19:25"
+        },
         {
             "title": "10/22コロナ速報_滋賀県守山市、大津市で計2人感染　60代男性と30代女性",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1190275",
@@ -25,11 +30,6 @@
             "title": "民生委員と高齢者つなぐITシステム",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1190078",
             "published_at": "2020/10/22 16:50"
-        },
-        {
-            "title": "10/22コロナ速報_東京都で新たに185人感染",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1190146",
-            "published_at": "2020/10/22 15:03"
         }
     ]
 }
