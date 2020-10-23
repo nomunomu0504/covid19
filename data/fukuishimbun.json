@@ -1,6 +1,11 @@
 {
-    "timestamp": 1603408632,
+    "timestamp": 1603423081,
     "info": [
+        {
+            "title": "コロナ検査、福井県内246機関に",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1190697",
+            "published_at": "2020/10/23 11:30"
+        },
         {
             "title": "東京五輪「世界から観客」",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1190658",
@@ -20,16 +25,6 @@
             "title": "恐竜博物館－福井駅ど迫力の直通バス",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1190335",
             "published_at": "2020/10/23 06:50"
-        },
-        {
-            "title": "10/22コロナ速報_岐阜県で9人感染　関市、多治見市でクラスター　",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1190329",
-            "published_at": "2020/10/22 20:37"
-        },
-        {
-            "title": "10/22コロナ速報_滋賀県守山市、大津市で計2人感染　60代男性と30代女性",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1190275",
-            "published_at": "2020/10/22 19:04"
         }
     ]
 }
