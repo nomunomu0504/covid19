@@ -1,5 +1,5 @@
 {
-    "timestamp": 1603534724,
+    "timestamp": 1603538209,
     "info": [
         {
             "title": "10/24コロナ速報_京都府と京都市が5人の感染発表",
@@ -12,6 +12,11 @@
             "published_at": "2020/10/24 17:55"
         },
         {
+            "title": "10/24コロナ速報_岐阜県が3人の感染発表",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1191700",
+            "published_at": "2020/10/24 17:50"
+        },
+        {
             "title": "眼鏡産地鯖江の新作、国際展で披露",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1191608",
             "published_at": "2020/10/24 17:00"
@@ -20,11 +25,6 @@
             "title": "福井県の名所、おしゃれ動画で発信",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1191609",
             "published_at": "2020/10/24 16:50"
-        },
-        {
-            "title": "米大統領選　最終盤に",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1191462",
-            "published_at": "2020/10/24 07:30"
         }
     ]
 }
