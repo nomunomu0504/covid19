@@ -1,6 +1,11 @@
 {
-    "timestamp": 1603527587,
+    "timestamp": 1603531058,
     "info": [
+        {
+            "title": "10/24コロナ速報_滋賀県が2人の感染発表",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1191706",
+            "published_at": "2020/10/24 17:55"
+        },
         {
             "title": "眼鏡産地鯖江の新作、国際展で披露",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1191608",
@@ -15,11 +20,6 @@
             "title": "米大統領選　最終盤に",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1191462",
             "published_at": "2020/10/24 07:30"
-        },
-        {
-            "title": "GoToイート福井県内飲食店で開始",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1191167",
-            "published_at": "2020/10/24 07:20"
         }
     ]
 }
