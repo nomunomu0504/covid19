@@ -31,10 +31,10 @@
       <hospitalized-patients-card />
       <confirmed-cases-details-card />
       <each-sex-age-number-positive-card />
-      <inspection-persons-number-card />
+      <!-- <inspection-persons-number-card /> -->
       <hospital-beds-number-card />
-      <confirmed-cases-attributes-card />
       <information-number-card />
+      <confirmed-cases-attributes-card />
     </v-row>
   </div>
 </template>
@@ -64,7 +64,7 @@ import ConfirmedCasesAttributesCard from '@/components/cards/ConfirmedCasesAttri
 // 検査陽性者の状況
 import ConfirmedCasesDetailsCard from '@/components/cards/ConfirmedCasesDetailsCard.vue'
 // 検査実施人数
-import InspectionPersonsNumberCard from '@/components/cards/InspectionPersonsNumberCard.vue'
+// import InspectionPersonsNumberCard from '@/components/cards/InspectionPersonsNumberCard.vue'
 // 病床数
 import HospitalBedsNumberCard from '@/components/cards/HospitalBedsNumberCard.vue'
 // Youtube
@@ -114,7 +114,7 @@ export default Vue.extend({
     ConfirmedCasesNumberCard,
     HospitalizedPatientsCard,
     ConfirmedCasesDetailsCard,
-    InspectionPersonsNumberCard,
+    // InspectionPersonsNumberCard,
     // TestedCasesDetailsCard,
     ConfirmedCasesAttributesCard,
     HospitalBedsNumberCard,
