@@ -1,6 +1,11 @@
 {
-    "timestamp": 1603840653,
+    "timestamp": 1603855133,
     "info": [
+        {
+            "title": "即完売の宿泊券、福井市が販売数増へ",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1194103",
+            "published_at": "2020/10/28 11:30"
+        },
         {
             "title": "10/27コロナ速報_石川県で20代男性1人感染　東京都内勤務、金沢市に滞在",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1193628",
@@ -10,11 +15,6 @@
             "title": "10/27コロナ速報_滋賀県で4人感染　20~70代の男女",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1193675",
             "published_at": "2020/10/27 18:36"
-        },
-        {
-            "title": "10/27コロナ速報_京都府と京都市が計8人の感染発表",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1193676",
-            "published_at": "2020/10/27 18:09"
         }
     ]
 }
