@@ -1,17 +1,17 @@
 {
-    "date": "2020/10/28 13:22",
+    "date": "2020/10/31 16:08",
     "children": [
         {
             "attr": "陽性患者数",
-            "value": 256,
+            "value": 257,
             "children": [
                 {
                     "attr": "入院中",
-                    "value": 1,
+                    "value": 2,
                     "children": [
                         {
                             "attr": "軽症・中等症",
-                            "value": 1
+                            "value": 2
                         },
                         {
                             "attr": "重症",
