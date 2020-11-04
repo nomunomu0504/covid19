@@ -1,20 +1,20 @@
 {
-    "timestamp": 1604459278,
+    "timestamp": 1604531281,
     "info": [
+        {
+            "title": "大接戦の米大統領選",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1199377",
+            "published_at": "2020/11/05 07:30"
+        },
+        {
+            "title": "あつ森に支所、福井県の５市町が開設",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1199070",
+            "published_at": "2020/11/05 07:20"
+        },
         {
             "title": "福井県コロナ新規感染確認なし",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1198787",
             "published_at": "2020/11/04 12:05"
-        },
-        {
-            "title": "三国花火が見える民宿リニューアル",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1198690",
-            "published_at": "2020/11/04 10:50"
-        },
-        {
-            "title": "鯖江こころの電話３５年",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1198640",
-            "published_at": "2020/11/04 07:30"
         }
     ]
 }
