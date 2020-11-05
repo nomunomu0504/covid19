@@ -1,6 +1,11 @@
 {
-    "timestamp": 1604542173,
+    "timestamp": 1604545698,
     "info": [
+        {
+            "title": "福井県5日連続コロナ新規感染なし",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1199454",
+            "published_at": "2020/11/05 11:58"
+        },
         {
             "title": "福井県職員10年ぶりボーナス下げ",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1199415",
@@ -15,11 +20,6 @@
             "title": "あつ森に支所、福井県の５市町が開設",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1199070",
             "published_at": "2020/11/05 07:20"
-        },
-        {
-            "title": "福井県コロナ新規感染確認なし",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1198787",
-            "published_at": "2020/11/04 12:05"
         }
     ]
 }
