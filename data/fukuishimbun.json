@@ -1,6 +1,11 @@
 {
-    "timestamp": 1604787001,
+    "timestamp": 1604804921,
     "info": [
+        {
+            "title": "敦賀市の男性が新型コロナ感染",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1201366",
+            "published_at": "2020/11/08 12:03"
+        },
         {
             "title": "福井で来夏インターハイ、279点灯",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1201094",
@@ -10,11 +15,6 @@
             "title": "コロナ１人感染、福井県会見を中継",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1200896",
             "published_at": "2020/11/07 12:07"
-        },
-        {
-            "title": "越前町の男性が新型コロナ感染",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1200892",
-            "published_at": "2020/11/07 12:03"
         }
     ]
 }
