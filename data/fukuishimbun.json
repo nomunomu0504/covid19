@@ -1,6 +1,16 @@
 {
-    "timestamp": 1604974240,
+    "timestamp": 1604981305,
     "info": [
+        {
+            "title": "コロナ４人感染、福井県会見を中継",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1202542",
+            "published_at": "2020/11/10 12:14"
+        },
+        {
+            "title": "福井県で男女４人新型コロナ感染",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1202507",
+            "published_at": "2020/11/10 12:00"
+        },
         {
             "title": "北陸新幹線、敦賀開業１年以上延期へ",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1202381",
@@ -10,16 +20,6 @@
             "title": "バイデン氏勝利確実",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1202352",
             "published_at": "2020/11/10 07:30"
-        },
-        {
-            "title": "コロナ禍で気付いた幸せラップに込め",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1201835",
-            "published_at": "2020/11/09 17:30"
-        },
-        {
-            "title": "骨髄提供の決断後押し、福井市の制度",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1201863",
-            "published_at": "2020/11/09 17:15"
         }
     ]
 }
