@@ -1,6 +1,11 @@
 {
-    "timestamp": 1605049650,
+    "timestamp": 1605060521,
     "info": [
+        {
+            "title": "野口聡一さん、福井の挑戦にエール",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1203146",
+            "published_at": "2020/11/11 11:00"
+        },
         {
             "title": "新敦賀ムゼウム開館",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1203111",
@@ -20,11 +25,6 @@
             "title": "新幹線開業遅れ見通し、知事が批判",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1202825",
             "published_at": "2020/11/11 07:00"
-        },
-        {
-            "title": "４人感染、福井市の高校関係者は１人",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1202580",
-            "published_at": "2020/11/10 14:30"
         }
     ]
 }
