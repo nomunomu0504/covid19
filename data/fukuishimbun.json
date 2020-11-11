@@ -1,6 +1,11 @@
 {
-    "timestamp": 1605067759,
+    "timestamp": 1605074914,
     "info": [
+        {
+            "title": "2人感染、福井市の高校関係は1人",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1203307",
+            "published_at": "2020/11/11 14:14"
+        },
         {
             "title": "コロナ２人感染、福井県会見を中継",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1203242",
@@ -24,11 +29,6 @@
         {
             "title": "ＪＡＬグループの機内誌に浅田次郎…",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1203110",
-            "published_at": "2020/11/11 07:20"
-        },
-        {
-            "title": "おせち予約が好調、巣ごもり需要",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1202856",
             "published_at": "2020/11/11 07:20"
         }
     ]
