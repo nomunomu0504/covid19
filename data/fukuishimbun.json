@@ -1,6 +1,11 @@
 {
-    "timestamp": 1605154159,
+    "timestamp": 1605168565,
     "info": [
+        {
+            "title": "福井大病院なぜ外来玄関で検温しない",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1204108",
+            "published_at": "2020/11/12 17:00"
+        },
         {
             "title": "コロナ1人感染、福井県会見を中継",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1203988",
@@ -10,11 +15,6 @@
             "title": "福井市の男性１人新型コロナ感染",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1203986",
             "published_at": "2020/11/12 12:02"
-        },
-        {
-            "title": "卒業アルバム用撮影、写真家の奮闘",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1203511",
-            "published_at": "2020/11/12 07:10"
         }
     ]
 }
