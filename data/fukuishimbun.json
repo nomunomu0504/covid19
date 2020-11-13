@@ -1,6 +1,11 @@
 {
-    "timestamp": 1605240576,
+    "timestamp": 1605247745,
     "info": [
+        {
+            "title": "坂井２人感染、高校生とその同居家族",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1204828",
+            "published_at": "2020/11/13 14:35"
+        },
         {
             "title": "コロナ２人感染、福井県会見を中継",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1204776",
@@ -20,11 +25,6 @@
             "title": "コロナ「第３波」の様相",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1204635",
             "published_at": "2020/11/13 07:30"
-        },
-        {
-            "title": "１１月１３日は「うるしの日」。平…",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1204626",
-            "published_at": "2020/11/13 07:20"
         }
     ]
 }
