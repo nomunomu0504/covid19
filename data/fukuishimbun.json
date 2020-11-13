@@ -1,6 +1,16 @@
 {
-    "timestamp": 1605236902,
+    "timestamp": 1605240576,
     "info": [
+        {
+            "title": "コロナ２人感染、福井県会見を中継",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1204776",
+            "published_at": "2020/11/13 12:15"
+        },
+        {
+            "title": "坂井市の２人が新型コロナ感染",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1204715",
+            "published_at": "2020/11/13 12:08"
+        },
         {
             "title": "福井県がコロナ感染拡大注意報を発令",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1204714",
@@ -15,11 +25,6 @@
             "title": "１１月１３日は「うるしの日」。平…",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1204626",
             "published_at": "2020/11/13 07:20"
-        },
-        {
-            "title": "福井県コロナ感染５系統に県外宿泊歴",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1204323",
-            "published_at": "2020/11/13 07:10"
         }
     ]
 }
