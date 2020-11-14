@@ -1,6 +1,11 @@
 {
-    "timestamp": 1605323294,
+    "timestamp": 1605326964,
     "info": [
+        {
+            "title": "コロナ１人感染、福井県会見を中継",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1205430",
+            "published_at": "2020/11/14 12:08"
+        },
         {
             "title": "福井市の20代女性1人コロナ感染",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1205414",
@@ -15,11 +20,6 @@
             "title": "入院コーディネートセンターを設置",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1205054",
             "published_at": "2020/11/14 07:10"
-        },
-        {
-            "title": "パティシエ　新メニューどう作る？",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1204036",
-            "published_at": "2020/11/14 05:00"
         }
     ]
 }
