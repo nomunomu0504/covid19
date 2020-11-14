@@ -1,6 +1,11 @@
 {
-    "timestamp": 1605334153,
+    "timestamp": 1605344900,
     "info": [
+        {
+            "title": "福井市の宿泊券「早い者勝ち」に批判",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1205472",
+            "published_at": "2020/11/14 17:10"
+        },
         {
             "title": "コロナ１人感染、福井県会見を中継",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1205430",
@@ -15,11 +20,6 @@
             "title": "セイコガニ丼、若狭牛…福井の食集結",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1205409",
             "published_at": "2020/11/14 11:30"
-        },
-        {
-            "title": "福井県コロナ注意報「３波ではない」",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1205054",
-            "published_at": "2020/11/14 07:10"
         }
     ]
 }
