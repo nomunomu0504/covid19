@@ -1,6 +1,11 @@
 {
-    "timestamp": 1605406175,
+    "timestamp": 1605409689,
     "info": [
+        {
+            "title": "福井県９日ぶり新規コロナ感染者なし",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1205857",
+            "published_at": "2020/11/15 11:47"
+        },
         {
             "title": "「海は国民のものだから貝も皆のもの」と言う密漁者に問う…海の資源は誰が守ってる？",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1202026",
@@ -20,11 +25,6 @@
             "title": "福井市の宿泊券「早い者勝ち」に批判",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1205472",
             "published_at": "2020/11/14 17:10"
-        },
-        {
-            "title": "コロナ１人感染、福井県会見を中継",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1205430",
-            "published_at": "2020/11/14 12:08"
         }
     ]
 }
