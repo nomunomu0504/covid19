@@ -1,6 +1,11 @@
 {
-    "timestamp": 1605409689,
+    "timestamp": 1605427727,
     "info": [
+        {
+            "title": "インフル、子どもへの予防接種重要",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1205921",
+            "published_at": "2020/11/15 17:00"
+        },
         {
             "title": "福井県９日ぶり新規コロナ感染者なし",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1205857",
@@ -20,11 +25,6 @@
             "title": "油揚げ消費量日本一のまちでフェス",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1205584",
             "published_at": "2020/11/15 07:20"
-        },
-        {
-            "title": "福井市の宿泊券「早い者勝ち」に批判",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1205472",
-            "published_at": "2020/11/14 17:10"
         }
     ]
 }
