@@ -1,6 +1,11 @@
 {
-    "timestamp": 1605676117,
+    "timestamp": 1605683352,
     "info": [
+        {
+            "title": "11人感染、10人が既感染者と接触",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1207829",
+            "published_at": "2020/11/18 15:25"
+        },
         {
             "title": "美浜原発関連３人感染、計７人に",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1207828",
@@ -34,11 +39,6 @@
         {
             "title": "コロナ感染防止期待される物質特定",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1207323",
-            "published_at": "2020/11/18 07:20"
-        },
-        {
-            "title": "江戸期にも感染症対策の持続化給付…",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1207611",
             "published_at": "2020/11/18 07:20"
         }
     ]
