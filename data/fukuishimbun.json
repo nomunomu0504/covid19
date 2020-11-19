@@ -1,6 +1,16 @@
 {
-    "timestamp": 1605741015,
+    "timestamp": 1605755317,
     "info": [
+        {
+            "title": "福井県が6人のコロナ感染発表",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1208389",
+            "published_at": "2020/11/19 12:05"
+        },
+        {
+            "title": "福井県がコロナ注意報など指標見直し",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1208400",
+            "published_at": "2020/11/19 11:30"
+        },
         {
             "title": "バッハＩＯＣ会長訪日",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1208310",
@@ -10,11 +20,6 @@
             "title": "福井県内コロナ拡大、第３波は目前",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1208008",
             "published_at": "2020/11/19 07:20"
-        },
-        {
-            "title": "11人感染、10人が既感染者と接触",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1207829",
-            "published_at": "2020/11/18 15:25"
         }
     ]
 }
