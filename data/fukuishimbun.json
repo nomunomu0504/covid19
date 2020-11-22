@@ -1,20 +1,15 @@
 {
-    "timestamp": 1606036119,
+    "timestamp": 1606083010,
     "info": [
+        {
+            "title": "GoToトラベル、福井県内に不安",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1210550",
+            "published_at": "2020/11/23 07:10"
+        },
         {
             "title": "福井の高校、生徒と教員73人を検査",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1210416",
             "published_at": "2020/11/22 15:15"
-        },
-        {
-            "title": "コロナ２人感染、福井県会見を中継",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1210388",
-            "published_at": "2020/11/22 12:07"
-        },
-        {
-            "title": "福井市の女性２人が新型コロナ感染",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1210387",
-            "published_at": "2020/11/22 11:58"
         }
     ]
 }
