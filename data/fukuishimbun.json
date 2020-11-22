@@ -1,6 +1,11 @@
 {
-    "timestamp": 1606000113,
+    "timestamp": 1606014517,
     "info": [
+        {
+            "title": "福井市の女性２人が新型コロナ感染",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1210387",
+            "published_at": "2020/11/22 11:58"
+        },
         {
             "title": "我慢の連休、観光地は開場前に行列も",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1210117",
@@ -15,11 +20,6 @@
             "title": "建設土木業界と就活学生が熱くトーク",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1210097",
             "published_at": "2020/11/22 06:30"
-        },
-        {
-            "title": "コロナ禍にフィット老舗帯屋の逆転劇",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1209900",
-            "published_at": "2020/11/21 17:10"
         }
     ]
 }
