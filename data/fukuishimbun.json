@@ -1,6 +1,11 @@
 {
-    "timestamp": 1606515019,
+    "timestamp": 1606518559,
     "info": [
+        {
+            "title": "武商デパート３０年",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1214157",
+            "published_at": "2020/11/28 07:30"
+        },
         {
             "title": "恐竜サンタ登場、マフラーは鬼滅柄",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1213884",
@@ -10,21 +15,6 @@
             "title": "ヨサコイ、コロナ禍の中で待望舞台",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1213453",
             "published_at": "2020/11/27 12:30"
-        },
-        {
-            "title": "コロナ３人感染、福井県会見を中継",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1213419",
-            "published_at": "2020/11/27 12:10"
-        },
-        {
-            "title": "坂井市、福井市の３人コロナ感染",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1213350",
-            "published_at": "2020/11/27 12:03"
-        },
-        {
-            "title": "ウインターカップ組み合わせ決定",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1213405",
-            "published_at": "2020/11/27 11:34"
         }
     ]
 }
