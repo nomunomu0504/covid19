@@ -1,6 +1,11 @@
 {
-    "timestamp": 1606536707,
+    "timestamp": 1606551062,
     "info": [
+        {
+            "title": "きょうりゅう電車、限定運行で大人気",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1214280",
+            "published_at": "2020/11/28 17:00"
+        },
         {
             "title": "コロナ２人感染、福井県会見を中継",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1214223",
@@ -15,11 +20,6 @@
             "title": "武商デパート３０年",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1214157",
             "published_at": "2020/11/28 07:30"
-        },
-        {
-            "title": "恐竜サンタ登場、マフラーは鬼滅柄",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1213884",
-            "published_at": "2020/11/28 07:00"
         }
     ]
 }
