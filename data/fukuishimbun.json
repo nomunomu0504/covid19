@@ -1,6 +1,11 @@
 {
-    "timestamp": 1606619380,
+    "timestamp": 1606637464,
     "info": [
+        {
+            "title": "福井県民向けに１月から電子割引券",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1214695",
+            "published_at": "2020/11/29 17:00"
+        },
         {
             "title": "福井県14日ぶり新規感染者なし",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1214660",
@@ -15,11 +20,6 @@
             "title": "「教室は万博の話題一色（略）万博へ…",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1214595",
             "published_at": "2020/11/29 07:20"
-        },
-        {
-            "title": "冬の甘味「水ようかん」作り本格化",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1214329",
-            "published_at": "2020/11/29 07:00"
         }
     ]
 }
