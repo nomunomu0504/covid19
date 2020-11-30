@@ -1,6 +1,16 @@
 {
-    "timestamp": 1606774266,
+    "timestamp": 1606777762,
     "info": [
+        {
+            "title": "新市長に水上氏",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1215747",
+            "published_at": "2020/12/01 07:30"
+        },
+        {
+            "title": "「恥知らず」や「恥の上塗り」「恥も…",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1215746",
+            "published_at": "2020/12/01 07:20"
+        },
         {
             "title": "「最高の食材」丸々太った敦賀ふぐ",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1215441",
@@ -20,11 +30,6 @@
             "title": "福井市、坂井市の２人コロナ感染",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1215105",
             "published_at": "2020/11/30 12:00"
-        },
-        {
-            "title": "学校にタブレット導入",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1215013",
-            "published_at": "2020/11/30 07:30"
         }
     ]
 }
