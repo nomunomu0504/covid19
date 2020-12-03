@@ -1,6 +1,11 @@
 {
-    "timestamp": 1607033498,
+    "timestamp": 1607036986,
     "info": [
+        {
+            "title": "臨時国会閉会へ",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1218052",
+            "published_at": "2020/12/04 07:30"
+        },
         {
             "title": "大飯原発の作業員1人がコロナ感染",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1217470",
@@ -10,21 +15,6 @@
             "title": "コロナ1人感染、福井県の会見中継",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1217396",
             "published_at": "2020/12/03 12:08"
-        },
-        {
-            "title": "福井県が1人のコロナ感染発表",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1217394",
-            "published_at": "2020/12/03 12:05"
-        },
-        {
-            "title": "苦境の観光バス、コロナ禍で続く模索",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1217382",
-            "published_at": "2020/12/03 11:03"
-        },
-        {
-            "title": "ＧｏＴｏ東京一部自粛",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1217289",
-            "published_at": "2020/12/03 07:30"
         }
     ]
 }
