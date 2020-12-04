@@ -1,6 +1,11 @@
 {
-    "timestamp": 1607047866,
+    "timestamp": 1607051435,
     "info": [
+        {
+            "title": "12/4_福井県で１人感染確認",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1218113",
+            "published_at": "2020/12/04 12:05"
+        },
         {
             "title": "新型コロナ、ネット中傷恐れ12件",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1218141",
@@ -10,11 +15,6 @@
             "title": "臨時国会閉会へ",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1218052",
             "published_at": "2020/12/04 07:30"
-        },
-        {
-            "title": "大飯原発の作業員1人がコロナ感染",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1217470",
-            "published_at": "2020/12/03 14:18"
         }
     ]
 }
