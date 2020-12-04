@@ -1,6 +1,11 @@
 {
-    "timestamp": 1607069642,
+    "timestamp": 1607123415,
     "info": [
+        {
+            "title": "江戸時代。世の中が平和になると…",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1218813",
+            "published_at": "2020/12/05 07:20"
+        },
         {
             "title": "小中学校の冬休み短縮、最短は８日間",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1218312",
@@ -10,21 +15,6 @@
             "title": "コロナ１人感染、福井県の会見中継",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1218114",
             "published_at": "2020/12/04 12:10"
-        },
-        {
-            "title": "福井県が1人のコロナ感染発表",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1218113",
-            "published_at": "2020/12/04 12:05"
-        },
-        {
-            "title": "新型コロナ、ネット中傷恐れ12件",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1218141",
-            "published_at": "2020/12/04 11:00"
-        },
-        {
-            "title": "臨時国会閉会へ",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1218052",
-            "published_at": "2020/12/04 07:30"
         }
     ]
 }
