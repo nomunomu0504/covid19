@@ -1,6 +1,11 @@
 {
-    "timestamp": 1607137826,
+    "timestamp": 1607155905,
     "info": [
+        {
+            "title": "スキージャム勝山12月19日営業へ",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1218981",
+            "published_at": "2020/12/05 17:00"
+        },
         {
             "title": "福井県内コロナ新規感染者なし",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1218893",
@@ -10,11 +15,6 @@
             "title": "江戸時代。世の中が平和になると…",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1218813",
             "published_at": "2020/12/05 07:20"
-        },
-        {
-            "title": "小中学校の冬休み短縮、最短は８日間",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1218312",
-            "published_at": "2020/12/04 17:10"
         }
     ]
 }
