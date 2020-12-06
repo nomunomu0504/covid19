@@ -1,6 +1,11 @@
 {
-    "timestamp": 1607242326,
+    "timestamp": 1607292724,
     "info": [
+        {
+            "title": "假屋崎省吾さん、初個展のエピソード",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1219553",
+            "published_at": "2020/12/07 07:10"
+        },
         {
             "title": "アミーガスで９年、ゆりなさん卒業",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1219373",
@@ -10,11 +15,6 @@
             "title": "福井県２日連続コロナ新規感染者なし",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1219341",
             "published_at": "2020/12/06 12:12"
-        },
-        {
-            "title": "餅の消費全国トップ級の福井で餅祭",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1219078",
-            "published_at": "2020/12/06 07:00"
         }
     ]
 }
