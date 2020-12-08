@@ -1,6 +1,11 @@
 {
-    "timestamp": 1607465559,
+    "timestamp": 1607469054,
     "info": [
+        {
+            "title": "虐待防止策強化",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1221178",
+            "published_at": "2020/12/09 07:30"
+        },
         {
             "title": "コロナ4人感染、福井県の会見中継",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1220605",
@@ -10,16 +15,6 @@
             "title": "福井県で新たに4人が新型コロナ感染",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1220550",
             "published_at": "2020/12/08 12:10"
-        },
-        {
-            "title": "福井県が災害派遣福祉チーム結成準備",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1220591",
-            "published_at": "2020/12/08 11:50"
-        },
-        {
-            "title": "コロナ禍と就職難",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1220487",
-            "published_at": "2020/12/08 07:30"
         }
     ]
 }
