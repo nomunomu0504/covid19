@@ -1,6 +1,16 @@
 {
-    "timestamp": 1607397090,
+    "timestamp": 1607400786,
     "info": [
+        {
+            "title": "コロナ4人感染、福井県の会見中継",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1220605",
+            "published_at": "2020/12/08 12:15"
+        },
+        {
+            "title": "福井県で新たに4人が新型コロナ感染",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1220550",
+            "published_at": "2020/12/08 12:10"
+        },
         {
             "title": "福井県が災害派遣福祉チーム結成準備",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1220591",
@@ -20,11 +30,6 @@
             "title": "破魔矢や絵馬、神社は迎春ムード",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1220121",
             "published_at": "2020/12/08 07:00"
-        },
-        {
-            "title": "脳卒中病床、福井赤十字病院が拡充",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1219944",
-            "published_at": "2020/12/07 17:00"
         }
     ]
 }
