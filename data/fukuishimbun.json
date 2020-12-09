@@ -1,6 +1,11 @@
 {
-    "timestamp": 1607501545,
+    "timestamp": 1607551944,
     "info": [
+        {
+            "title": "年末年始の帰省控え福井県知事訴え",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1221630",
+            "published_at": "2020/12/10 07:00"
+        },
         {
             "title": "福井県がコロナ拡大注意報４度目延長",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1221415",
@@ -10,11 +15,6 @@
             "title": "福井県で新たに３人新型コロナ感染",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1221310",
             "published_at": "2020/12/09 12:10"
-        },
-        {
-            "title": "虐待防止策強化",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1221178",
-            "published_at": "2020/12/09 07:30"
         }
     ]
 }
