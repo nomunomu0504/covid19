@@ -1,6 +1,16 @@
 {
-    "timestamp": 1607653159,
+    "timestamp": 1607660002,
     "info": [
+        {
+            "title": "GoToフィットネス福井、利用お得",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1222662",
+            "published_at": "2020/12/11 12:30"
+        },
+        {
+            "title": "福井県内コロナ新規感染者なし",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1222663",
+            "published_at": "2020/12/11 12:10"
+        },
         {
             "title": "箱根駅伝2021福井県勢エントリー",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1222621",
@@ -10,11 +20,6 @@
             "title": "止まらぬ「第３波」",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1222536",
             "published_at": "2020/12/11 07:30"
-        },
-        {
-            "title": "１年開業遅れ、与党PT10日再協議",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1222128",
-            "published_at": "2020/12/10 16:05"
         }
     ]
 }
