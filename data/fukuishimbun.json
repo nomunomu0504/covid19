@@ -1,6 +1,11 @@
 {
-    "timestamp": 1608085332,
+    "timestamp": 1608088268,
     "info": [
+        {
+            "title": "福井市の学生、教員計４人コロナ感染",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1225575",
+            "published_at": "2020/12/16 12:08"
+        },
         {
             "title": "ＧｏＴｏトラベル停止",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1225443",
@@ -10,11 +15,6 @@
             "title": "武士道では主君に真心から仕える忠義…",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1225442",
             "published_at": "2020/12/16 07:20"
-        },
-        {
-            "title": "越前がに漁獲金額、月10億円超最高",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1224953",
-            "published_at": "2020/12/15 17:10"
         }
     ]
 }
