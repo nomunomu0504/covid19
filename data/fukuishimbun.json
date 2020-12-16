@@ -1,6 +1,11 @@
 {
-    "timestamp": 1608095451,
+    "timestamp": 1608102663,
     "info": [
+        {
+            "title": "学生ら４人感染、同じ部活動に所属",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1225660",
+            "published_at": "2020/12/16 15:30"
+        },
         {
             "title": "福井の繊維会社がコロナワクチン応援",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1225597",
@@ -15,11 +20,6 @@
             "title": "ＧｏＴｏトラベル停止",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1225443",
             "published_at": "2020/12/16 07:30"
-        },
-        {
-            "title": "武士道では主君に真心から仕える忠義…",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1225442",
-            "published_at": "2020/12/16 07:20"
         }
     ]
 }
