@@ -1,6 +1,11 @@
 {
-    "timestamp": 1608592676,
+    "timestamp": 1608607236,
     "info": [
+        {
+            "title": "福井県内コロナ新規感染なし",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1229447",
+            "published_at": "2020/12/22 11:53"
+        },
         {
             "title": "２１年度予算案",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1229328",
@@ -20,11 +25,6 @@
             "title": "福井から野球道具、フィジーの子歓声",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1228873",
             "published_at": "2020/12/21 17:10"
-        },
-        {
-            "title": "越前町が成人式中止、福井県内で初",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1228885",
-            "published_at": "2020/12/21 15:16"
         }
     ]
 }
