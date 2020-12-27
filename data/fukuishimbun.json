@@ -1,6 +1,16 @@
 {
-    "timestamp": 1609024712,
+    "timestamp": 1609034610,
     "info": [
+        {
+            "title": "東海道本線の運転従事、JR東海の社員がコロナ感染　12月26日発表",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1232832",
+            "published_at": "2020/12/27 10:19"
+        },
+        {
+            "title": "コロナ禍で今年は車で帰省する方は必見…長距離移動前にチェックすべきこと　年末年始は雪道での運転にも注意",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1231989",
+            "published_at": "2020/12/27 10:00"
+        },
         {
             "title": "「いま人々の関心の第一位は、なんだ…",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1232800",
@@ -10,11 +20,6 @@
             "title": "福井駅前のホテル棟は24年春開業に",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1232606",
             "published_at": "2020/12/27 07:10"
-        },
-        {
-            "title": "福井県で新たに２人、新型コロナ感染",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1232368",
-            "published_at": "2020/12/26 12:05"
         }
     ]
 }
