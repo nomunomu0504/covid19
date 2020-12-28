@@ -1,6 +1,11 @@
 {
-    "timestamp": 1609125702,
+    "timestamp": 1609143372,
     "info": [
+        {
+            "title": "「ながら運転」摘発件数55％減少",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1233352",
+            "published_at": "2020/12/28 17:00"
+        },
         {
             "title": "福井県で新たに2人、新型コロナ感染",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1233271",
@@ -15,11 +20,6 @@
             "title": "コロナを射抜け、６ｍの大破魔矢",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1232985",
             "published_at": "2020/12/28 07:10"
-        },
-        {
-            "title": "高専アマ無線同好会全国V３で部昇格",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1232898",
-            "published_at": "2020/12/27 17:10"
         }
     ]
 }
