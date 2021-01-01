@@ -1,6 +1,11 @@
 {
-    "timestamp": 1609489131,
+    "timestamp": 1609539444,
     "info": [
+        {
+            "title": "もちや菓子をまき豊漁と安全を願う",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1235282",
+            "published_at": "2021/01/02 07:10"
+        },
         {
             "title": "福井県内コロナ新規感染者なし",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1235181",
@@ -15,11 +20,6 @@
             "title": "文豪夏目漱石の「漱石全集」に若い…",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1235127",
             "published_at": "2021/01/01 07:20"
-        },
-        {
-            "title": "ふるさと納税額、福井県内過去最高へ",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1234942",
-            "published_at": "2021/01/01 07:10"
         }
     ]
 }
