@@ -1,15 +1,15 @@
 {
-    "timestamp": 1609640099,
+    "timestamp": 1609644431,
     "info": [
+        {
+            "title": "福井県内コロナ新規感染者なし",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1235674",
+            "published_at": "2021/01/03 11:50"
+        },
         {
             "title": "「密」避け「福」求め初売り活気",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1235375",
             "published_at": "2021/01/03 07:00"
-        },
-        {
-            "title": "「疎を楽しむ」暮らし実践する作家",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1229640",
-            "published_at": "2021/01/02 17:00"
         }
     ]
 }
