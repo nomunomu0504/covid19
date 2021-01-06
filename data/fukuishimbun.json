@@ -1,6 +1,11 @@
 {
-    "timestamp": 1609903812,
+    "timestamp": 1609910891,
     "info": [
+        {
+            "title": "福井県でさらに８人感染、計14人に",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1237277",
+            "published_at": "2021/01/06 14:17"
+        },
         {
             "title": "コロナ６人感染、福井県の会見中継",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1237187",
@@ -19,11 +24,6 @@
         {
             "title": "あら玉の年のはじめの七くさを…",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1237036",
-            "published_at": "2021/01/06 07:20"
-        },
-        {
-            "title": "春高バレー、ダブルエースが圧倒",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1236825",
             "published_at": "2021/01/06 07:20"
         }
     ]
