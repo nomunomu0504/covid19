@@ -1,6 +1,11 @@
 {
-    "timestamp": 1609921342,
+    "timestamp": 1609928819,
     "info": [
+        {
+            "title": "小林化工の薬、業界全体で供給調整へ",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1237430",
+            "published_at": "2021/01/06 18:30"
+        },
         {
             "title": "ワクチン後も「新しい生活様式続く」",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1237323",
@@ -30,11 +35,6 @@
             "title": "福井県で新たに６人コロナ感染",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1237126",
             "published_at": "2021/01/06 12:08"
-        },
-        {
-            "title": "短い冬休み終え授業再開、元気に再会",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1237089",
-            "published_at": "2021/01/06 10:30"
         }
     ]
 }
