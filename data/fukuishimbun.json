@@ -1,13 +1,18 @@
 {
-    "timestamp": 1609910891,
+    "timestamp": 1609918025,
     "info": [
+        {
+            "title": "福井県14人感染うち12人は関係者",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1237299",
+            "published_at": "2021/01/06 15:05"
+        },
         {
             "title": "福井県でさらに８人感染、計14人に",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1237277",
             "published_at": "2021/01/06 14:17"
         },
         {
-            "title": "コロナ６人感染、福井県の会見中継",
+            "title": "コロナ14人感染、福井県の会見中継",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1237187",
             "published_at": "2021/01/06 12:15"
         },
@@ -20,11 +25,6 @@
             "title": "短い冬休み終え授業再開、元気に再会",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1237089",
             "published_at": "2021/01/06 10:30"
-        },
-        {
-            "title": "あら玉の年のはじめの七くさを…",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1237036",
-            "published_at": "2021/01/06 07:20"
         }
     ]
 }
