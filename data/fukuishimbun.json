@@ -1,6 +1,11 @@
 {
-    "timestamp": 1609935554,
+    "timestamp": 1609971570,
     "info": [
+        {
+            "title": "あわら温泉キャンセル損失６億円超す",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1237502",
+            "published_at": "2021/01/07 07:10"
+        },
         {
             "title": "小林化工の薬、業界全体で供給調整へ",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1237430",
@@ -20,11 +25,6 @@
             "title": "福井県14人感染うち12人は関係者",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1237299",
             "published_at": "2021/01/06 15:05"
-        },
-        {
-            "title": "福井県でさらに８人感染、計14人に",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1237277",
-            "published_at": "2021/01/06 14:17"
         }
     ]
 }
