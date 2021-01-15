@@ -1,6 +1,11 @@
 {
-    "timestamp": 1610682870,
+    "timestamp": 1610699711,
     "info": [
+        {
+            "title": "休校延長、通学路の除雪急ピッチ",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1242867",
+            "published_at": "2021/01/15 17:10"
+        },
         {
             "title": "コロナ25人感染、福井県の会見中継",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1242770",
@@ -25,11 +30,6 @@
             "title": "コロナ禍と貧困",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1242644",
             "published_at": "2021/01/15 07:30"
-        },
-        {
-            "title": "福井銀行と福邦銀行が資本提携に合意",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1242422",
-            "published_at": "2021/01/15 07:00"
         }
     ]
 }
