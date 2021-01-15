@@ -1,6 +1,11 @@
 {
-    "timestamp": 1610749923,
+    "timestamp": 1610753981,
     "info": [
+        {
+            "title": "政権選択の年",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1243323",
+            "published_at": "2021/01/16 07:30"
+        },
         {
             "title": "福井の受験生、コロナに大雪乗り越え",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1243065",
@@ -20,16 +25,6 @@
             "title": "休校延長、通学路の除雪急ピッチ",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1242867",
             "published_at": "2021/01/15 17:10"
-        },
-        {
-            "title": "コロナ25人感染、福井県の会見中継",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1242770",
-            "published_at": "2021/01/15 12:15"
-        },
-        {
-            "title": "福井県で最多25人コロナ感染",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1242766",
-            "published_at": "2021/01/15 12:07"
         }
     ]
 }
