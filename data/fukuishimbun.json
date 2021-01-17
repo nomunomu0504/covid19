@@ -1,6 +1,11 @@
 {
-    "timestamp": 1610851815,
+    "timestamp": 1610855832,
     "info": [
+        {
+            "title": "福井県で新たに４人新型コロナ感染",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1243809",
+            "published_at": "2021/01/17 12:00"
+        },
         {
             "title": "コロナ禍によるパンデミックは過去…",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1243749",
@@ -15,11 +20,6 @@
             "title": "大学入学共通テスト福井県内始まる",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1243400",
             "published_at": "2021/01/16 12:30"
-        },
-        {
-            "title": "コロナ７人感染、福井県の会見中継",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1243363",
-            "published_at": "2021/01/16 12:20"
         }
     ]
 }
