@@ -1,6 +1,16 @@
 {
-    "timestamp": 1610926524,
+    "timestamp": 1610944735,
     "info": [
+        {
+            "title": "福井県でコロナ７人感染、１人死亡",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1244243",
+            "published_at": "2021/01/18 12:15"
+        },
+        {
+            "title": "コロナ７人感染１人死亡、福井県会見",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1244248",
+            "published_at": "2021/01/18 12:15"
+        },
         {
             "title": "選抜高校野球",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1244127",
@@ -20,11 +30,6 @@
             "title": "上半身裸で冷水浴びコロナ収束祈願",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1243922",
             "published_at": "2021/01/18 07:00"
-        },
-        {
-            "title": "リモートアカペラ、歌声と心を重ねて",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1243878",
-            "published_at": "2021/01/17 17:00"
         }
     ]
 }
