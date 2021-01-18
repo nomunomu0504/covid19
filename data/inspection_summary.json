@@ -1,17 +1,17 @@
 {
-    "date": "2021/01/17 16:40",
+    "date": "2021/01/18 14:43",
     "children": [
         {
             "attr": "陽性患者数",
-            "value": 447,
+            "value": 456,
             "children": [
                 {
                     "attr": "入院中",
-                    "value": 66,
+                    "value": 70,
                     "children": [
                         {
                             "attr": "軽症・中等症",
-                            "value": 66
+                            "value": 70
                         },
                         {
                             "attr": "重症",
@@ -21,11 +21,11 @@
                 },
                 {
                     "attr": "死亡",
-                    "value": 12
+                    "value": 13
                 },
                 {
                     "attr": "退院",
-                    "value": 369
+                    "value": 373
                 },
                 {
                     "attr": "自宅療養",
