@@ -1,6 +1,16 @@
 {
-    "timestamp": 1610966692,
+    "timestamp": 1611009113,
     "info": [
+        {
+            "title": "菅首相の施政方針演説",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1244744",
+            "published_at": "2021/01/19 07:30"
+        },
+        {
+            "title": "心理学に「正常性バイアス」という…",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1244743",
+            "published_at": "2021/01/19 07:20"
+        },
         {
             "title": "城好き小学生兄弟、広報誌に連載中",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1244375",
@@ -15,21 +25,6 @@
             "title": "福井県かきぞめ競書特選3234点",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1244309",
             "published_at": "2021/01/18 15:40"
-        },
-        {
-            "title": "福井県でさらに２人感染、計９人に",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1244303",
-            "published_at": "2021/01/18 15:05"
-        },
-        {
-            "title": "福井県でコロナ７人感染、１人死亡",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1244243",
-            "published_at": "2021/01/18 12:15"
-        },
-        {
-            "title": "コロナ７人感染１人死亡、福井県会見",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1244248",
-            "published_at": "2021/01/18 12:15"
         }
     ]
 }
