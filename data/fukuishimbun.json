@@ -1,6 +1,11 @@
 {
-    "timestamp": 1610944735,
+    "timestamp": 1610951731,
     "info": [
+        {
+            "title": "福井県でさらに２人感染、計９人に",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1244303",
+            "published_at": "2021/01/18 15:05"
+        },
         {
             "title": "福井県でコロナ７人感染、１人死亡",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1244243",
@@ -25,11 +30,6 @@
             "title": "第１６４回芥川賞・直木賞が２０日…",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1244124",
             "published_at": "2021/01/18 07:20"
-        },
-        {
-            "title": "上半身裸で冷水浴びコロナ収束祈願",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1243922",
-            "published_at": "2021/01/18 07:00"
         }
     ]
 }
