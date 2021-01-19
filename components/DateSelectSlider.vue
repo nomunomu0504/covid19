@@ -60,7 +60,7 @@ export default {
       if (!this.chartData || this.chartData.length === 0) {
         return 1
       }
-      return this.chartData[id].label
+      return this.chartData[id].label.replace(/\d+\/(\d+\/\d+)/, "$1")
     }
   }
 }

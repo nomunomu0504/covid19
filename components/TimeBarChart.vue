@@ -282,10 +282,12 @@ const options: ThisTypedComponentOptionsWithRecordProps<
         scales: {
           xAxes: [
             {
-              id: 'day',
+              id: 'week',
               stacked: true,
               gridLines: {
-                display: false
+                drawOnChartArea: false,
+                drawTicks: true,
+                tickMarkLength: 10
               },
               ticks: {
                 fontSize: 9,
@@ -295,10 +297,17 @@ const options: ThisTypedComponentOptionsWithRecordProps<
                 minRotation: 0,
                 max: this.chartData[this.graphRange[1]].label,
                 min: this.chartData[this.graphRange[0]].label
+              },
+              type: 'time',
+              time: {
+                unit: 'week',
+                displayFormats: {
+                  week: 'MMM Do'
+                }
               }
             },
             {
-              id: 'month',
+              id: 'quarter',
               stacked: true,
               gridLines: {
                 drawOnChartArea: false,
@@ -311,16 +320,14 @@ const options: ThisTypedComponentOptionsWithRecordProps<
                 fontColor: '#808080',
                 padding: 3,
                 fontStyle: 'bold',
-                gridLines: {
-                  display: true
-                }
+                max: this.chartData[this.graphRange[1]].label,
+                min: this.chartData[this.graphRange[0]].label
               },
               type: 'time',
               time: {
-                unit: 'month',
-                parser: 'M/D',
+                unit: 'quarter',
                 displayFormats: {
-                  month: 'MMM'
+                  quarter: 'MMM YYYY'
                 }
               }
             }
