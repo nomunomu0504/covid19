@@ -1,6 +1,16 @@
 {
-    "timestamp": 1611045549,
+    "timestamp": 1611095544,
     "info": [
+        {
+            "title": "コロナ禍のアンテナ店",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1245399",
+            "published_at": "2021/01/20 07:30"
+        },
+        {
+            "title": "カズさん大雪動画で福井県に寄付続々",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1245124",
+            "published_at": "2021/01/20 07:20"
+        },
         {
             "title": "コロナで市民に１万円給付「意義大」",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1244938",
@@ -15,21 +25,6 @@
             "title": "コロナ５人感染、福井県会見を中継",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1244784",
             "published_at": "2021/01/19 12:10"
-        },
-        {
-            "title": "福井県で新たに５人新型コロナ感染",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1244782",
-            "published_at": "2021/01/19 12:06"
-        },
-        {
-            "title": "菅首相の施政方針演説",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1244744",
-            "published_at": "2021/01/19 07:30"
-        },
-        {
-            "title": "心理学に「正常性バイアス」という…",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1244743",
-            "published_at": "2021/01/19 07:20"
         }
     ]
 }
