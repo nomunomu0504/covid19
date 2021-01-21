@@ -1,6 +1,11 @@
 {
-    "timestamp": 1611268209,
+    "timestamp": 1611272247,
     "info": [
+        {
+            "title": "バイデン米大統領就任",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1246758",
+            "published_at": "2021/01/22 07:30"
+        },
         {
             "title": "ワクチン先行接種、福井県は勝山病院",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1246497",
@@ -20,16 +25,6 @@
             "title": "コロナ５人感染、福井県会見を中継",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1246246",
             "published_at": "2021/01/21 12:30"
-        },
-        {
-            "title": "福井県で新たに５人新型コロナ感染",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1246219",
-            "published_at": "2021/01/21 12:22"
-        },
-        {
-            "title": "福井県内インフル患者、今冬ゼロ続く",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1246208",
-            "published_at": "2021/01/21 11:45"
         }
     ]
 }
