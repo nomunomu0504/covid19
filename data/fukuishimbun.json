@@ -1,6 +1,16 @@
 {
-    "timestamp": 1611218406,
+    "timestamp": 1611268209,
     "info": [
+        {
+            "title": "ワクチン先行接種、福井県は勝山病院",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1246497",
+            "published_at": "2021/01/22 07:20"
+        },
+        {
+            "title": "ミスなでしこ福井県代表に着物美人賞",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1246501",
+            "published_at": "2021/01/22 07:10"
+        },
         {
             "title": "【特殊詐欺情報】コロナワクチン接種の予約金名目で詐欺電話　1月21日",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1246335",
@@ -20,21 +30,6 @@
             "title": "福井県内インフル患者、今冬ゼロ続く",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1246208",
             "published_at": "2021/01/21 11:45"
-        },
-        {
-            "title": "福井県がコロナ感染拡大警報を延長",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1246185",
-            "published_at": "2021/01/21 11:05"
-        },
-        {
-            "title": "衆院代表質問",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1246083",
-            "published_at": "2021/01/21 07:30"
-        },
-        {
-            "title": "首都圏の最終電車の時刻が、きのう…",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1246080",
-            "published_at": "2021/01/21 07:20"
         }
     ]
 }
