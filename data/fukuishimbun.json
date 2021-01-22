@@ -1,6 +1,11 @@
 {
-    "timestamp": 1611283972,
+    "timestamp": 1611288075,
     "info": [
+        {
+            "title": "福井県で新たに４人新型コロナ感染",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1246879",
+            "published_at": "2021/01/22 12:08"
+        },
         {
             "title": "バイデン米大統領就任",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1246758",
@@ -15,11 +20,6 @@
             "title": "ミスなでしこ福井県代表に着物美人賞",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1246501",
             "published_at": "2021/01/22 07:10"
-        },
-        {
-            "title": "【特殊詐欺情報】コロナワクチン接種の予約金名目で詐欺電話　1月21日",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1246335",
-            "published_at": "2021/01/21 15:54"
         }
     ]
 }
