@@ -1,6 +1,11 @@
 {
-    "timestamp": 1611450054,
+    "timestamp": 1611456836,
     "info": [
+        {
+            "title": "福井の田舎の集落に移住…地元民に突き返された酒",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1246511",
+            "published_at": "2021/01/24 10:00"
+        },
         {
             "title": "コロナ対策を巡り経済優先か感染防止…",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1247884",
@@ -10,11 +15,6 @@
             "title": "コロナ感染者の受け入れ拒めば悪者か",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1247617",
             "published_at": "2021/01/23 17:10"
-        },
-        {
-            "title": "コロナワクチン、福井県で初の説明会",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1247613",
-            "published_at": "2021/01/23 17:00"
         }
     ]
 }
