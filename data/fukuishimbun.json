@@ -1,6 +1,11 @@
 {
-    "timestamp": 1611560608,
+    "timestamp": 1611563944,
     "info": [
+        {
+            "title": "新チーム名は「ヴェルコスタ福井」",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1248462",
+            "published_at": "2021/01/25 17:00"
+        },
         {
             "title": "福井県で新たに４人新型コロナ感染",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1248395",
@@ -15,11 +20,6 @@
             "title": "学問成就を願い「焼きガレイ」お供え",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1248088",
             "published_at": "2021/01/25 07:00"
-        },
-        {
-            "title": "福井県内の中小企業、冬賞与支給額減",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1247980",
-            "published_at": "2021/01/24 17:10"
         }
     ]
 }
