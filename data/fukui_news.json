@@ -1,6 +1,11 @@
 {
     "newsItems": [
         {
+            "date": "2021/01/26",
+            "url": "https://www.pref.fukui.lg.jp/doc/kenkou/corona/jyoukyou_d/fil/210126.pdf",
+            "text": "福井県内で484例目~496例目となる新型コロナウイルス感染者が確認されました"
+        },
+        {
             "date": "2021/01/25",
             "url": "https://www.pref.fukui.lg.jp/doc/kenkou/corona/jyoukyou_d/fil/210125.pdf",
             "text": "福井県内で481例目~483例目となる新型コロナウイルス感染者が確認されました"
