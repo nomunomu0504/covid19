@@ -1,6 +1,11 @@
 {
-    "timestamp": 1611616689,
+    "timestamp": 1611628195,
     "info": [
+        {
+            "title": "セーレンの加工技術、コロナ不活性化",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1249014",
+            "published_at": "2021/01/26 11:00"
+        },
         {
             "title": "福井銀と福邦銀提携",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1248930",
@@ -10,11 +15,6 @@
             "title": "福井の国公立３大学願書受け付け開始",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1248671",
             "published_at": "2021/01/26 07:10"
-        },
-        {
-            "title": "新チーム名は「ヴェルコスタ福井」",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1248462",
-            "published_at": "2021/01/25 17:00"
         }
     ]
 }
