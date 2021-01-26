@@ -1,6 +1,11 @@
 {
-    "timestamp": 1611634549,
+    "timestamp": 1611648870,
     "info": [
+        {
+            "title": "あわら温泉に修学旅行、例年の10倍",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1249171",
+            "published_at": "2021/01/26 17:10"
+        },
         {
             "title": "コロナ12人感染、福井県会見を中継",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1249083",
@@ -20,11 +25,6 @@
             "title": "福井銀と福邦銀提携",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1248930",
             "published_at": "2021/01/26 07:30"
-        },
-        {
-            "title": "福井の国公立３大学願書受け付け開始",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1248671",
-            "published_at": "2021/01/26 07:10"
         }
     ]
 }
