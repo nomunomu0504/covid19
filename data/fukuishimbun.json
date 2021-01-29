@@ -1,15 +1,15 @@
 {
-    "timestamp": 1611887435,
+    "timestamp": 1611890356,
     "info": [
+        {
+            "title": "福井県で2人死亡、看護師3人感染",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1251176",
+            "published_at": "2021/01/29 12:05"
+        },
         {
             "title": "ワクチン接種、福井県内スケジュール",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1251114",
             "published_at": "2021/01/29 11:00"
-        },
-        {
-            "title": "コロナ禍と春闘",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1251032",
-            "published_at": "2021/01/29 07:30"
         }
     ]
 }
