@@ -1,6 +1,11 @@
 {
-    "timestamp": 1612144582,
+    "timestamp": 1612149545,
     "info": [
+        {
+            "title": "福井県内で１人死亡、新たに３人感染",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1252732",
+            "published_at": "2021/02/01 12:05"
+        },
         {
             "title": "北陸新幹線下り線で一時運転見合わせ　2月1日、一部の列車で区間運休や遅れ",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1252652",
@@ -25,11 +30,6 @@
             "title": "躍進のハンド男子日本代表に福井県人",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1252309",
             "published_at": "2021/01/31 17:10"
-        },
-        {
-            "title": "世界で活躍の大道芸人が魅せられた町",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1252310",
-            "published_at": "2021/01/31 17:00"
         }
     ]
 }
