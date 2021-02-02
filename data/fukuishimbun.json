@@ -1,6 +1,11 @@
 {
-    "timestamp": 1612221300,
+    "timestamp": 1612233127,
     "info": [
+        {
+            "title": "老舗映画館メトロ劇場が改修、刷新へ",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1253357",
+            "published_at": "2021/02/02 11:00"
+        },
         {
             "title": "敦賀気比　センバツへ",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1253264",
@@ -15,11 +20,6 @@
             "title": "電子割引「ふく割」使いづらいの声",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1253031",
             "published_at": "2021/02/02 07:10"
-        },
-        {
-            "title": "福井県内で１人死亡、新たに３人感染",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1252732",
-            "published_at": "2021/02/01 12:17"
         }
     ]
 }
