@@ -1,6 +1,11 @@
 {
-    "timestamp": 1612411944,
+    "timestamp": 1612419066,
     "info": [
+        {
+            "title": "福井県がコロナ感染拡大警報を再延長",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1254883",
+            "published_at": "2021/02/04 14:28"
+        },
         {
             "title": "福井県で新たに2人新型コロナ感染",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1254832",
@@ -25,11 +30,6 @@
             "title": "ラグビー選手は医師志す女子大生",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1254240",
             "published_at": "2021/02/03 17:00"
-        },
-        {
-            "title": "ミラカナプロジェクト通算50件成立",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1254166",
-            "published_at": "2021/02/03 16:50"
         }
     ]
 }
