@@ -1,6 +1,11 @@
 {
-    "timestamp": 1612563080,
+    "timestamp": 1612566655,
     "info": [
+        {
+            "title": "新型コロナウイルスの勢いが一向に…",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1256050",
+            "published_at": "2021/02/06 07:20"
+        },
         {
             "title": "福井の観光地、屋内施設の客数大幅減",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1255744",
@@ -10,26 +15,6 @@
             "title": "ワクチン接種副反応備え、医師に聞く",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1255601",
             "published_at": "2021/02/05 17:10"
-        },
-        {
-            "title": "福井県内で１人死亡、新規感染なし",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1255487",
-            "published_at": "2021/02/05 12:00"
-        },
-        {
-            "title": "児童相談所通告が増加、面前ＤＶ６割",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1255475",
-            "published_at": "2021/02/05 11:20"
-        },
-        {
-            "title": "コロナワクチン",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1255383",
-            "published_at": "2021/02/05 07:30"
-        },
-        {
-            "title": "ワクチン接種、不明点多く市町に不安",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1255104",
-            "published_at": "2021/02/05 07:20"
         }
     ]
 }
