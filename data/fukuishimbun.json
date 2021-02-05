@@ -1,6 +1,16 @@
 {
-    "timestamp": 1612480255,
+    "timestamp": 1612494634,
     "info": [
+        {
+            "title": "福井県内で１人死亡、新規感染なし",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1255487",
+            "published_at": "2021/02/05 12:00"
+        },
+        {
+            "title": "児童相談所通告が増加、面前ＤＶ６割",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1255475",
+            "published_at": "2021/02/05 11:20"
+        },
         {
             "title": "コロナワクチン",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1255383",
@@ -20,16 +30,6 @@
             "title": "一斉休校で欠勤の保護者へ支援拡大を",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1254894",
             "published_at": "2021/02/04 17:10"
-        },
-        {
-            "title": "伝統の「お水送り」一般参加中止に",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1254888",
-            "published_at": "2021/02/04 17:00"
-        },
-        {
-            "title": "福井県がコロナ感染拡大警報を再延長",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1254883",
-            "published_at": "2021/02/04 14:28"
         }
     ]
 }
