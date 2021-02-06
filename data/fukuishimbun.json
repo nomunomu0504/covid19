@@ -1,15 +1,15 @@
 {
-    "timestamp": 1612577675,
+    "timestamp": 1612584729,
     "info": [
+        {
+            "title": "福井県で１人死亡、新たに２人感染",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1256126",
+            "published_at": "2021/02/06 12:03"
+        },
         {
             "title": "新型コロナウイルスの勢いが一向に…",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1256050",
             "published_at": "2021/02/06 07:20"
-        },
-        {
-            "title": "福井の観光地、屋内施設の客数大幅減",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1255744",
-            "published_at": "2021/02/06 07:00"
         }
     ]
 }
