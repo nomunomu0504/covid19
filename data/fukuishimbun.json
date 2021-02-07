@@ -1,6 +1,11 @@
 {
-    "timestamp": 1612661689,
+    "timestamp": 1612667431,
     "info": [
+        {
+            "title": "福井県内1人死亡、新規感染なし",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1256471",
+            "published_at": "2021/02/07 11:53"
+        },
         {
             "title": "田舎は閉鎖的な人ばかりとは思わない…福島から福井へ移住した男性の体験談",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1254939",
@@ -15,11 +20,6 @@
             "title": "飲食の妨げにならない動くシールド",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1256171",
             "published_at": "2021/02/06 17:10"
-        },
-        {
-            "title": "福井県で１人死亡、新たに２人感染",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1256126",
-            "published_at": "2021/02/06 12:03"
         }
     ]
 }
