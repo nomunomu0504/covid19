@@ -1,6 +1,11 @@
 {
-    "timestamp": 1612667431,
+    "timestamp": 1612685554,
     "info": [
+        {
+            "title": "三味線バンドで福井から世界デビュー",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1256492",
+            "published_at": "2021/02/07 17:00"
+        },
         {
             "title": "福井県内1人死亡、新規感染なし",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1256471",
@@ -15,11 +20,6 @@
             "title": "福井在住ミャンマー人が母国窮状訴え",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1256251",
             "published_at": "2021/02/07 07:20"
-        },
-        {
-            "title": "飲食の妨げにならない動くシールド",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1256171",
-            "published_at": "2021/02/06 17:10"
         }
     ]
 }
