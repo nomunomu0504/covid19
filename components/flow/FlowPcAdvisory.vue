@@ -4,11 +4,31 @@
       <div :class="$style.AdvisoryContents">
         <div>
           <span :class="$style.AdvisoryContentsTitle">{{
-            $t('新型コロナ受診相談窓口（日本語のみ）')
+            $t('新型コロナ受診相談窓口')
           }}</span>
         </div>
         <div :class="[$style.AdvisoryContentsColsSentense, 'mt-4']">
-          {{ $t('帰国者・接触者 電話相談センター') }}
+          {{ $t('帰国者・接触者 相談センター') }}
+        </div>
+        <div :class="['mt-1']">
+          <span>{{ $t('7:00~21:00') }}</span>
+        </div>
+        <div
+          :class="[
+            $style.AdvisoryTelephoneArea,
+            $style.AdvisoryBlockCentering,
+            'mt-1'
+          ]"
+        >
+          <a :class="$style.AdvisoryTelephone" href="tel:0776200795">
+            <img
+              :class="$style.AdvisoryTelephoneIcon"
+              src="/flow/phone-24px.svg"
+              aria-hidden="true"
+              :alt="$t('電話番号')"
+            />
+            0776-20-0795
+          </a>
         </div>
         <div>
           <div :class="[$style.AdvisoryBoxContainer, $style.AdvisoryWhiteBox]">
@@ -19,6 +39,7 @@
         </div>
       </div>
 
+      <!--
       <div :class="$style.AdvisoryContents">
         <div class="py-8">
           <div :class="$style.AdvisoryContentsTitle2">
@@ -44,13 +65,20 @@
           </div>
         </div>
       </div>
+      -->
 
+      <!--
       <div :class="$style.AdvisoryContents">
         <div class="pt-8">
           <div :class="$style.AdvisoryContentsTitle2">
             {{ $t('総合相談電話窓口') }}
           </div>
           <span>{{ $t('8:30~17:15') }}</span>
+        </div>
+        <div class="mt-1">
+          <span :class="$style.AdvisoryContentsSubTitle">
+            {{ $t('平日のみ') }}
+          </span>
         </div>
         <div
           :class="[
@@ -70,6 +98,7 @@
           </a>
         </div>
       </div>
+      -->
     </div>
   </div>
 </template>
@@ -93,6 +122,8 @@
 
   &Contents {
     font-weight: bold;
+    position: absolute;
+    transform: translate(0%, 50%);
 
     &:not(:first-child) {
       border-top: 0.5px solid $gray-4;

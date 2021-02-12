@@ -2,10 +2,10 @@
   <data-view :title="title" :title-id="titleId" :date="date" :url="url">
     <template v-slot:button>
       <p class="Graph-Desc">
-        （ 注 ）福井県から情報が提供されていないため、あくまでも参考値となります<br/>
+        （ 注 ）福井県から情報が提供されていないため、あくまでも参考値となります<br />
         （ 注 ）現在患者数 = 累計陽性患者数 - 退院済患者数 - 死亡者数<br />
-        （ 注 ）段階は３段階に分かれています<br />
-        　　　「青：良好」／「黄：普通」／「赤：悪い」
+        （ 注 ）段階は４段階に分かれています<br />
+        　　　「青：良好」／「黄：注意報」／「赤：警報」／「黒：緊急事態」
       </p>
     </template>
     <pie-chart
@@ -177,7 +177,8 @@ const options: ThisTypedComponentOptionsWithRecordProps<
         [
           '#003580', // normal
           '#FFD700', // warning
-          '#FC143C' // critical
+          '#FC143C', // critical
+          "#000", // emergency
         ],
         '#ccc'
       ]
@@ -202,11 +203,12 @@ const options: ThisTypedComponentOptionsWithRecordProps<
               if (d.label === 'used') {
                 const rateOfUsed = parseFloat(this.displayInfo.lText)
                 let status = 0
-                if (rateOfUsed >= 50 && rateOfUsed < 80) {
+                if(rateOfUsed >= 10)
                   status = 1
-                } else if (rateOfUsed >= 80) {
+                if(rateOfUsed >= 20)
                   status = 2
-                }
+                if(rateOfUsed >= 25)
+                  status = 3
                 return colorArray[index][status]
               } else {
                 return colorArray[index]

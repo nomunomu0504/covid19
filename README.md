@@ -2,6 +2,8 @@
 
 <!-- ![](https://github.com/tokyo-metropolitan-gov/covid19/workflows/production%20deploy/badge.svg) -->
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/c3dc7391-1153-4751-9d55-878d1b0c9004/deploy-status)](https://app.netlify.com/sites/covid19-fukui/deploys)
+
 [![福井県公認 新型コロナウイルス感染症対策サイト](/static/official_ogp.png)](https://covid19-fukui.com/)
 
 ## Slackチャンネルへの参加
