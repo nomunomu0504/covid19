@@ -1,6 +1,11 @@
 {
-    "timestamp": 1613257854,
+    "timestamp": 1613275955,
     "info": [
+        {
+            "title": "福井県で１人死亡、新規感染者なし",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1260466",
+            "published_at": "2021/02/14 12:03"
+        },
         {
             "title": "村上佳菜子さん福井県でスケート教室",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1260171",
@@ -10,11 +15,6 @@
             "title": "チア☆ダンロケ地巡るスタンプラリー",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1260063",
             "published_at": "2021/02/13 17:00"
-        },
-        {
-            "title": "福井県で新たに２人新型コロナ感染",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1260037",
-            "published_at": "2021/02/13 12:04"
         }
     ]
 }
