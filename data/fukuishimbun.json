@@ -1,6 +1,11 @@
 {
-    "timestamp": 1613275955,
+    "timestamp": 1613290339,
     "info": [
+        {
+            "title": "福井県民の県内宿泊、割引で半額に",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1260518",
+            "published_at": "2021/02/14 17:00"
+        },
         {
             "title": "福井県で１人死亡、新規感染者なし",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1260466",
@@ -10,11 +15,6 @@
             "title": "村上佳菜子さん福井県でスケート教室",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1260171",
             "published_at": "2021/02/14 07:10"
-        },
-        {
-            "title": "チア☆ダンロケ地巡るスタンプラリー",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1260063",
-            "published_at": "2021/02/13 17:00"
         }
     ]
 }
