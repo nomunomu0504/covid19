@@ -1,20 +1,15 @@
 {
-    "timestamp": 1613344251,
+    "timestamp": 1613358660,
     "info": [
+        {
+            "title": "福井県内、新型コロナ新規感染なし",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1260878",
+            "published_at": "2021/02/15 11:58"
+        },
         {
             "title": "サクラマス聖地、釣り人の心揺さぶる",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1260546",
             "published_at": "2021/02/14 17:10"
-        },
-        {
-            "title": "福井県民の県内宿泊、割引で半額に",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1260518",
-            "published_at": "2021/02/14 17:00"
-        },
-        {
-            "title": "福井県で１人死亡、新規感染者なし",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1260466",
-            "published_at": "2021/02/14 12:03"
         }
     ]
 }
