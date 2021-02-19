@@ -1,6 +1,11 @@
 {
-    "timestamp": 1613707965,
+    "timestamp": 1613715094,
     "info": [
+        {
+            "title": "福井でワクチン先行接種、初日30人",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1263737",
+            "published_at": "2021/02/19 14:55"
+        },
         {
             "title": "コロナ5人感染、福井県会見を中継",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1263666",
@@ -30,11 +35,6 @@
             "title": "組織委会長に橋本氏",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1263552",
             "published_at": "2021/02/19 07:30"
-        },
-        {
-            "title": "福井県内でもワクチン接種開始へ",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1263207",
-            "published_at": "2021/02/19 07:20"
         }
     ]
 }
