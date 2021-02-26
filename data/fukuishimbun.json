@@ -1,6 +1,11 @@
 {
-    "timestamp": 1614377468,
+    "timestamp": 1614381080,
     "info": [
+        {
+            "title": "６府県　緊急事態解除へ",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1268424",
+            "published_at": "2021/02/27 07:30"
+        },
         {
             "title": "上野マルイで福井クオリティー知って",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1268175",
@@ -15,16 +20,6 @@
             "title": "全商検定試験「９冠」２年生で達成",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1267950",
             "published_at": "2021/02/26 17:10"
-        },
-        {
-            "title": "福井県内、新型コロナ新規感染なし",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1267845",
-            "published_at": "2021/02/26 11:58"
-        },
-        {
-            "title": "福井のスポーツ賞",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1267684",
-            "published_at": "2021/02/26 07:30"
         }
     ]
 }
