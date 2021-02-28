@@ -1,15 +1,20 @@
 {
-    "timestamp": 1614467476,
+    "timestamp": 1614481875,
     "info": [
+        {
+            "title": "福井県で新たな感染者なし",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1268943",
+            "published_at": "2021/02/28 12:00"
+        },
+        {
+            "title": "福井県感染拡大注意報2月28日解除",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1268928",
+            "published_at": "2021/02/28 11:30"
+        },
         {
             "title": "モンベル会長「福井の皆さん、外へ」",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1268697",
             "published_at": "2021/02/28 07:20"
-        },
-        {
-            "title": "福井県で新たに１人新型コロナ感染",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1268527",
-            "published_at": "2021/02/27 11:59"
         }
     ]
 }
