@@ -1,6 +1,11 @@
 {
-    "timestamp": 1614651107,
+    "timestamp": 1614654683,
     "info": [
+        {
+            "title": "福井県で新たな感染者なし",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1270206",
+            "published_at": "2021/03/02 11:55"
+        },
         {
             "title": "福井県内21高校が修学旅行中止に",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1269746",
@@ -10,16 +15,6 @@
             "title": "福井県のイベント制限４月末まで延長",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1269766",
             "published_at": "2021/03/02 07:10"
-        },
-        {
-            "title": "就活解禁も中小企業「学生と接点が」",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1269771",
-            "published_at": "2021/03/02 07:00"
-        },
-        {
-            "title": "高齢者の転倒骨折増、運動不足警鐘",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1269550",
-            "published_at": "2021/03/01 17:10"
         }
     ]
 }
