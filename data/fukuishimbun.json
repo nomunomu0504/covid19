@@ -1,6 +1,11 @@
 {
-    "timestamp": 1614644501,
+    "timestamp": 1614651107,
     "info": [
+        {
+            "title": "福井県内21高校が修学旅行中止に",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1269746",
+            "published_at": "2021/03/02 11:00"
+        },
         {
             "title": "福井県のイベント制限４月末まで延長",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1269766",
@@ -15,11 +20,6 @@
             "title": "高齢者の転倒骨折増、運動不足警鐘",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1269550",
             "published_at": "2021/03/01 17:10"
-        },
-        {
-            "title": "都市公園使用料↗、キッチンカー困惑",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1269551",
-            "published_at": "2021/03/01 17:00"
         }
     ]
 }
