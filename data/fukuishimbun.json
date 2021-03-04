@@ -1,6 +1,11 @@
 {
-    "timestamp": 1614895933,
+    "timestamp": 1614899473,
     "info": [
+        {
+            "title": "小中学校の福井県内修学旅行",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1272095",
+            "published_at": "2021/03/05 07:30"
+        },
         {
             "title": "福井県立高校入試初日3987人挑む",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1271823",
@@ -15,11 +20,6 @@
             "title": "乳がん検診精度ＵＰへ画像デジタル化",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1271514",
             "published_at": "2021/03/04 12:00"
-        },
-        {
-            "title": "福井県の県立高入試きょうから２日間",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1271441",
-            "published_at": "2021/03/04 08:00"
         }
     ]
 }
