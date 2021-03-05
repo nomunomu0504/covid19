@@ -1,6 +1,16 @@
 {
-    "timestamp": 1614982309,
+    "timestamp": 1614985888,
     "info": [
+        {
+            "title": "首都圏の緊急事態再延長",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1272897",
+            "published_at": "2021/03/06 07:30"
+        },
+        {
+            "title": "中国哲学が専門のある大学教授は…",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1272896",
+            "published_at": "2021/03/06 07:20"
+        },
         {
             "title": "帰省できない空き家、お墓…管理代行",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1272354",
@@ -15,11 +25,6 @@
             "title": "三国花火大会、2021年も中止",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1272131",
             "published_at": "2021/03/05 08:15"
-        },
-        {
-            "title": "小中学校の福井県内修学旅行",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1272095",
-            "published_at": "2021/03/05 07:30"
         }
     ]
 }
