@@ -1,6 +1,11 @@
 {
-    "timestamp": 1614903960,
+    "timestamp": 1614928198,
     "info": [
+        {
+            "title": "医療者接種、福井県立病院で始まる",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1272372",
+            "published_at": "2021/03/05 15:30"
+        },
         {
             "title": "三国花火大会、2021年も中止",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1272131",
@@ -15,11 +20,6 @@
             "title": "福井県立高校入試初日3987人挑む",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1271823",
             "published_at": "2021/03/05 07:00"
-        },
-        {
-            "title": "ふく割、利用広がり消費喚起17億円",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1271664",
-            "published_at": "2021/03/04 17:10"
         }
     ]
 }
