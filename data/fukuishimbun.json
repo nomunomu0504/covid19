@@ -1,6 +1,11 @@
 {
-    "timestamp": 1614928198,
+    "timestamp": 1614982309,
     "info": [
+        {
+            "title": "帰省できない空き家、お墓…管理代行",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1272354",
+            "published_at": "2021/03/06 07:00"
+        },
         {
             "title": "医療者接種、福井県立病院で始まる",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1272372",
@@ -15,11 +20,6 @@
             "title": "小中学校の福井県内修学旅行",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1272095",
             "published_at": "2021/03/05 07:30"
-        },
-        {
-            "title": "福井県立高校入試初日3987人挑む",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1271823",
-            "published_at": "2021/03/05 07:00"
         }
     ]
 }
