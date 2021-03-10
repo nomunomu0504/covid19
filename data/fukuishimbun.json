@@ -1,6 +1,11 @@
 {
-    "timestamp": 1615345822,
+    "timestamp": 1615363974,
     "info": [
+        {
+            "title": "古城マラソン、福井県民限定も想定",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1275359",
+            "published_at": "2021/03/10 17:00"
+        },
         {
             "title": "福井県内、新型コロナ新規感染なし",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1275272",
@@ -10,11 +15,6 @@
             "title": "心の電話相談、目立つ女性の利用増",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1274864",
             "published_at": "2021/03/10 07:20"
-        },
-        {
-            "title": "コロナ禍に振り回されるペットの今",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1274634",
-            "published_at": "2021/03/09 19:30"
         }
     ]
 }
