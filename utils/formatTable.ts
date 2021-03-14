@@ -60,8 +60,8 @@ export default (data: DataType[]) => {
   }
   data.forEach(d => {
     const TableRow: TableDataType = {
-      公表日: !d['公表日'] ? '---' : dayjs(d['公表日']).format('MM/DD'),
-      発症日: !d['発症日'] ? '---' : dayjs(d['発症日']).format('MM/DD'),
+      公表日: !d['公表日'] ? '---' : dayjs(d['公表日']).format('YYYY/MM/DD'),
+      発症日: !d['発症日'] ? '---' : dayjs(d['発症日']).format('YYYY/MM/DD'),
       居住地: d['居住地'] ?? '不明',
       年代: d['年代'] ?? '不明',
       性別: d['性別'] ?? 'その他',
