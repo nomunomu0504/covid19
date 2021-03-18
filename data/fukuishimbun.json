@@ -1,6 +1,11 @@
 {
-    "timestamp": 1616037091,
+    "timestamp": 1616047963,
     "info": [
+        {
+            "title": "高齢者接種、福井県全市町一斉開始へ",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1280364",
+            "published_at": "2021/03/18 14:55"
+        },
         {
             "title": "福井県内、新たなコロナ感染者なし",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1280230",
@@ -20,11 +25,6 @@
             "title": "選抜高校野球があす甲子園で開幕す…",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1280109",
             "published_at": "2021/03/18 07:20"
-        },
-        {
-            "title": "コロナ禍で結婚、祝福花火1300発",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1279786",
-            "published_at": "2021/03/18 07:00"
         }
     ]
 }
