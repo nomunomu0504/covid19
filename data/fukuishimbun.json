@@ -1,6 +1,11 @@
 {
-    "timestamp": 1616141644,
+    "timestamp": 1616191939,
     "info": [
+        {
+            "title": "東京大学、福井県の高校27人合格",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1281248",
+            "published_at": "2021/03/20 07:10"
+        },
         {
             "title": "ワクチン接種、福井県4月12日から",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1281044",
@@ -25,16 +30,6 @@
             "title": "首都圏の緊急事態解除",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1280801",
             "published_at": "2021/03/19 07:30"
-        },
-        {
-            "title": "私事だが免許更新に出かけた。そこ…",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1280796",
-            "published_at": "2021/03/19 07:20"
-        },
-        {
-            "title": "変異株で福井県が冷静対応呼び掛け",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1280546",
-            "published_at": "2021/03/19 07:20"
         }
     ]
 }
