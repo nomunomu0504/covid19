@@ -1,6 +1,11 @@
 {
-    "timestamp": 1616191939,
+    "timestamp": 1616195488,
     "info": [
+        {
+            "title": "「ブラック・ライブズ・マター（黒人の…",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1281573",
+            "published_at": "2021/03/20 07:20"
+        },
         {
             "title": "東京大学、福井県の高校27人合格",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1281248",
@@ -15,21 +20,6 @@
             "title": "福井発、県民衛星打ち上げ迫る",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1281073",
             "published_at": "2021/03/19 17:00"
-        },
-        {
-            "title": "福井県で新たに1人新型コロナ感染",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1280968",
-            "published_at": "2021/03/19 12:10"
-        },
-        {
-            "title": "津田寛治さん医師好演し主演男優賞",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1280922",
-            "published_at": "2021/03/19 11:30"
-        },
-        {
-            "title": "首都圏の緊急事態解除",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1280801",
-            "published_at": "2021/03/19 07:30"
         }
     ]
 }
