@@ -1,6 +1,11 @@
 {
-    "timestamp": 1616713566,
+    "timestamp": 1616728409,
     "info": [
+        {
+            "title": "山形県、新たに34人がコロナ感染　3月26日発表",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1285781",
+            "published_at": "2021/03/26 11:27"
+        },
         {
             "title": "福井県内初のコロナ変異株は英国型",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1285280",
@@ -15,11 +20,6 @@
             "title": "ふくい桜まつり2021、楽しみは夜",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1285265",
             "published_at": "2021/03/26 07:00"
-        },
-        {
-            "title": "福井県内、新型コロナ新規感染なし",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1284900",
-            "published_at": "2021/03/25 11:55"
         }
     ]
 }
