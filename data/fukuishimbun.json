@@ -1,6 +1,11 @@
 {
-    "timestamp": 1616731784,
+    "timestamp": 1616749552,
     "info": [
+        {
+            "title": "福井市の施設でクラスター13人感染",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1285935",
+            "published_at": "2021/03/26 17:25"
+        },
         {
             "title": "福井県立恐竜博物館行き恐竜バス増発",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1285769",
@@ -20,16 +25,6 @@
             "title": "山形県、新たに34人がコロナ感染　3月26日発表",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1285781",
             "published_at": "2021/03/26 11:27"
-        },
-        {
-            "title": "福井県内初のコロナ変異株は英国型",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1285280",
-            "published_at": "2021/03/26 07:20"
-        },
-        {
-            "title": "聖火リレーが１９３６年のベルリ…",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1285603",
-            "published_at": "2021/03/26 07:20"
         }
     ]
 }
