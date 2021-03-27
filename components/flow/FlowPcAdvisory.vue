@@ -2,15 +2,30 @@
   <div :class="$style.Advisory">
     <div :class="$style.AdvisoryContainer">
       <div :class="$style.AdvisoryContents">
-        <div>
+        <div class="mt-4 px-4">
+          {{ $t('まずは') }}<br>
+          <strong :class="$style.AdvisoryContentsEmphasis">{{ $t('かかりつけ医') }}</strong><br>
+          {{ $t('または') }}<br>
+          <strong :class="$style.AdvisoryContentsEmphasis">{{ $t('最寄りの医療機関') }}</strong><br>
+          {{ $t('へ') }}<br>
+          <strong :class="$style.AdvisoryContentsEmphasis">{{ $t('電話相談') }}</strong>
+        </div>
+        <div class="mt-4 px-4">
+          <v-divider class="mx-2"></v-divider>
+        </div>
+        <div class="mt-4 px-4">
+          {{ $t('かかりつけ医がない場合') }}<br>
+          {{ $t('受診先に迷う場合は') }}
+        </div>
+        <div class="mt-4">
           <span :class="$style.AdvisoryContentsTitle">{{
-            $t('新型コロナ受診相談窓口')
+            $t('受診・相談センター')
           }}</span>
         </div>
-        <div :class="[$style.AdvisoryContentsColsSentense, 'mt-4']">
-          {{ $t('帰国者・接触者 相談センター') }}
+        <div :class="[$style.AdvisoryContentsColsSentense, 'mt-2']">
+          {{ $t('電話相談窓口') }}
         </div>
-        <div :class="['mt-1']">
+        <div>
           <span>{{ $t('7:00~21:00') }}</span>
         </div>
         <div
@@ -115,15 +130,16 @@
     background-color: $gray-5;
     border-radius: 4px;
     height: 100%;
-    padding: 30px 20px 20px 20px;
+    //padding: 30px 20px 20px 20px;
     margin-bottom: 10px;
     text-align: center;
   }
 
   &Contents {
+    width: 100%;
     font-weight: bold;
     position: absolute;
-    transform: translate(0%, 50%);
+    transform: translate(0%, 20%);
 
     &:not(:first-child) {
       border-top: 0.5px solid $gray-4;
@@ -135,7 +151,8 @@
     }
 
     &Title2 {
-      font-size: 18px;
+      font-size: 24px;
+      font-weight: bolder;
     }
 
     &SubTitle {
@@ -144,6 +161,12 @@
 
     &ColsSentense {
       line-height: 18px;
+    }
+
+    &Emphasis {
+      font-size: 26px;
+      font-weight: bolder;
+      line-height: 28px;
     }
   }
 
