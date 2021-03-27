@@ -82,10 +82,16 @@
       </div>
       <div>
         <p>
-          <span :class="$style.FlowRowEmphasis">{{
-            $t('すぐに')
-          }}</span>
-          {{ $t('ご相談ください') }}
+          <i18n
+            tag="span"
+            path="{immediately} ご相談ください"
+          >
+            <template v-slot:immediately>
+              <span :class="$style.FlowRowEmphasis">
+                {{ $t('すぐに') }}
+              </span>
+            </template>
+          </i18n>
         </p>
       </div>
     </div>

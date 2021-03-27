@@ -19,7 +19,7 @@
           <i18n
             tag="span"
             path="{cold}のような症状"
-              :class="$style.FlowRowConditionSmall"
+            :class="$style.FlowRowConditionSmall"
           >
             <template v-slot:cold>
               <span :class="$style.FlowRowConditionLarge">
@@ -62,10 +62,22 @@
       </div>
       <div>
         <p>
-          <span :class="$style.FlowRowEmphasis">{{
-            $t('4日以上')
-          }}</span>
-          {{ $t('は必ずご相談ください') }}
+          <i18n
+            tag="span"
+            path="{days} は必ずご相談ください"
+          >
+            <template v-slot:days>
+              <i18n
+                tag="span"
+                path="{day}日以上"
+                :class="$style.FlowRowEmphasis"
+              >
+                <template v-slot:day>
+                  4 
+                </template>
+              </i18n>
+            </template>
+          </i18n>
         </p>
       </div>
     </div>
