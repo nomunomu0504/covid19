@@ -5,7 +5,7 @@
         <span :class="$style.icon">
           <DirectionsWalkIcon aria-hidden="true" />
         </span>
-        {{ $t('ご高齢な方') }}
+        {{ $t('ご高齢の方') }}
       </span>
       <span :class="[$style.item, $style.fzMedium]">
         <span :class="$style.icon">
@@ -33,42 +33,24 @@
         </span>
       </li>
       <li :class="$style.symptom">
-        <i18n tag="span" path="発熱{temperature}" :class="$style.fzSmall">
-          <template v-slot:temperature>
-            <i18n
-              tag="span"
-              path="{tempNum}以上"
-              :class="[$style.break, $style.fzRegular]"
-            >
-              <template v-slot:tempNum>
-                <span :class="$style.temp">{{ $t('37.5℃') }}</span>
-              </template>
-            </i18n>
-          </template>
-        </i18n>
+        {{ $t('発熱') }}
       </li>
       <li :class="$style.symptom">
-        {{ $t('強いだるさ') }}
-      </li>
-      <li :class="$style.symptom">
-        {{ $t('息苦しさ') }}
+        {{ $t('咳') }}
       </li>
     </ul>
 
     <p :class="$style.duration">
-      <i18n path="{duration}続いている">
-        <template v-slot:duration>
-          <i18n
-            :class="[$style.underline, $style.fzLarge]"
-            tag="span"
-            path="{day}日程度"
-          >
-            <template v-slot:day>
-              <strong :class="$style.fzNumeric">2</strong>
-            </template>
-          </i18n>
-        </template>
-      </i18n>
+      <span :class="$style.underline">{{ $t('かかりつけ医') }}</span>
+      {{ $t('または') }}
+      <span :class="$style.underline">{{ $t('最寄りの医療機関') }}</span>
+      {{ $t('へ') }}
+    </p>
+    <p :class="$style.duration">
+      <span :class="[$style.fzNumeric, $style.underline]">{{
+        $t('すぐに')
+      }}</span>
+      {{ $t('ご相談ください') }}
     </p>
 
     <a
@@ -79,7 +61,10 @@
       href="#consult"
       :class="[$style.button, $style.clickable]"
     >
-      <span :class="$style.text">{{ $t('新型コロナ受診相談窓口へ') }}</span>
+      <span :class="$style.text">
+        {{ $t('かかりつけ医がない') }}<br>
+        {{ $t('受診先に迷う場合は') }}
+      </span>
       <ArrowForwardIcon :class="$style.icon" />
     </a>
   </div>
