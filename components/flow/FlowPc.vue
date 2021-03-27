@@ -7,11 +7,14 @@
         <flow-pc-past />
       </div>
       -->
-      <div :class="[$style.CardBlock, $style.Past]">
+      <div :class="[$style.CardBlock]">
         <flow-pc-bad-condition />
       </div>
-      <div :class="[$style.CardBlock, $style.Days]">
-        <flow-pc-days />
+      <div :class="[$style.CardBlock]">
+        <flow-pc-specific />
+      </div>
+      <div :class="[$style.CardBlock]">
+        <flow-pc-general />
       </div>
       <!--
       <div :class="[$style.CardBlock, $style.CardBlockCenter, $style.Suspect]">
@@ -58,6 +61,7 @@
       </div>
     </div>
     -->
+    <!--
     <p :class="$style.Note">
       {{ $t('※') }}
       {{
@@ -66,12 +70,14 @@
         )
       }}
     </p>
+    -->
   </div>
 </template>
 
 <script>
 import FlowPcBadCondition from './FlowPcBadCondition.vue'
-import FlowPcDays from './FlowPcDays.vue'
+import FlowPcSpecific from './FlowPcSpecific.vue'
+import FlowPcGeneral from './FlowPcGeneral.vue'
 // import FlowPcSuspect from './FlowPcSuspect.vue'
 import FlowPcAdvisory from './FlowPcAdvisory.vue'
 // import FlowPcAdvisory2 from './FlowPcAdvisory2.vue'
@@ -84,7 +90,8 @@ export default {
   components: {
     // FlowPcPast,
     FlowPcBadCondition,
-    FlowPcDays,
+    FlowPcSpecific,
+    FlowPcGeneral,
     // FlowPcSuspect,
     FlowPcAdvisory
     // FlowPcAdvisory2
@@ -279,7 +286,7 @@ export default {
 
 .Advisory {
   grid-column: 2 / 3;
-  grid-row: 1 / 3;
+  grid-row: 1 / 4;
   position: relative;
 }
 
