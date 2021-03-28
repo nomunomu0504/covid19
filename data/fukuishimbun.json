@@ -1,6 +1,11 @@
 {
-    "timestamp": 1616969040,
+    "timestamp": 1616972643,
     "info": [
+        {
+            "title": "人事異動や進学…年度初めの感染注意",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1287185",
+            "published_at": "2021/03/29 07:20"
+        },
         {
             "title": "Bリーグ「佐賀バルーナーズ」の選手やスタッフ計11人コロナ感染　クラスター発生か　3月28日",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1287190",
@@ -10,11 +15,6 @@
             "title": "山形県で34人コロナ感染　県内の感染確認は計865人　3月28日",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1287032",
             "published_at": "2021/03/28 14:43"
-        },
-        {
-            "title": "福井県で新たに2人新型コロナ感染",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1287003",
-            "published_at": "2021/03/28 11:55"
         }
     ]
 }
