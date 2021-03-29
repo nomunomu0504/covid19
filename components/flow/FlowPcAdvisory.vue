@@ -4,11 +4,31 @@
       <div :class="$style.AdvisoryContents">
         <div class="mt-4 px-4">
           {{ $t('まずは') }}<br>
-          <strong :class="$style.AdvisoryContentsEmphasis">{{ $t('かかりつけ医') }}</strong><br>
-          {{ $t('または') }}<br>
-          <strong :class="$style.AdvisoryContentsEmphasis">{{ $t('最寄りの医療機関') }}</strong><br>
-          {{ $t('へ') }}<br>
-          <strong :class="$style.AdvisoryContentsEmphasis">{{ $t('電話相談') }}</strong>
+          <i18n
+            path="{doctor}または{hospital}へ{phone}"
+          >
+            <template v-slot:doctor>
+              <div>
+                <strong :class="$style.AdvisoryContentsEmphasis">
+                  {{ $t('かかりつけ医') }}
+                </strong>
+              </div>
+            </template>
+            <template v-slot:hospital>
+              <div>
+                <strong :class="$style.AdvisoryContentsEmphasis">
+                  {{ $t('最寄りの医療機関') }}
+                </strong>
+              </div>
+            </template>
+            <template v-slot:phone>
+              <div>
+                <strong :class="$style.AdvisoryContentsEmphasis">
+                  {{ $t('電話相談') }}
+                </strong>
+              </div>
+            </template>
+          </i18n>
         </div>
         <div class="mt-4 px-4">
           <v-divider class="mx-2"></v-divider>

@@ -41,16 +41,32 @@
     </ul>
 
     <p :class="$style.duration">
-      <span :class="$style.underline">{{ $t('かかりつけ医') }}</span>
-      {{ $t('または') }}
-      <span :class="$style.underline">{{ $t('最寄りの医療機関') }}</span>
-      {{ $t('へ') }}
+      <i18n
+        path="{doctor}または{hospital}へ{phone}"
+      >
+        <template v-slot:doctor>
+          <span :class="$style.underline">{{ $t('かかりつけ医') }}</span>
+        </template>
+        <template v-slot:hospital>
+          <br><span :class="$style.underline">{{ $t('最寄りの医療機関') }}</span>
+        </template>
+        <template v-slot:phone>
+          <span :class="$style.underline">
+            {{ $t('電話相談') }}
+          </span>
+        </template>
+      </i18n>
     </p>
     <p :class="$style.duration">
-      <span :class="[$style.fzNumeric, $style.underline]">{{
-        $t('すぐに')
-      }}</span>
-      {{ $t('ご相談ください') }}
+      <i18n
+        path="{immediately} ご相談ください"
+      >
+        <template v-slot:immediately>
+          <span :class="[$style.fzNumeric, $style.underline]">
+            {{ $t('すぐに') }}
+          </span>
+        </template>
+      </i18n>
     </p>
 
     <a
@@ -62,7 +78,7 @@
       :class="[$style.button, $style.clickable]"
     >
       <span :class="$style.text">
-        {{ $t('かかりつけ医がない') }}<br>
+        {{ $t('かかりつけ医がない場合') }}<br>
         {{ $t('受診先に迷う場合は') }}
       </span>
       <ArrowForwardIcon :class="$style.icon" />

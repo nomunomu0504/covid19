@@ -29,19 +29,37 @@
       <span :class="$style.fzMedium">{{ $t('症状が続く場合は') }}</span>
     </v-row>
     <p :class="$style.duration">
-      <span :class="$style.underline">{{ $t('かかりつけ医') }}</span>
-      {{ $t('または') }}
-      <span :class="$style.underline">{{ $t('最寄りの医療機関') }}</span>
-      {{ $t('へ') }}
+      <i18n
+        path="{doctor}または{hospital}へ"
+      >
+        <template v-slot:doctor>
+          <span :class="$style.underline">{{ $t('かかりつけ医') }}</span>
+        </template>
+        <template v-slot:hospital>
+          <span :class="$style.underline">{{ $t('最寄りの医療機関') }}</span>
+        </template>
+      </i18n>
     </p>
     <v-row class="justify-center mt-2">
       {{ $t('ご相談ください') }}
     </v-row>
     <p :class="$style.duration">
-      <span :class="$style.underline">{{ $t('4日以上') }}</span>
-      {{ $t('続く場合は') }}
-      {{ $t('必ず') }}
-      {{ $t('ご相談ください') }}
+      <i18n
+        tag="span"
+        path="{days} は必ずご相談ください"
+      >
+        <template v-slot:days>
+          <i18n
+            tag="span"
+            path="{day}日以上"
+            :class="$style.underline"
+          >
+            <template v-slot:day>
+              4 
+            </template>
+          </i18n>
+        </template>
+      </i18n>
     </p>
     <a
       v-scroll-to="{
@@ -52,7 +70,7 @@
       :class="[$style.button, $style.clickable]"
     >
       <span :class="$style.text">
-        {{ $t('かかりつけ医がない') }}<br>
+        {{ $t('かかりつけ医がない場合') }}<br>
         {{ $t('受診先に迷う場合は') }}
       </span>
       <ArrowForwardIcon :class="$style.icon" />
