@@ -1,6 +1,11 @@
 {
-    "timestamp": 1617160098,
+    "timestamp": 1617163516,
     "info": [
+        {
+            "title": "コロナ6人感染、福井県の会見中継",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1289062",
+            "published_at": "2021/03/31 12:18"
+        },
         {
             "title": "福井県で新たに6人新型コロナ感染",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1289038",
@@ -20,11 +25,6 @@
             "title": "将来なりたい職業の民間調査で小学…",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1288915",
             "published_at": "2021/03/31 07:20"
-        },
-        {
-            "title": "送別会終盤はマスク着けず酒つぎ歩く",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1288581",
-            "published_at": "2021/03/31 07:00"
         }
     ]
 }
