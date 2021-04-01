@@ -1,6 +1,16 @@
 {
-    "timestamp": 1617246621,
+    "timestamp": 1617249857,
     "info": [
+        {
+            "title": "コロナ6人感染、福井県の会見中継",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1289886",
+            "published_at": "2021/04/01 12:14"
+        },
+        {
+            "title": "福井県で新たに6人新型コロナ感染",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1289858",
+            "published_at": "2021/04/01 12:10"
+        },
         {
             "title": "福井の企業22年春の新卒採用動向",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1289788",
@@ -25,11 +35,6 @@
             "title": "そば店営む３姉妹、逆境で極めた味",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1289316",
             "published_at": "2021/04/01 07:10"
-        },
-        {
-            "title": "福井の野外音楽祭にスチャダラパー",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1289133",
-            "published_at": "2021/03/31 14:35"
         }
     ]
 }
