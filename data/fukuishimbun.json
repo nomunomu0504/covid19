@@ -1,6 +1,11 @@
 {
-    "timestamp": 1617336436,
+    "timestamp": 1617347221,
     "info": [
+        {
+            "title": "コロナ変異株、福井県内で新たに5人",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1290770",
+            "published_at": "2021/04/02 15:00"
+        },
         {
             "title": "福井県内で新たに2人コロナ感染",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1290672",
@@ -20,11 +25,6 @@
             "title": "東京に出た息子へ母から届いた仕送り…",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1290522",
             "published_at": "2021/04/02 07:20"
-        },
-        {
-            "title": "ファンキーな吹奏楽部CDデビュー",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1290170",
-            "published_at": "2021/04/02 07:10"
         }
     ]
 }
