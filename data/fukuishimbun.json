@@ -1,6 +1,11 @@
 {
-    "timestamp": 1617404685,
+    "timestamp": 1617416544,
     "info": [
+        {
+            "title": "山形県で新たに17人コロナ感染　4月3日発表",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1291315",
+            "published_at": "2021/04/03 11:10"
+        },
         {
             "title": "ハピリン西側の再開発オフィス棟完成",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1290972",
@@ -15,11 +20,6 @@
             "title": "産後うつ、コロナ感染拡大で増加",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1290766",
             "published_at": "2021/04/02 17:10"
-        },
-        {
-            "title": "コロナ変異株、福井県内で新たに5人",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1290770",
-            "published_at": "2021/04/02 15:00"
         }
     ]
 }
