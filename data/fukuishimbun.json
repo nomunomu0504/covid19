@@ -1,6 +1,11 @@
 {
-    "timestamp": 1617447823,
+    "timestamp": 1617487674,
     "info": [
+        {
+            "title": "近くの桜で幸せ、コロナ下の春に思う",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1291465",
+            "published_at": "2021/04/04 07:00"
+        },
         {
             "title": "GoToイート食事券を追加発売へ",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1291379",
@@ -25,11 +30,6 @@
             "title": "福井県内で新たに6人コロナ感染",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1291309",
             "published_at": "2021/04/03 12:05"
-        },
-        {
-            "title": "山形県で新たに17人コロナ感染　4月3日発表",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1291315",
-            "published_at": "2021/04/03 11:10"
         }
     ]
 }
