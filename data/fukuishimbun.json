@@ -1,6 +1,11 @@
 {
-    "timestamp": 1617429868,
+    "timestamp": 1617440620,
     "info": [
+        {
+            "title": "GoToイート食事券を追加発売へ",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1291379",
+            "published_at": "2021/04/03 17:10"
+        },
         {
             "title": "福井県3度目のコロナ感染拡大警報",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1291348",
@@ -25,11 +30,6 @@
             "title": "山形県で新たに17人コロナ感染　4月3日発表",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1291315",
             "published_at": "2021/04/03 11:10"
-        },
-        {
-            "title": "ハピリン西側の再開発オフィス棟完成",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1290972",
-            "published_at": "2021/04/03 07:20"
         }
     ]
 }
