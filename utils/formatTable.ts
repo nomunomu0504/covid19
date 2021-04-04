@@ -6,12 +6,12 @@ const headers = [
   { text: '居住地', value: '居住地' },
   { text: '年代', value: '年代' },
   { text: '性別', value: '性別' },
-  { text: '職業', value: '職業' },
-  { text: '状態', value: '状態' },
-  { text: '症状', value: '症状' },
-  { text: '渡航歴', value: '渡航歴' },
-  { text: '退院', value: '退院' },
-  { text: '備考', value: '備考' }
+  { text: '職業', value: '職業' }
+  //{ text: '状態', value: '状態' },
+  //{ text: '症状', value: '症状' },
+  //{ text: '渡航歴', value: '渡航歴' },
+  //{ text: '退院', value: '退院' },
+  //{ text: '備考', value: '備考' }
 ]
 
 type DataType = {

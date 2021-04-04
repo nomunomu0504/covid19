@@ -1,5 +1,5 @@
 <template>
-  <v-col cols="12" class="DataCard">
+  <v-col cols="6" class="DataCard">
     <data-table
       :title="$t('陽性患者の属性')"
       :title-id="'attributes-of-confirmed-cases'"
@@ -19,9 +19,7 @@
               $t(
                 '県の個人情報保護条例に基づき、情報公開を希望されない方の情報は公開されていません'
               )
-            }} <br />
-            {{ $t('(注)') }}
-            {{ $t('状態、症状、渡航歴、退院について未記載の場合があります') }}
+            }}
           </li>
         </ul>
       </template>
