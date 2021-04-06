@@ -1,8 +1,8 @@
 {
-    "date": "2021/04/04 16:06",
+    "date": "2021/04/06 15:04",
     "data": {
-        "used": 62,
-        "unused": 184
+        "used": null,
+        "unused": null
     },
     "labels": [
         "現在患者数",
