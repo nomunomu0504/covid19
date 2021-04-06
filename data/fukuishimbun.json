@@ -1,6 +1,11 @@
 {
-    "timestamp": 1617663893,
+    "timestamp": 1617675894,
     "info": [
+        {
+            "title": "山形県で25人コロナ感染　4月6日発表、県内の感染確認1077人に",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1292893",
+            "published_at": "2021/04/06 11:07"
+        },
         {
             "title": "県と企業のコラボ 魅力発信、誘客つなげたい",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1292788",
@@ -10,11 +15,6 @@
             "title": "新型コロナウイルスの第４波到来が…",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1292787",
             "published_at": "2021/04/06 07:20"
-        },
-        {
-            "title": "県立の中学、高校に授業支援アプリ",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1292346",
-            "published_at": "2021/04/05 17:00"
         }
     ]
 }
