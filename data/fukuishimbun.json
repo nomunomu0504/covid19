@@ -1,6 +1,16 @@
 {
-    "timestamp": 1617833038,
+    "timestamp": 1617836715,
     "info": [
+        {
+            "title": "デジタル改革法案",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1294266",
+            "published_at": "2021/04/08 07:30"
+        },
+        {
+            "title": "サイバー犯罪やネットトラブル大幅増加 福井県警「コロナでネット利用増」",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1293968",
+            "published_at": "2021/04/08 07:20"
+        },
         {
             "title": "高齢者ワクチン15日までに福井県内全市町開始　新型コロナ、モデル施設",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1293743",
@@ -10,11 +20,6 @@
             "title": "福井県内2人死亡、新たに2人感染 新型コロナ 4月7日県発表",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1293651",
             "published_at": "2021/04/07 12:10"
-        },
-        {
-            "title": "高校選抜で県勢躍動 全国総体での飛躍を期待",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1293528",
-            "published_at": "2021/04/07 07:30"
         }
     ]
 }
