@@ -1,6 +1,16 @@
 {
-    "timestamp": 1618110599,
+    "timestamp": 1618113925,
     "info": [
+        {
+            "title": "山形県で11人が新型コロナ感染 4月11日発表",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1296319",
+            "published_at": "2021/04/11 12:05"
+        },
+        {
+            "title": "福井県内で4人が新型コロナ感染、4月11日県発表",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1296311",
+            "published_at": "2021/04/11 12:03"
+        },
         {
             "title": "高齢者接種ワクチンの全市町配送を開始　福井県、初日は越前市と越前町",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1296033",
@@ -15,11 +25,6 @@
             "title": "コロナ禍で地方に本社機能分散する企業の誘致へ新制度　福井県、投資額や雇用数の条件撤廃",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1295910",
             "published_at": "2021/04/10 17:10"
-        },
-        {
-            "title": "福井県敦賀市、６５歳以上のワクチン接種は５月１２日から　新型コロナ",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1295897",
-            "published_at": "2021/04/10 15:30"
         }
     ]
 }
