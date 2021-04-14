@@ -1,6 +1,11 @@
 {
-    "timestamp": 1618401895,
+    "timestamp": 1618405735,
     "info": [
+        {
+            "title": "大阪府で1130人コロナ感染 2日連続1000人超え 4月14日",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1298225",
+            "published_at": "2021/04/14 21:15"
+        },
         {
             "title": "宮城県で96人コロナ感染、4月14日発表",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1298288",
@@ -40,11 +45,6 @@
             "title": "福井県敦賀市、ワクチン接種券を4月15日発送 予約方法や会場一覧は19日",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1298182",
             "published_at": "2021/04/14 16:00"
-        },
-        {
-            "title": "コロナ10人感染、福井県の会見中継　4月14日14時からYouTubeチャンネル",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1298072",
-            "published_at": "2021/04/14 13:42"
         }
     ]
 }
