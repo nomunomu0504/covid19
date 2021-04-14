@@ -1,6 +1,16 @@
 {
-    "timestamp": 1618391046,
+    "timestamp": 1618394628,
     "info": [
+        {
+            "title": "宮城県で96人コロナ感染、4月14日発表",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1298288",
+            "published_at": "2021/04/14 18:19"
+        },
+        {
+            "title": "宮城県仙台市で51人コロナ感染、4月14日発表",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1298216",
+            "published_at": "2021/04/14 18:10"
+        },
         {
             "title": "18歳未満と生活困窮者に食事券１万円分を配布　福井県越前市、コロナ禍で飲食店応援",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1298160",
@@ -10,11 +20,6 @@
             "title": "高齢者、妊婦らにタクシー利用券を無料配布 福井県勝山市 経済とワクチン接種を支援",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1298129",
             "published_at": "2021/04/14 17:00"
-        },
-        {
-            "title": "宮城県で51人コロナ感染、4月14日仙台市発表",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1298216",
-            "published_at": "2021/04/14 16:50"
         },
         {
             "title": "兵庫県で過去最多 507人コロナ感染、4月14日",
@@ -45,11 +50,6 @@
             "title": "福井県内1人死亡、新たに10人感染　新型コロナ4月14日県発表",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1298036",
             "published_at": "2021/04/14 13:40"
-        },
-        {
-            "title": "鳥取県で2人コロナ感染、倉吉保健所管内　4月14日発表",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1298024",
-            "published_at": "2021/04/14 11:18"
         }
     ]
 }
