@@ -1,6 +1,11 @@
 {
-    "timestamp": 1618473857,
+    "timestamp": 1618477434,
     "info": [
+        {
+            "title": "兵庫県で493人コロナ感染 直近１週間平均の感染者数は過去最多 4月15日",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1299073",
+            "published_at": "2021/04/15 17:25"
+        },
         {
             "title": "沖縄県で134人コロナ感染 県が在沖縄米軍での７人感染も発表 4月15日",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1299027",
@@ -30,11 +35,6 @@
             "title": "福井県内で新たに9人感染、1人死亡　新型コロナ4月15日県発表",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1298836",
             "published_at": "2021/04/15 12:12"
-        },
-        {
-            "title": "水泳の福井県記録保持者、地域元気に",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1298750",
-            "published_at": "2021/04/15 10:50"
         }
     ]
 }
