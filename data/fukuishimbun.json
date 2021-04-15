@@ -1,6 +1,11 @@
 {
-    "timestamp": 1618441456,
+    "timestamp": 1618453151,
     "info": [
+        {
+            "title": "水泳の福井県記録保持者、地域元気に",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1298750",
+            "published_at": "2021/04/15 10:50"
+        },
         {
             "title": "福井県、新型コロナ「感染拡大警報」を延長方針 18日連続で新規感染者発表中",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1298375",
@@ -10,11 +15,6 @@
             "title": "大阪府で1130人コロナ感染 2日連続1000人超え 4月14日",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1298225",
             "published_at": "2021/04/14 21:15"
-        },
-        {
-            "title": "宮城県で96人コロナ感染、4月14日発表",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1298288",
-            "published_at": "2021/04/14 18:19"
         }
     ]
 }
