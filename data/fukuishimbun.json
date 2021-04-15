@@ -1,6 +1,21 @@
 {
-    "timestamp": 1618470418,
+    "timestamp": 1618473857,
     "info": [
+        {
+            "title": "沖縄県で134人コロナ感染 県が在沖縄米軍での７人感染も発表 4月15日",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1299027",
+            "published_at": "2021/04/15 16:37"
+        },
+        {
+            "title": "宮城県仙台市が25人のコロナ感染発表　4月15日、県内の感染確認7391人に",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1299019",
+            "published_at": "2021/04/15 16:22"
+        },
+        {
+            "title": "「世界一美しいスタバ」富山環水公園店でスタッフ7人コロナ感染　富山県富山市",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1299011",
+            "published_at": "2021/04/15 16:12"
+        },
         {
             "title": "東京都で729人コロナ感染 強まる再拡大の懸念 4月15日",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1299004",
@@ -20,11 +35,6 @@
             "title": "水泳の福井県記録保持者、地域元気に",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1298750",
             "published_at": "2021/04/15 10:50"
-        },
-        {
-            "title": "福井県、新型コロナ「感染拡大警報」を延長方針 18日連続で新規感染者発表中",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1298375",
-            "published_at": "2021/04/15 07:20"
         }
     ]
 }
