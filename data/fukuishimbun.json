@@ -1,6 +1,16 @@
 {
-    "timestamp": 1618560551,
+    "timestamp": 1618563860,
     "info": [
+        {
+            "title": "福井県が初のコロナ感染拡大特別警報を発令　 5月9日まで",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1299826",
+            "published_at": "2021/04/16 17:25"
+        },
+        {
+            "title": "宮城県で68人コロナ感染　4月16日発表",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1299859",
+            "published_at": "2021/04/16 17:23"
+        },
         {
             "title": "鼻毛抜いたら腫れて痛い…安全な処理方法は?　ふくいのドクター相談室",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1299800",
@@ -25,16 +35,6 @@
             "title": "コロナ19人感染、福井県の会見中継　4月16日14時からYouTubeチャンネル",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1299673",
             "published_at": "2021/04/16 12:12"
-        },
-        {
-            "title": "福井県内19人感染、うち福井市が15人　新型コロナ、4月16日県発表",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1299670",
-            "published_at": "2021/04/16 12:08"
-        },
-        {
-            "title": "福井県内で新たに19人コロナ感染　4月16日県発表、変異株などで急拡大と知事認識",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1299646",
-            "published_at": "2021/04/16 11:00"
         }
     ]
 }
