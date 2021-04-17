@@ -1,6 +1,26 @@
 {
-    "timestamp": 1618650233,
+    "timestamp": 1618653825,
     "info": [
+        {
+            "title": "岐阜県で38人コロナ感染　クラスター認定された教会の集まり関連で新たに５人　4月17日発表",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1300559",
+            "published_at": "2021/04/17 18:13"
+        },
+        {
+            "title": "石川県で16人コロナ感染、７人の感染経路不明　4月17日発表",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1300550",
+            "published_at": "2021/04/17 18:02"
+        },
+        {
+            "title": "新潟県で33人コロナ感染、クラスター発生の保育園関連など　4月17日発表",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1300549",
+            "published_at": "2021/04/17 17:59"
+        },
+        {
+            "title": "富山県で20人コロナ感染、変異株10人判明　4月17日発表",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1300543",
+            "published_at": "2021/04/17 17:38"
+        },
         {
             "title": "コロナ7人感染、2人死亡 福井県の会見中継 4月17日14時からYouTubeチャンネル",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1300428",
@@ -15,11 +35,6 @@
             "title": "越前町の一般高齢者ワクチン接種　5月18日から個別接種開始、集団接種は21日　新型コロナ",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1300421",
             "published_at": "2021/04/17 11:15"
-        },
-        {
-            "title": "勝山市の一般高齢者ワクチン接種は5月10日開始　予約受け付けは4月26日から　新型コロナ",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1300420",
-            "published_at": "2021/04/17 11:00"
         }
     ]
 }
