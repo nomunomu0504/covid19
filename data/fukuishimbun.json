@@ -1,6 +1,11 @@
 {
-    "timestamp": 1618653825,
+    "timestamp": 1618657426,
     "info": [
+        {
+            "title": "滋賀県で１人死亡39人コロナ感染　4月17日発表",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1300586",
+            "published_at": "2021/04/17 19:15"
+        },
         {
             "title": "岐阜県で38人コロナ感染　クラスター認定された教会の集まり関連で新たに５人　4月17日発表",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1300559",
@@ -30,11 +35,6 @@
             "title": "福井県内で新たに7人新型コロナ感染、2人死亡　4月17日県発表",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1300427",
             "published_at": "2021/04/17 12:08"
-        },
-        {
-            "title": "越前町の一般高齢者ワクチン接種　5月18日から個別接種開始、集団接種は21日　新型コロナ",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1300421",
-            "published_at": "2021/04/17 11:15"
         }
     ]
 }
