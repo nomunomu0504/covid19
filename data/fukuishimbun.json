@@ -1,6 +1,16 @@
 {
-    "timestamp": 1618747496,
+    "timestamp": 1618787017,
     "info": [
+        {
+            "title": "「原稿ちゅうのはな。ダーッと聞いてきてダーッと書けばいいんじゃ」。駆け…",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1301281",
+            "published_at": "2021/04/19 07:20"
+        },
+        {
+            "title": "コロナ入院患者2日連続で最多更新 福井県の確保病床占有率は36％超",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1301066",
+            "published_at": "2021/04/19 07:20"
+        },
         {
             "title": "兵庫県で感染者2人死亡、406人コロナ感染　4月18日発表",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1301047",
@@ -25,21 +35,6 @@
             "title": "宮城県と仙台市が感染者1人の死亡と28人コロナ感染を発表　4月18日",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1301040",
             "published_at": "2021/04/18 20:13"
-        },
-        {
-            "title": "石川県で18人コロナ感染 うち7人は医療センター関連、クラスター発生と認定 4月18日発表",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1301038",
-            "published_at": "2021/04/18 20:04"
-        },
-        {
-            "title": "岐阜県で17人コロナ感染　3人の変異株感染も判明　4月18日発表",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1301036",
-            "published_at": "2021/04/18 20:01"
-        },
-        {
-            "title": "コロナ病床使用率、福井県28％超 大阪や兵庫などは6府県で50％超、ステージ４相当",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1300945",
-            "published_at": "2021/04/18 17:10"
         }
     ]
 }
