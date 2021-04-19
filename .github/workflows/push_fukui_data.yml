@@ -74,12 +74,13 @@ jobs:
       - name: Dockerイメージをビルド
         env:
           CSV_FETCH_ENV: ${{ secrets.CSV_FETCH_ENV }}
-        run: |
-          echo "::group::My title"
-          echo "$CSV_FETCH_ENV"
-          echo "::endgroup::"
-          echo "$CSV_FETCH_ENV" > covid19_fukui/.env.local
-          docker-compose build fetch_fukui_data
+        with:
+          script: |
+            echo "::group::My title"
+            console.log(${CSV_FETCH_ENV})
+            echo "::endgroup::"
+            echo "$CSV_FETCH_ENV" > covid19_fukui/.env.local
+            docker-compose build fetch_fukui_data
 
       - name: data/*.jsonを作成
         id: genjson
