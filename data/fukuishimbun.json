@@ -1,6 +1,11 @@
 {
-    "timestamp": 1618830234,
+    "timestamp": 1618837827,
     "info": [
+        {
+            "title": "宮城県と仙台市 感染者3人の死亡と22人コロナ感染を発表 4月19日",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1301522",
+            "published_at": "2021/04/19 21:55"
+        },
         {
             "title": "京都府と京都市が110人コロナ感染と発表、4月19日",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1301616",
@@ -30,11 +35,6 @@
             "title": "コロナ感染、1系統で福井県内6市町の37人に 感染者利用の飲食店6店舗で従業員陽性",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1301431",
             "published_at": "2021/04/19 17:00"
-        },
-        {
-            "title": "宮城県と仙台市 感染者3人の死亡と21人コロナ感染を発表 4月19日",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1301522",
-            "published_at": "2021/04/19 16:56"
         }
     ]
 }
