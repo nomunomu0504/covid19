@@ -1,6 +1,16 @@
 {
-    "timestamp": 1618823044,
+    "timestamp": 1618830234,
     "info": [
+        {
+            "title": "京都府と京都市が110人コロナ感染と発表、4月19日",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1301616",
+            "published_at": "2021/04/19 19:18"
+        },
+        {
+            "title": "石川県で10人コロナ感染、1人死亡 金沢市の病院でクラスター 4月19日発表",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1301607",
+            "published_at": "2021/04/19 19:08"
+        },
         {
             "title": "クラウドファンディングでまちづくり、福井市が事業募集開始　2021年度、コロナ下の取り組みも対象",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1301474",
@@ -25,11 +35,6 @@
             "title": "宮城県と仙台市 感染者3人の死亡と21人コロナ感染を発表 4月19日",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1301522",
             "published_at": "2021/04/19 16:56"
-        },
-        {
-            "title": "東京都で新たに405人コロナ感染、直近1週間の1日平均600人超 4月19日",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1301484",
-            "published_at": "2021/04/19 15:55"
         }
     ]
 }
