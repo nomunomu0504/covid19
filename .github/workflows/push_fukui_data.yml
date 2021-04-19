@@ -75,12 +75,14 @@ jobs:
         env:
           CSV_FETCH_ENV: ${{ secrets.CSV_FETCH_ENV }}
         run: |
+          console.log("$CSV_FETCH_ENV")
           echo "$CSV_FETCH_ENV" > covid19_fukui/.env.local
           docker-compose build fetch_fukui_data
 
       - name: data/*.jsonを作成
         id: genjson
         run: |
+          docker-compose run fetch_fukui_data cat covid19_fukui/.env.local
           docker-compose run fetch_fukui_data
 
           if [ -z "$(git status --porcelain)" ]; then

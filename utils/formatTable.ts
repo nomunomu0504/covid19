@@ -6,12 +6,12 @@ const headers = [
   { text: '居住地', value: '居住地' },
   { text: '年代', value: '年代' },
   { text: '性別', value: '性別' },
-  { text: '職業', value: '職業' },
-  { text: '状態', value: '状態' },
-  { text: '症状', value: '症状' },
-  { text: '渡航歴', value: '渡航歴' },
-  { text: '退院', value: '退院' },
-  { text: '備考', value: '備考' }
+  { text: '職業', value: '職業' }
+  //{ text: '状態', value: '状態' },
+  //{ text: '症状', value: '症状' },
+  //{ text: '渡航歴', value: '渡航歴' },
+  //{ text: '退院', value: '退院' },
+  //{ text: '備考', value: '備考' }
 ]
 
 type DataType = {
@@ -60,8 +60,8 @@ export default (data: DataType[]) => {
   }
   data.forEach(d => {
     const TableRow: TableDataType = {
-      公表日: !d['公表日'] ? '---' : dayjs(d['公表日']).format('MM/DD'),
-      発症日: !d['発症日'] ? '---' : dayjs(d['発症日']).format('MM/DD'),
+      公表日: !d['公表日'] ? '---' : dayjs(d['公表日']).format('YYYY/MM/DD'),
+      発症日: !d['発症日'] ? '---' : dayjs(d['発症日']).format('YYYY/MM/DD'),
       居住地: d['居住地'] ?? '不明',
       年代: d['年代'] ?? '不明',
       性別: d['性別'] ?? 'その他',

@@ -1,10 +1,7 @@
 <template>
   <div :class="$style.container">
     <h4 id="consult" :class="[$style.heading, $style.fzXLarge]">
-      {{ $t('新型コロナ受診相談窓口') }}
-      <small :class="[$style.break, $style.fzRegular, $style.mt5]">{{
-        $t('帰国者・接触者 電話相談センター')
-      }}</small>
+      {{ $t('受診・相談センター') }}
     </h4>
     <dl>
       <!--
@@ -31,7 +28,7 @@
           <ul :class="[$style.night]">
             <li>
               <span :class="[$style.fzMedium, $style.break, $style.mb10]">
-                {{ $t('総合相談窓口') }}
+                {{ $t('電話相談窓口') }}
               </span>
               {{ $t('7:00~21:00') }}
             </li>

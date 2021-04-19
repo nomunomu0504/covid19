@@ -9,13 +9,25 @@
             aria-hidden="true"
             alt=" "
           />
-          {{ $t('誰でも') }}
+          {{ $t('一般の方またはお子様') }}
         </p>
       </div>
     </div>
     <div :class="[$style.FlowRow, $style.FlowRowRowCheck]">
       <div :class="$style.FlowRowCondition">
-        <p>{{ $t('強いだるさ') }}</p>
+        <p>
+          <i18n
+            tag="span"
+            path="{cold}のような症状"
+            :class="$style.FlowRowConditionSmall"
+          >
+            <template v-slot:cold>
+              <span :class="$style.FlowRowConditionLarge">
+                {{ $t('風邪') }}
+              </span>
+            </template>
+          </i18n>
+        </p>
         <img
           :class="$style.FlowRowConditionIcon"
           src="/flow/check_circle-24px.svg"
@@ -24,7 +36,7 @@
         />
       </div>
       <div :class="$style.FlowRowCondition">
-        <p>{{ $t('息苦しさ') }}</p>
+        <p>{{ $t('発熱') }}</p>
         <img
           :class="$style.FlowRowConditionIcon"
           src="/flow/check_circle-24px.svg"
@@ -33,7 +45,7 @@
         />
       </div>
       <div :class="$style.FlowRowCondition">
-        <p>{{ $t('高熱') }}</p>
+        <p>{{ $t('咳') }}</p>
         <img
           :class="$style.FlowRowConditionIcon"
           src="/flow/check_circle-24px.svg"
@@ -45,19 +57,25 @@
     <div :class="$style.FlowRow">
       <div :class="$style.FlowRowRowThree">
         <p :class="$style.FlowRowRowThreeGeneral">
-          {{ $t('などの強い症状がある') }}
+          {{ $t('などの症状が続くとき') }}
         </p>
       </div>
       <div>
         <p>
           <i18n
             tag="span"
-            path="{immediately} ご相談ください"
+            path="{days} は必ずご相談ください"
           >
-            <template v-slot:immediately>
-              <span :class="$style.FlowRowEmphasis">
-                {{ $t('すぐに') }}
-              </span>
+            <template v-slot:days>
+              <i18n
+                tag="span"
+                path="{day}日以上"
+                :class="$style.FlowRowEmphasis"
+              >
+                <template v-slot:day>
+                  4 
+                </template>
+              </i18n>
             </template>
           </i18n>
         </p>

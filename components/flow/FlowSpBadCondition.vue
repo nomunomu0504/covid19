@@ -4,7 +4,7 @@
       <span :class="[$style.icon, $style.top]" aria-hidden="true">
         <HumanIcon />
       </span>
-      <span :class="$style.fzMedium">{{ $t('全ての方') }}</span>
+      <span :class="$style.fzMedium">{{ $t('誰でも') }}</span>
     </p>
     <ul :class="[$style.rectContainer, $style.double]">
       <li :class="$style.symptom">
@@ -13,19 +13,35 @@
       <li :class="$style.symptom">
         {{ $t('息苦しさ') }}
       </li>
+      <li :class="$style.symptom">
+        {{ $t('高熱') }}
+      </li>
     </ul>
     <p :class="$style.duration">
-      <i18n path="{duration}続いている">
-        <template v-slot:duration>
-          <i18n
-            :class="[$style.underline, $style.fzLarge]"
-            tag="span"
-            path="{day}"
-          >
-            <template v-slot:day>
-              <strong :class="$style.fzNumeric">現在</strong>
-            </template>
-          </i18n>
+      <i18n
+        path="{doctor}または{hospital}へ{phone}"
+      >
+        <template v-slot:doctor>
+          <span :class="$style.underline">{{ $t('かかりつけ医') }}</span>
+        </template>
+        <template v-slot:hospital>
+          <br><span :class="$style.underline">{{ $t('最寄りの医療機関') }}</span>
+        </template>
+        <template v-slot:phone>
+          <span :class="$style.underline">
+            {{ $t('電話相談') }}
+          </span>
+        </template>
+      </i18n>
+    </p>
+    <p :class="$style.duration">
+      <i18n
+        path="{immediately} ご相談ください"
+      >
+        <template v-slot:immediately>
+          <span :class="[$style.fzNumeric, $style.underline]">
+            {{ $t('すぐに') }}
+          </span>
         </template>
       </i18n>
     </p>
@@ -37,7 +53,10 @@
       href="#consult"
       :class="[$style.button, $style.clickable]"
     >
-      <span :class="$style.text">{{ $t('新型コロナ受診相談窓口へ') }}</span>
+      <span :class="$style.text">
+        {{ $t('かかりつけ医がない場合') }}<br>
+        {{ $t('受診先に迷う場合は') }}
+      </span>
       <ArrowForwardIcon :class="$style.icon" />
     </a>
   </div>

@@ -16,7 +16,7 @@
       </div>
       <div class="Flow-Card-Button-Wrapper mt-6">
         <a
-          href="https://www.pref.fukui.lg.jp/doc/kenkou/kansensyo-yobousessyu/corona.html"
+          href="https://www.pref.fukui.lg.jp/doc/kenkou/kansensyo-yobousessyu/corona-soudan.html"
           target="_blank"
           rel="noopener"
           class="Flow-Card-Button"

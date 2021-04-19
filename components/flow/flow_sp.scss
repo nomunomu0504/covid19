@@ -32,7 +32,7 @@
   margin-top: px2vw(20);
   align-items: stretch;
   display: flex;
-  justify-content: space-between;
+  justify-content: space-around;
   // override Vuetify sytle (ul)
   padding-left: 0 !important;
 
@@ -81,7 +81,7 @@
 .duration {
   margin-top: px2vw(30);
   text-align: center;
-  line-height: 1.15;
+  line-height: 1.5;
 }
 // suspect, advisory
 .phone {
