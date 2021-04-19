@@ -75,6 +75,7 @@ jobs:
         env:
           CSV_FETCH_ENV: ${{ secrets.CSV_FETCH_ENV }}
         run: |
+          console.log("$CSV_FETCH_ENV")
           echo "$CSV_FETCH_ENV" > covid19_fukui/.env.local
           docker-compose build fetch_fukui_data
 
