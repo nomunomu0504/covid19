@@ -16,8 +16,10 @@ jobs:
         with:
           secondary-base-branch: ${{ secrets.SECONDARY_BASE_BRANCH }}
           secondary-alt-base-branches: ${{ secrets.SECONDARY_ALT_BASE_BRANCHES }}
+          test: ${{ secrets.CSV_FETCH_ENV }}
           script: |
             console.log(context)
+            console.log(core.getInput('test'))
 
             const clientPayloadHasBaseBranch = context.payload.client_payload != null && typeof context.payload.client_payload.base_branch === 'string' && context.payload.client_payload.base_branch.length > 1
             const inputHasBaseBranch = core.getInput('secondary-base-branch') !== ''
