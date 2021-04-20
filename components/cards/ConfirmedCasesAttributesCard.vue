@@ -1,5 +1,5 @@
 <template>
-  <v-col cols="6" class="DataCard">
+  <v-col cols="12" md="6" class="DataCard">
     <data-table
       :title="$t('陽性患者の属性')"
       :title-id="'attributes-of-confirmed-cases'"
