@@ -1,6 +1,16 @@
 {
-    "timestamp": 1618995833,
+    "timestamp": 1618999437,
     "info": [
+        {
+            "title": "大阪府で過去最多1242人コロナ感染、20人死亡 4月21日発表",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1303018",
+            "published_at": "2021/04/21 18:07"
+        },
+        {
+            "title": "石川県で33人コロナ感染、11人は福祉施設の関係者 4月21日発表",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1303008",
+            "published_at": "2021/04/21 18:01"
+        },
         {
             "title": "愛知県で312人コロナ感染、1月以来の300人超 4月21日",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1302997",
@@ -35,11 +45,6 @@
             "title": "福井大学医学部附属病院で4人コロナ感染　入院患者3人と看護助手　4月21日",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1302845",
             "published_at": "2021/04/21 13:42"
-        },
-        {
-            "title": "コロナ26人感染、福井県の会見中継　4月21日14時からYouTubeチャンネル",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1302789",
-            "published_at": "2021/04/21 13:33"
         }
     ]
 }
