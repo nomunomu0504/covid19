@@ -1,6 +1,21 @@
 {
-    "timestamp": 1619085832,
+    "timestamp": 1619089427,
     "info": [
+        {
+            "title": "宮城県と仙台市が78人コロナ感染、1人死亡と発表 4月22日　感染確認は計7807人に",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1303715",
+            "published_at": "2021/04/22 19:14"
+        },
+        {
+            "title": "滋賀県が41人のコロナ感染を発表、県内感染確認は計3366人に　4月22日",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1303834",
+            "published_at": "2021/04/22 19:05"
+        },
+        {
+            "title": "愛知県で294人コロナ感染、名古屋市が119人 4月22日",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1303725",
+            "published_at": "2021/04/22 19:04"
+        },
         {
             "title": "石川県で31人コロナ感染、接待伴う飲食店で新たにクラスター発生 4月22日発表",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1303815",
@@ -22,11 +37,6 @@
             "published_at": "2021/04/22 17:55"
         },
         {
-            "title": "愛知県で294人コロナ感染、名古屋市が119人 4月22日",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1303725",
-            "published_at": "2021/04/22 17:13"
-        },
-        {
             "title": "福井県内の小学校クラスターに教員や保護者衝撃「対策しているのに…」",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1303656",
             "published_at": "2021/04/22 17:10"
@@ -35,16 +45,6 @@
             "title": "マスク会食推進向け飲食店に1000枚配布へ　福井県、困窮するひとり親世帯に5万円給付も",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1303652",
             "published_at": "2021/04/22 17:00"
-        },
-        {
-            "title": "富山県が16人コロナ感染を発表、累計1202人に 4月22日発表",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1303724",
-            "published_at": "2021/04/22 16:44"
-        },
-        {
-            "title": "宮城県と仙台市が78人コロナ感染、1人死亡と発表 4月22日　感染確認は計7808人に",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1303715",
-            "published_at": "2021/04/22 16:37"
         }
     ]
 }
