@@ -1,6 +1,11 @@
 {
-    "timestamp": 1619046283,
+    "timestamp": 1619054871,
     "info": [
+        {
+            "title": "福井県の新規感染者数「緊急事態」レベル迫る　特別警報発令以降も感染急拡大　新型コロナ",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1303453",
+            "published_at": "2021/04/22 09:45"
+        },
         {
             "title": "３度目緊急事態発令へ　人流抑制と病床確保急げ",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1303382",
@@ -25,11 +30,6 @@
             "title": "大阪府で過去最多1242人コロナ感染、20人死亡 4月21日発表",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1303018",
             "published_at": "2021/04/21 19:50"
-        },
-        {
-            "title": "石川県で33人コロナ感染、11人は福祉施設の関係者 4月21日発表",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1303008",
-            "published_at": "2021/04/21 18:01"
         }
     ]
 }
