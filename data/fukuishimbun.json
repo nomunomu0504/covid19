@@ -1,6 +1,11 @@
 {
-    "timestamp": 1619093108,
+    "timestamp": 1619129043,
     "info": [
+        {
+            "title": "西武福井店のレストラン街再開、和洋中の4店オープン　「手頃な値段」「都会的な雰囲気」",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1303885",
+            "published_at": "2021/04/23 07:00"
+        },
         {
             "title": "大阪府で1167人コロナ感染、3日連続の千人超え 4月22日発表",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1303790",
@@ -40,16 +45,6 @@
             "title": "石川県で31人コロナ感染、接待伴う飲食店で新たにクラスター発生 4月22日発表",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1303815",
             "published_at": "2021/04/22 18:35"
-        },
-        {
-            "title": "沖縄県で120人コロナ感染、宮古島市居住者が19人 4月22日発表",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1303812",
-            "published_at": "2021/04/22 18:32"
-        },
-        {
-            "title": "京都府と京都市が過去2番目に多い148人のコロナ感染発表　4月22日",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1303782",
-            "published_at": "2021/04/22 17:55"
         }
     ]
 }
