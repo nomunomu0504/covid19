@@ -1,6 +1,21 @@
 {
-    "timestamp": 1619082248,
+    "timestamp": 1619085832,
     "info": [
+        {
+            "title": "石川県で31人コロナ感染、接待伴う飲食店で新たにクラスター発生 4月22日発表",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1303815",
+            "published_at": "2021/04/22 18:35"
+        },
+        {
+            "title": "沖縄県で120人コロナ感染、宮古島市居住者が19人 4月22日発表",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1303812",
+            "published_at": "2021/04/22 18:32"
+        },
+        {
+            "title": "大阪府で1167人コロナ感染、3日連続の千人超え 4月22日発表",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1303790",
+            "published_at": "2021/04/22 18:02"
+        },
         {
             "title": "京都府と京都市が過去2番目に多い148人のコロナ感染発表　4月22日",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1303782",
@@ -30,16 +45,6 @@
             "title": "宮城県と仙台市が78人コロナ感染、1人死亡と発表 4月22日　感染確認は計7808人に",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1303715",
             "published_at": "2021/04/22 16:37"
-        },
-        {
-            "title": "福井県が独自の緊急事態宣言　コロナ感染急拡大、5月13日まで",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1303691",
-            "published_at": "2021/04/22 16:10"
-        },
-        {
-            "title": "福井県の新型コロナ対策本部会議を中継　4月22日、YouTubeチャンネルでライブ配信",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1303643",
-            "published_at": "2021/04/22 13:46"
         }
     ]
 }
