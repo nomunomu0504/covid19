@@ -1,10 +1,25 @@
 {
-    "timestamp": 1619078654,
+    "timestamp": 1619082248,
     "info": [
         {
-            "title": "愛知県で294人コロナ感染　県内の感染確認は計3万1136人に 4月22日",
+            "title": "京都府と京都市が過去2番目に多い148人のコロナ感染発表　4月22日",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1303782",
+            "published_at": "2021/04/22 17:55"
+        },
+        {
+            "title": "愛知県で294人コロナ感染、名古屋市が119人 4月22日",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1303725",
-            "published_at": "2021/04/22 16:48"
+            "published_at": "2021/04/22 17:13"
+        },
+        {
+            "title": "福井県内の小学校クラスターに教員や保護者衝撃「対策しているのに…」",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1303656",
+            "published_at": "2021/04/22 17:10"
+        },
+        {
+            "title": "マスク会食推進向け飲食店に1000枚配布へ　福井県、困窮するひとり親世帯に5万円給付も",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1303652",
+            "published_at": "2021/04/22 17:00"
         },
         {
             "title": "富山県が16人コロナ感染を発表、累計1202人に 4月22日発表",
@@ -25,21 +40,6 @@
             "title": "福井県の新型コロナ対策本部会議を中継　4月22日、YouTubeチャンネルでライブ配信",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1303643",
             "published_at": "2021/04/22 13:46"
-        },
-        {
-            "title": "コロナ38人感染、福井県の会見中継　4月22日14時からYouTubeチャンネル",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1303546",
-            "published_at": "2021/04/22 12:23"
-        },
-        {
-            "title": "福井県内で38人コロナ感染、2日連続の最多更新　4月22日県発表",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1303545",
-            "published_at": "2021/04/22 12:19"
-        },
-        {
-            "title": "福井県の新規感染者数「緊急事態」レベル迫る　特別警報発令以降もコロナ感染急拡大",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1303453",
-            "published_at": "2021/04/22 09:45"
         }
     ]
 }
