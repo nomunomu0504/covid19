@@ -1,6 +1,11 @@
 {
-    "timestamp": 1619301836,
+    "timestamp": 1619305439,
     "info": [
+        {
+            "title": "福井大学病院でクラスター発生　コロナ患者の県内受け入れ機関で初",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1305342",
+            "published_at": "2021/04/25 07:20"
+        },
         {
             "title": "東尋坊も永平寺も観光客まばら「店の体力持たない」　福井県「緊急事態宣言」後初の週末",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1305363",
@@ -35,16 +40,6 @@
             "title": "千葉県で1人死亡、147人コロナ感染　県、千葉市、船橋市、柏市が発表 4月24日",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1305301",
             "published_at": "2021/04/24 18:23"
-        },
-        {
-            "title": "神奈川県で4人死亡、216人コロナ感染 横浜市79人、大学運動部で新たに2人 4月24日",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1305300",
-            "published_at": "2021/04/24 18:20"
-        },
-        {
-            "title": "宮城県と仙台市が36人コロナ感染、2人死亡と発表 4月24日",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1305255",
-            "published_at": "2021/04/24 17:28"
         }
     ]
 }
