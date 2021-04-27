@@ -1,6 +1,11 @@
 {
-    "timestamp": 1619496258,
+    "timestamp": 1619507244,
     "info": [
+        {
+            "title": "東京都が828人のコロナ感染発表、変異株の割合が増加 4月27日",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1306973",
+            "published_at": "2021/04/27 15:37"
+        },
         {
             "title": "コロナ5人感染、福井県の会見中継　4月27日14時からYouTubeチャンネル",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1306848",
@@ -20,11 +25,6 @@
             "title": "衆参３選挙自民全敗　政権への不信、不満如実に",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1306749",
             "published_at": "2021/04/27 07:30"
-        },
-        {
-            "title": "コロナワクチン接種予約、対象者殺到し一時長蛇の列 福井県内",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1306447",
-            "published_at": "2021/04/27 07:00"
         }
     ]
 }
