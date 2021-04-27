@@ -1,6 +1,11 @@
 {
-    "timestamp": 1619514235,
+    "timestamp": 1619517830,
     "info": [
+        {
+            "title": "愛知県で281人コロナ感染、名古屋市は108人 4月27日",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1307068",
+            "published_at": "2021/04/27 18:00"
+        },
         {
             "title": "宮城県と仙台市が36人コロナ感染、3人死亡と発表 4月27日",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1307066",
@@ -40,11 +45,6 @@
             "title": "石川県が18人のコロナ感染発表、重症者用病床の使用率は過去最高40％　4月27発表",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1307016",
             "published_at": "2021/04/27 16:50"
-        },
-        {
-            "title": "東京都が828人のコロナ感染発表、変異株の割合が増加 4月27日",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1306973",
-            "published_at": "2021/04/27 15:37"
         }
     ]
 }
