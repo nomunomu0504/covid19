@@ -1,6 +1,16 @@
 {
-    "timestamp": 1619611505,
+    "timestamp": 1619615490,
     "info": [
+        {
+            "title": "福井県で新たに6人新型コロナ感染　4月28日県発表",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1307583",
+            "published_at": "2021/04/28 21:06"
+        },
+        {
+            "title": "沖縄県で63人コロナ感染、まん延防止対象区域に本島5町追加 4月28日発表",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1307933",
+            "published_at": "2021/04/28 21:05"
+        },
         {
             "title": "愛知県と豊橋市が323の人コロナ感染、2人死亡と発表 4月28日",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1307901",
@@ -25,16 +35,6 @@
             "title": "大阪府で過去最多1260人コロナ感染、14人死亡　重症者急増で病床確保追いつかず 4月28日発表",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1307874",
             "published_at": "2021/04/28 18:35"
-        },
-        {
-            "title": "兵庫県で水曜日最多600人コロナ感染、自宅療養者ら4人死亡 4月28日発表",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1307806",
-            "published_at": "2021/04/28 17:15"
-        },
-        {
-            "title": "コロナ緊急事態宣言中のGW　福井のキャンプ場、恐竜博物館…一部制限も",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1307795",
-            "published_at": "2021/04/28 17:10"
         }
     ]
 }
