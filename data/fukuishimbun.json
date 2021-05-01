@@ -1,6 +1,11 @@
 {
-    "timestamp": 1619867481,
+    "timestamp": 1619871486,
     "info": [
+        {
+            "title": "岐阜県で96人コロナ感染　5月1日発表",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1309858",
+            "published_at": "2021/05/01 20:32"
+        },
         {
             "title": "神奈川県で275人コロナ感染、うち横浜市119人　5月1日発表",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1309838",
@@ -25,11 +30,6 @@
             "title": "兵庫県で539人コロナ感染、過去2番目に多い13人死亡　5月1日発表",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1309792",
             "published_at": "2021/05/01 18:01"
-        },
-        {
-            "title": "石川県で25人コロナ感染　5月1日発表",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1309735",
-            "published_at": "2021/05/01 15:55"
         }
     ]
 }
