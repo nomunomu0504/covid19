@@ -1,6 +1,16 @@
 {
-    "timestamp": 1619853333,
+    "timestamp": 1619860388,
     "info": [
+        {
+            "title": "愛媛県で25人コロナ感染　5月1日発表",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1309796",
+            "published_at": "2021/05/01 18:05"
+        },
+        {
+            "title": "兵庫県で539人コロナ感染、過去2番目に多い13人死亡　5月1日発表",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1309792",
+            "published_at": "2021/05/01 18:01"
+        },
         {
             "title": "石川県で25人コロナ感染　5月1日発表",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1309735",
@@ -10,11 +20,6 @@
             "title": "東京都で1050人コロナ感染　5月1日発表",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1309726",
             "published_at": "2021/05/01 15:27"
-        },
-        {
-            "title": "福井県で新たに9人新型コロナ感染　5月1日県発表",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1309615",
-            "published_at": "2021/05/01 12:13"
         }
     ]
 }
