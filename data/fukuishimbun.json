@@ -1,6 +1,21 @@
 {
-    "timestamp": 1619943297,
+    "timestamp": 1619946788,
     "info": [
+        {
+            "title": "滋賀県で34人コロナ感染　5月2日発表",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1310274",
+            "published_at": "2021/05/02 17:40"
+        },
+        {
+            "title": "東京都で879人コロナ感染　5月2日発表",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1310273",
+            "published_at": "2021/05/02 17:36"
+        },
+        {
+            "title": "変異株感染が92％、福井県内4月 検査232人中214人から検出 新型コロナ",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1310246",
+            "published_at": "2021/05/02 17:10"
+        },
         {
             "title": "コロナ14人感染、福井県の会見中継　5月2日14時からYouTubeチャンネル",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1310172",
@@ -10,11 +25,6 @@
             "title": "福井県で新たに14人新型コロナ感染　5月2日県発表",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1310171",
             "published_at": "2021/05/02 12:18"
-        },
-        {
-            "title": "福井県の推計人口76万人を下回る　1973年10月以来、全市町で減少",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1309871",
-            "published_at": "2021/05/02 07:10"
         }
     ]
 }
