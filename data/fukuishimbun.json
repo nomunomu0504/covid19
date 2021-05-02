@@ -1,6 +1,11 @@
 {
-    "timestamp": 1619957876,
+    "timestamp": 1619961701,
     "info": [
+        {
+            "title": "大阪府で1057人コロナ感染　5月2日発表、枚方市でクラスター",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1310356",
+            "published_at": "2021/05/02 22:09"
+        },
         {
             "title": "兵庫県で539人コロナ感染　5月2日発表",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1310342",
@@ -30,11 +35,6 @@
             "title": "愛媛県で26人コロナ感染　5月2日発表",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1310290",
             "published_at": "2021/05/02 18:11"
-        },
-        {
-            "title": "滋賀県で34人コロナ感染　5月2日発表",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1310274",
-            "published_at": "2021/05/02 17:40"
         }
     ]
 }
