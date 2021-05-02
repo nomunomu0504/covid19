@@ -1,6 +1,16 @@
 {
-    "timestamp": 1619950416,
+    "timestamp": 1619957876,
     "info": [
+        {
+            "title": "兵庫県で539人コロナ感染　5月2日発表",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1310342",
+            "published_at": "2021/05/02 20:25"
+        },
+        {
+            "title": "岐阜県で60人コロナ感染　5月2日発表、時短要請地域に中津川市など追加",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1310341",
+            "published_at": "2021/05/02 20:15"
+        },
         {
             "title": "京都府で過去2番目に多い164人コロナ感染　5月2日発表",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1310304",
@@ -25,16 +35,6 @@
             "title": "滋賀県で34人コロナ感染　5月2日発表",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1310274",
             "published_at": "2021/05/02 17:40"
-        },
-        {
-            "title": "東京都で879人コロナ感染　5月2日発表",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1310273",
-            "published_at": "2021/05/02 17:36"
-        },
-        {
-            "title": "変異株感染が92％、福井県内4月 検査232人中214人から検出 新型コロナ",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1310246",
-            "published_at": "2021/05/02 17:10"
         }
     ]
 }
