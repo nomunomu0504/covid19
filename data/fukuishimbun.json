@@ -1,6 +1,11 @@
 {
-    "timestamp": 1620040283,
+    "timestamp": 1620044374,
     "info": [
+        {
+            "title": "滋賀県で37人コロナ感染　県内感染者数は累計3857人に　5月3日発表",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1310756",
+            "published_at": "2021/05/03 20:24"
+        },
         {
             "title": "岐阜県で64人コロナ感染、御嵩町の中学校でクラスター発生　5月3日発表",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1310771",
@@ -15,11 +20,6 @@
             "title": "神奈川県で222人コロナ感染、横浜市の病院クラスターで新たな感染者　5月3日発表",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1310757",
             "published_at": "2021/05/03 19:02"
-        },
-        {
-            "title": "滋賀県で37人コロナ感染　県内感染者数は累計3857人に　5月3日発表",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1310756",
-            "published_at": "2021/05/03 19:01"
         },
         {
             "title": "京都府で121人コロナ感染　府内感染者数累計は1万2954人に　5月3日発表",
@@ -45,11 +45,6 @@
             "title": "敦賀市の高齢者ワクチン接種、予約開始から2日間で5月分埋まる　次回予約は18日から",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1310572",
             "published_at": "2021/05/03 17:00"
-        },
-        {
-            "title": "兵庫県で344人コロナ感染、知事が緊急事態宣言延長の可能性言及　5月3日発表",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1310677",
-            "published_at": "2021/05/03 16:24"
         }
     ]
 }
