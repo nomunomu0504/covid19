@@ -1,6 +1,16 @@
 {
-    "timestamp": 1620044374,
+    "timestamp": 1620048223,
     "info": [
+        {
+            "title": "愛知県と名古屋市、一宮市が計304人のコロナ感染発表　県内感染確認累計は3万4517人に　5月3日発表",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1310716",
+            "published_at": "2021/05/03 22:06"
+        },
+        {
+            "title": "徳島県で最多60人コロナ感染　徳島市の病院と野球の独立リーグ球団でクラスター　5月4日にまん延防止要請判断",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1310820",
+            "published_at": "2021/05/03 21:57"
+        },
         {
             "title": "滋賀県で37人コロナ感染　県内感染者数は累計3857人に　5月3日発表",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1310756",
@@ -32,19 +42,9 @@
             "published_at": "2021/05/03 17:37"
         },
         {
-            "title": "愛知県と一宮市が計304人のコロナ感染発表　県内感染確認累計は3万4517人に　5月3日発表",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1310716",
-            "published_at": "2021/05/03 17:22"
-        },
-        {
             "title": "コロナ陽性者の85％が「マスクなしでの会話や飲食」で感染と推定　福井県4月分析",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1310607",
             "published_at": "2021/05/03 17:10"
-        },
-        {
-            "title": "敦賀市の高齢者ワクチン接種、予約開始から2日間で5月分埋まる　次回予約は18日から",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1310572",
-            "published_at": "2021/05/03 17:00"
         }
     ]
 }
