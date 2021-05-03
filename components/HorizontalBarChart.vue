@@ -241,7 +241,7 @@ const options: ThisTypedComponentOptionsWithRecordProps<
           callbacks: {
             label(tooltipItem: any, data: any) {
               return `${data.datasets[tooltipItem.datasetIndex].label}: ${
-                tooltipItem.xLabel
+                Math.abs(tooltipItem.xLabel)
               }`
             },
             title(tooltipItem: any, data: any) {
@@ -258,7 +258,10 @@ const options: ThisTypedComponentOptionsWithRecordProps<
               ticks: {
                 suggestedMax: 50,
                 suggestedMin: -50,
-                stepSize: 10
+                stepSize: 10,
+                callback: function(value: number) {
+                  return value.toString().replace('-', '')
+                }
               }
             }
           ],
