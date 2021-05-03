@@ -1,6 +1,11 @@
 {
-    "timestamp": 1620019067,
+    "timestamp": 1620026243,
     "info": [
+        {
+            "title": "東京都で708人コロナ感染　直近7日間平均では1日当たり873.6人　5月3日発表",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1310651",
+            "published_at": "2021/05/03 15:50"
+        },
         {
             "title": "東京五輪代表決定の見延和靖選手が心境明かす 本番まで80日 「代表入りはスタートライン」",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1310564",
@@ -25,11 +30,6 @@
             "title": "「陽炎や道灌どのの物見塚」。この一茶の句にある「物見」は見張り、監視…",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1310521",
             "published_at": "2021/05/03 07:20"
-        },
-        {
-            "title": "福井県内移住者が初の1000人超え　2020年度、コロナ禍で地方回帰",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1310350",
-            "published_at": "2021/05/03 07:10"
         }
     ]
 }
