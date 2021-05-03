@@ -1,6 +1,11 @@
 {
-    "timestamp": 1620007706,
+    "timestamp": 1620012063,
     "info": [
+        {
+            "title": "福井県で新たに8人新型コロナ感染　5月3日県発表",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1310579",
+            "published_at": "2021/05/03 12:00"
+        },
         {
             "title": "福井県内の一般高齢者向けワクチン接種開始日程　5月8日の福井市皮切り　新型コロナ",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1310567",
@@ -20,11 +25,6 @@
             "title": "福井県内移住者が初の1000人超え　2020年度、コロナ禍で地方回帰",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1310350",
             "published_at": "2021/05/03 07:10"
-        },
-        {
-            "title": "大阪府で1057人コロナ感染　5月2日発表、枚方市でクラスター",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1310356",
-            "published_at": "2021/05/02 22:09"
         }
     ]
 }
