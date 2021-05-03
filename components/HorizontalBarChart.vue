@@ -156,22 +156,25 @@ const options: ThisTypedComponentOptionsWithRecordProps<
         male: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
         female: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
       }
-      this.chartData.map((d: any) => {
-        const ages = [
-          '90代',
-          '80代',
-          '70代',
-          '60代',
-          '50代',
-          '40代',
-          '30代',
-          '20代',
-          '10代',
-          '10歳未満'
-        ]
+      const ages = [
+        '90代',
+        '80代',
+        '70代',
+        '60代',
+        '50代',
+        '40代',
+        '30代',
+        '20代',
+        '10代',
+        '10歳未満'
+      ]
+      this.chartData.filter((d: any) => {
+        return ages.find((age: string) => age === d['年代']) && d['性別'] !== ""
+      })
+      .map((d: any) => {
         if (d['性別'] == '男性') {
           this.valueOfEachAge['male'][ages.indexOf(d['年代'])] -= 1
-        } else {
+        } else if (d['性別'] == '女性') {
           this.valueOfEachAge['female'][ages.indexOf(d['年代'])] += 1
         }
         /*
