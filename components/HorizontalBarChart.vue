@@ -32,12 +32,15 @@ import { ThisTypedComponentOptionsWithRecordProps } from 'vue/types/options'
 import { GraphDataType } from '@/utils/formatGraph'
 import DataView from '@/components/DataView.vue'
 import DataViewBasicInfoPanel from '@/components/DataViewBasicInfoPanel.vue'
-import { single as color } from '@/utils/colors'
+import { plusMinus as color } from '@/utils/colors'
 
 type Data = {
   dataKind: 'transition' | 'cumulative'
   canvas: boolean
-  valueOfEachAge: number[]
+  valueOfEachAge: {
+    male: number[]
+    female: number[]
+  }
 }
 type Methods = {}
 type Computed = {
@@ -59,7 +62,7 @@ type Computed = {
     tooltips: {
       displayColors: boolean
       callbacks: {
-        label(tooltipItem: any): string
+        label(tooltipItem: any[], data: any): string
         title(tooltipItem: any[], data: any): string | undefined
       }
     }
@@ -135,7 +138,10 @@ const options: ThisTypedComponentOptionsWithRecordProps<
   data: () => ({
     dataKind: 'transition',
     canvas: true,
-    valueOfEachAge: []
+    valueOfEachAge: {
+      male: [],
+      female: []
+    }
   }),
   computed: {
     displayInfo() {
@@ -146,8 +152,32 @@ const options: ThisTypedComponentOptionsWithRecordProps<
       }
     },
     displayData() {
-      this.valueOfEachAge = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
-      this.chartData.map((d: any) => {
+      this.valueOfEachAge = {
+        male: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+        female: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+      }
+      const ages = [
+        '90代',
+        '80代',
+        '70代',
+        '60代',
+        '50代',
+        '40代',
+        '30代',
+        '20代',
+        '10代',
+        '10歳未満'
+      ]
+      this.chartData.filter((d: any) => {
+        return ages.find((age: string) => age === d['年代']) && d['性別'] !== ""
+      })
+      .map((d: any) => {
+        if (d['性別'] == '男性') {
+          this.valueOfEachAge['male'][ages.indexOf(d['年代'])] -= 1
+        } else if (d['性別'] == '女性') {
+          this.valueOfEachAge['female'][ages.indexOf(d['年代'])] += 1
+        }
+        /*
         switch (d['年代']) {
           case '10歳未満':
             this.valueOfEachAge[9] += 1
@@ -182,15 +212,22 @@ const options: ThisTypedComponentOptionsWithRecordProps<
           default:
             break
         }
+        */
       })
 
       return {
         labels: this.labels,
         datasets: [
           {
-            label: this.$t('陽性者数'),
-            data: this.valueOfEachAge,
-            backgroundColor: color,
+            label: this.$t('男性'),
+            data: this.valueOfEachAge['male'],
+            backgroundColor: color[0],
+            borderWidth: 0
+          },
+          {
+            label: this.$t('女性'),
+            data: this.valueOfEachAge['female'],
+            backgroundColor: color[1],
             borderWidth: 0
           }
         ]
@@ -205,9 +242,9 @@ const options: ThisTypedComponentOptionsWithRecordProps<
         tooltips: {
           displayColors: false,
           callbacks: {
-            label(tooltipItem: any) {
-              return `${_this.$t('陽性者数')}: ${
-                valueOfEachAge[tooltipItem.index]
+            label(tooltipItem: any, data: any) {
+              return `${data.datasets[tooltipItem.datasetIndex].label}: ${
+                Math.abs(tooltipItem.xLabel)
               }`
             },
             title(tooltipItem: any, data: any) {
@@ -223,8 +260,11 @@ const options: ThisTypedComponentOptionsWithRecordProps<
               stacked: true,
               ticks: {
                 suggestedMax: 50,
-                suggestedMin: 0,
-                stepSize: 5
+                suggestedMin: -50,
+                stepSize: 10,
+                callback: function(value: number) {
+                  return value.toString().replace('-', '')
+                }
               }
             }
           ],
