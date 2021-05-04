@@ -1,6 +1,16 @@
 {
-    "timestamp": 1620093797,
+    "timestamp": 1620098258,
     "info": [
+        {
+            "title": "福井県で新たに4人新型コロナ感染　5月4日県発表",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1311088",
+            "published_at": "2021/05/04 11:54"
+        },
+        {
+            "title": "山形県で12人が新型コロナ感染､1人死亡　5月4日発表　県内感染者数は計1550人に",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1311089",
+            "published_at": "2021/05/04 11:45"
+        },
         {
             "title": "鯖江「にじいろ」１カ月　子育て世帯の期待大きく",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1311021",
@@ -20,11 +30,6 @@
             "title": "愛知県と名古屋市、一宮市が計304人のコロナ感染発表　県内感染確認累計は3万4517人に　5月3日発表",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1310716",
             "published_at": "2021/05/03 22:06"
-        },
-        {
-            "title": "徳島県で最多60人コロナ感染　徳島市の病院と野球の独立リーグ球団でクラスター　5月4日にまん延防止要請判断",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1310820",
-            "published_at": "2021/05/03 21:57"
         }
     ]
 }
