@@ -1,6 +1,11 @@
 {
-    "timestamp": 1620169886,
+    "timestamp": 1620184579,
     "info": [
+        {
+            "title": "福井県で新たに5人新型コロナ感染　5月5日県発表",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1311567",
+            "published_at": "2021/05/05 11:50"
+        },
         {
             "title": "日産車のインテリアデザイン手掛けた男性が福井で再発進",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1311278",
@@ -25,16 +30,6 @@
             "title": "京都府と京都市が1人死亡、113人のコロナ感染発表　5月4日",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1311229",
             "published_at": "2021/05/04 18:36"
-        },
-        {
-            "title": "滋賀県が53人のコロナ感染発表　県内感染者数は累計3910人に　5月4日発表",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1311218",
-            "published_at": "2021/05/04 18:33"
-        },
-        {
-            "title": "千葉県で124人コロナ感染、1人死亡 15人の変異株感染も判明 5月4日発表",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1311200",
-            "published_at": "2021/05/04 17:51"
         }
     ]
 }
