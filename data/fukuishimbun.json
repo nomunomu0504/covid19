@@ -1,6 +1,11 @@
 {
-    "timestamp": 1620278055,
+    "timestamp": 1620285236,
     "info": [
+        {
+            "title": "兵庫県で281人コロナ感染、4人死亡　直近１週間の平均感染者数 高水準で推移　5月6日発表",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1311999",
+            "published_at": "2021/05/06 16:05"
+        },
         {
             "title": "福井県で新たに6人新型コロナ感染　5月6日県発表",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1311890",
@@ -15,11 +20,6 @@
             "title": "大阪府で668人コロナ感染、25人死亡　5月5日発表",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1311673",
             "published_at": "2021/05/05 18:22"
-        },
-        {
-            "title": "京都府と京都市で１人死亡、93人コロナ感染　5月5日発表",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1311671",
-            "published_at": "2021/05/05 18:19"
         }
     ]
 }
