@@ -1,6 +1,11 @@
 {
-    "timestamp": 1620339251,
+    "timestamp": 1620342707,
     "info": [
+        {
+            "title": "混雑続く福井市のワクチン予約、対面窓口3倍増　接種券発送直後の朝に集中",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1312189",
+            "published_at": "2021/05/07 07:20"
+        },
         {
             "title": "石川県で37人コロナ感染、1人死亡　病床使用率は過去最高87％　5月6日発表",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1312137",
@@ -15,31 +20,6 @@
             "title": "福岡県で3人死亡、259人コロナ感染　5月6日発表",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1312086",
             "published_at": "2021/05/06 18:09"
-        },
-        {
-            "title": "滋賀県で1人死亡、51人コロナ感染　5月6日発表",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1312071",
-            "published_at": "2021/05/06 17:53"
-        },
-        {
-            "title": "神奈川県で224人コロナ感染、横浜市内の大学で運動部クラスター 5月6日発表",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1312065",
-            "published_at": "2021/05/06 17:50"
-        },
-        {
-            "title": "千葉県で111人コロナ感染、1人死亡　23人の変異株感染も判明 5月6日発表",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1312036",
-            "published_at": "2021/05/06 17:25"
-        },
-        {
-            "title": "宮城県で32人コロナ感染、2人死亡 5月6日発表",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1312035",
-            "published_at": "2021/05/06 17:07"
-        },
-        {
-            "title": "岡山県で過去最多に並ぶ114人コロナ感染、倉敷市の飲食店でクラスター発生　5月6日発表",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1312029",
-            "published_at": "2021/05/06 17:00"
         }
     ]
 }
