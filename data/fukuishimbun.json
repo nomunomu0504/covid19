@@ -1,6 +1,11 @@
 {
-    "timestamp": 1620285236,
+    "timestamp": 1620288763,
     "info": [
+        {
+            "title": "岡山県で過去最多に並ぶ114人コロナ感染、倉敷市の飲食店でクラスター発生　5月6日発表",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1312029",
+            "published_at": "2021/05/06 17:00"
+        },
         {
             "title": "兵庫県で281人コロナ感染、4人死亡　直近１週間の平均感染者数 高水準で推移　5月6日発表",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1311999",
@@ -15,11 +20,6 @@
             "title": "私立高校人気に福井県教委危機感、県立の魅力向上急ぐ 保護者「\"絶対県立\"の時代ではない」",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1311875",
             "published_at": "2021/05/06 11:50"
-        },
-        {
-            "title": "大阪府で668人コロナ感染、25人死亡　5月5日発表",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1311673",
-            "published_at": "2021/05/05 18:22"
         }
     ]
 }
