@@ -1,6 +1,11 @@
 {
-    "timestamp": 1620270988,
+    "timestamp": 1620274418,
     "info": [
+        {
+            "title": "福井県で新たに6人新型コロナ感染　5月6日県発表",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1311890",
+            "published_at": "2021/05/06 12:08"
+        },
         {
             "title": "私立高校人気に福井県教委危機感、県立の魅力向上急ぐ 保護者「\"絶対県立\"の時代ではない」",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1311875",
@@ -20,11 +25,6 @@
             "title": "岐阜県と岐阜市が63人のコロナ感染確認と発表　5月5日",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1311665",
             "published_at": "2021/05/05 18:15"
-        },
-        {
-            "title": "滋賀県で２人死亡、37人コロナ感染　5月5日発表",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1311664",
-            "published_at": "2021/05/05 18:13"
         }
     ]
 }
