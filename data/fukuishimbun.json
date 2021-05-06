@@ -1,6 +1,11 @@
 {
-    "timestamp": 1620266311,
+    "timestamp": 1620270988,
     "info": [
+        {
+            "title": "私立高校人気に福井県教委危機感、県立の魅力向上急ぐ 保護者「\"絶対県立\"の時代ではない」",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1311875",
+            "published_at": "2021/05/06 11:50"
+        },
         {
             "title": "大阪府で668人コロナ感染、25人死亡　5月5日発表",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1311673",
@@ -20,11 +25,6 @@
             "title": "滋賀県で２人死亡、37人コロナ感染　5月5日発表",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1311664",
             "published_at": "2021/05/05 18:13"
-        },
-        {
-            "title": "兵庫県で331人コロナ感染、13人死亡　死者数は過去２番目の多さ　5月5日発表",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1311663",
-            "published_at": "2021/05/05 18:11"
         }
     ]
 }
