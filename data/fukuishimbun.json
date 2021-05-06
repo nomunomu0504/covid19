@@ -1,6 +1,16 @@
 {
-    "timestamp": 1620292309,
+    "timestamp": 1620299422,
     "info": [
+        {
+            "title": "石川県で37人コロナ感染、1人死亡　病床使用率は過去最高87％　5月6日発表",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1312137",
+            "published_at": "2021/05/06 19:52"
+        },
+        {
+            "title": "愛知県で290人コロナ感染確認、名古屋市は111人　5月6日発表",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1312120",
+            "published_at": "2021/05/06 19:15"
+        },
         {
             "title": "福岡県で3人死亡、259人コロナ感染　5月6日発表",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1312086",
@@ -35,11 +45,6 @@
             "title": "兵庫県で281人コロナ感染、4人死亡　直近１週間の平均感染者数 高水準で推移　5月6日発表",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1311999",
             "published_at": "2021/05/06 16:05"
-        },
-        {
-            "title": "福井県で新たに6人新型コロナ感染　5月6日県発表",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1311890",
-            "published_at": "2021/05/06 12:08"
         }
     ]
 }
