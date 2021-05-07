@@ -1,6 +1,11 @@
 {
-    "timestamp": 1620342707,
+    "timestamp": 1620357528,
     "info": [
+        {
+            "title": "コロナ陽性、本人に伝わるまで5日間　福井県内の患者1人、医療機関GW休診で",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1312573",
+            "published_at": "2021/05/07 11:30"
+        },
         {
             "title": "混雑続く福井市のワクチン予約、対面窓口3倍増　接種券発送直後の朝に集中",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1312189",
@@ -15,11 +20,6 @@
             "title": "愛知県で290人コロナ感染確認、名古屋市は111人　5月6日発表",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1312120",
             "published_at": "2021/05/06 19:15"
-        },
-        {
-            "title": "福岡県で3人死亡、259人コロナ感染　5月6日発表",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1312086",
-            "published_at": "2021/05/06 18:09"
         }
     ]
 }
