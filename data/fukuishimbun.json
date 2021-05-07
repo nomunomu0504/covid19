@@ -1,6 +1,21 @@
 {
-    "timestamp": 1620371697,
+    "timestamp": 1620375239,
     "info": [
+        {
+            "title": "兵庫県で14人死亡、493人コロナ感染 直近１週間平均400人上回る 5月7日発表",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1312728",
+            "published_at": "2021/05/07 16:55"
+        },
+        {
+            "title": "岐阜県で過去最多130人コロナ感染、1人死亡　5月7日発表",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1312723",
+            "published_at": "2021/05/07 16:48"
+        },
+        {
+            "title": "愛知県で過去最多443人コロナ感染確認、1月の最多人数を上回る　5月7日発表",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1312712",
+            "published_at": "2021/05/07 16:18"
+        },
         {
             "title": "東京都で907人コロナ感染 変異株の割合増え、再拡大の傾向続く 5月7日発表",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1312696",
@@ -25,11 +40,6 @@
             "title": "コロナ陽性、本人に伝わるまで5日間　福井県内の患者1人、医療機関GW休診で",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1312573",
             "published_at": "2021/05/07 11:30"
-        },
-        {
-            "title": "混雑続く福井市のワクチン予約、対面窓口3倍増　接種券発送直後の朝に集中",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1312189",
-            "published_at": "2021/05/07 07:20"
         }
     ]
 }
