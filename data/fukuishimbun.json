@@ -1,6 +1,11 @@
 {
-    "timestamp": 1620439277,
+    "timestamp": 1620443857,
     "info": [
+        {
+            "title": "福井県で新たに11人コロナ感染　5月8日県発表",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1313163",
+            "published_at": "2021/05/08 12:07"
+        },
         {
             "title": "スポーツ少年団困った…コロナ伴い施設利用は市民限定　市外の選手は参加不可、賛否交錯　福井県越前市　",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1312824",
@@ -10,11 +15,6 @@
             "title": "ことわざの「風が吹けば桶屋が儲かる」は、誰もが知っているだろう…",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1313109",
             "published_at": "2021/05/08 07:20"
-        },
-        {
-            "title": "緊急事態宣言延長、菅義偉首相の記者会見をライブ配信　5月7日19時",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1312781",
-            "published_at": "2021/05/07 18:38"
         }
     ]
 }
