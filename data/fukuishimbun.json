@@ -1,6 +1,11 @@
 {
-    "timestamp": 1620468750,
+    "timestamp": 1620472200,
     "info": [
+        {
+            "title": "東京都で1121人コロナ感染　5月8日発表",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1313348",
+            "published_at": "2021/05/08 19:14"
+        },
         {
             "title": "大阪府で1021人コロナ感染　5月8日発表、2日連続で千人超え",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1313338",
@@ -40,11 +45,6 @@
             "title": "北海道で過去最多403人コロナ感染　5月8日発表、うち札幌市277人",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1313285",
             "published_at": "2021/05/08 17:05"
-        },
-        {
-            "title": "愛知県で過去最多575人コロナ感染　5月8日発表、2日連続で最多更新",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1313280",
-            "published_at": "2021/05/08 16:58"
         }
     ]
 }
