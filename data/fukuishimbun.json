@@ -1,6 +1,11 @@
 {
-    "timestamp": 1620472200,
+    "timestamp": 1620512010,
     "info": [
+        {
+            "title": "福井県内で一般高齢者のコロナワクチン接種開始　初日は福井市60人、大きな混乱なく",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1313393",
+            "published_at": "2021/05/09 07:10"
+        },
         {
             "title": "東京都で1121人コロナ感染　5月8日発表",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1313348",
@@ -35,16 +40,6 @@
             "title": "岐阜県で121人コロナ感染、クラスター11件　5月8日発表",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1313319",
             "published_at": "2021/05/08 18:17"
-        },
-        {
-            "title": "兵庫県で568人コロナ感染　5月8日発表",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1313294",
-            "published_at": "2021/05/08 17:27"
-        },
-        {
-            "title": "北海道で過去最多403人コロナ感染　5月8日発表、うち札幌市277人",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1313285",
-            "published_at": "2021/05/08 17:05"
         }
     ]
 }
