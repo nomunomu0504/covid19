@@ -1,6 +1,16 @@
 {
-    "timestamp": 1620547970,
+    "timestamp": 1620551503,
     "info": [
+        {
+            "title": "北海道で過去最多506人コロナ感染　5月9日発表、うち札幌市327人も最多",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1313772",
+            "published_at": "2021/05/09 17:16"
+        },
+        {
+            "title": "滋賀県で44人コロナ感染　5月9日発表",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1313767",
+            "published_at": "2021/05/09 17:08"
+        },
         {
             "title": "ダンス全国コンテストで福井県の中学生が栄冠　梅田臣さん、ダイナミックに踊り「DIG UP!!」初優勝",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1313707",
@@ -35,11 +45,6 @@
             "title": "父親の紹介で入社も残業続き…労基署にも訴えられず　死を決意し樹海そして福井へ【東尋坊の現場から】",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1312652",
             "published_at": "2021/05/09 11:00"
-        },
-        {
-            "title": "山形県で8人が新型コロナ感染　5月9日発表　県内感染者数は計1599人に",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1313651",
-            "published_at": "2021/05/09 10:49"
         }
     ]
 }
