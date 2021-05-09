@@ -1,10 +1,30 @@
 {
-    "timestamp": 1620525812,
+    "timestamp": 1620530262,
     "info": [
+        {
+            "title": "福井県で新たに9人新型コロナ感染　5月9日県発表",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1313655",
+            "published_at": "2021/05/09 12:00"
+        },
+        {
+            "title": "福島県で過去最多72人が新型コロナ感染　5月9日発表　県内感染者数は計3860人に",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1313663",
+            "published_at": "2021/05/09 11:44"
+        },
+        {
+            "title": "鳥取県で1人コロナ感染　鳥取市保健所管内　5月9日発表",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1313656",
+            "published_at": "2021/05/09 11:14"
+        },
         {
             "title": "父親の紹介で入社も残業続き…労基署にも訴えられず　死を決意し樹海そして福井へ【東尋坊の現場から】",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1312652",
             "published_at": "2021/05/09 11:00"
+        },
+        {
+            "title": "山形県で8人が新型コロナ感染　5月9日発表　県内感染者数は計1599人に",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1313651",
+            "published_at": "2021/05/09 10:49"
         },
         {
             "title": "沼にはまる面白さ、古地図を手に街歩き　見慣れた街の100年前の姿は…福井市の旧北陸道をゆく",
@@ -15,16 +35,6 @@
             "title": "福井県内で一般高齢者のコロナワクチン接種開始　初日は福井市60人、大きな混乱なく",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1313393",
             "published_at": "2021/05/09 07:10"
-        },
-        {
-            "title": "東京都で1121人コロナ感染　5月8日発表",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1313348",
-            "published_at": "2021/05/08 19:14"
-        },
-        {
-            "title": "大阪府で1021人コロナ感染　5月8日発表、2日連続で千人超え",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1313338",
-            "published_at": "2021/05/08 19:00"
         }
     ]
 }
