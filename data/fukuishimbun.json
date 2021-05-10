@@ -1,6 +1,11 @@
 {
-    "timestamp": 1620645007,
+    "timestamp": 1620648953,
     "info": [
+        {
+            "title": "大阪府で668人コロナ感染　5月10日発表",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1314457",
+            "published_at": "2021/05/10 20:11"
+        },
         {
             "title": "滋賀県で39人コロナ感染　5月10日発表、独自の緊急事態宣言を検討",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1314442",
@@ -40,11 +45,6 @@
             "title": "石川県で50人コロナ感染、月曜日としては最多　5月10日発表",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1314303",
             "published_at": "2021/05/10 16:25"
-        },
-        {
-            "title": "東京都で573人コロナ感染　5月10日発表",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1314268",
-            "published_at": "2021/05/10 15:25"
         }
     ]
 }
