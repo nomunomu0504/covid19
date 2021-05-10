@@ -1,6 +1,11 @@
 {
-    "timestamp": 1620641526,
+    "timestamp": 1620645007,
     "info": [
+        {
+            "title": "滋賀県で39人コロナ感染　5月10日発表、独自の緊急事態宣言を検討",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1314442",
+            "published_at": "2021/05/10 19:53"
+        },
         {
             "title": "福岡県で372人コロナ感染　5月10日発表、うち福岡市150人",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1314418",
@@ -40,11 +45,6 @@
             "title": "東京都で573人コロナ感染　5月10日発表",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1314268",
             "published_at": "2021/05/10 15:25"
-        },
-        {
-            "title": "福井県で新たに6人新型コロナ感染　5月10日県発表",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1314173",
-            "published_at": "2021/05/10 12:03"
         }
     ]
 }
