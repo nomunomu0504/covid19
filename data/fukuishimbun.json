@@ -1,6 +1,11 @@
 {
-    "timestamp": 1620703221,
+    "timestamp": 1620706536,
     "info": [
+        {
+            "title": "福井県で新たに2人新型コロナ感染　5月11日県発表",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1314918",
+            "published_at": "2021/05/11 12:17"
+        },
         {
             "title": "福井県小浜市、6月13日に高齢者集団接種　予約は1日から、電話とファクスで",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1314798",
@@ -10,11 +15,6 @@
             "title": "緊急事態宣言の延長　首相の求心力が問われる",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1314772",
             "published_at": "2021/05/11 07:30"
-        },
-        {
-            "title": "大阪府で668人コロナ感染　5月10日発表",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1314457",
-            "published_at": "2021/05/10 20:11"
         }
     ]
 }
