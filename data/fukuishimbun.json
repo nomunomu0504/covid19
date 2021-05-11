@@ -1,6 +1,11 @@
 {
-    "timestamp": 1620727931,
+    "timestamp": 1620771255,
     "info": [
+        {
+            "title": "石川県のコロナ感染状況悪化続けば福井県立病院で一般救急患者受け入れへ　両知事が電話会談",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1315243",
+            "published_at": "2021/05/12 07:00"
+        },
         {
             "title": "熊本県で過去最多117人コロナ感染　うち熊本市が93人　5月11日",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1315184",
@@ -45,11 +50,6 @@
             "title": "岡山県で133人コロナ感染、倉敷市の高齢者施設でクラスター　感染力強い変異株も　5月11日発表",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1315088",
             "published_at": "2021/05/11 16:56"
-        },
-        {
-            "title": "石川県で41人コロナ感染、重症病床使用率が過去最高に　感染経路不明14人　5月11日発表",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1315081",
-            "published_at": "2021/05/11 16:35"
         }
     ]
 }
