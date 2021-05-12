@@ -1,6 +1,16 @@
 {
-    "timestamp": 1620807274,
+    "timestamp": 1620810793,
     "info": [
+        {
+            "title": "神奈川県で５人死亡、319人コロナ感染　県と横浜市、川崎市、相模原市、横須賀市、藤沢市、茅ケ市が発表　5月12日",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1315845",
+            "published_at": "2021/05/12 18:01"
+        },
+        {
+            "title": "北海道で７人死亡、過去最多の529人コロナ感染　5月12日発表",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1315837",
+            "published_at": "2021/05/12 17:39"
+        },
         {
             "title": "コロナ独自緊急事態宣言で「壊滅的な打撃」　福井県内飲食業「廃業決意する業者も増」",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1315718",
@@ -40,11 +50,6 @@
             "title": "福井県の緊急事態宣言5月13日で解除 「特別警報」へ、新型コロナ",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1315707",
             "published_at": "2021/05/12 14:23"
-        },
-        {
-            "title": "福井県で1人死亡、1人新型コロナ感染　5月12日県発表",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1315655",
-            "published_at": "2021/05/12 12:18"
         }
     ]
 }
