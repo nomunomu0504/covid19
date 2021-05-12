@@ -1,6 +1,11 @@
 {
-    "timestamp": 1620793178,
+    "timestamp": 1620800124,
     "info": [
+        {
+            "title": "福井県の緊急事態宣言5月13日で解除 「特別警報」へ、新型コロナ",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1315707",
+            "published_at": "2021/05/12 14:23"
+        },
         {
             "title": "福井県で1人死亡、1人新型コロナ感染　5月12日県発表",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1315655",
@@ -30,11 +35,6 @@
             "title": "東京五輪、東ティモール選手団の受け入れ断念　福井県大野市のホストタウン事業",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1315216",
             "published_at": "2021/05/12 07:10"
-        },
-        {
-            "title": "石川県のコロナ感染状況悪化続けば福井県立病院で一般救急患者受け入れへ　両知事が電話会談",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1315243",
-            "published_at": "2021/05/12 07:00"
         }
     ]
 }
