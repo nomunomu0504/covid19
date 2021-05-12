@@ -1,6 +1,16 @@
 {
-    "timestamp": 1620810793,
+    "timestamp": 1620814413,
     "info": [
+        {
+            "title": "岐阜県と岐阜市が２人死亡、過去最多の134人のコロナ感染確認　新たに七つのクラスター認定　5月12日発表",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1315877",
+            "published_at": "2021/05/12 19:00"
+        },
+        {
+            "title": "京都府と京都市が１人死亡、148人のコロナ感染確認　5月12日発表",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1315859",
+            "published_at": "2021/05/12 18:23"
+        },
         {
             "title": "神奈川県で５人死亡、319人コロナ感染　県と横浜市、川崎市、相模原市、横須賀市、藤沢市、茅ケ市が発表　5月12日",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1315845",
@@ -40,16 +50,6 @@
             "title": "兵庫県で384人コロナ感染、７人死亡　5月12日発表",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1315776",
             "published_at": "2021/05/12 16:15"
-        },
-        {
-            "title": "東京都で新たに969人コロナ感染　変異株増加による感染拡大懸念　5月12日発表",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1315762",
-            "published_at": "2021/05/12 15:35"
-        },
-        {
-            "title": "福井県の緊急事態宣言5月13日で解除 「特別警報」へ、新型コロナ",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1315707",
-            "published_at": "2021/05/12 14:23"
         }
     ]
 }
