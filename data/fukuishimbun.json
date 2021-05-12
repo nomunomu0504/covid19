@@ -1,6 +1,11 @@
 {
-    "timestamp": 1620779634,
+    "timestamp": 1620785173,
     "info": [
+        {
+            "title": "東京五輪聖火リレー 福井県は全区間「公道」で準備、状況踏まえ最終判断",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1315583",
+            "published_at": "2021/05/12 11:00"
+        },
         {
             "title": "福井市のワクチン接種 5月12日から予約枠に8月分追加 新型コロナ",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1315562",
@@ -35,11 +40,6 @@
             "title": "福岡県で404人コロナ陽性　福岡市177人、北九州市66人、久留米市18人　5月11日",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1315182",
             "published_at": "2021/05/11 18:48"
-        },
-        {
-            "title": "奈良県と奈良市が計70人のコロナ感染発表　河合町のカラオケできる飲食店でクラスター　5月11日発表",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1315174",
-            "published_at": "2021/05/11 18:36"
         }
     ]
 }
