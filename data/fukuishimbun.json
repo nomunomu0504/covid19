@@ -1,6 +1,11 @@
 {
-    "timestamp": 1620789810,
+    "timestamp": 1620793178,
     "info": [
+        {
+            "title": "福井県で1人死亡、1人新型コロナ感染　5月12日県発表",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1315655",
+            "published_at": "2021/05/12 12:18"
+        },
         {
             "title": "東京五輪聖火リレー 福井県は全区間「公道」で準備、状況踏まえ最終判断",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1315583",
@@ -30,11 +35,6 @@
             "title": "石川県のコロナ感染状況悪化続けば福井県立病院で一般救急患者受け入れへ　両知事が電話会談",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1315243",
             "published_at": "2021/05/12 07:00"
-        },
-        {
-            "title": "熊本県で過去最多117人コロナ感染　うち熊本市が93人　5月11日",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1315184",
-            "published_at": "2021/05/11 18:50"
         }
     ]
 }
