@@ -1,6 +1,11 @@
 {
-    "timestamp": 1620836836,
+    "timestamp": 1620857745,
     "info": [
+        {
+            "title": "クラスター発生の介護施設、コロナ感染経緯を独自調査　利用者同士マスク着けず対面",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1315904",
+            "published_at": "2021/05/13 07:00"
+        },
         {
             "title": "岐阜県と岐阜市が２人死亡、過去最多の134人のコロナ感染確認　新たに七つのクラスター認定　5月12日発表",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1315877",
@@ -40,16 +45,6 @@
             "title": "石川県で71人コロナ感染　34人の感染経路不明　5月12日発表",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1315795",
             "published_at": "2021/05/12 16:51"
-        },
-        {
-            "title": "愛知県で過去最多の679人コロナ感染　5月12日発表",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1315778",
-            "published_at": "2021/05/12 16:17"
-        },
-        {
-            "title": "兵庫県で384人コロナ感染、７人死亡　5月12日発表",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1315776",
-            "published_at": "2021/05/12 16:15"
         }
     ]
 }
