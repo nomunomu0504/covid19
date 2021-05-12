@@ -1,6 +1,11 @@
 {
-    "timestamp": 1620774699,
+    "timestamp": 1620779634,
     "info": [
+        {
+            "title": "福井市のワクチン接種 5月12日から予約枠に8月分追加 新型コロナ",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1315562",
+            "published_at": "2021/05/12 08:20"
+        },
         {
             "title": "北信越インターハイ　選手第一に適切運営探れ",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1315545",
@@ -35,11 +40,6 @@
             "title": "奈良県と奈良市が計70人のコロナ感染発表　河合町のカラオケできる飲食店でクラスター　5月11日発表",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1315174",
             "published_at": "2021/05/11 18:36"
-        },
-        {
-            "title": "千葉県で119人コロナ感染、死亡6人中3人は変異株クラスター発生の福祉施設関係者　5月11日発表",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1315165",
-            "published_at": "2021/05/11 18:23"
         }
     ]
 }
