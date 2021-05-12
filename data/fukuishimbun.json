@@ -1,6 +1,11 @@
 {
-    "timestamp": 1620800124,
+    "timestamp": 1620803856,
     "info": [
+        {
+            "title": "東京都で新たに969人コロナ感染　変異株増加による感染拡大懸念　5月12日発表",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1315762",
+            "published_at": "2021/05/12 15:35"
+        },
         {
             "title": "福井県の緊急事態宣言5月13日で解除 「特別警報」へ、新型コロナ",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1315707",
@@ -30,11 +35,6 @@
             "title": "きょうは「看護の日」。クリミア戦争に従軍し献身的な看護からクリミアの…",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1315540",
             "published_at": "2021/05/12 07:20"
-        },
-        {
-            "title": "東京五輪、東ティモール選手団の受け入れ断念　福井県大野市のホストタウン事業",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1315216",
-            "published_at": "2021/05/12 07:10"
         }
     ]
 }
