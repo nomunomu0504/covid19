@@ -1,6 +1,11 @@
 {
-    "timestamp": 1620944155,
+    "timestamp": 1620947801,
     "info": [
+        {
+            "title": "コロナ感染対策を徹底の飲食店に奨励金10万円　宿泊施設も支援、福井県",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1316658",
+            "published_at": "2021/05/14 07:20"
+        },
         {
             "title": "若狭和田など2年ぶり海水浴場開設へ　福井県高浜町、7月10日に",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1316654",
@@ -25,21 +30,6 @@
             "title": "岐阜県で127人コロナ感染、岐南町の施設や高山市の飲食店など6件クラスター認定　5月13日発表",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1316588",
             "published_at": "2021/05/13 19:10"
-        },
-        {
-            "title": "神奈川県で337人コロナ感染、県内初の「インド株」感染を確認　5月13日発表",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1316594",
-            "published_at": "2021/05/13 19:06"
-        },
-        {
-            "title": "愛知県で624人コロナ感染、2日連続で600人超　5月13日発表",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1316587",
-            "published_at": "2021/05/13 19:05"
-        },
-        {
-            "title": "石川県で56人コロナ感染、4人死亡　経路不明は23人　5月13日発表",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1316586",
-            "published_at": "2021/05/13 19:00"
         }
     ]
 }
