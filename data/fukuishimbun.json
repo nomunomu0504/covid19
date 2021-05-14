@@ -1,6 +1,16 @@
 {
-    "timestamp": 1620958541,
+    "timestamp": 1620962883,
     "info": [
+        {
+            "title": "福井県で新たに6人新型コロナ感染　5月14日県発表",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1317115",
+            "published_at": "2021/05/14 12:00"
+        },
+        {
+            "title": "山形県で22人が新型コロナ感染　5月14日発表　県内感染者数は計1681人に",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1317094",
+            "published_at": "2021/05/14 11:18"
+        },
         {
             "title": "発熱後に検査4回陰性、再受診し陽性　福井県のコロナ感染男性",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1316986",
@@ -15,16 +25,6 @@
             "title": "コロナ感染対策を徹底の飲食店に奨励金10万円　宿泊施設も支援、福井県",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1316658",
             "published_at": "2021/05/14 07:20"
-        },
-        {
-            "title": "若狭和田など2年ぶり海水浴場開設へ　福井県高浜町、7月10日に",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1316654",
-            "published_at": "2021/05/14 07:00"
-        },
-        {
-            "title": "サイト閲覧で「ウイルス感染」の警告画面や警告音　本当にウイルスに感染？【教えて！相談員さん】",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1311871",
-            "published_at": "2021/05/13 20:00"
         }
     ]
 }
