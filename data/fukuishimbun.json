@@ -1,6 +1,21 @@
 {
-    "timestamp": 1620987274,
+    "timestamp": 1620994711,
     "info": [
+        {
+            "title": "広島県で新たに207人コロナ感染、累計7938人に　5月14日発表",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1317483",
+            "published_at": "2021/05/14 21:00"
+        },
+        {
+            "title": "岐阜県で過去最多155人コロナ感染、笠松町の高齢者福祉施設など3件クラスター認定　5月14日発表",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1317446",
+            "published_at": "2021/05/14 20:10"
+        },
+        {
+            "title": "熊本県で過去最多124人コロナ感染、熊本市で78人　5月14日発表",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1317444",
+            "published_at": "2021/05/14 20:05"
+        },
         {
             "title": "北海道で593人コロナ感染、8人死亡　3日連続で500人超え 5月14日発表",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1317322",
@@ -35,16 +50,6 @@
             "title": "東京都で新たに854人コロナ感染　直近1週間の1日平均900人超に　5月14日発表",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1317233",
             "published_at": "2021/05/14 18:30"
-        },
-        {
-            "title": "石川県など3県「まん延防止等重点措置」対象に追加、新型コロナ感染続く",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1317312",
-            "published_at": "2021/05/14 18:28"
-        },
-        {
-            "title": "世界的半導体不足、福井県内の自動車販売業にも影響　人気車は1年待ちも",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1317199",
-            "published_at": "2021/05/14 17:00"
         }
     ]
 }
