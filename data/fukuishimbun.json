@@ -1,6 +1,11 @@
 {
-    "timestamp": 1621077091,
+    "timestamp": 1621116919,
     "info": [
+        {
+            "title": "東京五輪開催なら「今すぐ首都圏の都市封鎖を」　コロナ状況踏まえ福井大学の感染症専門家",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1318065",
+            "published_at": "2021/05/16 07:10"
+        },
         {
             "title": "岐阜県で139人コロナ感染、関市の大学運動部でクラスター発生　5月15日発表",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1318047",
@@ -30,16 +35,6 @@
             "title": "愛知県で596人コロナ感染、名東署（名古屋市）の警官も　5月15日発表",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1317981",
             "published_at": "2021/05/15 17:12"
-        },
-        {
-            "title": "岡山県で185人コロナ感染、過去3番目の多さ　10日連続100人超え　5月15日",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1317962",
-            "published_at": "2021/05/15 17:00"
-        },
-        {
-            "title": "東京都で772人コロナ感染　GW後に再び高水準で推移　5月15日発表",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1317946",
-            "published_at": "2021/05/15 16:11"
         }
     ]
 }
