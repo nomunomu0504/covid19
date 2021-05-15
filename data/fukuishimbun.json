@@ -1,6 +1,11 @@
 {
-    "timestamp": 1621073596,
+    "timestamp": 1621077091,
     "info": [
+        {
+            "title": "岐阜県で139人コロナ感染、関市の大学運動部でクラスター発生　5月15日発表",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1318047",
+            "published_at": "2021/05/15 19:18"
+        },
         {
             "title": "大阪府で785人コロナ感染、42人死亡　5月15日発表",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1317982",
@@ -35,11 +40,6 @@
             "title": "東京都で772人コロナ感染　GW後に再び高水準で推移　5月15日発表",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1317946",
             "published_at": "2021/05/15 16:11"
-        },
-        {
-            "title": "兵庫県で299人コロナ感染、自宅療養中の男性2人含む7人死亡　5月15日発表",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1317941",
-            "published_at": "2021/05/15 16:07"
         }
     ]
 }
