@@ -1,6 +1,11 @@
 {
-    "timestamp": 1621044703,
+    "timestamp": 1621048999,
     "info": [
+        {
+            "title": "福井県で新たに9人新型コロナ感染　5月15日県発表",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1317861",
+            "published_at": "2021/05/15 12:13"
+        },
         {
             "title": "密漁の罰則強化、アワビやナマコなら罰金最大3000万円　テレビ番組は許可取ってますからマネしないで！【敦賀海保日誌】",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1315853",
@@ -20,11 +25,6 @@
             "title": "２０１４年５月、あの時のショックは今なお鮮明に覚えている。日本創成会…",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1317799",
             "published_at": "2021/05/15 07:20"
-        },
-        {
-            "title": "広島県で新たに207人コロナ感染、累計7938人に　5月14日発表",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1317483",
-            "published_at": "2021/05/14 21:00"
         }
     ]
 }
