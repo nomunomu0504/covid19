@@ -1,6 +1,11 @@
 {
-    "timestamp": 1621246523,
+    "timestamp": 1621249895,
     "info": [
+        {
+            "title": "広島県で198人コロナ感染　5月17日発表",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1319146",
+            "published_at": "2021/05/17 19:35"
+        },
         {
             "title": "福岡県で282人コロナ感染　5月17日発表、うち福岡市119人",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1319125",
@@ -35,11 +40,6 @@
             "title": "兵庫県で120人コロナ感染　5月17日発表",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1319009",
             "published_at": "2021/05/17 16:52"
-        },
-        {
-            "title": "岡山県で108人コロナ感染　5月17日発表、岡山市と倉敷市でクラスター",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1319005",
-            "published_at": "2021/05/17 16:43"
         }
     ]
 }
