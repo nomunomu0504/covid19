@@ -1,6 +1,11 @@
 {
-    "timestamp": 1621249895,
+    "timestamp": 1621253963,
     "info": [
+        {
+            "title": "群馬県で36人コロナ感染　5月17日発表、嬬恋村でクラスター",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1319177",
+            "published_at": "2021/05/17 20:35"
+        },
         {
             "title": "広島県で198人コロナ感染　5月17日発表",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1319146",
@@ -35,11 +40,6 @@
             "title": "滋賀県で22人コロナ感染　5月17日発表",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1319017",
             "published_at": "2021/05/17 17:05"
-        },
-        {
-            "title": "兵庫県で120人コロナ感染　5月17日発表",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1319009",
-            "published_at": "2021/05/17 16:52"
         }
     ]
 }
