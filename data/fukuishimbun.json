@@ -1,6 +1,11 @@
 {
-    "timestamp": 1621325731,
+    "timestamp": 1621329249,
     "info": [
+        {
+            "title": "滋賀県で57人コロナ感染　5月18日発表",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1319817",
+            "published_at": "2021/05/18 18:08"
+        },
         {
             "title": "沖縄県で過去最多168人コロナ感染　5月18日発表",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1319772",
@@ -25,11 +30,6 @@
             "title": "島根県で20人コロナ感染、過去2番目に多く　5月18日発表",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1319620",
             "published_at": "2021/05/18 11:50"
-        },
-        {
-            "title": "福井県内高齢者のコロナワクチン、接種済みは3.7％　到着ワクチン10万回分突破",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1319468",
-            "published_at": "2021/05/18 08:00"
         }
     ]
 }
