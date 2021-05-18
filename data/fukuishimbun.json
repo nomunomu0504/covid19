@@ -1,6 +1,16 @@
 {
-    "timestamp": 1621304244,
+    "timestamp": 1621308481,
     "info": [
+        {
+            "title": "福井県で新たに2人新型コロナ感染　5月18日県発表",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1319614",
+            "published_at": "2021/05/18 12:05"
+        },
+        {
+            "title": "島根県で20人コロナ感染、過去2番目に多く　5月18日発表",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1319620",
+            "published_at": "2021/05/18 11:50"
+        },
         {
             "title": "福井県内高齢者のコロナワクチン、接種済みは3.7％　到着ワクチン10万回分突破",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1319468",
@@ -15,16 +25,6 @@
             "title": "人をやる気にさせる一番正しい方法は？行動経済学の第一人者で米デューク…",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1319455",
             "published_at": "2021/05/18 07:20"
-        },
-        {
-            "title": "「コロナ感染者と接触」保健所装うLINE確認　福井県が返信しないよう注意呼び掛け",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1319193",
-            "published_at": "2021/05/18 07:00"
-        },
-        {
-            "title": "群馬県で36人コロナ感染　5月17日発表、嬬恋村でクラスター",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1319177",
-            "published_at": "2021/05/17 20:35"
         }
     ]
 }
