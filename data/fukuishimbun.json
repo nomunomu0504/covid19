@@ -1,6 +1,11 @@
 {
-    "timestamp": 1621336271,
+    "timestamp": 1621376146,
     "info": [
+        {
+            "title": "巣ごもり需要でスリッパの売れ行きが好調　福井県の履物メーカー、製造数急増",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1319953",
+            "published_at": "2021/05/19 07:00"
+        },
         {
             "title": "埼玉県で186人コロナ感染　5月18日発表",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1319904",
@@ -30,16 +35,6 @@
             "title": "岐阜県で140人コロナ感染　5月18日発表、病床使用率7割超す",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1319826",
             "published_at": "2021/05/18 18:22"
-        },
-        {
-            "title": "滋賀県で57人コロナ感染　5月18日発表",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1319817",
-            "published_at": "2021/05/18 18:08"
-        },
-        {
-            "title": "沖縄県で過去最多168人コロナ感染　5月18日発表",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1319772",
-            "published_at": "2021/05/18 17:05"
         }
     ]
 }
