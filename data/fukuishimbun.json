@@ -1,6 +1,21 @@
 {
-    "timestamp": 1621415652,
+    "timestamp": 1621419232,
     "info": [
+        {
+            "title": "愛知県で666人コロナ感染、緊急事態宣言の解除「なかなか難しい」　5月19日発表",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1320496",
+            "published_at": "2021/05/19 19:05"
+        },
+        {
+            "title": "福岡県で500人コロナ感染、県内初の南アフリカ型変異株を確認　5月19日発表",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1320615",
+            "published_at": "2021/05/19 19:05"
+        },
+        {
+            "title": "岐阜県で132人コロナ感染1人死亡、岐阜市の施設などで3件クラスター認定　5月19日発表",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1320614",
+            "published_at": "2021/05/19 19:00"
+        },
         {
             "title": "京都府で134人コロナ感染、2人死亡　5月19日発表",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1320563",
@@ -17,11 +32,6 @@
             "published_at": "2021/05/19 17:17"
         },
         {
-            "title": "愛知県で666人コロナ感染、累計4万2327人に　5月19日発表",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1320496",
-            "published_at": "2021/05/19 17:12"
-        },
-        {
             "title": "石川県で36人コロナ感染、1人死亡　5月19日発表",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1320511",
             "published_at": "2021/05/19 17:08"
@@ -35,16 +45,6 @@
             "title": "マスク着用徹底へ新たな福井モデル「おはなしはマスク推進協議会」設立",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1320451",
             "published_at": "2021/05/19 17:00"
-        },
-        {
-            "title": "敦賀市のワクチン接種、2回目を4週間後から3週間後に変更　希望者に対応",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1320469",
-            "published_at": "2021/05/19 16:00"
-        },
-        {
-            "title": "東京都で766人コロナ感染、GW後に人出戻り再拡大懸念　5月19日発表",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1320463",
-            "published_at": "2021/05/19 15:40"
         }
     ]
 }
