@@ -1,6 +1,21 @@
 {
-    "timestamp": 1621419232,
+    "timestamp": 1621462539,
     "info": [
+        {
+            "title": "コロナ変異株拡大の第4波、医療現場に「ジレンマ」福井県で感染者千人超",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1320665",
+            "published_at": "2021/05/20 07:10"
+        },
+        {
+            "title": "新型コロナワクチン接種後に80代女性死亡、福井県で初　因果関係は不明",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1320699",
+            "published_at": "2021/05/20 07:00"
+        },
+        {
+            "title": "福井市のコロナワクチン接種 予約埋まり2回目は2カ月先…別機関も検討を",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1320642",
+            "published_at": "2021/05/20 06:50"
+        },
         {
             "title": "愛知県で666人コロナ感染、緊急事態宣言の解除「なかなか難しい」　5月19日発表",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1320496",
@@ -30,21 +45,6 @@
             "title": "滋賀県で48人コロナ感染　5月19日発表",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1320530",
             "published_at": "2021/05/19 17:17"
-        },
-        {
-            "title": "石川県で36人コロナ感染、1人死亡　5月19日発表",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1320511",
-            "published_at": "2021/05/19 17:08"
-        },
-        {
-            "title": "静岡県で74人コロナ感染、3人のインド変異株感染を確認　5月19日発表",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1320510",
-            "published_at": "2021/05/19 17:02"
-        },
-        {
-            "title": "マスク着用徹底へ新たな福井モデル「おはなしはマスク推進協議会」設立",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1320451",
-            "published_at": "2021/05/19 17:00"
         }
     ]
 }
