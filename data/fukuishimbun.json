@@ -1,6 +1,31 @@
 {
-    "timestamp": 1621412121,
+    "timestamp": 1621415652,
     "info": [
+        {
+            "title": "京都府で134人コロナ感染、2人死亡　5月19日発表",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1320563",
+            "published_at": "2021/05/19 18:00"
+        },
+        {
+            "title": "北海道で604人コロナ感染、過去2番目の多さ　5月19日発表",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1320553",
+            "published_at": "2021/05/19 17:40"
+        },
+        {
+            "title": "滋賀県で48人コロナ感染　5月19日発表",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1320530",
+            "published_at": "2021/05/19 17:17"
+        },
+        {
+            "title": "愛知県で666人コロナ感染、累計4万2327人に　5月19日発表",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1320496",
+            "published_at": "2021/05/19 17:12"
+        },
+        {
+            "title": "石川県で36人コロナ感染、1人死亡　5月19日発表",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1320511",
+            "published_at": "2021/05/19 17:08"
+        },
         {
             "title": "静岡県で74人コロナ感染、3人のインド変異株感染を確認　5月19日発表",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1320510",
@@ -20,26 +45,6 @@
             "title": "東京都で766人コロナ感染、GW後に人出戻り再拡大懸念　5月19日発表",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1320463",
             "published_at": "2021/05/19 15:40"
-        },
-        {
-            "title": "沖縄県で200人超がコロナ感染 過去最多の見通し、緊急事態宣言に追加要請へ　5月19日",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1320418",
-            "published_at": "2021/05/19 15:25"
-        },
-        {
-            "title": "福井県の新型コロナ感染者累計1000人超す　5月19日、新たに9人発表",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1320338",
-            "published_at": "2021/05/19 12:15"
-        },
-        {
-            "title": "福井県内の高齢者ワクチン接種「7月に完了」　新型コロナで県が見通し",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1320306",
-            "published_at": "2021/05/19 11:30"
-        },
-        {
-            "title": "苦境を支えてくれた社員、乗客に感謝",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1319526",
-            "published_at": "2021/05/19 11:00"
         }
     ]
 }
