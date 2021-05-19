@@ -1,6 +1,16 @@
 {
-    "timestamp": 1621390202,
+    "timestamp": 1621394577,
     "info": [
+        {
+            "title": "福井県の新型コロナ感染者累計1000人超す　5月19日、新たに9人発表",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1320338",
+            "published_at": "2021/05/19 12:15"
+        },
+        {
+            "title": "福井県内の高齢者ワクチン接種「7月に完了」　新型コロナで県が見通し",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1320306",
+            "published_at": "2021/05/19 11:30"
+        },
         {
             "title": "苦境を支えてくれた社員、乗客に感謝",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1319526",
@@ -15,11 +25,6 @@
             "title": "巣ごもり需要でスリッパの売れ行きが好調　福井県の履物メーカー、製造数急増",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1319953",
             "published_at": "2021/05/19 07:00"
-        },
-        {
-            "title": "埼玉県で186人コロナ感染　5月18日発表",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1319904",
-            "published_at": "2021/05/18 20:05"
         }
     ]
 }
