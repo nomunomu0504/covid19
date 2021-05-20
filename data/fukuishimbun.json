@@ -1,6 +1,16 @@
 {
-    "timestamp": 1621509109,
+    "timestamp": 1621513165,
     "info": [
+        {
+            "title": "岡山県で123人コロナ感染、過去最多4人死亡　岡山市の通所介護施設などでクラスター確認　5月20日発表",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1321398",
+            "published_at": "2021/05/20 21:13"
+        },
+        {
+            "title": "沖縄県で過去2番目に多い198人コロナ感染　5月20日発表",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1321433",
+            "published_at": "2021/05/20 20:40"
+        },
         {
             "title": "大阪府で501人コロナ感染、海外渡航歴なしの男性がインド変異株感染　市中感染の疑い　5月20日発表",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1321400",
@@ -15,16 +25,6 @@
             "title": "滋賀県で54人コロナ感染　5月20日発表",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1321397",
             "published_at": "2021/05/20 19:25"
-        },
-        {
-            "title": "岡山県で123人コロナ感染、岡山市の通所介護施設などでクラスター確認　5月20日発表",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1321398",
-            "published_at": "2021/05/20 19:25"
-        },
-        {
-            "title": "愛知県で633人コロナ感染、重症入院者は19日時点で過去最多79人　5月20日発表",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1321349",
-            "published_at": "2021/05/20 18:15"
         }
     ]
 }
