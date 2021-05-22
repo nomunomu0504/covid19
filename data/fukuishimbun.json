@@ -1,6 +1,11 @@
 {
-    "timestamp": 1621674859,
+    "timestamp": 1621678492,
     "info": [
+        {
+            "title": "岐阜県で82人コロナ感染、恵那市の職場関連など計3件クラスター　5月22日発表",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1322708",
+            "published_at": "2021/05/22 18:12"
+        },
         {
             "title": "滋賀県で43人コロナ感染、1人死亡　5月22日発表",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1322703",
@@ -40,11 +45,6 @@
             "title": "富山県で32人コロナ感染、射水市のクラスター発生施設で新たに10人確認　5月22日発表",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1322641",
             "published_at": "2021/05/22 16:24"
-        },
-        {
-            "title": "東京都で新たに602人コロナ感染　入院患者のうち重症者は62人に　5月22日発表",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1322617",
-            "published_at": "2021/05/22 15:36"
         }
     ]
 }
