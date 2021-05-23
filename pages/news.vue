@@ -5,6 +5,9 @@
         mdi-information
       </v-icon>
       {{ $t('福井県内のお知らせ一覧') }}
+      <div class="NewsList-heading-description">
+        {{ $t('福井県庁のサイトに移動します') }}
+      </div>
     </page-header>
     <ul class="NewsList-list">
       <li v-for="(item, i) in items" :key="i" class="NewsList-list-item">
@@ -90,6 +93,12 @@ export default Vue.extend({
 
   &-icon {
     margin: 10px;
+  }
+
+  &-description {
+    flex: 0 1 auto;
+    padding-left: 16px;
+    font-size: 16px;
   }
 }
 

@@ -7,6 +7,17 @@
             mdi-information
           </v-icon>
           {{ $t('速報') }}
+        </h2>
+      </v-col>
+      <v-col style="padding-left:0;padding-right:0">
+        <div class="BreakingNews-heading-description">
+          {{ $t('福井県庁のサイトへ移動します') }}
+        </div>
+      </v-col>
+    </v-row>
+    <v-row>
+      <v-col>
+        <h2 class="BreakingNews-heading breaking">
           <a class="BreakingNews-heading-link" :href="this.localePath('/news')">
             {{ $t('過去のお知らせはこちら') }}
           </a>
@@ -83,7 +94,7 @@ export default Vue.extend({
 
   @include card-h2();
 
-  margin-bottom: 12px;
+  margin-bottom: 0px;
   color: $gray-2;
   margin-left: 12px;
 
@@ -96,6 +107,12 @@ export default Vue.extend({
     padding-left: 8px;
 
     @include text-link();
+  }
+
+  &-description {
+    flex: 0 1 auto;
+    padding: 0;
+    font-size: 14px;
   }
 }
 
