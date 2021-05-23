@@ -1,6 +1,11 @@
 {
-    "timestamp": 1621725187,
+    "timestamp": 1621736671,
     "info": [
+        {
+            "title": "敦賀市のワクチン接種、集団会場の1回目接種枠を追加　5月24日予約開始",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1323011",
+            "published_at": "2021/05/23 10:30"
+        },
         {
             "title": "建築家・隈研吾さんの新地方論　「東京がモデルになる時代は終わった」",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1322594",
@@ -20,16 +25,6 @@
             "title": "静岡県で87人コロナ感染　浜松市の学校でクラスター発生、同じ部活の5人感染　5月22日発表",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1322692",
             "published_at": "2021/05/22 17:30"
-        },
-        {
-            "title": "高知県で27人コロナ感染、高知市の保育園でクラスター発生　5月22日発表",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1322674",
-            "published_at": "2021/05/22 17:15"
-        },
-        {
-            "title": "大阪府で406人コロナ感染、24人死亡　5月22日発表",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1322673",
-            "published_at": "2021/05/22 17:11"
         }
     ]
 }
