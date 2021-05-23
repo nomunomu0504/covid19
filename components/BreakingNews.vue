@@ -11,7 +11,7 @@
       </v-col>
       <v-col style="padding-left:0;padding-right:0">
         <div class="BreakingNews-heading-description">
-          {{ $t('福井県庁のサイトへ移動します') }}
+          {{ $t('福井県庁のサイトに移動します') }}
         </div>
       </v-col>
     </v-row>
