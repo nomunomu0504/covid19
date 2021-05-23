@@ -1,6 +1,11 @@
 {
-    "timestamp": 1621736671,
+    "timestamp": 1621741023,
     "info": [
+        {
+            "title": "福井県で新たに3人新型コロナ感染　5月23日県発表",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1323052",
+            "published_at": "2021/05/23 12:05"
+        },
         {
             "title": "敦賀市のワクチン接種、集団会場の1回目接種枠を追加　5月24日予約開始",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1323011",
@@ -20,11 +25,6 @@
             "title": "滋賀県で43人コロナ感染、1人死亡　5月22日発表",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1322703",
             "published_at": "2021/05/22 17:34"
-        },
-        {
-            "title": "静岡県で87人コロナ感染　浜松市の学校でクラスター発生、同じ部活の5人感染　5月22日発表",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1322692",
-            "published_at": "2021/05/22 17:30"
         }
     ]
 }
