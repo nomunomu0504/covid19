@@ -1,6 +1,21 @@
 {
-    "timestamp": 1621847766,
+    "timestamp": 1621851476,
     "info": [
+        {
+            "title": "大阪府で216人コロナ感染、35人死亡　4人のインド変異株感染を確認　5月24日発表",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1323760",
+            "published_at": "2021/05/24 18:55"
+        },
+        {
+            "title": "千葉県で82人コロナ感染、成田市の接待伴う飲食店でクラスター発生　5月24日発表",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1323752",
+            "published_at": "2021/05/24 18:24"
+        },
+        {
+            "title": "石川県で23人コロナ感染、輪島市の高校でクラスター発生、当面休校　5月24日発表",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1323749",
+            "published_at": "2021/05/24 18:22"
+        },
         {
             "title": "京都府で38人コロナ感染、2人死亡　5月24日発表",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1323729",
@@ -15,26 +30,6 @@
             "title": "愛知県で280人コロナ感染、入院者は23日時点で初の千人超　5月24日発表",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1323698",
             "published_at": "2021/05/24 16:55"
-        },
-        {
-            "title": "岡山県で41人コロナ感染、50人を下回るのは4月27日以来　5月24日発表",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1323684",
-            "published_at": "2021/05/24 16:30"
-        },
-        {
-            "title": "沖縄県で104人コロナ感染、在沖縄米軍で3人陽性　5月24日発表",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1323678",
-            "published_at": "2021/05/24 16:25"
-        },
-        {
-            "title": "北海道で366人コロナ感染、15人死亡　5月24日発表",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1323672",
-            "published_at": "2021/05/24 16:11"
-        },
-        {
-            "title": "福井県で新たに4人新型コロナ感染　5月24日県発表",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1323542",
-            "published_at": "2021/05/24 11:55"
         }
     ]
 }
