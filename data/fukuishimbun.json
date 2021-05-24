@@ -1,6 +1,11 @@
 {
-    "timestamp": 1621822901,
+    "timestamp": 1621827255,
     "info": [
+        {
+            "title": "福井県で新たに4人新型コロナ感染　5月24日県発表",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1323542",
+            "published_at": "2021/05/24 11:55"
+        },
         {
             "title": "福井の繁華街片町に6月1日託児所オープン　「ぷりベビ」シングルマザーを応援",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1323477",
@@ -25,11 +30,6 @@
             "title": "滋賀県で24人コロナ感染　5月23日発表",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1323152",
             "published_at": "2021/05/23 17:56"
-        },
-        {
-            "title": "愛知県で431人コロナ感染、うち名古屋市での感染確認は224人　5月23日発表",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1323151",
-            "published_at": "2021/05/23 17:54"
         }
     ]
 }
