@@ -1,6 +1,11 @@
 {
-    "timestamp": 1621827255,
+    "timestamp": 1621840954,
     "info": [
+        {
+            "title": "北海道で366人コロナ感染、15人死亡　5月24日発表",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1323672",
+            "published_at": "2021/05/24 16:11"
+        },
         {
             "title": "福井県で新たに4人新型コロナ感染　5月24日県発表",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1323542",
@@ -25,11 +30,6 @@
             "title": "東京都で新たに535人コロナ感染、5月23日発表　感染者数減少傾向も変異株による再拡大懸念",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1323153",
             "published_at": "2021/05/23 17:58"
-        },
-        {
-            "title": "滋賀県で24人コロナ感染　5月23日発表",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1323152",
-            "published_at": "2021/05/23 17:56"
         }
     ]
 }
