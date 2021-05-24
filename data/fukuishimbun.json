@@ -1,6 +1,11 @@
 {
-    "timestamp": 1621894475,
+    "timestamp": 1621897986,
     "info": [
+        {
+            "title": "緊急事態宣言と五輪　ＩＯＣの主張は無理筋だ",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1324076",
+            "published_at": "2021/05/25 07:30"
+        },
         {
             "title": "高知県で15人感染　独自基準を「特別警戒」に引き上げ、高知市と四万十市の飲食店などに時短要請へ　5月24日発表",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1323781",
@@ -15,21 +20,6 @@
             "title": "大阪府で216人コロナ感染、35人死亡　4人のインド変異株感染を確認　5月24日発表",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1323760",
             "published_at": "2021/05/24 18:55"
-        },
-        {
-            "title": "千葉県で82人コロナ感染、成田市の接待伴う飲食店でクラスター発生　5月24日発表",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1323752",
-            "published_at": "2021/05/24 18:24"
-        },
-        {
-            "title": "石川県で23人コロナ感染、輪島市の高校でクラスター発生、当面休校　5月24日発表",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1323749",
-            "published_at": "2021/05/24 18:22"
-        },
-        {
-            "title": "京都府で38人コロナ感染、2人死亡　5月24日発表",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1323729",
-            "published_at": "2021/05/24 18:00"
         }
     ]
 }
