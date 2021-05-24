@@ -1,6 +1,11 @@
 {
-    "timestamp": 1621844131,
+    "timestamp": 1621847766,
     "info": [
+        {
+            "title": "京都府で38人コロナ感染、2人死亡　5月24日発表",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1323729",
+            "published_at": "2021/05/24 18:00"
+        },
         {
             "title": "富山県で19人コロナ感染、行動歴など調査　5月24日発表",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1323706",
@@ -30,11 +35,6 @@
             "title": "福井県で新たに4人新型コロナ感染　5月24日県発表",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1323542",
             "published_at": "2021/05/24 11:55"
-        },
-        {
-            "title": "福井の繁華街片町に6月1日託児所オープン　「ぷりベビ」シングルマザーを応援",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1323477",
-            "published_at": "2021/05/24 11:00"
         }
     ]
 }
