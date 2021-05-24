@@ -1,6 +1,16 @@
 {
-    "timestamp": 1621851476,
+    "timestamp": 1621858829,
     "info": [
+        {
+            "title": "高知県で15人感染　独自基準を「特別警戒」に引き上げ、高知市と四万十市の飲食店などに時短要請へ　5月24日発表",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1323781",
+            "published_at": "2021/05/24 20:20"
+        },
+        {
+            "title": "岐阜県で46人コロナ感染、累計8167人に　5月24日発表",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1323779",
+            "published_at": "2021/05/24 20:15"
+        },
         {
             "title": "大阪府で216人コロナ感染、35人死亡　4人のインド変異株感染を確認　5月24日発表",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1323760",
@@ -25,11 +35,6 @@
             "title": "富山県で19人コロナ感染、行動歴など調査　5月24日発表",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1323706",
             "published_at": "2021/05/24 17:00"
-        },
-        {
-            "title": "愛知県で280人コロナ感染、入院者は23日時点で初の千人超　5月24日発表",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1323698",
-            "published_at": "2021/05/24 16:55"
         }
     ]
 }
