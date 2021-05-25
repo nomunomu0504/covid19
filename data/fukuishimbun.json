@@ -1,6 +1,11 @@
 {
-    "timestamp": 1621941602,
+    "timestamp": 1621945245,
     "info": [
+        {
+            "title": "神奈川県で200人コロナ感染　5月25日発表、厚木市でクラスター",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1324513",
+            "published_at": "2021/05/25 20:40"
+        },
         {
             "title": "京都府で62人コロナ感染　5月25日発表",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1324501",
@@ -40,11 +45,6 @@
             "title": "熊本県で51人コロナ感染　5月25日発表、うち熊本市27人",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1324376",
             "published_at": "2021/05/25 16:55"
-        },
-        {
-            "title": "沖縄県で過去最多256人コロナ感染　5月25日発表",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1324366",
-            "published_at": "2021/05/25 16:45"
         }
     ]
 }
