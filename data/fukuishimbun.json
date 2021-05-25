@@ -1,6 +1,16 @@
 {
-    "timestamp": 1621938118,
+    "timestamp": 1621941602,
     "info": [
+        {
+            "title": "京都府で62人コロナ感染　5月25日発表",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1324501",
+            "published_at": "2021/05/25 20:10"
+        },
+        {
+            "title": "千葉県で99人コロナ感染　5月25日発表、印西市と松戸市でクラスター",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1324498",
+            "published_at": "2021/05/25 19:58"
+        },
         {
             "title": "岐阜県で84人コロナ感染　5月25日発表、土岐市でクラスター",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1324433",
@@ -35,11 +45,6 @@
             "title": "沖縄県で過去最多256人コロナ感染　5月25日発表",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1324366",
             "published_at": "2021/05/25 16:45"
-        },
-        {
-            "title": "石川県で過去最多101人コロナ感染、うち53人は高校関連クラスター　5月25日発表",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1324351",
-            "published_at": "2021/05/25 16:32"
         }
     ]
 }
