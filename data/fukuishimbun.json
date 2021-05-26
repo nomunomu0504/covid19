@@ -1,8 +1,28 @@
 {
-    "timestamp": 1622017683,
+    "timestamp": 1622021081,
     "info": [
         {
-            "title": "福井県内のコロナ労災、20件認定「医療従事者等」は15件　2020年3月以降",
+            "title": "京都府で1人死亡、81人コロナ感染　5月26日発表",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1325191",
+            "published_at": "2021/05/26 18:11"
+        },
+        {
+            "title": "兵庫県で17人死亡、140人コロナ感染　5月26日発表",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1325185",
+            "published_at": "2021/05/26 18:04"
+        },
+        {
+            "title": "滋賀県で3人死亡、42人コロナ感染　5月26日発表",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1325171",
+            "published_at": "2021/05/26 17:59"
+        },
+        {
+            "title": "沖縄県で過去最多302人コロナ感染　5月26日発表",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1325170",
+            "published_at": "2021/05/26 17:56"
+        },
+        {
+            "title": "福井県内のコロナ労災20件認定、医療や介護が12件　2020年3月以降",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1325068",
             "published_at": "2021/05/26 17:00"
         },
@@ -10,16 +30,6 @@
             "title": "富山県で26人コロナ感染、1人取り下げ　5月26日発表",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1325113",
             "published_at": "2021/05/26 16:29"
-        },
-        {
-            "title": "福井県内で新たに７人が新型コロナ感染　5月26日発表",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1324980",
-            "published_at": "2021/05/26 12:11"
-        },
-        {
-            "title": "新幹線駅「越前たけふ」に　丹南連携し周知させよう",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1324849",
-            "published_at": "2021/05/26 07:30"
         }
     ]
 }
