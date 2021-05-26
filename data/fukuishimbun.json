@@ -1,6 +1,11 @@
 {
-    "timestamp": 1622024780,
+    "timestamp": 1622067550,
     "info": [
+        {
+            "title": "JR西日本に福井県選出自民議員が減便撤回要望　越美北線、小浜線",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1325273",
+            "published_at": "2021/05/27 07:10"
+        },
         {
             "title": "神奈川県で225人コロナ感染、6人死亡　5月26日発表",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1325214",
@@ -35,11 +40,6 @@
             "title": "沖縄県で過去最多302人コロナ感染　5月26日発表",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1325170",
             "published_at": "2021/05/26 17:56"
-        },
-        {
-            "title": "福井県内のコロナ労災20件認定、医療や介護が12件　2020年3月以降",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1325068",
-            "published_at": "2021/05/26 17:00"
         }
     ]
 }
