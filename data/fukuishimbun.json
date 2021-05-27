@@ -1,6 +1,16 @@
 {
-    "timestamp": 1622111677,
+    "timestamp": 1622115143,
     "info": [
+        {
+            "title": "愛知県で394人コロナ感染、緊急事態宣言延長なら現状の措置を継続方針　5月27日発表",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1325921",
+            "published_at": "2021/05/27 20:20"
+        },
+        {
+            "title": "全国学力テスト2年ぶり実施、福井県は1万4千人が参加　2021年度の問題と解答",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1325889",
+            "published_at": "2021/05/27 19:47"
+        },
         {
             "title": "岐阜県で70人コロナ感染　クラスター発生の土岐市の医療機関で新たに2人感染、5月27日発表",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1325914",
@@ -35,11 +45,6 @@
             "title": "マスク会食してる？　 飲食店の店長「たまに見る程度」　福井県で定点観測",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1325760",
             "published_at": "2021/05/27 17:10"
-        },
-        {
-            "title": "石川県で18人コロナ感染、クラスター発生の輪島市の高校関連で新たに7人　5月27日発表",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1325790",
-            "published_at": "2021/05/27 16:55"
         }
     ]
 }
