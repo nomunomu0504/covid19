@@ -1,6 +1,21 @@
 {
-    "timestamp": 1622191337,
+    "timestamp": 1622194602,
     "info": [
+        {
+            "title": "愛知県で383人コロナ感染、重症者は初の100人超　5月28日発表",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1326616",
+            "published_at": "2021/05/28 18:18"
+        },
+        {
+            "title": "長野県で13人コロナ感染、県内初のインド変異株感染を確認　5月28日発表",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1326614",
+            "published_at": "2021/05/28 18:15"
+        },
+        {
+            "title": "滋賀県で43人コロナ感染、累計4992人　5月28日発表",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1326601",
+            "published_at": "2021/05/28 17:52"
+        },
         {
             "title": "和歌山県で1人コロナ感染、時短要請は6月1日で解除　5月28日発表",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1326578",
@@ -27,19 +42,9 @@
             "published_at": "2021/05/28 17:00"
         },
         {
-            "title": "大野市の新型コロナワクチン接種、集団会場の予約受け付けは6月14日再開",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1326476",
-            "published_at": "2021/05/28 15:15"
-        },
-        {
-            "title": "福井県で新たに1人新型コロナ感染　5月28日県発表",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1326413",
-            "published_at": "2021/05/28 11:59"
-        },
-        {
-            "title": "山形県で8人が新型コロナ感染　5月28日発表　県内感染者数は計1940人に",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1326394",
-            "published_at": "2021/05/28 11:14"
+            "title": "石川県で41人コロナ感染、クラスター発生の輪島市の高校関連で新たに22人　5月28日発表",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1326544",
+            "published_at": "2021/05/28 17:00"
         }
     ]
 }
