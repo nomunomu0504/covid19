@@ -1,6 +1,11 @@
 {
-    "timestamp": 1622202018,
+    "timestamp": 1622210202,
     "info": [
+        {
+            "title": "東京都で614人コロナ感染、入院患者は2千人超、重症者70人　5月28日発表",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1326766",
+            "published_at": "2021/05/28 21:55"
+        },
         {
             "title": "岐阜県で60人コロナ感染、飛騨市の病院など3件クラスター認定　5月28日発表",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1326690",
@@ -30,11 +35,6 @@
             "title": "兵庫県で94人コロナ感染　神戸市65歳未満のワクチン接種、早ければ7月中開始　5月28日発表",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1326579",
             "published_at": "2021/05/28 17:35"
-        },
-        {
-            "title": "SNSで人気の「峠ステッカー」三方五湖レインボーラインに登場　車好きの「聖地」に",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1326485",
-            "published_at": "2021/05/28 17:10"
         }
     ]
 }
