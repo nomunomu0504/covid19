@@ -9,7 +9,7 @@
         <time :datetime="lastUpdatedAtISO">{{ lastUpdatedAt }}</time>
       </div>
       <div v-if="!['ja', 'ja-basic'].includes($i18n.locale)" class="Annotation">
-        <span>{{ $t('注釈') }} </span>
+        <span>{{ $t('翻訳が正しくない可能性があることに許諾を求める文章') }} </span>
       </div>
     </div>
     <header-card class="md-4" />
