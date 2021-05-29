@@ -1,6 +1,11 @@
 {
-    "timestamp": 1622244501,
+    "timestamp": 1622250866,
     "info": [
+        {
+            "title": "福井県内の東京五輪聖火リレーがスタート　初日は高浜町から鯖江市まで",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1324325",
+            "published_at": "2021/05/29 08:18"
+        },
         {
             "title": "県内の聖火リレー　節度を持って見守りたい",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1327037",
@@ -15,11 +20,6 @@
             "title": "東京都で614人コロナ感染、入院患者は2千人超、重症者70人　5月28日発表",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1326766",
             "published_at": "2021/05/28 21:55"
-        },
-        {
-            "title": "岐阜県で60人コロナ感染、飛騨市の病院など3件クラスター認定　5月28日発表",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1326690",
-            "published_at": "2021/05/28 20:15"
         }
     ]
 }
