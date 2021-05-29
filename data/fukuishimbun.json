@@ -1,6 +1,11 @@
 {
-    "timestamp": 1622250866,
+    "timestamp": 1622262981,
     "info": [
+        {
+            "title": "福井県で新たに2人新型コロナ感染　5月29日県発表",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1327120",
+            "published_at": "2021/05/29 11:47"
+        },
         {
             "title": "福井県内の東京五輪聖火リレーがスタート　初日は高浜町から鯖江市まで",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1324325",
@@ -15,11 +20,6 @@
             "title": "最古のキャンプファイアは１６０万年前との説がある。ケニアの遺跡で見つ…",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1327036",
             "published_at": "2021/05/29 07:20"
-        },
-        {
-            "title": "東京都で614人コロナ感染、入院患者は2千人超、重症者70人　5月28日発表",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1326766",
-            "published_at": "2021/05/28 21:55"
         }
     ]
 }
