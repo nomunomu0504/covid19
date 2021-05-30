@@ -1,6 +1,21 @@
 {
-    "timestamp": 1622362003,
+    "timestamp": 1622367559,
     "info": [
+        {
+            "title": "石川県で14人コロナ感染　5月30日発表、新たにクラスター",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1327738",
+            "published_at": "2021/05/30 18:20"
+        },
+        {
+            "title": "岐阜県で54人コロナ感染　5月30日発表",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1327736",
+            "published_at": "2021/05/30 18:12"
+        },
+        {
+            "title": "滋賀県で39人コロナ感染　5月30日発表",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1327731",
+            "published_at": "2021/05/30 18:10"
+        },
         {
             "title": "フリースタイルカヤック競技場「ナミノバ」完成　福井県永平寺町の九頭竜川、聖地への期待",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1327635",
@@ -15,11 +30,6 @@
             "title": "福井県内3日ぶりに新型コロナ感染者なし　5月30日県発表",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1327599",
             "published_at": "2021/05/30 11:50"
-        },
-        {
-            "title": "コロナ下、アーティストが生き生き演奏　福井県福井市に「まちなかステージ」",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1327357",
-            "published_at": "2021/05/30 07:20"
         }
     ]
 }
