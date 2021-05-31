@@ -1,6 +1,11 @@
 {
-    "timestamp": 1622424915,
+    "timestamp": 1622436490,
     "info": [
+        {
+            "title": "福井県内新たに3人コロナ感染　5月31日県発表",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1328095",
+            "published_at": "2021/05/31 12:00"
+        },
         {
             "title": "越前市のコロナワクチン接種、一般高齢者向け集団会場の予約枠増　6月1日受け付け開始",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1328007",
@@ -15,21 +20,6 @@
             "title": "ポンプ車から一斉放水、川にカラフルアーチ　福井県敦賀市で消防大会",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1327764",
             "published_at": "2021/05/31 07:00"
-        },
-        {
-            "title": "沖縄県で271人コロナ感染　5月30日発表、日曜日としては最多",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1327803",
-            "published_at": "2021/05/30 23:05"
-        },
-        {
-            "title": "岡山県で27人コロナ感染　5月30日発表、岡山市と倉敷市でクラスター",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1327802",
-            "published_at": "2021/05/30 23:02"
-        },
-        {
-            "title": "広島県で79人コロナ感染　5月30日発表、5月7日以来100人下回る",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1327799",
-            "published_at": "2021/05/30 22:57"
         }
     ]
 }
