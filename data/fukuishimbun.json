@@ -1,6 +1,11 @@
 {
-    "timestamp": 1622500733,
+    "timestamp": 1622504449,
     "info": [
+        {
+            "title": "福井市の高齢者ワクチン接種、医療機関で1万6千回分増枠　6月1日から予約受け付け",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1328660",
+            "published_at": "2021/06/01 08:00"
+        },
         {
             "title": "インド株対策　夏の「第５波」阻止へ動け",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1328649",
@@ -20,16 +25,6 @@
             "title": "岐阜県で42人コロナ感染、八百津町の高齢者施設など新たに2件クラスター発生　5月31日発表",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1328355",
             "published_at": "2021/05/31 19:47"
-        },
-        {
-            "title": "大阪府のコロナ新規感染者数、3月22日以来100人下回る　5月31日は98人　堺市でクラスターも",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1328309",
-            "published_at": "2021/05/31 18:16"
-        },
-        {
-            "title": "三重県で22人コロナ感染、整骨院でクラスター発生　県、四日市市が発表　5月31日",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1328294",
-            "published_at": "2021/05/31 18:00"
         }
     ]
 }
