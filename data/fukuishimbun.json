@@ -1,6 +1,16 @@
 {
-    "timestamp": 1622455032,
+    "timestamp": 1622458557,
     "info": [
+        {
+            "title": "愛知県で145人コロナ感染、インド変異株3人感染判明も　県と名古屋市、豊田市が発表　5月31日",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1328246",
+            "published_at": "2021/05/31 19:50"
+        },
+        {
+            "title": "岐阜県で42人コロナ感染、八百津町の高齢者施設など新たに2件クラスター発生　5月31日発表",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1328355",
+            "published_at": "2021/05/31 19:47"
+        },
         {
             "title": "大阪府のコロナ新規感染者数、3月22日以来100人下回る　5月31日は98人　堺市でクラスターも",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1328309",
@@ -17,11 +27,6 @@
             "published_at": "2021/05/31 17:50"
         },
         {
-            "title": "愛知県で145人コロナ感染、インド変異株3人感染判明も　県、豊田市が発表　5月31日",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1328246",
-            "published_at": "2021/05/31 17:49"
-        },
-        {
             "title": "滋賀県で31人コロナ感染　県内感染確認は累計5111人に　5月31日発表",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1328263",
             "published_at": "2021/05/31 17:09"
@@ -35,11 +40,6 @@
             "title": "東京都で260人コロナ感染、1人死亡　5月31日発表",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1328244",
             "published_at": "2021/05/31 16:50"
-        },
-        {
-            "title": "北海道で過去最多の19人死亡、279人コロナ感染　死亡者のうち札幌市発表分が12人　5月31日発表",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1328236",
-            "published_at": "2021/05/31 16:31"
         }
     ]
 }
