@@ -1,6 +1,21 @@
 {
-    "timestamp": 1622533429,
+    "timestamp": 1622538884,
     "info": [
+        {
+            "title": "愛知県で305人コロナ感染、2人死亡　職場でのワクチン接種に大村秀章知事が言及　6月1日発表",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1328988",
+            "published_at": "2021/06/01 17:28"
+        },
+        {
+            "title": "東京都で471人コロナ感染、7人死亡　直近7日間の平均感染者数は537人　6月1日発表",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1328968",
+            "published_at": "2021/06/01 17:08"
+        },
+        {
+            "title": "北海道で254人コロナ感染、16人死亡　新規感染者のうち札幌市発表分は162人　6月1日発表",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1328957",
+            "published_at": "2021/06/01 16:56"
+        },
         {
             "title": "大分県で17人コロナ感染、大分市の私立高校でクラスター発生、生徒8人感染判明　6月1日発表",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1328926",
@@ -25,16 +40,6 @@
             "title": "福井市の高齢者ワクチン接種、医療機関で1万6千回分増枠　6月1日から予約受け付け",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1328660",
             "published_at": "2021/06/01 08:00"
-        },
-        {
-            "title": "インド株対策　夏の「第５波」阻止へ動け",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1328649",
-            "published_at": "2021/06/01 07:30"
-        },
-        {
-            "title": "コロナ変異株中心、発症までの潜伏期間は平均3日　福井県の第4波分析",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1328354",
-            "published_at": "2021/06/01 07:20"
         }
     ]
 }
