@@ -1,6 +1,11 @@
 {
-    "timestamp": 1622544916,
+    "timestamp": 1622548345,
     "info": [
+        {
+            "title": "誤って冷蔵庫に保管、コロナワクチン186人分を廃棄　大阪市発表、6月1日",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1329101",
+            "published_at": "2021/06/01 20:01"
+        },
         {
             "title": "愛知県で305人コロナ感染、12人死亡　職場でのワクチン接種に大村秀章知事が言及　6月1日発表",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1328988",
@@ -35,11 +40,6 @@
             "title": "北海道で254人コロナ感染、16人死亡　新規感染者のうち札幌市発表分は162人　6月1日発表",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1328957",
             "published_at": "2021/06/01 16:56"
-        },
-        {
-            "title": "大分県で17人コロナ感染、大分市の私立高校でクラスター発生、生徒8人感染判明　6月1日発表",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1328926",
-            "published_at": "2021/06/01 16:06"
         }
     ]
 }
