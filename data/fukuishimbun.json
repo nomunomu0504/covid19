@@ -1,6 +1,16 @@
 {
-    "timestamp": 1622627118,
+    "timestamp": 1622632776,
     "info": [
+        {
+            "title": "愛知県で287人コロナ感染　県と名古屋市、一宮市が発表　6月2日",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1329713",
+            "published_at": "2021/06/02 19:39"
+        },
+        {
+            "title": "新潟県と新潟市が計18人のコロナ感染発表　3人は感染男性と室内で一緒にスポーツ　6月2日",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1329787",
+            "published_at": "2021/06/02 18:48"
+        },
         {
             "title": "三重県で23人コロナ感染　1週間の変異株「N501Y」陽性率98％　県、四日市市が発表　6月2日",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1329781",
@@ -35,16 +45,6 @@
             "title": "岡山県で37人コロナ感染　倉敷市でクラスター発生　6月2日発表",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1329714",
             "published_at": "2021/06/02 16:58"
-        },
-        {
-            "title": "愛知県で287人コロナ感染　6月2日発表",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1329713",
-            "published_at": "2021/06/02 16:55"
-        },
-        {
-            "title": "北海道で317人コロナ感染、10人死亡　6月2日発表",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1329712",
-            "published_at": "2021/06/02 16:52"
         }
     ]
 }
