@@ -1,6 +1,16 @@
 {
-    "timestamp": 1622708647,
+    "timestamp": 1622714088,
     "info": [
+        {
+            "title": "岐阜県で71人が新型コロナ感染　6月3日発表",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1330517",
+            "published_at": "2021/06/03 18:45"
+        },
+        {
+            "title": "京都府で46人が新型コロナ感染　6月3日発表",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1330471",
+            "published_at": "2021/06/03 17:48"
+        },
         {
             "title": "福井工業大学の初戦は北海学園大学　全日本大学野球選手権6月7日開幕",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1330394",
@@ -40,11 +50,6 @@
             "title": "福井県6月4日からコロナ注意報に引き下げ　期間6月18日まで",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1330401",
             "published_at": "2021/06/03 16:15"
-        },
-        {
-            "title": "福井県で新たに3人新型コロナ感染　6月3日県発表",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1330231",
-            "published_at": "2021/06/03 11:56"
         }
     ]
 }
