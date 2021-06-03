@@ -1,6 +1,11 @@
 {
-    "timestamp": 1622677406,
+    "timestamp": 1622695709,
     "info": [
+        {
+            "title": "福井県で新たに3人新型コロナ感染　6月3日県発表",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1330231",
+            "published_at": "2021/06/03 11:56"
+        },
         {
             "title": "愛知県で287人コロナ感染　県と名古屋市、一宮市が発表　6月2日",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1329713",
@@ -10,16 +15,6 @@
             "title": "新潟県と新潟市が計18人のコロナ感染発表　3人は感染男性と室内で一緒にスポーツ　6月2日",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1329787",
             "published_at": "2021/06/02 18:48"
-        },
-        {
-            "title": "三重県で23人コロナ感染　1週間の変異株「N501Y」陽性率98％　県、四日市市が発表　6月2日",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1329781",
-            "published_at": "2021/06/02 18:29"
-        },
-        {
-            "title": "岐阜県で74人コロナ感染、岐阜市ヨガスタジオのクラスターで新たに14人　6月2日発表",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1329778",
-            "published_at": "2021/06/02 18:25"
         }
     ]
 }
