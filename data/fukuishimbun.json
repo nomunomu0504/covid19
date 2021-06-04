@@ -1,6 +1,21 @@
 {
-    "timestamp": 1622808367,
+    "timestamp": 1622816386,
     "info": [
+        {
+            "title": "沖縄県で247人が新型コロナ感染　6月4日発表",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1331426",
+            "published_at": "2021/06/04 21:26"
+        },
+        {
+            "title": "三重県で26人が新型コロナ感染　6月4日発表、松阪市でクラスター",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1331425",
+            "published_at": "2021/06/04 21:22"
+        },
+        {
+            "title": "広島県で59人が新型コロナ感染　6月4日発表",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1331417",
+            "published_at": "2021/06/04 21:17"
+        },
         {
             "title": "愛知県で266人が新型コロナ感染　6月4日発表",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1331373",
@@ -35,16 +50,6 @@
             "title": "兵庫県で75人が新型コロナ感染　6月4日発表",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1331251",
             "published_at": "2021/06/04 17:45"
-        },
-        {
-            "title": "福井県の私立高校一般入試は2月1日と2日　2022年度、全6校ネット出願に対応",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1331159",
-            "published_at": "2021/06/04 17:00"
-        },
-        {
-            "title": "春の北信越高校野球大会2021　福井県代表の敦賀気比、6月5日初戦　新潟県で開催",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1331144",
-            "published_at": "2021/06/04 16:30"
         }
     ]
 }
