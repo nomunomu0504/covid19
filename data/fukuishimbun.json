@@ -1,6 +1,11 @@
 {
-    "timestamp": 1622931711,
+    "timestamp": 1622935492,
     "info": [
+        {
+            "title": "越前焼の歴史は１２００年といわれ、無名の陶工の時代が長かった…",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1332258",
+            "published_at": "2021/06/06 07:20"
+        },
         {
             "title": "山梨県で過去最多47人が新型コロナ感染　6月5日発表",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1332047",
@@ -20,21 +25,6 @@
             "title": "京都府で49人が新型コロナ感染　6月5日発表",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1331917",
             "published_at": "2021/06/05 17:28"
-        },
-        {
-            "title": "岡山県で20人新型コロナ感染　6月5日発表",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1331916",
-            "published_at": "2021/06/05 17:20"
-        },
-        {
-            "title": "滋賀県で34人が新型コロナ感染　6月5日発表",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1331910",
-            "published_at": "2021/06/05 17:15"
-        },
-        {
-            "title": "愛知県で218人が新型コロナ感染　6月5日発表",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1331913",
-            "published_at": "2021/06/05 17:10"
         }
     ]
 }
