@@ -1,6 +1,11 @@
 {
-    "timestamp": 1622889765,
+    "timestamp": 1622901680,
     "info": [
+        {
+            "title": "山梨県で過去最多47人が新型コロナ感染　6月5日発表",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1332047",
+            "published_at": "2021/06/05 22:20"
+        },
         {
             "title": "岐阜県で43人が新型コロナ感染　6月5日発表、八百津町の施設で新たに5人",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1331952",
@@ -40,11 +45,6 @@
             "title": "三重県で23人が新型コロナ感染　6月5日発表、桑名市でクラスター",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1331886",
             "published_at": "2021/06/05 16:28"
-        },
-        {
-            "title": "兵庫県で81人が新型コロナ感染　6月5日発表",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1331871",
-            "published_at": "2021/06/05 15:40"
         }
     ]
 }
