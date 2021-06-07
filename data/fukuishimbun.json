@@ -1,6 +1,16 @@
 {
-    "timestamp": 1623063591,
+    "timestamp": 1623105445,
     "info": [
+        {
+            "title": "コロナワクチン162回分を常温放置し廃棄　福井市発表、業者が分配作業でミス",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1333029",
+            "published_at": "2021/06/08 07:20"
+        },
+        {
+            "title": "福井県の人口76万7433人、落ち込み幅は過去最大　国勢調査の速報値、鯖江市のみ増加",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1333023",
+            "published_at": "2021/06/08 07:10"
+        },
         {
             "title": "沖縄県で104人が新型コロナ感染　6月7日発表",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1332997",
@@ -25,26 +35,6 @@
             "title": "群馬県で11人が新型コロナ感染　6月7日発表、前橋市でクラスター",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1332956",
             "published_at": "2021/06/07 18:02"
-        },
-        {
-            "title": "岐阜県で25人が新型コロナ感染　6月7日発表",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1332947",
-            "published_at": "2021/06/07 17:58"
-        },
-        {
-            "title": "兵庫県で22人が新型コロナ感染　6月7日発表",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1332946",
-            "published_at": "2021/06/07 17:53"
-        },
-        {
-            "title": "三重県で9人が新型コロナ感染　6月7日発表",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1332939",
-            "published_at": "2021/06/07 17:38"
-        },
-        {
-            "title": "滋賀県で15人が新型コロナ感染　6月7日発表",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1332927",
-            "published_at": "2021/06/07 17:20"
         }
     ]
 }
