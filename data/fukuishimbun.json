@@ -1,6 +1,11 @@
 {
-    "timestamp": 1623021853,
+    "timestamp": 1623035901,
     "info": [
+        {
+            "title": "福井県で新たに1人新型コロナ感染　6月7日県発表",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1332771",
+            "published_at": "2021/06/07 11:50"
+        },
         {
             "title": "幕末の医師、緒方洪庵が使ったとされる二つの薬箱がある。落ち着いた色の…",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1332669",
@@ -15,16 +20,6 @@
             "title": "茨城県で34人コロナ感染、桜川市長も　潮来市の飲食店ではクラスター発生か　6月6日発表",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1332475",
             "published_at": "2021/06/06 20:13"
-        },
-        {
-            "title": "神奈川県で249人コロナ感染、横浜市の病院でクラスター発生　6月6日発表",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1332438",
-            "published_at": "2021/06/06 18:03"
-        },
-        {
-            "title": "高知県で28人コロナ感染、安芸福祉保健所管内の飲食店でクラスター　6月6日発表",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1332437",
-            "published_at": "2021/06/06 17:59"
         }
     ]
 }
