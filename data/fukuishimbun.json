@@ -1,6 +1,11 @@
 {
-    "timestamp": 1623108816,
+    "timestamp": 1623120715,
     "info": [
+        {
+            "title": "福井市、ワクチン接種対象を12歳以上に引き下げ　厚労省の米ファイザー製の年齢拡大受け",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1333001",
+            "published_at": "2021/06/08 11:00"
+        },
         {
             "title": "コロナワクチン162回分を常温放置し廃棄　福井市発表、業者が分配作業でミス",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1333029",
@@ -20,11 +25,6 @@
             "title": "福岡県で27人が新型コロナ感染　6月7日発表、うち福岡市12人",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1332996",
             "published_at": "2021/06/07 19:45"
-        },
-        {
-            "title": "京都府で10人が新型コロナ感染　6月7日発表",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1332973",
-            "published_at": "2021/06/07 18:35"
         }
     ]
 }
