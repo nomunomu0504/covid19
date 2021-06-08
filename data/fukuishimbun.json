@@ -1,6 +1,11 @@
 {
-    "timestamp": 1623120715,
+    "timestamp": 1623124821,
     "info": [
+        {
+            "title": "福井県、新たな新型コロナ感染者なし　6月8日県発表",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1333371",
+            "published_at": "2021/06/08 11:55"
+        },
         {
             "title": "福井市、ワクチン接種対象を12歳以上に引き下げ　厚労省の米ファイザー製の年齢拡大受け",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1333001",
@@ -15,16 +20,6 @@
             "title": "福井県の人口76万7433人、落ち込み幅は過去最大　国勢調査の速報値、鯖江市のみ増加",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1333023",
             "published_at": "2021/06/08 07:10"
-        },
-        {
-            "title": "沖縄県で104人が新型コロナ感染　6月7日発表",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1332997",
-            "published_at": "2021/06/07 19:55"
-        },
-        {
-            "title": "福岡県で27人が新型コロナ感染　6月7日発表、うち福岡市12人",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1332996",
-            "published_at": "2021/06/07 19:45"
         }
     ]
 }
