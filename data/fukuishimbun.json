@@ -1,6 +1,11 @@
 {
-    "timestamp": 1623190339,
+    "timestamp": 1623193968,
     "info": [
+        {
+            "title": "ちょっと苦手なものが、コロナ関連のニュースにある。例の球体表面にトゲトゲ…",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1334124",
+            "published_at": "2021/06/09 07:20"
+        },
         {
             "title": "広島県で26人が新型コロナ感染　6月8日発表",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1333840",
@@ -15,26 +20,6 @@
             "title": "熊本県で13人が新型コロナ感染　6月8日発表",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1333757",
             "published_at": "2021/06/08 19:00"
-        },
-        {
-            "title": "福岡県で57人が新型コロナ感染　6月8日発表、うち福岡市27人",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1333756",
-            "published_at": "2021/06/08 18:55"
-        },
-        {
-            "title": "三重県で16人が新型コロナ感染　6月8日発表",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1333748",
-            "published_at": "2021/06/08 18:50"
-        },
-        {
-            "title": "京都府で44人が新型コロナ感染　6月8日発表",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1333740",
-            "published_at": "2021/06/08 18:45"
-        },
-        {
-            "title": "滋賀県で18人が新型コロナ感染　6月8日発表",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1333738",
-            "published_at": "2021/06/08 18:40"
         }
     ]
 }
