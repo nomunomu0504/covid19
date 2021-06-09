@@ -1,6 +1,21 @@
 {
-    "timestamp": 1623229891,
+    "timestamp": 1623237071,
     "info": [
+        {
+            "title": "福岡県で66人が新型コロナ感染　6月9日発表、うち福岡市24人、北九州市14人",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1334542",
+            "published_at": "2021/06/09 19:15"
+        },
+        {
+            "title": "大阪府で153人が新型コロナ感染、府内24人目のデルタ株疑いも　6月9日発表",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1334546",
+            "published_at": "2021/06/09 19:15"
+        },
+        {
+            "title": "岐阜県で23人が新型コロナ感染、4人死亡　6月9日発表",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1334541",
+            "published_at": "2021/06/09 19:10"
+        },
         {
             "title": "東京都で440人が新型コロナ感染、1日当たりの感染者数は前週比80.3％　6月9日発表",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1334466",
@@ -20,21 +35,6 @@
             "title": "沖縄県で174人が新型コロナ感染　6月9日発表",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1334463",
             "published_at": "2021/06/09 17:15"
-        },
-        {
-            "title": "北海道で179人が新型コロナ感染、16人死亡　6月9日発表",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1334452",
-            "published_at": "2021/06/09 17:10"
-        },
-        {
-            "title": "石川県で4人が新型コロナ感染、1人死亡　6月9日発表",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1334446",
-            "published_at": "2021/06/09 17:05"
-        },
-        {
-            "title": "福井県で福井市や坂井市の計3人コロナ感染　6月9日県発表",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1334202",
-            "published_at": "2021/06/09 12:08"
         }
     ]
 }
