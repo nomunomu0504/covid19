@@ -1,6 +1,11 @@
 {
-    "timestamp": 1623363092,
+    "timestamp": 1623366686,
     "info": [
+        {
+            "title": "福井にも「フルーツサンド」ブーム到来？ 生クリームにゴロッと果実、休日行列の人気ぶり",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1335308",
+            "published_at": "2021/06/11 07:20"
+        },
         {
             "title": "岐阜県で24人が新型コロナ感染、クラスター発生のヨガスタジオ関連で新たに2人　6月10日発表",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1335252",
@@ -15,21 +20,6 @@
             "title": "東京都で439人新型コロナ感染　減少スピード緩やか、インド株での再拡大懸念　6月10日発表",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1335196",
             "published_at": "2021/06/10 17:36"
-        },
-        {
-            "title": "沖縄県で166人が新型コロナ感染　6月10日発表",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1335178",
-            "published_at": "2021/06/10 17:19"
-        },
-        {
-            "title": "兵庫県で50人が新型コロナ感染、5人死亡　6月10日発表",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1335174",
-            "published_at": "2021/06/10 17:15"
-        },
-        {
-            "title": "北海道で182人が新型コロナ感染、11人死亡　6月10日発表",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1335173",
-            "published_at": "2021/06/10 17:10"
         }
     ]
 }
