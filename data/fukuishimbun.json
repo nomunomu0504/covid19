@@ -1,6 +1,11 @@
 {
-    "timestamp": 1623402674,
+    "timestamp": 1623406357,
     "info": [
+        {
+            "title": "岐阜県で22人コロナ感染、可児市の病院など新たにクラスター4件発生　6月11日発表",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1336018",
+            "published_at": "2021/06/11 19:01"
+        },
         {
             "title": "神奈川県で220人コロナ感染、横浜市の私立保育所でクラスター発生　6月11日発表",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1335942",
@@ -40,11 +45,6 @@
             "title": "東京都で435人新型コロナ感染、8人死亡　6月11日発表",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1335899",
             "published_at": "2021/06/11 16:54"
-        },
-        {
-            "title": "兵庫県で46人が新型コロナ感染、9人死亡　6月11日発表",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1335880",
-            "published_at": "2021/06/11 16:30"
         }
     ]
 }
