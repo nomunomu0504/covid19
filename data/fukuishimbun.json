@@ -1,13 +1,38 @@
 {
-    "timestamp": 1623399164,
+    "timestamp": 1623402674,
     "info": [
+        {
+            "title": "神奈川県で220人コロナ感染、横浜市の私立保育所でクラスター発生　6月11日発表",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1335942",
+            "published_at": "2021/06/11 17:30"
+        },
+        {
+            "title": "北海道で145人が新型コロナ感染、札幌市発表分が72人　6月11日発表",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1335925",
+            "published_at": "2021/06/11 17:19"
+        },
+        {
+            "title": "滋賀県で12人が新型コロナ感染、累計5391人に　6月11日発表",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1335924",
+            "published_at": "2021/06/11 17:17"
+        },
+        {
+            "title": "新潟県で9人コロナ感染発表、新潟市の50代男性や新発田市の40代女性ら　6月11日発表",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1335923",
+            "published_at": "2021/06/11 17:15"
+        },
+        {
+            "title": "愛知県で149人新型コロナ感染　県内感染確認は計4万9644人に　6月11日発表",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1335922",
+            "published_at": "2021/06/11 17:12"
+        },
         {
             "title": "61年間無事故の75歳、フル免許生かし「お年寄りの足に」　鯖江市で運転手登録",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1335811",
             "published_at": "2021/06/11 17:00"
         },
         {
-            "title": "三重県で15人が新型コロナ感染　県、四日市市が発表　6月11日発表",
+            "title": "三重県で15人が新型コロナ感染　県、四日市市が発表　6月11日",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1335900",
             "published_at": "2021/06/11 16:55"
         },
@@ -20,16 +45,6 @@
             "title": "兵庫県で46人が新型コロナ感染、9人死亡　6月11日発表",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1335880",
             "published_at": "2021/06/11 16:30"
-        },
-        {
-            "title": "石川県で7人が新型コロナ感染、金沢市の1人死亡　6月11日発表",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1335872",
-            "published_at": "2021/06/11 16:03"
-        },
-        {
-            "title": "福井県で新たに3人新型コロナ感染　6月11日県発表",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1335745",
-            "published_at": "2021/06/11 12:00"
         }
     ]
 }
