@@ -1,6 +1,11 @@
 {
-    "timestamp": 1623453095,
+    "timestamp": 1623462757,
     "info": [
+        {
+            "title": "鯖江市64歳以下のワクチン接種 「集団」はサンドーム福井など4会場、新型コロナ",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1336420",
+            "published_at": "2021/06/12 10:00"
+        },
         {
             "title": "ワクチンを世界へ　日本の貢献さらに必要だ",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1336382",
@@ -25,11 +30,6 @@
             "title": "神奈川県で220人コロナ感染、横浜市の私立保育所でクラスター発生　6月11日発表",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1335942",
             "published_at": "2021/06/11 17:30"
-        },
-        {
-            "title": "北海道で145人が新型コロナ感染、札幌市発表分が72人　6月11日発表",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1335925",
-            "published_at": "2021/06/11 17:19"
         }
     ]
 }
