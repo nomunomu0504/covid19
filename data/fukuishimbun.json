@@ -1,6 +1,11 @@
 {
-    "timestamp": 1623579139,
+    "timestamp": 1623622263,
     "info": [
+        {
+            "title": "副反応などの相談窓口、24時間体制に拡大　新型コロナワクチン接種",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1337063",
+            "published_at": "2021/06/14 07:00"
+        },
         {
             "title": "岐阜県で10人コロナ感染、3人死亡　6月13日発表",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1337049",
@@ -40,11 +45,6 @@
             "title": "沖縄県で104人が新型コロナ感染、累計1万9506人に　6月13日発表",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1337009",
             "published_at": "2021/06/13 17:08"
-        },
-        {
-            "title": "愛知県で102人新型コロナ感染、2人死亡　6月13日発表",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1337005",
-            "published_at": "2021/06/13 17:06"
         }
     ]
 }
