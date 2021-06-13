@@ -1,6 +1,21 @@
 {
-    "timestamp": 1623568425,
+    "timestamp": 1623571916,
     "info": [
+        {
+            "title": "沖縄県で104人が新型コロナ感染、累計1万9506人に　6月13日発表",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1337009",
+            "published_at": "2021/06/13 17:08"
+        },
+        {
+            "title": "愛知県で102人新型コロナ感染、2人死亡　6月13日発表",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1337005",
+            "published_at": "2021/06/13 17:06"
+        },
+        {
+            "title": "滋賀県で7人が新型コロナ感染、1人死亡　6月13日発表",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1337004",
+            "published_at": "2021/06/13 17:03"
+        },
         {
             "title": "兵庫県で24人が新型コロナ感染　6月13日発表",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1336964",
@@ -15,11 +30,6 @@
             "title": "福井県で新たに1人新型コロナ感染　6月13日県発表",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1336925",
             "published_at": "2021/06/13 11:50"
-        },
-        {
-            "title": "江戸時代も中後期を迎えると、多彩な食文化が花開く。江戸ではグルメブーム…",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1336878",
-            "published_at": "2021/06/13 07:20"
         }
     ]
 }
