@@ -1,6 +1,11 @@
 {
-    "timestamp": 1623552106,
+    "timestamp": 1623554086,
     "info": [
+        {
+            "title": "福井県で新たに1人新型コロナ感染　6月13日県発表",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1336925",
+            "published_at": "2021/06/13 11:50"
+        },
         {
             "title": "江戸時代も中後期を迎えると、多彩な食文化が花開く。江戸ではグルメブーム…",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1336878",
@@ -15,11 +20,6 @@
             "title": "停車中にナビ見ていてヒヤリ、55歳過ぎて実感した狭まる視界　目の健康どう守る【ゆるパブ】",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1335199",
             "published_at": "2021/06/12 19:00"
-        },
-        {
-            "title": "滋賀県で13人が新型コロナ感染、累計5404人に　6月12日発表",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1336593",
-            "published_at": "2021/06/12 18:15"
         }
     ]
 }
