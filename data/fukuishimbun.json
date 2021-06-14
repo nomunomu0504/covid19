@@ -1,6 +1,11 @@
 {
-    "timestamp": 1623625877,
+    "timestamp": 1623638520,
     "info": [
+        {
+            "title": "電子クーポン「ふく割」2021年度は7種類　6月25日から発行、福井県の消費喚起策",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1337208",
+            "published_at": "2021/06/14 11:30"
+        },
         {
             "title": "新型コロナワクチン接種　福井県は「10月末」完了目標　会場増設などに20億円",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1337054",
@@ -30,11 +35,6 @@
             "title": "石川県で6人が新型コロナ感染、1人死亡　6月13日発表",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1337016",
             "published_at": "2021/06/13 17:27"
-        },
-        {
-            "title": "三重県で18人コロナ感染、県立高校の生徒4人感染判明　6月13日発表",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1337013",
-            "published_at": "2021/06/13 17:23"
         }
     ]
 }
