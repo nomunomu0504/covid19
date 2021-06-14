@@ -1,6 +1,21 @@
 {
-    "timestamp": 1623654973,
+    "timestamp": 1623658344,
     "info": [
+        {
+            "title": "滋賀県で11人が新型コロナ感染、1人死亡　6月14日発表",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1337386",
+            "published_at": "2021/06/14 17:00"
+        },
+        {
+            "title": "愛知県で46人新型コロナ感染、約2カ月ぶりに50人下回る　6月14日発表",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1337379",
+            "published_at": "2021/06/14 16:45"
+        },
+        {
+            "title": "北海道で74人コロナ感染、13人死亡　札幌市発表分の感染者は51人　6月14日発表",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1337372",
+            "published_at": "2021/06/14 16:26"
+        },
         {
             "title": "石川県で5人が新型コロナ感染、累計3880人に　6月14日発表",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1337350",
@@ -15,26 +30,6 @@
             "title": "電子クーポン「ふく割」2021年度は7種類　6月25日から発行、福井県の消費喚起策",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1337208",
             "published_at": "2021/06/14 11:30"
-        },
-        {
-            "title": "新型コロナワクチン接種　福井県は「10月末」完了目標　会場増設などに20億円",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1337054",
-            "published_at": "2021/06/14 07:20"
-        },
-        {
-            "title": "副反応などの相談窓口、24時間体制に拡大　新型コロナワクチン接種",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1337063",
-            "published_at": "2021/06/14 07:00"
-        },
-        {
-            "title": "岐阜県で10人コロナ感染、3人死亡　6月13日発表",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1337049",
-            "published_at": "2021/06/13 18:58"
-        },
-        {
-            "title": "大阪府で96人コロナ感染、40～80代の男女6人死亡　6月13日発表",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1337047",
-            "published_at": "2021/06/13 18:55"
         }
     ]
 }
