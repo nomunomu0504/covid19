@@ -1,6 +1,11 @@
 {
-    "timestamp": 1623638520,
+    "timestamp": 1623640532,
     "info": [
+        {
+            "title": "福井県で新たに2人新型コロナ感染　6月14日県発表",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1337245",
+            "published_at": "2021/06/14 12:10"
+        },
         {
             "title": "電子クーポン「ふく割」2021年度は7種類　6月25日から発行、福井県の消費喚起策",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1337208",
@@ -30,11 +35,6 @@
             "title": "広島県で40人コロナ感染、3人死亡　6月13日発表",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1337017",
             "published_at": "2021/06/13 17:29"
-        },
-        {
-            "title": "石川県で6人が新型コロナ感染、1人死亡　6月13日発表",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1337016",
-            "published_at": "2021/06/13 17:27"
         }
     ]
 }
