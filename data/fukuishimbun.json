@@ -1,6 +1,11 @@
 {
-    "timestamp": 1623763480,
+    "timestamp": 1623798204,
     "info": [
+        {
+            "title": "国会閉会へ　「経済無策」を続けるのか",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1338507",
+            "published_at": "2021/06/16 07:30"
+        },
         {
             "title": "大阪府で110人コロナ感染　6月15日発表",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1338218",
@@ -20,16 +25,6 @@
             "title": "北海道で87人コロナ感染、18人死亡　札幌市発表分の感染者は56人　6月15日発表",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1338152",
             "published_at": "2021/06/15 18:25"
-        },
-        {
-            "title": "愛知県で98人新型コロナ感染　病床使用率50％下回る　6月15日発表",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1338151",
-            "published_at": "2021/06/15 18:24"
-        },
-        {
-            "title": "石川県で3人が新型コロナ感染、累計3883人に　6月15日発表",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1338144",
-            "published_at": "2021/06/15 18:20"
         }
     ]
 }
