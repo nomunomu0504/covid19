@@ -1,6 +1,26 @@
 {
-    "timestamp": 1623830615,
+    "timestamp": 1623834210,
     "info": [
+        {
+            "title": "岐阜県で13人コロナ感染、1人死亡　6月16日発表",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1338820",
+            "published_at": "2021/06/16 17:58"
+        },
+        {
+            "title": "滋賀県で20人が新型コロナ感染、うち1人は再陽性　6月16日発表",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1338811",
+            "published_at": "2021/06/16 17:49"
+        },
+        {
+            "title": "愛知県で110人新型コロナ感染、4人死亡　6月16日発表",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1338810",
+            "published_at": "2021/06/16 17:47"
+        },
+        {
+            "title": "沖縄県で115人が新型コロナ感染　6月16日発表",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1338776",
+            "published_at": "2021/06/16 17:02"
+        },
         {
             "title": "福井県のコロナワクチン接種予約、64歳以下急きょ前倒し　予約枠に空き多く",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1338208",
@@ -15,16 +35,6 @@
             "title": "福井県で新たに3人コロナ感染確認　6月16日県発表",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1338619",
             "published_at": "2021/06/16 11:57"
-        },
-        {
-            "title": "森田花火、2021年も「苦渋の決断」　福井市森田地区の名物花火大会",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1338545",
-            "published_at": "2021/06/16 11:00"
-        },
-        {
-            "title": "国会閉会へ　「経済無策」を続けるのか",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1338507",
-            "published_at": "2021/06/16 07:30"
         }
     ]
 }
