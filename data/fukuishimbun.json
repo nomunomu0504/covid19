@@ -1,6 +1,11 @@
 {
-    "timestamp": 1623810005,
+    "timestamp": 1623812749,
     "info": [
+        {
+            "title": "福井県で新たに3人コロナ感染確認　6月16日県発表",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1338619",
+            "published_at": "2021/06/16 11:57"
+        },
         {
             "title": "森田花火、2021年も「苦渋の決断」　福井市森田地区の名物花火大会",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1338545",
@@ -10,11 +15,6 @@
             "title": "国会閉会へ　「経済無策」を続けるのか",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1338507",
             "published_at": "2021/06/16 07:30"
-        },
-        {
-            "title": "大阪府で110人コロナ感染　6月15日発表",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1338218",
-            "published_at": "2021/06/15 21:12"
         }
     ]
 }
