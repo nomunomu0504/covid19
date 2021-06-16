@@ -1,6 +1,11 @@
 {
-    "timestamp": 1623834210,
+    "timestamp": 1623837830,
     "info": [
+        {
+            "title": "愛知県で110人新型コロナ感染、9人死亡　6月16日発表",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1338810",
+            "published_at": "2021/06/16 18:50"
+        },
         {
             "title": "岐阜県で13人コロナ感染、1人死亡　6月16日発表",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1338820",
@@ -10,11 +15,6 @@
             "title": "滋賀県で20人が新型コロナ感染、うち1人は再陽性　6月16日発表",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1338811",
             "published_at": "2021/06/16 17:49"
-        },
-        {
-            "title": "愛知県で110人新型コロナ感染、4人死亡　6月16日発表",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1338810",
-            "published_at": "2021/06/16 17:47"
         },
         {
             "title": "沖縄県で115人が新型コロナ感染　6月16日発表",
