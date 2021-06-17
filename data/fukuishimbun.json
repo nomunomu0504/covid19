@@ -1,6 +1,26 @@
 {
-    "timestamp": 1623931424,
+    "timestamp": 1623935614,
     "info": [
+        {
+            "title": "兵庫県で39人が新型コロナ感染　6月17日発表",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1339678",
+            "published_at": "2021/06/17 21:30"
+        },
+        {
+            "title": "神奈川県で185人が新型コロナ感染　6月17日発表",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1339676",
+            "published_at": "2021/06/17 21:25"
+        },
+        {
+            "title": "大阪府で95人が新型コロナ感染　6月17日発表",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1339674",
+            "published_at": "2021/06/17 21:15"
+        },
+        {
+            "title": "千葉県で124人が新型コロナ感染　6月17日発表、船橋市の事業所で新たに9人",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1339672",
+            "published_at": "2021/06/17 21:10"
+        },
         {
             "title": "岐阜県で13人が新型コロナ感染　6月17日発表",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1339647",
@@ -25,21 +45,6 @@
             "title": "9都道府県の緊急事態宣言6月20日解除へ　菅義偉首相の記者会見をライブ配信",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1339512",
             "published_at": "2021/06/17 18:30"
-        },
-        {
-            "title": "RSウイルス感染症が福井県で過去最大級の流行　全国的に患者増加、乳幼児は重症化の恐れ",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1339462",
-            "published_at": "2021/06/17 17:10"
-        },
-        {
-            "title": "滋賀県で21人が新型コロナ感染　6月17日発表",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1339509",
-            "published_at": "2021/06/17 17:05"
-        },
-        {
-            "title": "石川県で7人が新型コロナ感染　6月17日発表",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1339503",
-            "published_at": "2021/06/17 16:50"
         }
     ]
 }
