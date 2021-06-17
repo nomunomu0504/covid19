@@ -1,6 +1,26 @@
 {
-    "timestamp": 1623920605,
+    "timestamp": 1623924221,
     "info": [
+        {
+            "title": "福岡県で41人が新型コロナ感染　6月17日発表、うち北九州市21人",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1339583",
+            "published_at": "2021/06/17 18:55"
+        },
+        {
+            "title": "京都府で17人が新型コロナ感染　6月17日発表",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1339582",
+            "published_at": "2021/06/17 18:50"
+        },
+        {
+            "title": "沖縄県で97人が新型コロナ感染　6月17日発表",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1339581",
+            "published_at": "2021/06/17 18:45"
+        },
+        {
+            "title": "9都道府県の緊急事態宣言6月20日解除へ　菅義偉首相の記者会見をライブ配信",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1339512",
+            "published_at": "2021/06/17 18:30"
+        },
         {
             "title": "RSウイルス感染症が福井県で過去最大級の流行　全国的に患者増加、乳幼児は重症化の恐れ",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1339462",
@@ -25,21 +45,6 @@
             "title": "福井県のコロナ感染拡大注意報　7月2日まで延長",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1339415",
             "published_at": "2021/06/17 14:18"
-        },
-        {
-            "title": "福井県で新たに5人コロナ感染確認　6月17日県発表",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1339340",
-            "published_at": "2021/06/17 12:00"
-        },
-        {
-            "title": "福井市のコロナワクチン接種　基礎疾患がない60歳未満、7月下旬から接種券発送",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1339247",
-            "published_at": "2021/06/17 09:30"
-        },
-        {
-            "title": "永平寺町のコロナワクチン接種　16～59歳の基礎疾患者も対象に追加　申し出受け付け中",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1339244",
-            "published_at": "2021/06/17 09:10"
         }
     ]
 }
