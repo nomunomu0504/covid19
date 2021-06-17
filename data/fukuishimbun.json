@@ -1,6 +1,11 @@
 {
-    "timestamp": 1623913797,
+    "timestamp": 1623917035,
     "info": [
+        {
+            "title": "石川県で7人が新型コロナ感染　6月17日発表",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1339503",
+            "published_at": "2021/06/17 16:50"
+        },
         {
             "title": "マクドナルドの「マックデリバリー」福井県に初導入　6月24日福井新田塚店でスタート",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1339396",
@@ -30,11 +35,6 @@
             "title": "鯖江市のコロナワクチン接種　夏休みに教職員、保育士ら1275人優先へ　市外在住者も",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1339239",
             "published_at": "2021/06/17 09:00"
-        },
-        {
-            "title": "福井県越前市が総合相談室新設　市民から頼られる存在に",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1339210",
-            "published_at": "2021/06/17 07:30"
         }
     ]
 }
