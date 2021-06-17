@@ -1,6 +1,11 @@
 {
-    "timestamp": 1623927944,
+    "timestamp": 1623931424,
     "info": [
+        {
+            "title": "岐阜県で13人が新型コロナ感染　6月17日発表",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1339647",
+            "published_at": "2021/06/17 20:25"
+        },
         {
             "title": "福岡県で41人が新型コロナ感染　6月17日発表、うち北九州市21人",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1339583",
@@ -35,11 +40,6 @@
             "title": "石川県で7人が新型コロナ感染　6月17日発表",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1339503",
             "published_at": "2021/06/17 16:50"
-        },
-        {
-            "title": "マクドナルドの「マックデリバリー」福井県に初導入　6月24日福井新田塚店でスタート",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1339396",
-            "published_at": "2021/06/17 16:00"
         }
     ]
 }
