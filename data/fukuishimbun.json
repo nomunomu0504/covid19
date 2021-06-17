@@ -1,6 +1,16 @@
 {
-    "timestamp": 1623917035,
+    "timestamp": 1623920605,
     "info": [
+        {
+            "title": "RSウイルス感染症が福井県で過去最大級の流行　全国的に患者増加、乳幼児は重症化の恐れ",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1339462",
+            "published_at": "2021/06/17 17:10"
+        },
+        {
+            "title": "滋賀県で21人が新型コロナ感染　6月17日発表",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1339509",
+            "published_at": "2021/06/17 17:05"
+        },
         {
             "title": "石川県で7人が新型コロナ感染　6月17日発表",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1339503",
@@ -30,11 +40,6 @@
             "title": "永平寺町のコロナワクチン接種　16～59歳の基礎疾患者も対象に追加　申し出受け付け中",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1339244",
             "published_at": "2021/06/17 09:10"
-        },
-        {
-            "title": "鯖江市のコロナワクチン接種　夏休みに教職員、保育士ら1275人優先へ　市外在住者も",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1339239",
-            "published_at": "2021/06/17 09:00"
         }
     ]
 }
