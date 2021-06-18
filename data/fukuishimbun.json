@@ -1,6 +1,11 @@
 {
-    "timestamp": 1623974681,
+    "timestamp": 1623985532,
     "info": [
+        {
+            "title": "東京五輪の日本代表公式ウェアは福井発　アシックスアパレル工業、「サンライズレッド」基調",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1340066",
+            "published_at": "2021/06/18 11:20"
+        },
         {
             "title": "緊急事態解除と五輪　「観客ありき」では危うい",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1339949",
@@ -20,16 +25,6 @@
             "title": "神奈川県で185人が新型コロナ感染　6月17日発表",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1339676",
             "published_at": "2021/06/17 21:25"
-        },
-        {
-            "title": "大阪府で95人が新型コロナ感染　6月17日発表",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1339674",
-            "published_at": "2021/06/17 21:15"
-        },
-        {
-            "title": "千葉県で124人が新型コロナ感染　6月17日発表、船橋市の事業所で新たに9人",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1339672",
-            "published_at": "2021/06/17 21:10"
         }
     ]
 }
