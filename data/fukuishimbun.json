@@ -1,6 +1,11 @@
 {
-    "timestamp": 1624097012,
+    "timestamp": 1624104222,
     "info": [
+        {
+            "title": "大阪府で111人新型コロナ感染、5人死亡　6月19日発表",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1341095",
+            "published_at": "2021/06/19 20:30"
+        },
         {
             "title": "茨城県で33人新型コロナ感染　坂東市のマッサージ店でクラスターの可能性、6月19日発表",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1341061",
@@ -35,11 +40,6 @@
             "title": "千葉県で119人が新型コロナ感染　6月19日発表、君津市の事業所で新たに1人",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1340995",
             "published_at": "2021/06/19 16:50"
-        },
-        {
-            "title": "石川県で10人が新型コロナ感染、3人が経路不明　6月19日発表",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1340976",
-            "published_at": "2021/06/19 16:20"
         }
     ]
 }
