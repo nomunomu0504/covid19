@@ -1,6 +1,16 @@
 {
-    "timestamp": 1624093424,
+    "timestamp": 1624097012,
     "info": [
+        {
+            "title": "茨城県で33人新型コロナ感染　坂東市のマッサージ店でクラスターの可能性、6月19日発表",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1341061",
+            "published_at": "2021/06/19 18:45"
+        },
+        {
+            "title": "岐阜県で17人が新型コロナ感染　6月19日発表",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1341058",
+            "published_at": "2021/06/19 18:42"
+        },
         {
             "title": "滋賀県で11人が新型コロナ感染　6月19日発表",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1341008",
@@ -30,11 +40,6 @@
             "title": "石川県で10人が新型コロナ感染、3人が経路不明　6月19日発表",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1340976",
             "published_at": "2021/06/19 16:20"
-        },
-        {
-            "title": "兵庫県で18人が新型コロナ感染　6月19日発表",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1340974",
-            "published_at": "2021/06/19 16:10"
         }
     ]
 }
