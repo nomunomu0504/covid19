@@ -1,6 +1,21 @@
 {
-    "timestamp": 1624176231,
+    "timestamp": 1624179801,
     "info": [
+        {
+            "title": "京都府で16人が新型コロナ感染　6月20日発表",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1341519",
+            "published_at": "2021/06/20 17:54"
+        },
+        {
+            "title": "愛知県で84人新型コロナ感染、4人死亡　6月20日発表",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1341518",
+            "published_at": "2021/06/20 17:51"
+        },
+        {
+            "title": "岐阜県で9人が新型コロナ感染　6月20日発表",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1341510",
+            "published_at": "2021/06/20 17:48"
+        },
         {
             "title": "副業希望の人材と福井県内企業をマッチング　求人情報をウェブ掲載「ふくショク」",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1341435",
@@ -29,11 +44,6 @@
         {
             "title": "桜を見上げるのは少し難しい…でも足元に咲く花はよく見える　車椅子生活だって幸せいっぱい【吉田詩織のHappy車いすライフ】",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1339314",
-            "published_at": "2021/06/20 11:00"
-        },
-        {
-            "title": "福井県で64歳以下の集団接種スタート　県主体の集団会場を初開設　新型コロナワクチン",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1341365",
             "published_at": "2021/06/20 11:00"
         }
     ]
