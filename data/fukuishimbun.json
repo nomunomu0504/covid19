@@ -1,6 +1,16 @@
 {
-    "timestamp": 1624262974,
+    "timestamp": 1624266211,
     "info": [
+        {
+            "title": "石川県で2人が新型コロナ感染　6月21日発表",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1342055",
+            "published_at": "2021/06/21 17:50"
+        },
+        {
+            "title": "コロナインド株、7月に広がる恐れ指摘　「8割おじさん」京都大学の西浦博教授",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1341956",
+            "published_at": "2021/06/21 17:10"
+        },
         {
             "title": "福井市中心部エリアを「感染対策特別地域」に　コロナ感染拡大で福井県、飲食店対象PCR検査",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1341992",
@@ -20,11 +30,6 @@
             "title": "コロナワクチン、福井県内で大学接種スタート　福井大学など",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1341885",
             "published_at": "2021/06/21 11:47"
-        },
-        {
-            "title": "あわら・かるた世界大会　新幹線開業後の展開期待",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1341783",
-            "published_at": "2021/06/21 07:30"
         }
     ]
 }
