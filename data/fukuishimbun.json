@@ -1,6 +1,11 @@
 {
-    "timestamp": 1624230219,
+    "timestamp": 1624244676,
     "info": [
+        {
+            "title": "コロナワクチン、福井県内で大学接種スタート　福井大学など",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1341885",
+            "published_at": "2021/06/21 11:47"
+        },
         {
             "title": "あわら・かるた世界大会　新幹線開業後の展開期待",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1341783",
@@ -15,11 +20,6 @@
             "title": "コロナワクチン職場接種、福井県内530社が共同接種へ　県「7月に開始」",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1341557",
             "published_at": "2021/06/21 07:10"
-        },
-        {
-            "title": "コロナ感染63人中43人が福井市内の飲食店関係　福井県6月9日以降発表の新規感染者",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1341566",
-            "published_at": "2021/06/20 21:10"
         }
     ]
 }
