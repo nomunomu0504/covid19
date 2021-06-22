@@ -1,6 +1,11 @@
 {
-    "timestamp": 1624352617,
+    "timestamp": 1624356212,
     "info": [
+        {
+            "title": "岐阜県で2人死亡、18人コロナ感染　土岐市などで2件のクラスター発生　6月22日発表",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1342792",
+            "published_at": "2021/06/22 18:35"
+        },
         {
             "title": "神奈川県で2人死亡、163人コロナ感染　横浜市の物流会社でクラスター　6月22日発表",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1342756",
@@ -35,16 +40,6 @@
             "title": "滋賀県で13人が新型コロナ感染　6月22日発表",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1342699",
             "published_at": "2021/06/22 15:50"
-        },
-        {
-            "title": "石川県で6人が新型コロナ感染、2人の感染経路は不明　6月22日発表",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1342698",
-            "published_at": "2021/06/22 15:47"
-        },
-        {
-            "title": "福井市中心部の飲食店関連は73人に　福井県で17人コロナ感染、6月22日発表",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1342659",
-            "published_at": "2021/06/22 15:05"
         }
     ]
 }
