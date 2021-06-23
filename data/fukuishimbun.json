@@ -1,6 +1,16 @@
 {
-    "timestamp": 1624428235,
+    "timestamp": 1624431808,
     "info": [
+        {
+            "title": "石川県で2人が新型コロナ感染　累計3922人に、6月23日発表",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1343398",
+            "published_at": "2021/06/23 15:45"
+        },
+        {
+            "title": "福井市の飲食店関連は16店84人に　入院患者は5月10日以来の100人超　福井県で25人コロナ感染、6月23日発表",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1343364",
+            "published_at": "2021/06/23 15:15"
+        },
         {
             "title": "新型コロナウイルスのワクチン接種　ファイザー、モデルナ、アストラゼネカ…対象年齢、副反応など違いは？",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1336511",
@@ -20,11 +30,6 @@
             "title": "福井県で新たに25人コロナ感染確認　6月23日県発表",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1343261",
             "published_at": "2021/06/23 12:48"
-        },
-        {
-            "title": "五輪開幕まで１カ月　不信感増すだけの有観客",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1343154",
-            "published_at": "2021/06/23 07:30"
         }
     ]
 }
