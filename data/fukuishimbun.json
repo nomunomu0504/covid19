@@ -1,6 +1,21 @@
 {
-    "timestamp": 1624439015,
+    "timestamp": 1624442610,
     "info": [
+        {
+            "title": "神奈川県で2人死亡、201人コロナ感染　6月23日発表",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1343487",
+            "published_at": "2021/06/23 18:25"
+        },
+        {
+            "title": "岐阜県で11人が新型コロナ感染　6月23日発表",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1343475",
+            "published_at": "2021/06/23 18:20"
+        },
+        {
+            "title": "千葉県で131人が新型コロナ感染　6月23日発表",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1343472",
+            "published_at": "2021/06/23 18:10"
+        },
         {
             "title": "沖縄県で96人コロナ感染　6月23日発表",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1343447",
@@ -25,16 +40,6 @@
             "title": "東京都で619人が新型コロナ感染　再び増加の兆し、6月23日発表",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1343450",
             "published_at": "2021/06/23 17:00"
-        },
-        {
-            "title": "愛知県で75人が新型コロナ感染、1人死亡　6月23日発表",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1343411",
-            "published_at": "2021/06/23 16:05"
-        },
-        {
-            "title": "石川県で2人が新型コロナ感染　累計3922人に、6月23日発表",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1343398",
-            "published_at": "2021/06/23 15:45"
         }
     ]
 }
