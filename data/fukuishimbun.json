@@ -1,6 +1,11 @@
 {
-    "timestamp": 1624525405,
+    "timestamp": 1624536238,
     "info": [
+        {
+            "title": "企業向けの「職場接種」と大学生の接種　職域接種の対象や申請条件、使用するワクチンは？ 新型コロナ",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1336523",
+            "published_at": "2021/06/24 20:00"
+        },
         {
             "title": "神奈川県で192人コロナ感染、1人死亡　6月24日発表",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1344207",
@@ -40,11 +45,6 @@
             "title": "福井県がコロナ「緊急事態宣言」発令　感染急拡大で警報から2段階引き上げ　6月24日",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1344122",
             "published_at": "2021/06/24 16:52"
-        },
-        {
-            "title": "北海道で26人新型コロナ感染、4人死亡　6月24日発表",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1344135",
-            "published_at": "2021/06/24 16:10"
         }
     ]
 }
