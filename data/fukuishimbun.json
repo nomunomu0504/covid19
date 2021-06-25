@@ -1,6 +1,11 @@
 {
-    "timestamp": 1624608194,
+    "timestamp": 1624611821,
     "info": [
+        {
+            "title": "滋賀県で11人が新型コロナ感染　6月25日発表",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1344935",
+            "published_at": "2021/06/25 17:15"
+        },
         {
             "title": "石川県で1人が新型コロナ感染　6月25日発表",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1344915",
@@ -25,11 +30,6 @@
             "title": "福井県内でコロナ急拡大、市中のまん延を警戒　背景に感染者の若年化",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1344729",
             "published_at": "2021/06/25 11:20"
-        },
-        {
-            "title": "新型コロナ急拡大で「危機的な状況」 福井県、GoToイート停止へ　警報から4日で緊急事態宣言",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1344311",
-            "published_at": "2021/06/25 07:20"
         }
     ]
 }
