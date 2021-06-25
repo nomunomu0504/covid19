@@ -1,6 +1,16 @@
 {
-    "timestamp": 1624626491,
+    "timestamp": 1624662231,
     "info": [
+        {
+            "title": "ウッドショック県内波及　国産材活用へ知恵絞ろう",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1345314",
+            "published_at": "2021/06/26 07:20"
+        },
+        {
+            "title": "福井県内のワクチン職場接種は25件申請　6月25日に受け付け一時停止",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1345047",
+            "published_at": "2021/06/26 07:10"
+        },
         {
             "title": "北海道で33人が新型コロナ感染　6月25日発表、うち札幌市22人",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1345055",
@@ -25,21 +35,6 @@
             "title": "京都府で10人が新型コロナ感染　6月25日発表",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1345002",
             "published_at": "2021/06/25 20:10"
-        },
-        {
-            "title": "神奈川県で221人が新型コロナ感染　6月25日発表",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1345001",
-            "published_at": "2021/06/25 20:05"
-        },
-        {
-            "title": "福岡県で37人が新型コロナ感染　6月25日発表、福岡市と北九州市各13人",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1344980",
-            "published_at": "2021/06/25 19:15"
-        },
-        {
-            "title": "岐阜県で6人が新型コロナ感染　6月25日発表",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1344979",
-            "published_at": "2021/06/25 19:10"
         }
     ]
 }
