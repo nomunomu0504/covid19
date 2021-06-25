@@ -1,6 +1,16 @@
 {
-    "timestamp": 1624611821,
+    "timestamp": 1624618997,
     "info": [
+        {
+            "title": "福岡県で37人が新型コロナ感染　6月25日発表、福岡市と北九州市各13人",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1344980",
+            "published_at": "2021/06/25 19:15"
+        },
+        {
+            "title": "岐阜県で6人が新型コロナ感染　6月25日発表",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1344979",
+            "published_at": "2021/06/25 19:10"
+        },
         {
             "title": "滋賀県で11人が新型コロナ感染　6月25日発表",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1344935",
@@ -25,11 +35,6 @@
             "title": "福井県で新たに17人新型コロナ感染　6月25日県発表",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1344732",
             "published_at": "2021/06/25 12:07"
-        },
-        {
-            "title": "福井県内でコロナ急拡大、市中のまん延を警戒　背景に感染者の若年化",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1344729",
-            "published_at": "2021/06/25 11:20"
         }
     ]
 }
