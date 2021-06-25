@@ -1,6 +1,11 @@
 {
-    "timestamp": 1624587376,
+    "timestamp": 1624590198,
     "info": [
+        {
+            "title": "福井県内でコロナ急拡大、市中のまん延を警戒　背景に感染者の若年化",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1344729",
+            "published_at": "2021/06/25 11:20"
+        },
         {
             "title": "新型コロナ急拡大で「危機的な状況」 福井県、GoToイート停止へ　警報から4日で緊急事態宣言",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1344311",
@@ -10,11 +15,6 @@
             "title": "大阪府で116人が新型コロナ感染、11人死亡　6月24日発表",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1344320",
             "published_at": "2021/06/24 22:05"
-        },
-        {
-            "title": "企業向けの「職場接種」と大学生の接種　職域接種の対象や申請条件、使用するワクチンは？ 新型コロナ",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1336523",
-            "published_at": "2021/06/24 20:00"
         }
     ]
 }
