@@ -7,14 +7,19 @@ exports.handler = async () => {
 
   try {
     const res = await axios.get(URL, { timeout: 5000 })
-    const articles = res.data.articles.map(article => {
-      return {
-        title: article.title,
-        link: article.link,
-        publishedAt: article.publishedAt
-      }
-    })
-    return { articles }
+
+    return {
+      statusCode: 200,
+      body: JSON.stringify({
+        articles: res.data.articles.map(article => {
+          return {
+            title: article.title,
+            link: article.link,
+            publishedAt: article.publishedAt
+          }
+        })
+      })
+    }
   } catch (err) {
     return {
       statusCode: 500,
