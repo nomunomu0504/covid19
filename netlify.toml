@@ -1,5 +1,12 @@
 [build]
-functions = "functions"
+  functions = "functions"
+
+[[redirects]]
+  force = true
+  from = "/api/rss/paper"
+  headers = {X-From = "Netlify"}
+  status = 200
+  to = "/.netlify/functions/paper/"
 
 [[redirects]]
   from = "/api/v1/tweetCount"
