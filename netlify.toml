@@ -2,13 +2,6 @@
 functions = "functions"
 
 [[redirects]]
-  from = "/api/v1/rss/fukuishimbun"
-  to = "https://covid19-backend-276205.dt.r.appspot.com/api/v1/rss/fukuishimbun"
-  status = 200
-  force = true
-  headers = {X-From = "Netlify"}
-
-[[redirects]]
   from = "/api/v1/tweetCount"
   to = "https://covid19-backend-276205.dt.r.appspot.com/api/v1/tweetCount"
   status = 200
