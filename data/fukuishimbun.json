@@ -1,6 +1,11 @@
 {
-    "timestamp": 1624712826,
+    "timestamp": 1624748607,
     "info": [
+        {
+            "title": "緊急事態宣言の福井県内、週末人出はいつも通り　福井駅周辺や各地の観光地",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1345637",
+            "published_at": "2021/06/27 07:20"
+        },
         {
             "title": "東京都で534人が新型コロナ感染　6月26日発表、4日連続で前週より100人以上増",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1345616",
@@ -25,26 +30,6 @@
             "title": "埼玉県で96人が新型コロナ感染　6月26日発表",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1345607",
             "published_at": "2021/06/26 20:00"
-        },
-        {
-            "title": "千葉県で108人が新型コロナ感染　6月26日発表、浦安市でクラスター",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1345595",
-            "published_at": "2021/06/26 19:30"
-        },
-        {
-            "title": "福岡県で40人が新型コロナ感染　6月26日発表、うち北九州市17人",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1345594",
-            "published_at": "2021/06/26 19:25"
-        },
-        {
-            "title": "北海道で47人が新型コロナ感染　6月26日発表、うち札幌市35人",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1345572",
-            "published_at": "2021/06/26 18:40"
-        },
-        {
-            "title": "滋賀県で2人が新型コロナ感染　6月26日発表",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1345564",
-            "published_at": "2021/06/26 18:35"
         }
     ]
 }
