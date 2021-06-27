@@ -1,6 +1,11 @@
 {
-    "timestamp": 1624766615,
+    "timestamp": 1624777403,
     "info": [
+        {
+            "title": "石川県で新型コロナ1人感染確認　6月27日発表",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1345967",
+            "published_at": "2021/06/27 15:34"
+        },
         {
             "title": "コロナ11人感染、福井県の会見中継　6月27日14時からYouTubeチャンネル",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1345919",
@@ -25,11 +30,6 @@
             "title": "企業向けの職場接種と大学接種　対象や申請条件、使用するワクチンは？ 新型コロナ職域接種",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1336523",
             "published_at": "2021/06/27 10:50"
-        },
-        {
-            "title": "緊急事態宣言の福井県内、週末人出はいつも通り　福井駅周辺や各地の観光地",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1345637",
-            "published_at": "2021/06/27 07:20"
         }
     ]
 }
