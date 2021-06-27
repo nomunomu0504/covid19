@@ -1,6 +1,11 @@
 {
-    "timestamp": 1624760208,
+    "timestamp": 1624762992,
     "info": [
+        {
+            "title": "福井県で企業の職場接種スタート「慣れた場所、仲間と一緒」で安心感　新型コロナワクチン",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1345897",
+            "published_at": "2021/06/27 11:30"
+        },
         {
             "title": "新型コロナウイルスのワクチン接種　ファイザー、モデルナ、アストラゼネカ…対象年齢、副反応など違いは？",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1336511",
@@ -25,11 +30,6 @@
             "title": "神奈川県で231人が新型コロナ感染　6月26日発表、ダンス教室でクラスター",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1345615",
             "published_at": "2021/06/26 20:25"
-        },
-        {
-            "title": "沖縄県で74人が新型コロナ感染　6月26日発表",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1345614",
-            "published_at": "2021/06/26 20:20"
         }
     ]
 }
