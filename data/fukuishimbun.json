@@ -1,6 +1,11 @@
 {
-    "timestamp": 1624835021,
+    "timestamp": 1624852999,
     "info": [
+        {
+            "title": "福井県で新たに8人新型コロナ感染　6月28日県発表",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1346346",
+            "published_at": "2021/06/28 11:57"
+        },
         {
             "title": "雇用調整助成金、「休業の取り扱い」で目立つ認識不足　修正支給や返還至るケースも",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1346084",
@@ -15,11 +20,6 @@
             "title": "大阪府で96人コロナ感染　東大阪市の医療機関でクラスター発生　6月27日発表",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1346041",
             "published_at": "2021/06/27 18:34"
-        },
-        {
-            "title": "神奈川県で204人コロナ感染、横浜市の市立中学校でクラスター発生　6月27日発表",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1346039",
-            "published_at": "2021/06/27 18:15"
         }
     ]
 }
