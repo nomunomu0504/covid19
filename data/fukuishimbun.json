@@ -1,6 +1,21 @@
 {
-    "timestamp": 1624871005,
+    "timestamp": 1624874613,
     "info": [
+        {
+            "title": "茨城県で14人コロナ感染　陽性者2人にデルタ株感染の可能性　6月28日発表",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1346626",
+            "published_at": "2021/06/28 18:32"
+        },
+        {
+            "title": "秋田市で13人コロナ感染、うち秋田大学の学生12人　クラスター発生のダンスイベント参加者や接触者　6月28日発表",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1346623",
+            "published_at": "2021/06/28 18:29"
+        },
+        {
+            "title": "大阪府で40人コロナ感染　陽性2人にインド株感染疑い、いずれも経路不明　6月28日発表",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1346617",
+            "published_at": "2021/06/28 18:26"
+        },
         {
             "title": "神奈川県で192人コロナ感染　大和市の女性1人の陽性発表取り下げ　6月28日発表",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1346575",
@@ -20,16 +35,6 @@
             "title": "北海道で27人コロナ感染、うち札幌市発表分が20人　道内4人死亡　6月28日発表",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1346548",
             "published_at": "2021/06/28 16:57"
-        },
-        {
-            "title": "滋賀県で1人が新型コロナ感染　県内感染確認は計5549人に　6月28日発表",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1346515",
-            "published_at": "2021/06/28 16:03"
-        },
-        {
-            "title": "石川県で20代男性1人が新型コロナ感染　6月28日発表",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1346514",
-            "published_at": "2021/06/28 16:02"
         }
     ]
 }
