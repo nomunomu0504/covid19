@@ -1,9 +1,12 @@
+[build]
+  functions = "functions"
+
 [[redirects]]
-  from = "/api/v1/rss/fukuishimbun"
-  to = "https://covid19-backend-276205.dt.r.appspot.com/api/v1/rss/fukuishimbun"
-  status = 200
   force = true
+  from = "/api/rss/paper"
   headers = {X-From = "Netlify"}
+  status = 200
+  to = "/.netlify/functions/paper/"
 
 [[redirects]]
   from = "/api/v1/tweetCount"
@@ -20,7 +23,7 @@
 [context.production]
   # https://stackoverflow.com/questions/3856747/check-whether-a-certain-file-type-extension-exists-in-directory
   # data ディレクトリの中に json ファイルが
-  #   無ければ json ファイルを生成。 
+  #   無ければ json ファイルを生成。
   #   既に存在すれば何もしない。
   command = "if [ $(ls -1 data/*.json 2>/dev/null | wc -l) == 0 ]; then pushd covid19_fukui && yarn fetch && popd; fi && yarn generate:deploy"
 

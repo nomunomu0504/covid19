@@ -94,7 +94,7 @@ export default Vue.extend({
 
   @include card-h2();
 
-  margin-bottom: 0px;
+  margin-bottom: 0;
   color: $gray-2;
   margin-left: 12px;
 

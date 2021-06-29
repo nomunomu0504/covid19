@@ -53,8 +53,8 @@ import fukuishimbun from '@/data/fukuishimbun.json'
 export default Vue.extend({
   async created() {
     try {
-      const res = await axios.get('/api/v1/rss/fukuishimbun', { timeout: 5000 })
-      const info = res.data.rssList.map((e: any) => {
+      const res = await axios.get('/api/rss/paper', { timeout: 5000 })
+      const info = res.data.articles.map((e: any) => {
         return {
           title: e.title,
           link: e.link,
