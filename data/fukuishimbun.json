@@ -1,6 +1,11 @@
 {
-    "timestamp": 1625011508,
+    "timestamp": 1625019411,
     "info": [
+        {
+            "title": "接種しないと何を言われるか…ワクチン巡る差別不安　新型コロナアンケートで寄せられた声",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1347770",
+            "published_at": "2021/06/30 10:30"
+        },
         {
             "title": "神奈川県で181人コロナ感染、1人死亡　6月29日発表",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1347387",
@@ -10,16 +15,6 @@
             "title": "滋賀県で9人が新型コロナ感染　6月29日発表",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1347388",
             "published_at": "2021/06/29 20:00"
-        },
-        {
-            "title": "京都府で15人が新型コロナ感染　6月29日発表",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1347385",
-            "published_at": "2021/06/29 19:57"
-        },
-        {
-            "title": "大阪府で101人コロナ感染、7人死亡　「デルタ株」疑い新たに6人　6月29日発表",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1347386",
-            "published_at": "2021/06/29 19:57"
         }
     ]
 }
