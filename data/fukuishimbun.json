@@ -1,6 +1,11 @@
 {
-    "timestamp": 1625102726,
+    "timestamp": 1625105687,
     "info": [
+        {
+            "title": "福井県内コロナ感染、増える県外由来　目立つ中心部の飲食店と無関係の感染者",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1348526",
+            "published_at": "2021/07/01 11:00"
+        },
         {
             "title": "五輪コロナ水際対策　バブルの「穴」急ぎふさげ",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1348470",
@@ -20,16 +25,6 @@
             "title": "カヤックでビール飲みながら海釣り…ほろ酔いで用を足そうとし窮地【敦賀海保日誌】",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1346467",
             "published_at": "2021/06/30 19:00"
-        },
-        {
-            "title": "岐阜県で1人死亡、3人コロナ感染　6月30日発表",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1348068",
-            "published_at": "2021/06/30 18:41"
-        },
-        {
-            "title": "神奈川県で209人コロナ感染、1人死亡　6月30日発表",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1348064",
-            "published_at": "2021/06/30 18:30"
         }
     ]
 }
