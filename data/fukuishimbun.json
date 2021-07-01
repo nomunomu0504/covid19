@@ -1,6 +1,21 @@
 {
-    "timestamp": 1625130224,
+    "timestamp": 1625133814,
     "info": [
+        {
+            "title": "埼玉県で142人コロナ感染、80代女性が死亡　7月1日発表",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1348930",
+            "published_at": "2021/07/01 18:43"
+        },
+        {
+            "title": "千葉県で139人コロナ感染　県立高校の生徒、教員の陽性判明　7月1日発表",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1348926",
+            "published_at": "2021/07/01 18:41"
+        },
+        {
+            "title": "岐阜県で4人が新型コロナ感染　7月1日発表",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1348918",
+            "published_at": "2021/07/01 18:40"
+        },
         {
             "title": "沖縄県で63人が新型コロナ感染、4人死亡　7月1日発表",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1348874",
@@ -30,16 +45,6 @@
             "title": "人気の「リウム」作る過程も楽しく　涼しげな見た目、生態系を凝縮した世界再現",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1348724",
             "published_at": "2021/07/01 17:00"
-        },
-        {
-            "title": "兵庫県で32人コロナ感染、1人死亡　7月1日発表",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1348783",
-            "published_at": "2021/07/01 16:03"
-        },
-        {
-            "title": "滋賀県で4人が新型コロナ感染　7月1日発表",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1348786",
-            "published_at": "2021/07/01 16:03"
         }
     ]
 }
