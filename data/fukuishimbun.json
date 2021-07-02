@@ -1,10 +1,25 @@
 {
-    "timestamp": 1625213030,
+    "timestamp": 1625216608,
     "info": [
+        {
+            "title": "東京都で660人コロナ感染、1日当たりの感染者は前週比118％　7月2日発表",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1349596",
+            "published_at": "2021/07/02 17:10"
+        },
         {
             "title": "7月3日から8月前半の予約開始　福井県の新型コロナワクチン集団接種　エルパプラス会場",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1349492",
             "published_at": "2021/07/02 17:00"
+        },
+        {
+            "title": "兵庫県で32人コロナ感染、累計4万983人　7月2日発表",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1349578",
+            "published_at": "2021/07/02 16:55"
+        },
+        {
+            "title": "愛知県で44人コロナ感染、2人死亡　7月2日発表",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1349575",
+            "published_at": "2021/07/02 16:54"
         },
         {
             "title": "石川県で6人が新型コロナ感染　7月2日発表",
@@ -25,11 +40,6 @@
             "title": "コロナ15人感染、福井県の会見中継　7月2日14時からYouTubeチャンネル",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1349434",
             "published_at": "2021/07/02 12:05"
-        },
-        {
-            "title": "福井県で新たに15人コロナ感染　7月2日県発表",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1349432",
-            "published_at": "2021/07/02 11:58"
         }
     ]
 }
