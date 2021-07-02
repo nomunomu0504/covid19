@@ -1,6 +1,11 @@
 {
-    "timestamp": 1625227431,
+    "timestamp": 1625231233,
     "info": [
+        {
+            "title": "新型コロナウイルスのワクチン接種　ファイザー、モデルナ、アストラゼネカ…対象年齢、副反応など違いは？",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1336511",
+            "published_at": "2021/07/02 21:30"
+        },
         {
             "title": "千葉県で149人コロナ感染、クラスターが発生した佐倉市内の保育園職員2人の陽性判明　7月2日発表",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1349692",
@@ -25,11 +30,6 @@
             "title": "7月3日から8月前半の予約開始　福井県の新型コロナワクチン集団接種　エルパプラス会場",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1349492",
             "published_at": "2021/07/02 17:00"
-        },
-        {
-            "title": "兵庫県で32人コロナ感染、累計4万983人　7月2日発表",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1349578",
-            "published_at": "2021/07/02 16:55"
         }
     ]
 }
