@@ -1,6 +1,11 @@
 {
-    "timestamp": 1625220216,
+    "timestamp": 1625223809,
     "info": [
+        {
+            "title": "千葉県で149人コロナ感染、クラスターが発生した佐倉市内の保育園職員2人の陽性判明　7月2日発表",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1349692",
+            "published_at": "2021/07/02 19:10"
+        },
         {
             "title": "神奈川県で230人が新型コロナ感染　7月2日発表",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1349636",
@@ -30,21 +35,6 @@
             "title": "愛知県で44人コロナ感染、2人死亡　7月2日発表",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1349575",
             "published_at": "2021/07/02 16:54"
-        },
-        {
-            "title": "石川県で6人が新型コロナ感染　7月2日発表",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1349544",
-            "published_at": "2021/07/02 16:00"
-        },
-        {
-            "title": "滋賀県で4人が新型コロナ感染　7月2日発表",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1349538",
-            "published_at": "2021/07/02 15:55"
-        },
-        {
-            "title": "沖縄県で61人が新型コロナ感染、4人死亡　7月2日発表",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1349537",
-            "published_at": "2021/07/02 15:50"
         }
     ]
 }
