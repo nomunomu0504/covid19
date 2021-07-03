@@ -1,6 +1,31 @@
 {
-    "timestamp": 1625303013,
+    "timestamp": 1625306606,
     "info": [
+        {
+            "title": "新潟県で6人コロナ感染、新潟市内の接待伴う飲食店利用の女性も　7月3日発表",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1350310",
+            "published_at": "2021/07/03 18:55"
+        },
+        {
+            "title": "千葉県で157人コロナ感染、八街市の高齢者施設でクラスター発生　7月3日発表",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1350309",
+            "published_at": "2021/07/03 18:54"
+        },
+        {
+            "title": "静岡県で18人コロナ感染　県、静岡市、浜松市が発表　7月3日",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1350308",
+            "published_at": "2021/07/03 18:52"
+        },
+        {
+            "title": "神奈川県で254人コロナ感染、川崎市の保育園でクラスター発生　7月3日発表",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1350307",
+            "published_at": "2021/07/03 18:51"
+        },
+        {
+            "title": "大阪府で148人コロナ感染、大阪市や貝塚市の3施設でクラスター発生　7月3日発表",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1350306",
+            "published_at": "2021/07/03 18:49"
+        },
         {
             "title": "東京都で716人コロナ感染、直近7日間の前週比は118%　7月3日発表",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1350264",
@@ -15,21 +40,6 @@
             "title": "北海道で30人コロナ感染、札幌市発表分は19人　2人が死亡　7月3日発表",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1350239",
             "published_at": "2021/07/03 16:15"
-        },
-        {
-            "title": "滋賀県で4人が新型コロナ感染、県内感染確認は計5574人に　7月3日発表",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1350237",
-            "published_at": "2021/07/03 16:13"
-        },
-        {
-            "title": "石川県で8人が新型コロナ感染、うち6人が感染経路不明　7月3日発表",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1350236",
-            "published_at": "2021/07/03 16:12"
-        },
-        {
-            "title": "福井県で新たに9人新型コロナ感染　7月3日県発表",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1350162",
-            "published_at": "2021/07/03 12:05"
         }
     ]
 }
