@@ -1,6 +1,16 @@
 {
-    "timestamp": 1625393021,
+    "timestamp": 1625400223,
     "info": [
+        {
+            "title": "東京都で518人コロナ感染、1人死亡　7月4日発表",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1350812",
+            "published_at": "2021/07/04 20:52"
+        },
+        {
+            "title": "埼玉県で124人コロナ感染、住宅展示場でクラスター　7月4日発表",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1350800",
+            "published_at": "2021/07/04 20:22"
+        },
         {
             "title": "神奈川県で226人コロナ感染、横浜市の診療所でクラスター　7月4日発表",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1350773",
@@ -35,16 +45,6 @@
             "title": "滋賀県で4人が新型コロナ感染、感染確認は計5578人　7月4日発表",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1350728",
             "published_at": "2021/07/04 16:26"
-        },
-        {
-            "title": "石川県で5人が新型コロナ感染　累計3954人　7月4日発表",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1350727",
-            "published_at": "2021/07/04 16:20"
-        },
-        {
-            "title": "福井県で新たに3人新型コロナ感染　7月4日県発表、5人以下は6月17日以来",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1350654",
-            "published_at": "2021/07/04 11:55"
         }
     ]
 }
