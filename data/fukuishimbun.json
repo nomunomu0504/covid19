@@ -1,6 +1,21 @@
 {
-    "timestamp": 1625389404,
+    "timestamp": 1625393021,
     "info": [
+        {
+            "title": "神奈川県で226人コロナ感染、横浜市の診療所でクラスター　7月4日発表",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1350773",
+            "published_at": "2021/07/04 18:10"
+        },
+        {
+            "title": "大阪府で88人コロナ感染、4人が重症　7月4日発表",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1350764",
+            "published_at": "2021/07/04 18:02"
+        },
+        {
+            "title": "千葉県で141人コロナ感染、保育園児も1人感染　7月4日発表",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1350763",
+            "published_at": "2021/07/04 17:59"
+        },
         {
             "title": "沖縄県で34人コロナ感染、知事がクラスター公表遅れ謝罪　7月4日発表",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1350749",
@@ -30,11 +45,6 @@
             "title": "福井県で新たに3人新型コロナ感染　7月4日県発表、5人以下は6月17日以来",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1350654",
             "published_at": "2021/07/04 11:55"
-        },
-        {
-            "title": "車椅子でお出かけ、カフェに行くのに一苦労　店にたどり着いたら…【吉田詩織のHappy車いすライフ】",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1339336",
-            "published_at": "2021/07/04 11:00"
         }
     ]
 }
