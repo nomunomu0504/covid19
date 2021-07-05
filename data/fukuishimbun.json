@@ -1,6 +1,26 @@
 {
-    "timestamp": 1625483005,
+    "timestamp": 1625486628,
     "info": [
+        {
+            "title": "東京都で342人が新型コロナ感染　7月5日発表、急激なリバウンド懸念",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1351354",
+            "published_at": "2021/07/05 20:40"
+        },
+        {
+            "title": "京都府で6人が新型コロナ感染　7月5日発表",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1351351",
+            "published_at": "2021/07/05 20:35"
+        },
+        {
+            "title": "埼玉県で76人が新型コロナ感染　7月5日発表",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1351346",
+            "published_at": "2021/07/05 20:30"
+        },
+        {
+            "title": "千葉県で112人が新型コロナ感染　7月5日発表、東金市でクラスター",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1351343",
+            "published_at": "2021/07/05 20:20"
+        },
         {
             "title": "福岡県で16人が新型コロナ感染　7月5日発表、うち福岡市4人",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1351309",
@@ -25,16 +45,6 @@
             "title": "岐阜県で2人が新型コロナ感染　7月5日発表",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1351274",
             "published_at": "2021/07/05 18:05"
-        },
-        {
-            "title": "沖縄県で28人が新型コロナ感染　7月5日発表",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1351270",
-            "published_at": "2021/07/05 18:00"
-        },
-        {
-            "title": "福井県で新たに4人新型コロナ感染　7月5日県発表",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1351103",
-            "published_at": "2021/07/05 11:57"
         }
     ]
 }
