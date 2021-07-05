@@ -1,15 +1,30 @@
 {
-    "timestamp": 1625457811,
+    "timestamp": 1625479417,
     "info": [
+        {
+            "title": "石川県で11人が新型コロナ感染　7月5日発表、新たなクラスター",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1351295",
+            "published_at": "2021/07/05 18:35"
+        },
+        {
+            "title": "大阪府で78人が新型コロナ感染　7月5日発表、新たにデルタ株疑い5人",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1351280",
+            "published_at": "2021/07/05 18:10"
+        },
+        {
+            "title": "岐阜県で2人が新型コロナ感染　7月5日発表",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1351274",
+            "published_at": "2021/07/05 18:05"
+        },
+        {
+            "title": "沖縄県で28人が新型コロナ感染　7月5日発表",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1351270",
+            "published_at": "2021/07/05 18:00"
+        },
         {
             "title": "福井県で新たに4人新型コロナ感染　7月5日県発表",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1351103",
             "published_at": "2021/07/05 11:57"
-        },
-        {
-            "title": "田んぼアートにコロナ収束の願い込め　福井県越前町で見ごろ　ウシと菅原道真モチーフ",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1350806",
-            "published_at": "2021/07/05 07:20"
         }
     ]
 }
