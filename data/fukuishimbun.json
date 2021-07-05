@@ -1,6 +1,11 @@
 {
-    "timestamp": 1625486628,
+    "timestamp": 1625526221,
     "info": [
+        {
+            "title": "飲食店対象ワクチン接種に福井県が理解求める　一般の早期接種が進まない中「不公平」の声",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1351379",
+            "published_at": "2021/07/06 07:20"
+        },
         {
             "title": "東京都で342人が新型コロナ感染　7月5日発表、急激なリバウンド懸念",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1351354",
@@ -10,41 +15,6 @@
             "title": "京都府で6人が新型コロナ感染　7月5日発表",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1351351",
             "published_at": "2021/07/05 20:35"
-        },
-        {
-            "title": "埼玉県で76人が新型コロナ感染　7月5日発表",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1351346",
-            "published_at": "2021/07/05 20:30"
-        },
-        {
-            "title": "千葉県で112人が新型コロナ感染　7月5日発表、東金市でクラスター",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1351343",
-            "published_at": "2021/07/05 20:20"
-        },
-        {
-            "title": "福岡県で16人が新型コロナ感染　7月5日発表、うち福岡市4人",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1351309",
-            "published_at": "2021/07/05 19:00"
-        },
-        {
-            "title": "滋賀県11月以来のコロナ新規感染ゼロ　7月6日発表",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1351308",
-            "published_at": "2021/07/05 18:55"
-        },
-        {
-            "title": "石川県で11人が新型コロナ感染　7月5日発表、新たなクラスター",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1351295",
-            "published_at": "2021/07/05 18:35"
-        },
-        {
-            "title": "大阪府で78人が新型コロナ感染　7月5日発表、新たにデルタ株疑い5人",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1351280",
-            "published_at": "2021/07/05 18:10"
-        },
-        {
-            "title": "岐阜県で2人が新型コロナ感染　7月5日発表",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1351274",
-            "published_at": "2021/07/05 18:05"
         }
     ]
 }
