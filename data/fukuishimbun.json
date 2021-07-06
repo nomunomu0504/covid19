@@ -1,6 +1,36 @@
 {
-    "timestamp": 1625562205,
+    "timestamp": 1625569403,
     "info": [
+        {
+            "title": "岐阜県で3人が新型コロナ感染　7月6日発表",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1352087",
+            "published_at": "2021/07/06 20:00"
+        },
+        {
+            "title": "京都府で20人が新型コロナ感染　7月6日発表",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1352086",
+            "published_at": "2021/07/06 19:55"
+        },
+        {
+            "title": "大阪府で136人が新型コロナ感染　7月6日発表、新たにデルタ株疑い7人",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1352056",
+            "published_at": "2021/07/06 19:10"
+        },
+        {
+            "title": "千葉県で138人が新型コロナ感染　7月6日発表、銚子市でクラスター",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1352049",
+            "published_at": "2021/07/06 19:05"
+        },
+        {
+            "title": "沖縄県で62人が新型コロナ感染　7月6日発表",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1352045",
+            "published_at": "2021/07/06 19:00"
+        },
+        {
+            "title": "福岡県で43人が新型コロナ感染　7月6日発表、うち北九州市17人",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1352039",
+            "published_at": "2021/07/06 18:55"
+        },
         {
             "title": "滋賀県で9人が新型コロナ感染　7月6日発表",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1351935",
@@ -10,21 +40,6 @@
             "title": "石川県で7人が新型コロナ感染　7月6日発表",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1351926",
             "published_at": "2021/07/06 16:50"
-        },
-        {
-            "title": "福井県で新たに4人新型コロナ感染　7月6日県発表",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1351749",
-            "published_at": "2021/07/06 11:52"
-        },
-        {
-            "title": "エアコン売れ筋は自動掃除や換気機能付き　コロナ下「空気清浄」の新技術続々",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1351685",
-            "published_at": "2021/07/06 11:30"
-        },
-        {
-            "title": "小浜市ワクチン個別接種、59歳以下の予約受付を一時停止　7月下旬の集団接種も未定、新型コロナ",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1351702",
-            "published_at": "2021/07/06 10:00"
         }
     ]
 }
