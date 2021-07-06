@@ -1,6 +1,16 @@
 {
-    "timestamp": 1625569403,
+    "timestamp": 1625573041,
     "info": [
+        {
+            "title": "東京都で593人が新型コロナ感染　7月6日発表、週平均600人台に上昇",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1352098",
+            "published_at": "2021/07/06 20:15"
+        },
+        {
+            "title": "愛知県で52人が新型コロナ感染　7月6日発表",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1352094",
+            "published_at": "2021/07/06 20:05"
+        },
         {
             "title": "岐阜県で3人が新型コロナ感染　7月6日発表",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1352087",
@@ -30,16 +40,6 @@
             "title": "福岡県で43人が新型コロナ感染　7月6日発表、うち北九州市17人",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1352039",
             "published_at": "2021/07/06 18:55"
-        },
-        {
-            "title": "滋賀県で9人が新型コロナ感染　7月6日発表",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1351935",
-            "published_at": "2021/07/06 17:05"
-        },
-        {
-            "title": "石川県で7人が新型コロナ感染　7月6日発表",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1351926",
-            "published_at": "2021/07/06 16:50"
         }
     ]
 }
