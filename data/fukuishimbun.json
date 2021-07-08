@@ -1,6 +1,11 @@
 {
-    "timestamp": 1625713415,
+    "timestamp": 1625717011,
     "info": [
+        {
+            "title": "福井県で新たに6人新型コロナ感染　7月8日県発表",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1353292",
+            "published_at": "2021/07/08 12:14"
+        },
         {
             "title": "コロナ禍の地方移住　県内へと地道に寄り添え",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1353179",
@@ -15,11 +20,6 @@
             "title": "コロナワクチンを誤り薄めすぎて注射　坂井市、接種6人特定できず抗体検査実施へ",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1352837",
             "published_at": "2021/07/08 07:00"
-        },
-        {
-            "title": "新型コロナウイルスのワクチン接種　ファイザー、モデルナ、アストラゼネカ…対象年齢、副反応など違いは？",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1336511",
-            "published_at": "2021/07/07 21:38"
         }
     ]
 }
