@@ -1,6 +1,11 @@
 {
-    "timestamp": 1625796847,
+    "timestamp": 1625803410,
     "info": [
+        {
+            "title": "福井県で新たに4人新型コロナ感染　7月9日県発表",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1354046",
+            "published_at": "2021/07/09 12:00"
+        },
         {
             "title": "山口茜、東京五輪で奥原希望との再戦熱望　バドミントン女子単",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1353985",
@@ -10,11 +15,6 @@
             "title": "東京に４度目緊急事態宣言　政府の状況認識甘すぎた",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1353861",
             "published_at": "2021/07/09 07:30"
-        },
-        {
-            "title": "夏の高校野球福井大会2021　7月9日から球場で観戦可能に、大声の応援はNG",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1353561",
-            "published_at": "2021/07/09 07:10"
         }
     ]
 }
