@@ -1,6 +1,11 @@
 {
-    "timestamp": 1625889825,
+    "timestamp": 1625900591,
     "info": [
+        {
+            "title": "福井商業高校が高校野球福井大会出場辞退　校内で新型コロナ、クラスター発生",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1354806",
+            "published_at": "2021/07/10 15:20"
+        },
         {
             "title": "コロナ22人感染、福井県の会見中継　7月10日14時からYouTubeチャンネル",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1354704",
@@ -10,11 +15,6 @@
             "title": "福井県で新たに22人コロナ感染　7月10日県発表",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1354701",
             "published_at": "2021/07/10 11:59"
-        },
-        {
-            "title": "緊急事態宣言下の五輪　開催の大義はどこにある",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1354633",
-            "published_at": "2021/07/10 07:30"
         }
     ]
 }
