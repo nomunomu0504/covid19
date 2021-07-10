@@ -1,6 +1,11 @@
 {
-    "timestamp": 1625907808,
+    "timestamp": 1625911393,
     "info": [
+        {
+            "title": "千葉県で204人が新型コロナ感染　市川市の保育園でクラスター　7月10日発表",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1354849",
+            "published_at": "2021/07/10 18:01"
+        },
         {
             "title": "石川県で15人新型コロナ感染、うち10人は感染経路不明　7月10日発表",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1354847",
@@ -25,11 +30,6 @@
             "title": "滋賀県で14人が新型コロナ感染　7月10日発表",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1354814",
             "published_at": "2021/07/10 16:07"
-        },
-        {
-            "title": "福井商業高校が高校野球福井大会出場辞退　校内で新型コロナ、クラスター発生",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1354806",
-            "published_at": "2021/07/10 15:20"
         }
     ]
 }
