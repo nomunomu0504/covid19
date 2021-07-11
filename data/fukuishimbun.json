@@ -1,6 +1,16 @@
 {
-    "timestamp": 1625990633,
+    "timestamp": 1625994285,
     "info": [
+        {
+            "title": "千葉県で1人死亡、183人が新型コロナ感染　7月11日発表",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1355319",
+            "published_at": "2021/07/11 17:13"
+        },
+        {
+            "title": "東京都で614人新型コロナ感染、3人死亡　7月11日発表",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1355318",
+            "published_at": "2021/07/11 17:11"
+        },
         {
             "title": "外国人介護福祉士が活躍、欠かせない戦力に　福井県内の高齢者施設でベトナム人採用",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1355245",
@@ -25,11 +35,6 @@
             "title": "滋賀県で5人が新型コロナ感染　7月11日発表",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1355280",
             "published_at": "2021/07/11 16:16"
-        },
-        {
-            "title": "岐阜県で3人が新型コロナ感染　7月11日発表",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1355278",
-            "published_at": "2021/07/11 16:15"
         }
     ]
 }
