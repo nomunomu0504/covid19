@@ -1,6 +1,11 @@
 {
-    "timestamp": 1626059026,
+    "timestamp": 1626073411,
     "info": [
+        {
+            "title": "大分県で1人新型コロナ感染、県内初のデルタ株疑い　7月12日発表",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1355664",
+            "published_at": "2021/07/12 15:50"
+        },
         {
             "title": "福井県で新たに4人コロナ感染　7月12日県発表",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1355572",
@@ -10,11 +15,6 @@
             "title": "駄菓子屋オープン、児童と地域住民が運営　福井市東郷地区、クラウドファンディングで資金",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1355526",
             "published_at": "2021/07/12 11:30"
-        },
-        {
-            "title": "お笑い芸人「EXIT」が福井でトークイベント　8月22日、小浜市文化会館",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1355387",
-            "published_at": "2021/07/12 07:10"
         }
     ]
 }
