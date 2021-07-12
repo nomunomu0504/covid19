@@ -1,6 +1,11 @@
 {
-    "timestamp": 1626077029,
+    "timestamp": 1626080603,
     "info": [
+        {
+            "title": "東京都で502人新型コロナ感染、4度目の緊急事態宣言　7月12日発表",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1355710",
+            "published_at": "2021/07/12 17:17"
+        },
         {
             "title": "ワクチン接種で福井名物「鯖のへしこ」が割引価格　「ふく割」でさらにお得　敦賀市の旅館",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1355638",
@@ -30,11 +35,6 @@
             "title": "大分県で1人新型コロナ感染、県内初のデルタ株疑い　7月12日発表",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1355664",
             "published_at": "2021/07/12 15:50"
-        },
-        {
-            "title": "福井県で新たに4人コロナ感染　7月12日県発表",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1355572",
-            "published_at": "2021/07/12 11:57"
         }
     ]
 }
