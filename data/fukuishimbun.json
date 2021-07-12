@@ -1,15 +1,20 @@
 {
-    "timestamp": 1626053074,
+    "timestamp": 1626059026,
     "info": [
+        {
+            "title": "福井県で新たに4人コロナ感染　7月12日県発表",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1355572",
+            "published_at": "2021/07/12 11:57"
+        },
+        {
+            "title": "駄菓子屋オープン、児童と地域住民が運営　福井市東郷地区、クラウドファンディングで資金",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1355526",
+            "published_at": "2021/07/12 11:30"
+        },
         {
             "title": "お笑い芸人「EXIT」が福井でトークイベント　8月22日、小浜市文化会館",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1355387",
             "published_at": "2021/07/12 07:10"
-        },
-        {
-            "title": "石川県で11人新型コロナ感染　会食の場でクラスター発生　7月11日発表",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1355386",
-            "published_at": "2021/07/11 19:14"
         }
     ]
 }
