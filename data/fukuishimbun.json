@@ -1,9 +1,14 @@
 {
-    "timestamp": 1626170605,
+    "timestamp": 1626174197,
     "info": [
         {
             "title": "神奈川県で308人コロナ感染　自宅療養の40代男性ら2人死亡、7月13日発表",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1356567",
+            "published_at": "2021/07/13 18:34"
+        },
+        {
+            "title": "埼玉県で179人が新型コロナ感染、2人死亡　7月13日発表",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1356568",
             "published_at": "2021/07/13 18:34"
         },
         {
@@ -20,11 +25,6 @@
             "title": "東京都で830人新型コロナ感染、続く増加傾向　7月13日発表",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1356490",
             "published_at": "2021/07/13 17:10"
-        },
-        {
-            "title": "石川県で16人新型コロナ感染　7人は感染経路不明　7月13日発表",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1356474",
-            "published_at": "2021/07/13 16:42"
         }
     ]
 }
