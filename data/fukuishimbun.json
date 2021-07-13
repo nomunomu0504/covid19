@@ -1,6 +1,16 @@
 {
-    "timestamp": 1626167003,
+    "timestamp": 1626170605,
     "info": [
+        {
+            "title": "神奈川県で308人コロナ感染　自宅療養の40代男性ら2人死亡、7月13日発表",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1356567",
+            "published_at": "2021/07/13 18:34"
+        },
+        {
+            "title": "千葉県で180人が新型コロナ感染、市川市の児童福祉施設でクラスター　7月13日発表",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1356562",
+            "published_at": "2021/07/13 18:30"
+        },
         {
             "title": "福井県の新たなコロナ感染者1人増えて計6人に　7月13日県発表",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1356504",
@@ -15,21 +25,6 @@
             "title": "石川県で16人新型コロナ感染　7人は感染経路不明　7月13日発表",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1356474",
             "published_at": "2021/07/13 16:42"
-        },
-        {
-            "title": "兵庫県で80人が新型コロナ感染　1日で80人以上の発表は6月5日以来　7月13日発表",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1356472",
-            "published_at": "2021/07/13 16:40"
-        },
-        {
-            "title": "愛知県で70人が新型コロナ感染、デルタ株は7人増え計55人に　7月13日発表",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1356470",
-            "published_at": "2021/07/13 16:33"
-        },
-        {
-            "title": "和歌山県で3人が新型コロナ感染　県内初のデルタ株確認　7月13日発表",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1356460",
-            "published_at": "2021/07/13 16:25"
         }
     ]
 }
