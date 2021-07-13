@@ -1,6 +1,16 @@
 {
-    "timestamp": 1626163409,
+    "timestamp": 1626167003,
     "info": [
+        {
+            "title": "福井県の新たなコロナ感染者1人増えて計6人に　7月13日県発表",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1356504",
+            "published_at": "2021/07/13 17:22"
+        },
+        {
+            "title": "東京都で830人新型コロナ感染、続く増加傾向　7月13日発表",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1356490",
+            "published_at": "2021/07/13 17:10"
+        },
         {
             "title": "石川県で16人新型コロナ感染　7人は感染経路不明　7月13日発表",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1356474",
@@ -20,21 +30,6 @@
             "title": "和歌山県で3人が新型コロナ感染　県内初のデルタ株確認　7月13日発表",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1356460",
             "published_at": "2021/07/13 16:25"
-        },
-        {
-            "title": "沖縄県で65人が新型コロナ感染　7月13日発表",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1356451",
-            "published_at": "2021/07/13 16:13"
-        },
-        {
-            "title": "静岡県で44人が新型コロナ感染　東京五輪 事前合宿の宿泊施設スタッフら　7月13日発表",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1356436",
-            "published_at": "2021/07/13 16:00"
-        },
-        {
-            "title": "福井県で新たに5人コロナ感染　7月13日県発表",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1356277",
-            "published_at": "2021/07/13 11:54"
         }
     ]
 }
