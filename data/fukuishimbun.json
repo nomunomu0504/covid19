@@ -1,6 +1,11 @@
 {
-    "timestamp": 1626343418,
+    "timestamp": 1626347001,
     "info": [
+        {
+            "title": "千葉県で253人が新型コロナ感染、千葉市の専門学校でクラスター　7月15日発表",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1358024",
+            "published_at": "2021/07/15 19:03"
+        },
         {
             "title": "東京都で1308人新型コロナ感染　2日連続の千人台　7月15日発表",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1357959",
@@ -30,21 +35,6 @@
             "title": "岡山県で19人新型コロナ感染　クラスター発生の高校で新たに10人　7月15日発表",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1357933",
             "published_at": "2021/07/15 16:58"
-        },
-        {
-            "title": "石川県で21人新型コロナ感染、8人が感染経路不明　7月15日発表",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1357932",
-            "published_at": "2021/07/15 16:57"
-        },
-        {
-            "title": "福井県で新たに6人新型コロナ感染　7月15日県発表",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1357809",
-            "published_at": "2021/07/15 12:00"
-        },
-        {
-            "title": "夏の高校野球福井大会2回戦の結果まとめ　敦賀気比や福井工大福井、北陸が2回戦進出、2021年",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1357785",
-            "published_at": "2021/07/15 11:33"
         }
     ]
 }
