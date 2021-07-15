@@ -1,6 +1,11 @@
 {
-    "timestamp": 1626339809,
+    "timestamp": 1626343418,
     "info": [
+        {
+            "title": "東京都で1308人新型コロナ感染　2日連続の千人台　7月15日発表",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1357959",
+            "published_at": "2021/07/15 18:00"
+        },
         {
             "title": "福島県で17人が新型コロナ感染、県内初のデルタ株疑い　7月15日発表",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1357955",
@@ -40,11 +45,6 @@
             "title": "夏の高校野球福井大会2回戦の結果まとめ　敦賀気比や福井工大福井、北陸が2回戦進出、2021年",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1357785",
             "published_at": "2021/07/15 11:33"
-        },
-        {
-            "title": "濃厚接触者の職場復帰に陰性証明は必要か　自費でPCR検査受けた人から疑問や不満",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1357747",
-            "published_at": "2021/07/15 11:30"
         }
     ]
 }
