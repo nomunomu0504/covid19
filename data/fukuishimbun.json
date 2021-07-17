@@ -1,6 +1,26 @@
 {
-    "timestamp": 1626512627,
+    "timestamp": 1626516218,
     "info": [
+        {
+            "title": "大阪府で380人が新型コロナ感染　7月17日発表",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1359344",
+            "published_at": "2021/07/17 18:20"
+        },
+        {
+            "title": "沖縄県で81人が新型コロナ感染　7月17日発表",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1359343",
+            "published_at": "2021/07/17 18:15"
+        },
+        {
+            "title": "神奈川県で539人が新型コロナ感染　7月17日発表、小田原市の保育園でクラスター",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1359330",
+            "published_at": "2021/07/17 18:05"
+        },
+        {
+            "title": "岐阜県で5人が新型コロナ感染　7月17日発表",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1359323",
+            "published_at": "2021/07/17 18:00"
+        },
         {
             "title": "滋賀県で9人が新型コロナ感染　7月17日発表",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1359312",
@@ -15,11 +35,6 @@
             "title": "石川県で33人が新型コロナ感染　7月17日発表、うち21人経路不明",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1359270",
             "published_at": "2021/07/17 16:35"
-        },
-        {
-            "title": "福井県でデルタ株可能性「L452R変異株」初確認　7月17日は4人コロナ感染",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1359183",
-            "published_at": "2021/07/17 12:13"
         }
     ]
 }
