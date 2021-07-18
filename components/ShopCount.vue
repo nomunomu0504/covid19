@@ -26,7 +26,6 @@
 </template>
 
 <script lang="ts">
-import axios from 'axios'
 import Vue from 'vue'
 import tweetCount from '../data/tweet_count.json'
 
@@ -39,19 +38,8 @@ export default Vue.extend({
       ]
     }
   },
-  async created() {
-    try {
-      const res = await axios.get('/api/v1/tweetCount', { timeout: 5000 })
-      const shop = res.data.shopList.map((e: any) => {
-        return {
-          shop: e.name,
-          num: e.num
-        }
-      })
-      this.$store.commit('setShop', shop)
-    } catch (error) {
-      this.$store.commit('setShop', tweetCount.shopList)
-    }
+  created() {
+    this.$store.commit('setShop', tweetCount.shopList)
   }
 })
 </script>
