@@ -1,6 +1,11 @@
 {
-    "timestamp": 1626602610,
+    "timestamp": 1626606195,
     "info": [
+        {
+            "title": "大阪府で262人が新型コロナ感染　7月18日発表",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1359835",
+            "published_at": "2021/07/18 19:05"
+        },
         {
             "title": "神奈川県で460人が新型コロナ感染、7月18日発表　東京都の男性1人が死亡",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1359822",
@@ -35,11 +40,6 @@
             "title": "三重県で10人コロナ感染、7月18日発表　津市の会社でクラスター",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1359768",
             "published_at": "2021/07/18 16:42"
-        },
-        {
-            "title": "滋賀県で7人が新型コロナ感染　7月18日発表",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1359757",
-            "published_at": "2021/07/18 16:16"
         }
     ]
 }
