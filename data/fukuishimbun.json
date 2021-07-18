@@ -1,6 +1,16 @@
 {
-    "timestamp": 1626595413,
+    "timestamp": 1626599012,
     "info": [
+        {
+            "title": "東京都で1008人が新型コロナ感染、7月18日発表　直近7日間平均の1日当たり感染者数は前週比145.6％",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1359802",
+            "published_at": "2021/07/18 17:43"
+        },
+        {
+            "title": "沖縄県で70人が新型コロナ感染　7月18日発表",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1359801",
+            "published_at": "2021/07/18 17:42"
+        },
         {
             "title": "愛知県で94人が新型コロナ感染　7月18日発表",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1359769",
@@ -20,11 +30,6 @@
             "title": "石川県で23人が新型コロナ感染、うち12人が経路不明　7月18日発表",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1359751",
             "published_at": "2021/07/18 15:50"
-        },
-        {
-            "title": "福井県で新たに5人新型コロナ感染　7月18日県発表",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1359677",
-            "published_at": "2021/07/18 11:54"
         }
     ]
 }
