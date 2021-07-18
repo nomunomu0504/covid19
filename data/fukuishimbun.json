@@ -1,6 +1,11 @@
 {
-    "timestamp": 1626574383,
+    "timestamp": 1626577407,
     "info": [
+        {
+            "title": "福井県で新たに5人新型コロナ感染　7月18日県発表",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1359677",
+            "published_at": "2021/07/18 11:54"
+        },
         {
             "title": "福井県のコロナワクチン集団接種、敦賀市でスタート　嶺南の18歳以上900人接種予定",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1359671",
@@ -20,16 +25,6 @@
             "title": "ユーチューバー、福井新聞社ビルの壁面を歩く　「ハイ・ホープス」のMV再現し福井発信",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1359392",
             "published_at": "2021/07/18 07:10"
-        },
-        {
-            "title": "夏の花火は越前町の伝統、子どもたちに届け1979発　コロナ下で有志結束し8月14日打ち上げ",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1359361",
-            "published_at": "2021/07/18 06:50"
-        },
-        {
-            "title": "鳥取県で過去最多29人が新型コロナ感染　7月17日発表、米子市でクラスター",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1359407",
-            "published_at": "2021/07/17 20:45"
         }
     ]
 }
