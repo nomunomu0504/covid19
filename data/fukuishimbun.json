@@ -1,25 +1,35 @@
 {
-    "timestamp": 1626779010,
+    "timestamp": 1626782631,
     "info": [
+        {
+            "title": "埼玉県で314人が新型コロナ感染　7月20日発表",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1361237",
+            "published_at": "2021/07/20 20:55"
+        },
+        {
+            "title": "神奈川県で433人が新型コロナ感染　7月20日発表、横浜市でクラスター",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1361222",
+            "published_at": "2021/07/20 20:30"
+        },
+        {
+            "title": "東京都で1387人が新型コロナ感染　7月20日発表、前週より557人多く",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1361209",
+            "published_at": "2021/07/20 20:20"
+        },
+        {
+            "title": "千葉県で199人が新型コロナ感染　7月20日発表、船橋市で活動の野球部でクラスター",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1361202",
+            "published_at": "2021/07/20 20:10"
+        },
+        {
+            "title": "滋賀県で10人が新型コロナ感染　7月20日発表",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1361201",
+            "published_at": "2021/07/20 20:05"
+        },
         {
             "title": "岐阜県で14人が新型コロナ感染　7月20日発表",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1361200",
             "published_at": "2021/07/20 20:00"
-        },
-        {
-            "title": "【弓道】女子の高志は初出場、男子は武生工業・武生商工が16強以上に狙い　北信越インターハイ2021展望",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1361061",
-            "published_at": "2021/07/20 17:24"
-        },
-        {
-            "title": "沖縄県で154人が新型コロナ感染　7月20日発表、知事「非常に大きな警戒感」",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1361045",
-            "published_at": "2021/07/20 17:20"
-        },
-        {
-            "title": "石川県で23人が新型コロナ感染　7月20日発表、12人が経路不明",
-            "link": "https://www.fukuishimbun.co.jp/articles/-/1361005",
-            "published_at": "2021/07/20 16:20"
         }
     ]
 }
