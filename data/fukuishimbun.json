@@ -1,6 +1,11 @@
 {
-    "timestamp": 1626753824,
+    "timestamp": 1626768228,
     "info": [
+        {
+            "title": "石川県で23人が新型コロナ感染　7月20日発表、12人が経路不明",
+            "link": "https://www.fukuishimbun.co.jp/articles/-/1361005",
+            "published_at": "2021/07/20 16:20"
+        },
         {
             "title": "福井県で新たに3人が新型コロナ感染　7月20日県発表",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1360861",
@@ -12,7 +17,7 @@
             "published_at": "2021/07/20 11:30"
         },
         {
-            "title": "島根県で17人コロナ感染　県、松江市が発表　7月20日発表",
+            "title": "島根県で17人コロナ感染　県、松江市が7月20日発表",
             "link": "https://www.fukuishimbun.co.jp/articles/-/1360832",
             "published_at": "2021/07/20 11:03"
         }
